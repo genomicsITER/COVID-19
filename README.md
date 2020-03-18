@@ -12,6 +12,10 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias
 https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
 
+Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification
+Reports in PDF
+https://www.imm.upv.es/covid-19/
+
 Scientific Literature
 
 
