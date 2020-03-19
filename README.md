@@ -1,7 +1,7 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19
 
-Data sources
+Sciencific data and resources
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 https://github.com/CSSEGISandData/COVID-19
 
@@ -15,6 +15,9 @@ https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument
 Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification
 Reports in PDF
 https://www.imm.upv.es/covid-19/
+
+SARS-CoV-2 Sequencing Resources
+https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
 Scientific Literature
 
