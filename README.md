@@ -20,9 +20,11 @@ SARS-CoV-2 Sequencing Resources
 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
 Scientific Literature
+Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
+https://www.nejm.org/doi/full/10.1056/NEJMc2004973
 
-
-
+A pneumonia outbreak associated with a new coronavirus of probable bat origin
+https://www.nature.com/articles/s41586-020-2012-7?WT.ec_id=NATURE-20200312
 
 Media sources
 
