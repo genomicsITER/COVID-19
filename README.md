@@ -63,6 +63,10 @@ A new coronavirus associated with human respiratory disease in China
 https://www.nature.com/articles/s41586-020-2008-3?WT.ec_id=NATURE-20200312
 https://doi.org/10.1038/s41586-020-2008-3
 
+## Guidelines
+WHO - Laboratory Biosafety Manual - Third Edition
+https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/
+
 ## Media sources
 
 
