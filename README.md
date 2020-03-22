@@ -1,5 +1,5 @@
 # COVID-19
-A public repository of scientific and media resources of SARS-CoV-2 related COVID-19
+A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
 ## Sciencific data and resources
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
