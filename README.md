@@ -18,8 +18,14 @@ Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Vale
 Reports in PDF
 https://www.imm.upv.es/covid-19/
 
+Imperial College London reports
+https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+
 SARS-CoV-2 Sequencing Resources
 https://github.com/CDCgov/SARS-CoV-2_Sequencing
+
+COVID-19 Open Research Dataset Challenge (CORD-19)
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 ## Scientific Literature
 Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
