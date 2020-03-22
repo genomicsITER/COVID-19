@@ -59,6 +59,9 @@ https://www.nature.com/articles/s41586-020-2012-7?WT.ec_id=NATURE-20200312
 Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases
 https://pubs.acs.org/doi/10.1021/acscentsci.0c00272
 
+A new coronavirus associated with human respiratory disease in China
+https://www.nature.com/articles/s41586-020-2008-3?WT.ec_id=NATURE-20200312
+https://doi.org/10.1038/s41586-020-2008-3
 
 ## Media sources
 
