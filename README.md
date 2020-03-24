@@ -22,7 +22,7 @@ https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 Virological
 http://virological.org/
 
-Nanopore (ONT)Novel Coronavirus information(COVID-19)
+Nanopore (ONT) Novel Coronavirus information(COVID-19)
 https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates
 
 
@@ -94,6 +94,9 @@ https://github.com/topics/covid-19
 ## Scientific Communications and Literature
 Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response
 https://bedford.io/blog/genomic-epi-for-ncov-response/
+
+A Novel Coronavirus from Patients with Pneumonia in China, 2019
+https://www.nejm.org/doi/10.1056/NEJMoa2001017
 
 Novel 2019 coronavirus genome
 http://virological.org/t/novel-2019-coronavirus-genome/319
@@ -187,6 +190,9 @@ https://jamanetwork.com/journals/jama/fullarticle/2762386
 
 Coronavirus Infections—More Than Just the Common Cold
 https://jamanetwork.com/journals/jama/fullarticle/2759815
+
+Direct RNA nanopore sequencing of full-length coronavirus genomes provides novel insights into structural variants and enables modification analysis
+https://europepmc.org/article/MED/31439691
 
 <hr>
 
