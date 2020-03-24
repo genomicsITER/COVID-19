@@ -168,6 +168,12 @@ https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 Positive RT-PCR Test Results in Patients Recovered From COVID-19
 https://jamanetwork.com/journals/jama/fullarticle/2762452
 
+Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045
+
+NIID National Institute for Infectious Diseases Manual for the Detection of Pathogen 2019-nCoV
+https://www.niid.go.jp/niid/en/examination/9493-labmanual-en.html
+
 Coronavirus Disease 2019 (COVID-19) in Italy
 https://jamanetwork.com/journals/jama/fullarticle/2763401
 
