@@ -53,6 +53,8 @@ http://gabgoh.github.io/COVID/index.html
 SARS-CoV-2 pathways
 https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
 
+Evolución del coronavirus (COVID-19) en Euskadi
+https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/
 <hr>
 
 ## Scientific Communications and Literature
