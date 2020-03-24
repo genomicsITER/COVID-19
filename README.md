@@ -21,6 +21,9 @@ Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Vale
 Reports in PDF
 https://www.imm.upv.es/covid-19/
 
+Bioinformatics Unit of Instituto de Salud Carlos III (Spain)
+https://github.com/BU-ISCIII/SARS-Cov2_analysis
+
 COVID-19 scenarios
 https://neherlab.org/covid19/
 
@@ -41,6 +44,9 @@ https://ourworldindata.org/covid-testing
 
 Epidemic Calculator
 http://gabgoh.github.io/COVID/index.html
+
+SARS-CoV-2 pathways
+https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
 
 
 ## Scientific Communications and Literature
