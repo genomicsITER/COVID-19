@@ -67,8 +67,14 @@ https://doi.org/10.1038/s41586-020-2008-3
 WHO - Laboratory Biosafety Manual - Third Edition
 https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/
 
-## Media sources
+SemiSyuc
+https://semicyuc.org/covid-19/#Documentos
+Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19.
+https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf
 
+## Media sources
+Financial Times
+https://www.ft.com/coronavirus-latest
 
 
 
