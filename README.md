@@ -171,6 +171,9 @@ https://jamanetwork.com/journals/jama/fullarticle/2762452
 Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR
 https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045
 
+Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia
+https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336
+
 NIID National Institute for Infectious Diseases Manual for the Detection of Pathogen 2019-nCoV
 https://www.niid.go.jp/niid/en/examination/9493-labmanual-en.html
 
