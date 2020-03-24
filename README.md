@@ -22,6 +22,10 @@ https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 Virological
 http://virological.org/
 
+Nanopore (ONT)Novel Coronavirus information(COVID-19)
+https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates
+
+
 Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
