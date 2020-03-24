@@ -10,6 +10,9 @@ https://github.com/CSSEGISandData/COVID-19
 Nextstrain. Real-time tracking of pathogen evolution
 https://nextstrain.org/
 
+Artic Network
+https://artic.network/ncov-2019
+
 GISAID
 https://www.gisaid.org/
 
@@ -25,6 +28,9 @@ https://www.imm.upv.es/covid-19/
 
 Bioinformatics Unit of Instituto de Salud Carlos III (Spain)
 https://github.com/BU-ISCIII/SARS-Cov2_analysis
+
+SARS-CoV-2 Galaxy Project
+https://github.com/galaxyproject/SARS-CoV-2
 
 COVID-19 scenarios
 https://neherlab.org/covid19/
