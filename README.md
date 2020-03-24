@@ -89,6 +89,10 @@ https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html
 COVID-19 R-shiny codes
 https://github.com/topics/covid-19
 
+CDC Information for Laboratories RT-PCR resources
+https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html
+
+
 <hr>
 
 ## Scientific Communications and Literature
