@@ -1,6 +1,8 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
+<hr>
+
 ## Sciencific data and resources
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 https://github.com/CSSEGISandData/COVID-19
@@ -30,6 +32,9 @@ https://neherlab.org/covid19/
 Imperial College London reports
 https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 
+Bioinformatics resources for SARS-CoV-2
+http://www.clinbioinfosspa.es/CovidResources
+
 SARS-CoV-2 Sequencing Resources
 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
@@ -48,6 +53,7 @@ http://gabgoh.github.io/COVID/index.html
 SARS-CoV-2 pathways
 https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
 
+<hr>
 
 ## Scientific Communications and Literature
 Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response
@@ -67,7 +73,36 @@ https://pubs.acs.org/doi/10.1021/acscentsci.0c00272
 
 A new coronavirus associated with human respiratory disease in China
 https://www.nature.com/articles/s41586-020-2008-3?WT.ec_id=NATURE-20200312
-https://doi.org/10.1038/s41586-020-2008-3
+
+Rational use of face masks in the COVID-19 pandemic
+https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X
+
+Three Emerging Coronaviruses in Two Decades
+The Story of SARS, MERS, and Now COVID-19
+https://academic.oup.com/ajcp/article/153/4/420/5735509
+
+Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding 
+https://www.sciencedirect.com/science/article/pii/S0140673620302518
+
+Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding
+https://doi.org/10.1038/s41591-020-0817-4
+
+A contingency plan for the management of the 2019 novel coronavirus outbreak in neonatal intensive care units
+https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30040-7/fulltext
+
+Managing neonates with respiratory failure due to SARS-CoV-2
+https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30073-0/fulltext
+
+Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext
+
+Clinical Features of 69 Cases with Coronavirus Disease 2019 in Wuhan,China
+https://doi.org/10.1093/cid/ciaa272
+
+Coronavirus Disease 2019: Coronaviruses and Blood Safety
+https://doi.org/10.1016/j.tmrv.2020.02.003
+
+<hr>
 
 ## Guidelines
 WHO - Laboratory Biosafety Manual - Third Edition
@@ -77,6 +112,8 @@ SemiSyuc
 https://semicyuc.org/covid-19/#Documentos
 Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19.
 https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf
+
+<hr>
 
 ## Media sources
 Financial Times
