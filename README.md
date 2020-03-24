@@ -16,6 +16,12 @@ https://artic.network/ncov-2019
 GISAID
 https://www.gisaid.org/
 
+NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences
+https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+
+Virological
+http://virological.org/
+
 Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
@@ -152,8 +158,31 @@ https://www.nejm.org/doi/full/10.1056/NEJMoa2001282
 CDC Coronavirus Disease 2019 (COVID-19) publications
 https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 
+Positive RT-PCR Test Results in Patients Recovered From COVID-19
+https://jamanetwork.com/journals/jama/fullarticle/2762452
+
 Coronavirus Disease 2019 (COVID-19) in Italy
 https://jamanetwork.com/journals/jama/fullarticle/2763401
+
+Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy
+https://jamanetwork.com/journals/jama/fullarticle/2763667
+
+Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy
+Early Experience and Forecast During an Emergency Response
+https://jamanetwork.com/journals/jama/fullarticle/2763188
+
+Detection of SARS-CoV-2 in Different Types of Clinical Specimens
+https://jamanetwork.com/journals/jama/fullarticle/2762997
+
+COVID-19 in Singapore—Current Experience
+Critical Global Issues That Require Attention and Action
+https://jamanetwork.com/journals/jama/fullarticle/2761890
+
+Coronavirus Disease 2019 and Influenza
+https://jamanetwork.com/journals/jama/fullarticle/2762386
+
+Coronavirus Infections—More Than Just the Common Cold
+https://jamanetwork.com/journals/jama/fullarticle/2759815
 
 <hr>
 
