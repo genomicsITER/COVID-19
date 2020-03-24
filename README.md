@@ -104,6 +104,8 @@ https://doi.org/10.1093/cid/ciaa272
 Coronavirus Disease 2019: Coronaviruses and Blood Safety
 https://doi.org/10.1016/j.tmrv.2020.02.003
 
+COVID-19 R-shiny codes
+https://github.com/topics/covid-19
 <hr>
 
 ## Guidelines
