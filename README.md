@@ -4,92 +4,89 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 
 ## Sciencific data and resources
-2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
+2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE: 
 https://github.com/CSSEGISandData/COVID-19
 
-Nextstrain. Real-time tracking of pathogen evolution
+Nextstrain. Real-time tracking of pathogen evolution: 
 https://nextstrain.org/
 
-Artic Network
+Artic Network: 
 https://artic.network/ncov-2019
 
-GISAID
+GISAID: 
 https://www.gisaid.org/
 
-NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences
+NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences: 
 https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 
-Virological
+Virological: 
 http://virological.org/
 
-Nanopore (ONT) Novel Coronavirus information(COVID-19)
+Nanopore (ONT) Novel Coronavirus information(COVID-19): 
 https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates
 
 
-Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
+Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU): 
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-European Centre for Disease Prevention and Control
+European Centre for Disease Prevention and Control: 
 https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
 European Data Portal, data for Spain
-Evolución de enfermedad por el coronavirus (COVID-19)
+Evolución de enfermedad por el coronavirus (COVID-19): 
 https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
 
-Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias
+Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias: 
 https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
 
-Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification
-Reports in PDF
+Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification, Reports in PDF: 
 https://www.imm.upv.es/covid-19/
 
-Bioinformatics Unit of Instituto de Salud Carlos III (Spain)
+Bioinformatics Unit of Instituto de Salud Carlos III (Spain): 
 https://github.com/BU-ISCIII/SARS-Cov2_analysis
 
-SARS-CoV-2 Galaxy Project
+SARS-CoV-2 Galaxy Project: 
 https://github.com/galaxyproject/SARS-CoV-2
 
-COVID-19 scenarios
+COVID-19 scenarios: 
 https://neherlab.org/covid19/
 
-Imperial College London reports
+Imperial College London reports: 
 https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 
-NIH Coronavirus Disease 2019 Situation Summary
+NIH Coronavirus Disease 2019 Situation Summary: 
 https://www.nih.gov/health-information/coronavirus
 
-Bioinformatics resources for SARS-CoV-2
+Bioinformatics resources for SARS-CoV-2: 
 http://www.clinbioinfosspa.es/CovidResources
 
-SARS-CoV-2 Sequencing Resources
+SARS-CoV-2 Sequencing Resources: 
 https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
-COVID-19 Open Research Dataset Challenge (CORD-19)
+COVID-19 Open Research Dataset Challenge (CORD-19): 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-World-o-Meter
+World-o-Meter: 
 https://www.worldometers.info/coronavirus/
 
-How many tests for COVID-19 are being performed around the world?
+How many tests for COVID-19 are being performed around the world?: 
 https://ourworldindata.org/covid-testing
 
-Epidemic Calculator
+Epidemic Calculator: 
 http://gabgoh.github.io/COVID/index.html
 
-SARS-CoV-2 pathways
-https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
+SARS-CoV-2 pathways: https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
 
-Evolución del coronavirus (COVID-19) en Euskadi
+Evolución del coronavirus (COVID-19) en Euskadi: 
 https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/
 
-CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports
-https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html
+CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports: https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html
 
-COVID-19 R-shiny codes
+COVID-19 R-shiny codes: 
 https://github.com/topics/covid-19
 
-CDC Information for Laboratories RT-PCR resources
+CDC Information for Laboratories RT-PCR resources: 
 https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html
 
 
