@@ -65,6 +65,9 @@ https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
 Evolución del coronavirus (COVID-19) en Euskadi
 https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/
 
+CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports
+https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html
+
 COVID-19 R-shiny codes
 https://github.com/topics/covid-19
 
@@ -137,6 +140,12 @@ https://www.nejm.org/doi/full/10.1056/NEJMoa2002032
 
 A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19
 https://www.nejm.org/doi/full/10.1056/NEJMoa2001282
+
+CDC Coronavirus Disease 2019 (COVID-19) publications
+https://www.cdc.gov/coronavirus/2019-ncov/publications.html
+
+Coronavirus Disease 2019 (COVID-19) in Italy
+https://jamanetwork.com/journals/jama/fullarticle/2763401
 
 <hr>
 
