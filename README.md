@@ -19,6 +19,14 @@ https://www.gisaid.org/
 Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
+European Centre for Disease Prevention and Control
+https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+European Data Portal, data for Spain
+Evolución de enfermedad por el coronavirus (COVID-19)
+https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
+
 Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias
 https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
 
