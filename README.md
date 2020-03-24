@@ -38,6 +38,9 @@ https://neherlab.org/covid19/
 Imperial College London reports
 https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
 
+NIH Coronavirus Disease 2019 Situation Summary
+https://www.nih.gov/health-information/coronavirus
+
 Bioinformatics resources for SARS-CoV-2
 http://www.clinbioinfosspa.es/CovidResources
 
@@ -61,6 +64,10 @@ https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
 
 Evolución del coronavirus (COVID-19) en Euskadi
 https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/
+
+COVID-19 R-shiny codes
+https://github.com/topics/covid-19
+
 <hr>
 
 ## Scientific Communications and Literature
@@ -69,6 +76,9 @@ https://bedford.io/blog/genomic-epi-for-ncov-response/
 
 Novel 2019 coronavirus genome
 http://virological.org/t/novel-2019-coronavirus-genome/319
+
+Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
+https://www.nejm.org/doi/full/10.1056/NEJMoa2001316
 
 Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
 https://www.nejm.org/doi/full/10.1056/NEJMc2004973
@@ -110,8 +120,24 @@ https://doi.org/10.1093/cid/ciaa272
 Coronavirus Disease 2019: Coronaviruses and Blood Safety
 https://doi.org/10.1016/j.tmrv.2020.02.003
 
-COVID-19 R-shiny codes
-https://github.com/topics/covid-19
+COVID-19: what is next for public health?
+https://doi.org/10.1016/S0140-6736(20)30374-3
+
+Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany
+https://www.nejm.org/doi/full/10.1056/NEJMc2001468
+
+Understanding of COVID-19 based on current evidence
+https://www.ncbi.nlm.nih.gov/pubmed/32096567
+
+Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
+https://www.nejm.org/doi/full/10.1056/NEJMc2004973
+
+Clinical Characteristics of Coronavirus Disease 2019 in China
+https://www.nejm.org/doi/full/10.1056/NEJMoa2002032
+
+A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMoa2001282
+
 <hr>
 
 ## Guidelines
