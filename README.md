@@ -251,6 +251,9 @@ https://jamanetwork.com/journals/jama/fullarticle/2759815
 Direct RNA nanopore sequencing of full-length coronavirus genomes provides novel insights into structural variants and enables modification analysis: 
 https://europepmc.org/article/MED/31439691
 
+Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein
+https://www.medrxiv.org/content/10.1101/2020.03.07.20032524v2
+
 <hr>
 
 ## Guidelines
