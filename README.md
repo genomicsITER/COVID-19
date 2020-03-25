@@ -38,7 +38,8 @@ Evolución de enfermedad por el coronavirus (COVID-19):
 https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
 
 Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias: 
-https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
+ANTES: https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
+AHORA: https://www.gobiernodecanarias.org/sanidad/scs/covid19
 
 Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification, Reports in PDF: 
 https://www.imm.upv.es/covid-19/
