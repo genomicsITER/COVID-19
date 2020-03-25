@@ -3,7 +3,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-## Sciencific data and resources
+## Sciencific data and resources ##
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE: 
 https://github.com/CSSEGISandData/COVID-19
 
@@ -128,6 +128,8 @@ https://www.fda.gov/media/134922/download
 Chinese Center for Disease and Control and Prevention: http://www.chinacdc.cn/en/COVID19/
 Real-time RT-PCR protocol: http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf
 
+<hr>
+
 ## Scientific Communications and Literature
 Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response: 
 https://bedford.io/blog/genomic-epi-for-ncov-response/
@@ -251,11 +253,33 @@ https://semicyuc.org/covid-19/#Documentos
 Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19: 
 https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf
 
+Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings: https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html
+
+<hr>
+
+## Respirators, masks
+N95 Respirators and Surgical Masks (Face Masks): 
+https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks
+
+Comparison of nanoparticle filtration performance of NIOSH-approved and CE-marked particulate filtering facepiece respirators
+https://www.ncbi.nlm.nih.gov/pubmed/19261695
+
+Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes: https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf
+
 <hr>
 
 ## Media sources
 Financial Times: 
 https://www.ft.com/coronavirus-latest
+
+Example of a device using UV-C for decontamination: 
+https://www.tmghealthtech.com/rds-32
+
+Example of a Rapid Bio Decontamination Service, from Bioquell: 
+https://www.bioquell.com/life-sciences/systems-and-services/decontamination/?lang=en-uk
+
+
+
 
 
 
