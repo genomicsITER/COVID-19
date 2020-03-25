@@ -264,6 +264,12 @@ https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf
 
 Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings: https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html
 
+Recomendaciones Institucionales de la Sociedad Española de Enfermedades Infeccionas y Microbiología Clínica (SEIMC): 
+https://seimc.org/documentos-cientificos/recomendaciones-institucionales
+
+Documento de posicionamiento de la SEIMC sobre el diagnstico microbiológo de COVID-19:
+https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf
+
 <hr>
 
 ## Respirators, masks
