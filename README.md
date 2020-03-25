@@ -95,7 +95,7 @@ https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html
 ## Protocols ##
 
 WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
-<ul>
+Updated March 25, 2020:<ul>
 <li>China CDC Primers and probes for detection 2019-nCoV (24 January 2020): http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html</li>
 <li>Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR – Charité, Berlin Germany (17 January 2020): https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf?sfvrsn=a9ef618c_2</li>
 <li>Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR – Hong Kong University (23 January 2020): https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf?sfvrsn=af1aac73_4</li>
