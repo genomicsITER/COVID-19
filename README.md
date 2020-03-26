@@ -281,7 +281,7 @@ USA CDC Clean & Disinfect
 Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019: 
 https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html
 
-Laboratory biosafety guidance related to coronavirus disease (COVID-19): interim guidance, 19 March 2020:
+WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19): interim guidance, 19 March 2020:
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
 
 <hr>
