@@ -296,7 +296,8 @@ https://www.tmghealthtech.com/rds-32
 Example of a Rapid Bio Decontamination Service, from Bioquell: 
 https://www.bioquell.com/life-sciences/systems-and-services/decontamination/?lang=en-uk
 
-
+How did Spain get its coronavirus response so wrong?
+https://www.theguardian.com/world/2020/mar/26/spain-coronavirus-response-analysis
 
 
 
