@@ -98,7 +98,8 @@ https://github.com/topics/covid-19
 CDC Information for Laboratories RT-PCR resources: 
 https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html
 
-
+COVID-19 Tracker Shiny app in R
+https://mentalbreaks.shinyapps.io/covid19/
 <hr>
 
 ## Protocols ##
@@ -272,6 +273,12 @@ https://seimc.org/documentos-cientificos/recomendaciones-institucionales
 
 Documento de posicionamiento de la SEIMC sobre el diagnstico microbiológo de COVID-19:
 https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf
+
+<hr>
+
+## Educational resources ##
+Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM:
+https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#
 
 <hr>
 
