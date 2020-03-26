@@ -282,8 +282,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html
 
 WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19): interim guidance, 19 March 2020:
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
-
+https://apps.who.int/iris/handle/10665/331500
 <hr>
 
 ## Educational resources ##
