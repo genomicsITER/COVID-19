@@ -318,7 +318,11 @@ https://www.theguardian.com/world/2020/mar/26/spain-coronavirus-response-analysi
 Mount Sinai to Begin the Transfer of COVID-19 Antibodies into Critically Ill Patients:
 https://inside.mountsinai.org/blog/mount-sinai-to-begin-the-transfer-of-covid-19-antibodies-into-critically-ill-patients/
 
+Los sesgos que engañan al cerebro durante la pandemia, El Pa&iacute;s: 
+https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-la-pandemia.html
 
+The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors: 
+https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/
 
 
 
