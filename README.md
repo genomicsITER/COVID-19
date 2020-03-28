@@ -45,6 +45,9 @@ https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html
 
 COVID-19 3D visualizer: 
 https://www.covidvisualizer.com/
+<p align="center">
+  <img src="https://github.com/genomicsITER/COVID-19/blob/master/covidvisualizer.com.png" width="40%"/>
+</p>
 
 Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU): 
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
