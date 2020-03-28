@@ -158,6 +158,12 @@ AHORA: https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11e
 Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification, Reports in PDF: 
 https://www.imm.upv.es/covid-19/
 
+<p align="center">
+  <img src="http://covid19.webs.upv.es//IMAGES/MUNQU.png" width="60%"/>
+</p>
+
+
+
 Bioinformatics Unit of Instituto de Salud Carlos III (Spain): 
 https://github.com/BU-ISCIII/SARS-Cov2_analysis
 
