@@ -167,7 +167,7 @@ https://www.imm.upv.es/covid-19/
 Bioinformatics Unit of Instituto de Salud Carlos III (Spain): 
 https://github.com/BU-ISCIII/SARS-Cov2_analysis
 <p align="center">
-  <img src="https://github.com/BU-ISCIII/SARS-Cov2_analysis/blob/master/BU_ISCIII_logo.png" width="50%"/>
+  <img src="https://github.com/BU-ISCIII/SARS-Cov2_analysis/blob/master/BU_ISCIII_logo.png" width="30%"/>
 </p>
 
 
