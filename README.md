@@ -159,7 +159,7 @@ Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Vale
 https://www.imm.upv.es/covid-19/
 
 <p align="center">
-  <img src="http://covid19.webs.upv.es//IMAGES/MUNQU.png" width="60%"/>
+  <img src="http://covid19.webs.upv.es//IMAGES/MUNQU.png" width="20%"/>
 </p>
 
 
