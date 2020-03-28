@@ -85,7 +85,7 @@ AHORA: https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11e
   <li>
     Xunta de Galicia: https://coronavirus.sergas.gal/
   </li>
-  <li>Junta de Castilla y Leoacute;n. 
+  <li>Junta de Castilla y Le&oacute;n. 
     Situación epidemiológica del coronavirus en Castilla y León — Análisis de datos abiertos JCyL:
     https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual
   </li>
