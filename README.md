@@ -10,6 +10,9 @@ https://github.com/CSSEGISandData/COVID-19
 Nextstrain. Real-time tracking of pathogen evolution: 
 https://nextstrain.org/
 
+<p align="center">
+  <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="100%" />
+</p>
 Artic Network: 
 https://artic.network/ncov-2019
 <p align="center">
