@@ -43,9 +43,9 @@ Evolución de enfermedad por el coronavirus (COVID-19):
 https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
 
 Comunidades Aut&oacute;nomas:
-Canarias.
+
 <ul>
-  <li>Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias: 
+  <li>Canarias. Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias: 
 ANTES: https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
 AHORA: https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11ea-9a8e-719d4b52bf6c/InformeCasosCOVID-19.pdf
 </li>
