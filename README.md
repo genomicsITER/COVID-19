@@ -11,17 +11,17 @@ Nextstrain. Real-time tracking of pathogen evolution:
 https://nextstrain.org/
 
 <p align="center">
-  <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="20%" />
+  <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
 </p>
 Artic Network: 
 https://artic.network/ncov-2019
 <p align="center">
-  <img src="https://artic.network/assets/images/artic-logo-sticker.png" width="20%" />
+  <img src="https://artic.network/assets/images/artic-logo-sticker.png" width="10%" />
 </p>
 GISAID: 
 https://www.gisaid.org/
 <p align="center">
-  <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" />
+  <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" width="20%"/>
 </p>
 NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences: 
 https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
