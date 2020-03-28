@@ -12,7 +12,9 @@ https://nextstrain.org/
 
 Artic Network: 
 https://artic.network/ncov-2019
-
+<p align="center">
+  <img src="https://artic.network/assets/images/artic-logo-sticker.png" style="width: 200px;" />
+</p>
 GISAID: 
 https://www.gisaid.org/
 
