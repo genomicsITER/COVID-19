@@ -43,6 +43,10 @@ Evolución de enfermedad por el coronavirus (COVID-19):
 https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
 
 <hr>
+Ministerio de Sanidad, España: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
+Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo)) del Instituto de Salud Carlos III: https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx
+
+<hr>
 
 Comunidades Aut&oacute;nomas:
 
