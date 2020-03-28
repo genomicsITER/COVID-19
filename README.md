@@ -62,6 +62,9 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 European Data Portal, data for Spain
 Evolución de enfermedad por el coronavirus (COVID-19): 
 https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
+<p align="center">
+  <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="20%"/>
+</p>
 
 <hr>
 Ministerio de Sanidad, España: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
