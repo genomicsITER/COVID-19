@@ -58,12 +58,15 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 European Centre for Disease Prevention and Control: 
 https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+<p align="center">
+  <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
+</p>
 
 European Data Portal, data for Spain
 Evolución de enfermedad por el coronavirus (COVID-19): 
 https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
 <p align="center">
-  <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="20%"/>
+  <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
 </p>
 
 <hr>
