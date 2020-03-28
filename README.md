@@ -37,9 +37,8 @@ http://virological.org/
 Nanopore (ONT) Novel Coronavirus information(COVID-19): 
 https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates
 <p align="center">
-  <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="20%"/>
+  <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="40%"/>
 </p>
-
 
 Clustering COVID-19 research papers: 
 https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html
