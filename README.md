@@ -45,13 +45,67 @@ https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&
 Comunidades Aut&oacute;nomas:
 
 <ul>
+  <l>
+    Aragoacute;n: https://www.aragon.es/coronavirus
+    </li>
+  <li>
+    Principado de Asturias: https://www.asturias.es/portal/site/webasturias/menuitem.4b280f8214549ead3e2d6f77f2300030/?vgnextoid=bae12eee144c0710VgnVCM10000097030a0aRCRD&vgnextchannel=d682d22a18b6e210VgnVCM1000002f030003RCRD&i18n.http.lang=es
+  </li>
+  <li>
+    Castilla La Mancha: https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus
+    Datos: https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus/actualizacion-de-casos-en-castilla-la-mancha
+  </li>
   <li>Canarias. Informes epidemiológicos de Salud Pública de la Consejer&iacute;a de Sanidad del Gobierno Aut&oacute;nomo de Canarias: 
 ANTES: https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=a1c69e33-5ed3-11ea-b6bb-a970bf4daea5&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117
 AHORA: https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11ea-9a8e-719d4b52bf6c/InformeCasosCOVID-19.pdf
-</li>
-<li>Junta de Castilla y Leoacute;n. 
-Situación epidemiológica del coronavirus en Castilla y León — Análisis de datos abiertos JCyL:
-https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual
+  </li>
+    <li>Generalitat de Catalunya:
+    https://www.aspb.cat/documents/covid19-cast/
+    Datos: http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus
+    </li>
+  <li>
+    Cantabria: http://saludcantabria.es/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=2145&cntnt01origid=15&cntnt01returnid=289
+  </li>
+  <li>
+    Ciudad Aut&oacute;noma de Ceuta: https://www.ceuta.es/ceuta/index.php
+  </li>
+  <li>
+    Govern Illes Balears: http://www.caib.es/sites/coronavirus/es/portada/
+  </li>
+  <li>Junta de Andalucía:
+    https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html
+  </li>
+  <li>
+    Junta de Extremadura: http://www.juntaex.es/web/
+  </li>
+  <li>
+    Xunta de Galicia: https://coronavirus.sergas.gal/
+  </li>
+  <li>Junta de Castilla y Leoacute;n. 
+    Situación epidemiológica del coronavirus en Castilla y León — Análisis de datos abiertos JCyL:
+    https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual
+  </li>
+  <li>
+    Madrid: https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus
+  </li>
+  <li>
+    Ciudad Aut&oacute;noma de Melilla: https://www.melilla.es/melillaPortal/index.jsp
+  </li>
+  <li>
+    Navarra: https://www.navarra.es/es/web/coronavirus/inicio
+    Datos: https://www.navarra.es/es/web/coronavirus/situacion-actual
+  </li>
+  <li>
+    Pa&icute;s Vasco: https://www.osakidetza.euskadi.eus/inicio/
+    </li>
+    <li>
+      Regi&oacute;n de Murcia: http://www.carm.es/web/pagina?IDCONTENIDO=106861&IDTIPO=10&RASTRO=c$m122,70
+    </li>
+  <li>
+    La Rioja: https://web.larioja.org/
+  </i>
+  <li>
+    Generalitat Valenciana: http://infocoronavirus.gva.es/
   </li>
 </ul>
   
