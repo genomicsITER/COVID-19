@@ -9,28 +9,37 @@ https://github.com/CSSEGISandData/COVID-19
 
 Nextstrain. Real-time tracking of pathogen evolution: 
 https://nextstrain.org/
-
 <p align="center">
   <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
 </p>
+
 Artic Network: 
 https://artic.network/ncov-2019
 <p align="center">
   <img src="https://artic.network/assets/images/artic-logo-sticker.png" width="10%" />
 </p>
+
 GISAID: 
 https://www.gisaid.org/
 <p align="center">
   <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" width="20%"/>
 </p>
+
 NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences: 
 https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 
 Virological: 
 http://virological.org/
+<p align="center">
+  <img src="http://virological.org/uploads/default/original/1X/7897c4e655617c4b6fe71a98eaa97a38778f0623.png" width="20%"/>
+</p>
 
 Nanopore (ONT) Novel Coronavirus information(COVID-19): 
 https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates
+<p align="center">
+  <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="20%"/>
+</p>
+
 
 Clustering COVID-19 research papers: 
 https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html
