@@ -17,7 +17,9 @@ https://artic.network/ncov-2019
 </p>
 GISAID: 
 https://www.gisaid.org/
-
+<p align="center">
+  <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" />
+</p>
 NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences: 
 https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
 
