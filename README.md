@@ -73,7 +73,7 @@ https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&
 Ministerio de Sanidad, España: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
 <br>
 <p align="center">
-  <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="40%"/>
+  <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="60%"/>
 </p>
 
 
