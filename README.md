@@ -46,7 +46,7 @@ Comunidades Aut&oacute;nomas:
 
 <ul>
   <l>
-    Aragoacute;n: https://www.aragon.es/coronavirus
+    Arag&oacute;n: https://www.aragon.es/coronavirus
     </li>
   <li>
     Principado de Asturias: https://www.asturias.es/portal/site/webasturias/menuitem.4b280f8214549ead3e2d6f77f2300030/?vgnextoid=bae12eee144c0710VgnVCM10000097030a0aRCRD&vgnextchannel=d682d22a18b6e210VgnVCM1000002f030003RCRD&i18n.http.lang=es
@@ -96,7 +96,7 @@ AHORA: https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11e
     Datos: https://www.navarra.es/es/web/coronavirus/situacion-actual
   </li>
   <li>
-    Pa&icute;s Vasco: https://www.osakidetza.euskadi.eus/inicio/
+    Pa&iacute;s Vasco: https://www.osakidetza.euskadi.eus/inicio/
     </li>
     <li>
       Regi&oacute;n de Murcia: http://www.carm.es/web/pagina?IDCONTENIDO=106861&IDTIPO=10&RASTRO=c$m122,70
