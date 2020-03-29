@@ -1,5 +1,5 @@
   <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
-    <img src="  https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="40%" />
+    <img src="https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="40%" />
   </a>
 
 
