@@ -4,6 +4,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 ## Table of contents ##
+## Sciencific data and resources ##
 <br>
 <ul>
   <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
