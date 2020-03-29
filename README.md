@@ -37,21 +37,21 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Nextstrain. Real-time tracking of pathogen evolution](https://nextstrain.org/)
 <p align="center">
-  <a href="" title="See this resource">
+  <a href="https://nextstrain.org/" title="See this resource">
     <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
   </a>
 </p>
 
 [Artic Network](https://artic.network/ncov-2019)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://artic.network/ncov-2019" title="See this resource">
       <img src="https://artic.network/assets/images/artic-logo-sticker.png" width="10%" />
     </a> 
 </p>
 
 [GISAID](https://www.gisaid.org/)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.gisaid.org/" title="See this resource">
       <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" width="20%"/>
     </a> 
 </p>
@@ -60,14 +60,14 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Virological](http://virological.org/)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="http://virological.org/" title="See this resource">
       <img src="http://virological.org/uploads/default/original/1X/7897c4e655617c4b6fe71a98eaa97a38778f0623.png" width="20%"/>
     </a> 
 </p>
 
 [Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates" title="See this resource">
       <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="40%"/>
     </a> 
 </p>
@@ -76,7 +76,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [COVID-19 3D visualizer](https://www.covidvisualizer.com/)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.covidvisualizer.com/" title="See this resource">
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/covidvisualizer.com.png" width="40%"/>
     </a> 
 </p>
@@ -88,14 +88,14 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [European Centre for Disease Prevention and Control](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
 [European Centre for Disease Prevention and Control, data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide" title="See this resource">
       <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
     </a> 
 </p>
 
 [European Data Portal, data for Spain, Evolución de enfermedad por el coronavirus (COVID-19)](https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es" title="See this resource">
       <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
     </a> 
 </p>
@@ -105,14 +105,14 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [Ministerio de Sanidad, España](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html)
 <br>
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html" title="See this resource">
       <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="60%"/>
     </a> 
 </p>
 
 [Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo) del Instituto de Salud Carlos III](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx)
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx" title="See this resource">
       <img src="https://www.isciii.es/Style%20Library/ISCIII.Portal/imagenes/LogoISCIII.svg" width="40%"/>
     </a> 
 </p>
@@ -226,7 +226,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV) Modelling Uncertainty Quantification, Reports in PDF](https://www.imm.upv.es/covid-19/) 
 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.imm.upv.es/covid-19/" title="See this resource">
       <img src="http://covid19.webs.upv.es//IMAGES/MUNQU.png" width="20%"/>
     </a> 
 </p>
@@ -235,14 +235,14 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [Bioinformatics Unit of Instituto de Salud Carlos III (Spain)](https://github.com/BU-ISCIII/SARS-Cov2_analysis) 
 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://github.com/BU-ISCIII/SARS-Cov2_analysis" title="See this resource">
       <img src="https://github.com/BU-ISCIII/SARS-Cov2_analysis/blob/master/BU_ISCIII_logo.png" width="30%"/>
     </a> 
 </p>
 
 [SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://github.com/galaxyproject/SARS-CoV-2" title="See this resource">
       <img src="https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/img/galaxy_logo.png" width="20%"/>
     </a> 
 </p>
@@ -255,7 +255,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [NIH Coronavirus Disease 2019 Situation Summary](https://www.nih.gov/health-information/coronavirus) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.nih.gov/health-information/coronavirus" title="See this resource">
       <img src="https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png" width="30%"/>
     </a> 
 </p>
@@ -268,7 +268,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge" title="See this resource">
       <img src="https://www.kaggle.com/static/images/site-logo.png" width="20%"/>
     </a> 
 </p>
@@ -276,7 +276,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [World-o-Meter](https://www.worldometers.info/coronavirus/) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.worldometers.info/coronavirus/" title="See this resource">
       <img src="https://www.worldometers.info/img/worldometers-logo.gif" width="30%"/>
     </a> 
 </p>
@@ -287,21 +287,21 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="http://gabgoh.github.io/COVID/index.html" title="See this resource">
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/epidemic_calculator.png" width="30%"/>
     </a> 
 </p>
 
 [SARS-CoV-2 pathways](https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways" title="See this resource">
       <img src="https://www.wikipathways.org//skins/common/images/wplogo_125.png" width="20%"/>
     </a> 
 </p>
 
 [Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
 <p align="center">
-    <a href="" title="See this resource">
+    <a href="https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/" title="See this resource">
       <img src="https://opendata.euskadi.eus/images/w79-logo_opendata.gif" width="30%"/>
     </a> 
 </p>
