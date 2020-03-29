@@ -83,6 +83,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
+[Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
+
 [European Centre for Disease Prevention and Control](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
 [European Centre for Disease Prevention and Control, data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 <p align="center">
@@ -504,6 +506,14 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Direct RNA sequencing and early evolution of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1)
 
 
+[Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
+
+[Transcriptional Inhibition of Host Viral Entry Proteins as a Therapeutic Strategy for SARS-CoV-2](https://www.preprints.org/manuscript/202003.0360/v1)
+
+[Human leukocyte antigen susceptibility map for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.03.22.20040600v1)
+
+
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -552,6 +562,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 <a name="Educational resources"></a>
 ## Educational resources ##
 [Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#)
+
+[#AprendeBioinformáticaEnCasa](https://bioinfogp.cnb.csic.es/courses/quedateencasa/)
 
 
 <p align="right">
@@ -606,6 +618,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 
 [The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors](https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/) 
+
+[Rockefeller-Led Team Launches Initiative to Study COVID-19 Genetic Vulnerability (GenomeWeb)](https://www.genomeweb.com/infectious-disease/rockefeller-led-team-launches-initiative-study-covid-19-genetic-vulnerability)
 
 
 <p align="right">
