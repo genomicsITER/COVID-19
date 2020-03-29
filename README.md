@@ -239,7 +239,7 @@ https://mentalbreaks.shinyapps.io/covid19/
 
 <p align="right">
   <a href="#Inicio">
-    <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/64/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -281,6 +281,12 @@ https://www.fda.gov/media/134922/download
 
 Chinese Center for Disease and Control and Prevention: http://www.chinacdc.cn/en/COVID19/
 Real-time RT-PCR protocol: http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf
+
+<p align="right">
+  <a href="#Inicio">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <hr>
 
@@ -403,6 +409,12 @@ https://www.medrxiv.org/content/10.1101/2020.03.07.20032524v2
 Direct RNA sequencing and early evolution of SARS-CoV-2:
 https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1
 
+<p align="right">
+  <a href="#Inicio">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <hr>
 
 <a name="Guidelines"></a>
@@ -429,12 +441,25 @@ https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html
 
 WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19): interim guidance, 19 March 2020:
 https://apps.who.int/iris/handle/10665/331500
+
+<p align="right">
+  <a href="#Inicio">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <hr>
 
 <a name="Educational resources"></a>
 ## Educational resources ##
 Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM:
 https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#
+
+<p align="right">
+  <a href="#Inicio">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <hr>
 
@@ -447,6 +472,12 @@ Comparison of nanoparticle filtration performance of NIOSH-approved and CE-marke
 https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes: https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf
+
+<p align="right">
+  <a href="#Inicio">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <hr>
 
@@ -473,6 +504,12 @@ https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-
 The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors: 
 https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/
 
+<p align="right">
+  <a href="#Inicio">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
+<hr>
 
 
