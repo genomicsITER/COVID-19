@@ -222,10 +222,9 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </p>
 
 [SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
-
 <p align="center">
     <a href="" title="See this resource">
-      <img src="https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/img/galaxy_logo.png" width="30%"/>
+      <img src="https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/img/galaxy_logo.png" width="20%"/>
     </a> 
 </p>
 
@@ -236,8 +235,6 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 
 [NIH Coronavirus Disease 2019 Situation Summary](https://www.nih.gov/health-information/coronavirus) 
-
-
 <p align="center">
     <a href="" title="See this resource">
       <img src="https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png" width="30%"/>
@@ -253,7 +250,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
 <p align="center">
     <a href="" title="See this resource">
-      <img src="https://www.kaggle.com/static/images/site-logo.png" width="30%"/>
+      <img src="https://www.kaggle.com/static/images/site-logo.png" width="20%"/>
     </a> 
 </p>
 
@@ -279,7 +276,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [SARS-CoV-2 pathways](https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways) 
 <p align="center">
     <a href="" title="See this resource">
-      <img src="https://www.wikipathways.org//skins/common/images/wplogo_125.png" width="30%"/>
+      <img src="https://www.wikipathways.org//skins/common/images/wplogo_125.png" width="20%"/>
     </a> 
 </p>
 
