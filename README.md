@@ -460,6 +460,9 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <a name="Guidelines"></a>
 ## Guidelines
+> A colection of guides and documents from different natianal and international institutions with means to protect people againts COVID-19, including biosafety guidelines, decontamination recommendations and risks, etc. 
+> The opinions expressed in there do not reflect ITER institutional position.
+
 [WHO - Laboratory Biosafety Manual - Third Edition](https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/) 
 
 
