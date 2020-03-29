@@ -292,9 +292,9 @@ Real-time RT-PCR protocol: http://www.chinacdc.cn/en/COVID19/202003/P02020032339
 
 <a name="Scientific Communications and Literature"></a>
 ## Scientific Communications and Literature
-<div style="margin: 40px; padding: 20px; border: 3px dotted #666633; background-color: #ebebff; color: #000000; border-radius: 10px; -moz-box-shadow: 10px 10px 5px #888; -webkit-box-shadow: 10px 10px 5px #888; box-shadow: 10px 10px 5px #888;">
-Reminder. Notice that a number of these papers might be preliminary reports that have not been peer-reviewed. They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
-</div>
+> Reminder. Notice that a number of these papers might be preliminary reports that have not been peer-reviewed. 
+> They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
+<br />
 
 Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response: 
 https://bedford.io/blog/genomic-epi-for-ncov-response/
@@ -516,16 +516,4 @@ https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-
 
 <hr>
 
-<div class="TableObject">
-  <div class="TableObject-item TableObject-item--primary">
-    <input
-      class="input-block form-control"
-      type="text"
-      placeholder="Long elastic input form"
-      aria-label="Long elastic input form"
-    />
-  </div>
-  <div class="TableObject-item">
-    <button class="btn ml-2" type="button">Button</button>
-  </div>
-</div>
+
