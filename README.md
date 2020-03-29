@@ -1,6 +1,6 @@
 
 <a name="#Inicio"></a>
-<p align="right">
+<p style="float: right">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
 </p>
 
