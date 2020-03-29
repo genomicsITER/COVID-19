@@ -253,28 +253,28 @@ Comunidades Aut&oacute;nomas:
 Updated March 25, 2020:
 <ul>
 <li>
-  [China CDC Primers and probes for detection 2019-nCoV (24 January 2020)](http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html) 
+<a href="http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html" title="See this resorce">China CDC Primers and probes for detection 2019-nCoV (24 January 2020)</a>
   </li>
 <li>
-  [Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR – Charité, Berlin Germany (17 January 2020)](https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf?sfvrsn=a9ef618c_2) 
+<a href="https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf?sfvrsn=a9ef618c_2" title="See this resorce">Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR – Charité, Berlin Germany (17 January 2020)</a>
   </li>
 <li>
-  [Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR – Hong Kong University (23 January 2020)](https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf?sfvrsn=af1aac73_4) 
+<a href="https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf?sfvrsn=af1aac73_4" title="See this resorce">Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR – Hong Kong University (23 January 2020)</a>
   </li>
 <li>
-  [PCR and sequencing protocol for 2019-nCoV - Department of Medical Sciences, Ministry of Public Health, Thailand (Updated 28 January 2020)](https://www.who.int/docs/default-source/coronaviruse/conventional-rt-pcr-followed-by-sequencing-for-detection-of-ncov-rirl-nat-inst-health-t.pdf?sfvrsn=42271c6d_4) 
+<a href="https://www.who.int/docs/default-source/coronaviruse/conventional-rt-pcr-followed-by-sequencing-for-detection-of-ncov-rirl-nat-inst-health-t.pdf?sfvrsn=42271c6d_4" title="See this resorce">PCR and sequencing protocol for 2019-nCoV - Department of Medical Sciences, Ministry of Public Health, Thailand (Updated 28 January 2020)</a>
   </li>
 <li>
-  [PCR and sequencing protocols for 2019-nCoV- National Institute of Infectious Diseases Japan (24 January 2020)](https://www.who.int/docs/default-source/coronaviruse/method-niid-20200123-2.pdf?sfvrsn=fbf75320_7) 
+<a href="https://www.who.int/docs/default-source/coronaviruse/method-niid-20200123-2.pdf?sfvrsn=fbf75320_7" title="See this resorce">PCR and sequencing protocols for 2019-nCoV- National Institute of Infectious Diseases Japan (24 January 2020)</a>
   </li>
 <li>
-  [US CDC Real-Time RT-PCR Panel for Detection 2019-Novel Coronavirus (28 January 2020)](https://www.fda.gov/media/134922/download) 
+<a href="https://www.fda.gov/media/134922/download" title="See this resorce">US CDC Real-Time RT-PCR Panel for Detection 2019-Novel Coronavirus (28 January 2020)</a>
   </li>
 <li>
-  [US CDC panel primer and probes– U.S. CDC, USA (28 January 2020)](https://www.who.int/docs/default-source/coronaviruse/uscdcrt-pcr-panel-primer-probes.pdf?sfvrsn=fa29cb4b_2) 
+<a href="https://www.who.int/docs/default-source/coronaviruse/uscdcrt-pcr-panel-primer-probes.pdf?sfvrsn=fa29cb4b_2" title="See this resorce">US CDC panel primer and probes– U.S. CDC, USA (28 January 2020)</a>
   </li>
 <li>
-  [Real-time RT-PCR assays for the detection of SARS-CoV-2 Institut Pasteur, Paris (2 March 2020)](https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2) 
+<a href="https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2" title="See this resorce">Real-time RT-PCR assays for the detection of SARS-CoV-2 Institut Pasteur, Paris (2 March 2020)</a>
   </li>
 </ul>
   
