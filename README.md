@@ -178,64 +178,65 @@ Comunidades Aut&oacute;nomas:
   <hr>
   
 
-[]()Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV): Modelling Uncertainty Quantification, Reports in PDF: 
-https://www.imm.upv.es/covid-19/
+
+[Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV) Modelling Uncertainty Quantification, Reports in PDF](https://www.imm.upv.es/covid-19/) 
+
 <p align="center">
   <img src="http://covid19.webs.upv.es//IMAGES/MUNQU.png" width="20%"/>
 </p>
 
 
-[]()Bioinformatics Unit of Instituto de Salud Carlos III (Spain): 
-https://github.com/BU-ISCIII/SARS-Cov2_analysis
+[Bioinformatics Unit of Instituto de Salud Carlos III (Spain)](https://github.com/BU-ISCIII/SARS-Cov2_analysis) 
+
 <p align="center">
   <img src="https://github.com/BU-ISCIII/SARS-Cov2_analysis/blob/master/BU_ISCIII_logo.png" width="30%"/>
 </p>
 
-[]()SARS-CoV-2 Galaxy Project: 
-https://github.com/galaxyproject/SARS-CoV-2
+[SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
 
-[]()COVID-19 scenarios: 
-https://neherlab.org/covid19/
 
-[]()Imperial College London reports: 
-https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/
+[COVID-19 scenarios](https://neherlab.org/covid19/) 
 
-[]()NIH Coronavirus Disease 2019 Situation Summary: 
-https://www.nih.gov/health-information/coronavirus
 
-[]()Bioinformatics resources for SARS-CoV-2: 
-http://www.clinbioinfosspa.es/CovidResources
+[Imperial College London reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/) 
 
-[]()SARS-CoV-2 Sequencing Resources: 
-https://github.com/CDCgov/SARS-CoV-2_Sequencing
 
-[]()COVID-19 Open Research Dataset Challenge (CORD-19): 
-https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+[NIH Coronavirus Disease 2019 Situation Summary](https://www.nih.gov/health-information/coronavirus) 
 
-[]()World-o-Meter: 
-https://www.worldometers.info/coronavirus/
 
-[]()How many tests for COVID-19 are being performed around the world?: 
-https://ourworldindata.org/covid-testing
+[Bioinformatics resources for SARS-CoV-2](http://www.clinbioinfosspa.es/CovidResources) 
 
-[]()Epidemic Calculator: 
-http://gabgoh.github.io/COVID/index.html
 
-[]()SARS-CoV-2 pathways: https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways
+[SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing) 
 
-[]()Evolución del coronavirus (COVID-19) en Euskadi: 
-https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/
 
-[]()CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports: https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html
+[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
 
-[]()COVID-19 R-shiny codes: 
-https://github.com/topics/covid-19
 
-[]()CDC Information for Laboratories RT-PCR resources: 
-https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html
+[World-o-Meter](https://www.worldometers.info/coronavirus/) 
 
-[]()COVID-19 Tracker Shiny app in R
-https://mentalbreaks.shinyapps.io/covid19/
+
+[How many tests for COVID-19 are being performed around the world?](https://ourworldindata.org/covid-testing) 
+
+
+[Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) 
+
+
+[SARS-CoV-2 pathways](https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways) 
+
+[Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
+
+
+[CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html) 
+
+[COVID-19 R-shiny codes](https://github.com/topics/covid-19) 
+
+
+[CDC Information for Laboratories RT-PCR resources](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html) 
+
+
+[COVID-19 Tracker Shiny app in R](https://mentalbreaks.shinyapps.io/covid19/)
+
 
 <p align="right">
   <a href="#Inicio">
