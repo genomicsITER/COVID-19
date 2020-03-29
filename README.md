@@ -1,7 +1,9 @@
+<a name="#Inicio"></a>
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
-<hr>Table of contents
+<hr>
+## Table of contents
 <br>
 <ul>
   <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
@@ -229,6 +231,10 @@ https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html
 COVID-19 Tracker Shiny app in R
 https://mentalbreaks.shinyapps.io/covid19/
 <hr>
+
+<p>
+  <a href="#Inicio"><img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/64/home-icon.png" style="float: right; margin: 10px; padding: 2px;" /></a>
+</p>
 
 <a name="Protocols"></a>
 ## Protocols ##
