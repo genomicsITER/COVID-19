@@ -60,6 +60,13 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
     </a> 
 </p>
 
+[National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences](https://bigd.big.ac.cn/ncov/v2?lang=en)
+<p align="center">
+    <a href="https://bigd.big.ac.cn/ncov/v2?lang=en" title="See this resource">
+      <img src="https://bigd.big.ac.cn/static/image/nsti.png" width="40%"/>
+    </a> 
+</p>
+
 [Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
 <p align="center">
     <a href="https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates" title="See this resource">
