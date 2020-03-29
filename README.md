@@ -507,6 +507,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 <a name="Respirators, masks, and other Personal Protective Equipments (PPE)"></a>
 ## Respirators, masks, and other Personal Protective Equipments (PPE)
+> A selection of websites to understand what a respirator or a mask is, and what are the differences between the different personal protective equipments.
 
 [N95 Respirators and Surgical Masks (Face Masks)](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks)
 
