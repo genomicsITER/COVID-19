@@ -113,6 +113,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 
 <a name="Comunidades Autónomas"></a>
+> List of institutional websites for the governments of each of the Spanish Autonomous Regions (17) and Cities (2).
+
 Comunidades Aut&oacute;nomas:
 <ul>
 
