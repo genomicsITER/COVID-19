@@ -249,56 +249,50 @@ Comunidades Aut&oacute;nomas:
 <a name="Protocols"></a>
 ## Protocols ##
 
-[]()WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
+[WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans]() https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
 Updated March 25, 2020:
 <ul>
 <li>
-  []()China CDC Primers and probes for detection 2019-nCoV (24 January 2020): http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html
+  [China CDC Primers and probes for detection 2019-nCoV (24 January 2020)](http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html) 
   </li>
 <li>
-  []()Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR – Charité, Berlin Germany (17 January 2020): https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf?sfvrsn=a9ef618c_2
+  [Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR – Charité, Berlin Germany (17 January 2020)](https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf?sfvrsn=a9ef618c_2) 
   </li>
 <li>
-  []()Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR – Hong Kong University (23 January 2020): https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf?sfvrsn=af1aac73_4
+  [Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR – Hong Kong University (23 January 2020)](https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf?sfvrsn=af1aac73_4) 
   </li>
 <li>
-  []()PCR and sequencing protocol for 2019-nCoV - Department of Medical Sciences, Ministry of Public Health, Thailand (Updated 28 January 2020): https://www.who.int/docs/default-source/coronaviruse/conventional-rt-pcr-followed-by-sequencing-for-detection-of-ncov-rirl-nat-inst-health-t.pdf?sfvrsn=42271c6d_4
+  [PCR and sequencing protocol for 2019-nCoV - Department of Medical Sciences, Ministry of Public Health, Thailand (Updated 28 January 2020)](https://www.who.int/docs/default-source/coronaviruse/conventional-rt-pcr-followed-by-sequencing-for-detection-of-ncov-rirl-nat-inst-health-t.pdf?sfvrsn=42271c6d_4) 
   </li>
 <li>
-  []()PCR and sequencing protocols for 2019-nCoV- National Institute of Infectious Diseases Japan (24 January 2020): https://www.who.int/docs/default-source/coronaviruse/method-niid-20200123-2.pdf?sfvrsn=fbf75320_7
+  [PCR and sequencing protocols for 2019-nCoV- National Institute of Infectious Diseases Japan (24 January 2020)](https://www.who.int/docs/default-source/coronaviruse/method-niid-20200123-2.pdf?sfvrsn=fbf75320_7) 
   </li>
 <li>
-  []()US CDC Real-Time RT-PCR Panel for Detection 2019-Novel Coronavirus (28 January 2020): https://www.fda.gov/media/134922/download
+  [US CDC Real-Time RT-PCR Panel for Detection 2019-Novel Coronavirus (28 January 2020)](https://www.fda.gov/media/134922/download) 
   </li>
 <li>
-  []()US CDC panel primer and probes– U.S. CDC, USA (28 January 2020): https://www.who.int/docs/default-source/coronaviruse/uscdcrt-pcr-panel-primer-probes.pdf?sfvrsn=fa29cb4b_2
+  [US CDC panel primer and probes– U.S. CDC, USA (28 January 2020)](https://www.who.int/docs/default-source/coronaviruse/uscdcrt-pcr-panel-primer-probes.pdf?sfvrsn=fa29cb4b_2) 
   </li>
 <li>
-  []()Real-time RT-PCR assays for the detection of SARS-CoV-2 Institut Pasteur, Paris (2 March 2020): https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2
+  [Real-time RT-PCR assays for the detection of SARS-CoV-2 Institut Pasteur, Paris (2 March 2020)](https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2) 
   </li>
 </ul>
   
-[]()RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step: 
-https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1
+[RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
 
-[]()Broad Institute: 
-https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf
+[Broad Institute](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf) 
 
-[]()Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow: 
-https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1
 
-[]()NIID Japan
-Detection of second case of 2019-nCoV infection in Japan:
-https://www.niid.go.jp/niid/en/2019-ncov-e/9334-ncov-vir3-2.html
-https://www.niid.go.jp/niid/en/examination.html
+[Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1) 
 
-[]()USA CDC Center for Disease and Control Coronavirus Disease 2019 (COVID-19): 
-https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flab%2Frt-pcr-detection-instructions.html
-RT-PCR protocol: 
-https://www.fda.gov/media/134922/download
+[NIID Japan](https://www.niid.go.jp/niid/en/2019-ncov-e/9334-ncov-vir3-2.html)
+[Detection of second case of 2019-nCoV infection in Japan](https://www.niid.go.jp/niid/en/examination.html)
 
-[]()Chinese Center for Disease and Control and Prevention: http://www.chinacdc.cn/en/COVID19/
-Real-time RT-PCR protocol: http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf
+[USA CDC Center for Disease and Control Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flab%2Frt-pcr-detection-instructions.html) 
+[RT-PCR protocol](https://www.fda.gov/media/134922/download) 
+
+[Chinese Center for Disease and Control and Prevention](http://www.chinacdc.cn/en/COVID19/)
+[China CDC Real-time RT-PCR protocol](http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf)
 
 <p align="right">
   <a href="#Inicio">
