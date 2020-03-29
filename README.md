@@ -92,31 +92,87 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <a name="Comunidades Autónomas"></a>
 Comunidades Aut&oacute;nomas:
 <ul>
-  <li>
-    [Aragón](https://www.aragon.es/coronavirus)
-  </li>
-  <li>[Principado de Asturias](https://www.asturias.es/portal/site/webasturias/menuitem.4b280f8214549ead3e2d6f77f2300030/?vgnextoid=bae12eee144c0710VgnVCM10000097030a0aRCRD&vgnextchannel=d682d22a18b6e210VgnVCM1000002f030003RCRD&i18n.http.lang=es)</li>
-  <li>[Castilla La Mancha](https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus)
-      [Datos](https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus/actualizacion-de-casos-en-castilla-la-mancha)</li>
-  <li>[Portal del GOBCAN con el seguimiento de la pandemia por SARS-Cov-2](https://www.gobiernodecanarias.org/sanidad/scs/covid19)
-    [Canarias. Informes epidemiológicos de Salud Pública de la Consejería de Sanidad del Gobierno Autónomo de Canarias](https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11ea-9a8e-719d4b52bf6c/InformeCasosCOVID-19.pdf)</li>
-    <li>[Generalitat de Catalunya](https://www.aspb.cat/documents/covid19-cast/)
-      [Datos](http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus)</li>
-  <li>[Cantabria](http://saludcantabria.es/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=2145&cntnt01origid=15&cntnt01returnid=289)</li>
-  <li>[Ciudad Autónoma de Ceuta](https://www.ceuta.es/ceuta/index.php)</li>
-  <li>[Govern Illes Balears](http://www.caib.es/sites/coronavirus/es/portada/)</li>
-  <li>[Junta de Andalucía](https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html)</li>
-  <li>[Junta de Extremadura](http://www.juntaex.es/web/)</li>
-  <li>[Xunta de Galicia](https://coronavirus.sergas.gal/)</li>
-  <li>[Junta de Castilla y León. Situación epidemiológica del coronavirus en Castilla y León — Análisis de datos abiertos JCyL](https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual)</li>
-  <li>[Madrid](https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus)</li>
-  <li>[Ciudad Autónoma de Melilla](https://www.melilla.es/melillaPortal/index.jsp)</li>
-  <li>[Navarra](https://www.navarra.es/es/web/coronavirus/inicio)
-    [Datos](https://www.navarra.es/es/web/coronavirus/situacion-actual)</li>
-  <li>[País Vasco](https://www.osakidetza.euskadi.eus/inicio/)</li>
-    <li>[Región de Murcia](http://www.carm.es/web/pagina?IDCONTENIDO=106861&IDTIPO=10&RASTRO=c$m122,70)</li>
-  <li>[La Rioja](https://web.larioja.org/)</i>
-  <li>[Generalitat Valenciana](http://infocoronavirus.gva.es/)</li>
+
+<li>
+<a href="https://www.aragon.es/coronavirus" title="See this resource">Aragón</a>
+</li>
+
+<li>
+<a href="https://www.asturias.es/portal/site/webasturias/menuitem.4b280f8214549ead3e2d6f77f2300030/?vgnextoid=bae12eee144c0710VgnVCM10000097030a0aRCRD&vgnextchannel=d682d22a18b6e210VgnVCM1000002f030003RCRD&i18n.http.lang=es" title="See this resource">Principado de Asturias</a>
+</li>
+
+<li>
+<a href="Chttps://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus<" title="See this resource">Castilla La Mancha</a>
+<a href="https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus/actualizacion-de-casos-en-castilla-la-mancha" title="See this resource">Datos</a>
+</li>
+
+<li>
+<a href="https://www.gobiernodecanarias.org/sanidad/scs/covid19" title="See this resource">Portal del GOBCAN con el seguimiento de la pandemia por SARS-Cov-2</a>
+<a href="https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11ea-9a8e-719d4b52bf6c/InformeCasosCOVID-19.pdf" title="See this resource">Canarias. Informes epidemiológicos de Salud Pública de la Consejería de Sanidad del Gobierno Autónomo de Canarias</a>
+</li>
+
+<li>
+<a href="https://www.aspb.cat/documents/covid19-cast/" title="See this resource">Generalitat de Catalunya</a>
+<a href="http://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus" title="See this resource">Datos</a>
+</li>
+
+<li>
+<a href="http://saludcantabria.es/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=2145&cntnt01origid=15&cntnt01returnid=289" title="See this resource">Cantabria</a>
+</li>
+
+<li>
+<a href="https://www.ceuta.es/ceuta/index.php" title="See this resource">Ciudad Autónoma de Ceuta</a>
+</li>
+
+<li>
+<a href="http://www.caib.es/sites/coronavirus/es/portada/" title="See this resource">Govern Illes Balears</a>
+</li>
+
+<li>
+<a href="https://www.juntadeandalucia.es/organismos/saludyfamilias/areas/salud-vida/paginas/Nuevo_Coronavirus.html" title="See this resource">Junta de Andalucía</a>
+</li>
+
+<li>
+<a href="http://www.juntaex.es/web/" title="See this resource">Junta de Extremadura</a>
+</li>
+
+<li>
+<a href="https://coronavirus.sergas.gal/" title="See this resource">Xunta de Galicia</a>
+</li>
+
+<li>
+<a href="https://analisis.datosabiertos.jcyl.es/pages/coronavirus/situacin-actual#situacin-actual" title="See this resource">Junta de Castilla y León. Situación epidemiológica del coronavirus en Castilla y León — Análisis de datos abiertos JCyL</a>
+</li>
+
+<li>
+<a href="https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus" title="See this resource">Madrid</a>
+</li>
+
+<li>
+<a href="https://www.melilla.es/melillaPortal/index.jsp" title="See this resource">Ciudad Autónoma de Melilla</a>
+</li>
+
+<li>
+<a href="https://www.navarra.es/es/web/coronavirus/inicio" title="See this resource">Navarra</a>
+<a href="https://www.navarra.es/es/web/coronavirus/situacion-actua" title="See this resource">Datos</a>
+</li>
+
+<li>
+<a href="https://www.osakidetza.euskadi.eus/inicio/" title="See this resource">País Vasco</a>
+</li>
+
+<li>
+<a href="http://www.carm.es/web/pagina?IDCONTENIDO=106861&IDTIPO=10&RASTRO=c$m122,70" title="See this resource">Región de Murcia</a>
+</li>
+
+<li>
+<a href="https://web.larioja.org/" title="See this resource">La Rioja</a>
+</i>
+
+<li>
+<a href="http://infocoronavirus.gva.es/" title="See this resource">Generalitat Valenciana</a>
+</li>
+
 </ul>
   
   <hr>
