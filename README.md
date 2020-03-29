@@ -23,7 +23,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <a name="Sciencific data and resources"></a>
 ## Sciencific data and resources ##
-<a href="https://github.com/CSSEGISandData/COVID-19" title="Visit this resource" target="_blank">2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE</a>
+[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <img src="https://github.com/genomicsITER/COVID-19/blob/master/JHU-CSSE_dashboard.png" width="40%" />
 </p>
