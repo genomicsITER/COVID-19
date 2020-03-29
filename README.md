@@ -67,6 +67,13 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
     </a> 
 </p>
 
+[EMBL-EBI COVID-19 Portal](https://www.ebi.ac.uk/covid-19)
+<p align="center">
+    <a href="https://www.ebi.ac.uk/covid-19" title="See this resource">
+      <img src="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.svg" width="20%"/>
+    </a> 
+</p>
+
 [Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
 <p align="center">
     <a href="https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates" title="See this resource">
@@ -99,6 +106,13 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <p align="center">
     <a href="https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es" title="See this resource">
       <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
+    </a> 
+</p>
+
+[IHME, Institute for Health Metrics and Evaluation, USA data](https://covid19.healthdata.org/projections?sfns=mo)
+<p align="center">
+    <a href="https://covid19.healthdata.org/projections?sfns=mo" title="See this resource">
+      <img src="https://covid19.healthdata.org/dist/images/ihme-logo.svg" width="40%"/>
     </a> 
 </p>
 
@@ -461,6 +475,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Human leukocyte antigen susceptibility map for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.03.22.20040600v1)
 
+[An international comparison of the second derivative of COVID-19 deaths after implementation of social distancing measures](https://www.medrxiv.org/content/10.1101/2020.03.25.20041475v1)
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -504,6 +520,11 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#)
 
 [#AprendeBioinformáticaEnCasa](https://bioinfogp.cnb.csic.es/courses/quedateencasa/)
+
+[Bioinformatics Training Resources for Experimentalists (and Friends)](https://jasondk.github.io/bioinformatics-edu/)
+
+[Czech campaign #masks4all](https://docs.google.com/document/u/0/d/1EWpWmyjzM4sNBF-7jp_1Y9a-pqiRg0wakGXy7kj11RA/mobilebasic)
+[We need #masks4all, in Youtube](https://youtu.be/BoDwXwZXsDI)
 
 <p align="right">
   <a href="#covid-19">
