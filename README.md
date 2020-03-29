@@ -64,7 +64,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
-[European Centre for Disease Prevention and Control](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+[European Centre for Disease Prevention and Control](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
 [European Centre for Disease Prevention and Control, data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 <p align="center">
   <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
