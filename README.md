@@ -236,7 +236,9 @@ https://mentalbreaks.shinyapps.io/covid19/
 <hr>
 
 <p>
-  <a href="#Inicio"><img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/64/home-icon.png" style="float: right; margin: 10px; padding: 2px;" /></a>
+  <a href="#Inicio">
+    <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/64/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
 </p>
 
 <a name="Protocols"></a>
