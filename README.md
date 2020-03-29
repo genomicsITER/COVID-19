@@ -311,7 +311,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </p>
 
 
-[Go to Real Cool Heading section](# COVID-19)
+[blabla](#covid-19)
 
 
 
