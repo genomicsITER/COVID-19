@@ -5,8 +5,6 @@
 </p>
 
 
-<a name="#Inicio"></a>
-
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
@@ -116,6 +114,13 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
       <img src="https://www.isciii.es/Style%20Library/ISCIII.Portal/imagenes/LogoISCIII.svg" width="40%"/>
     </a> 
 </p>
+
+<p align="right">
+  <a href="#covid-19">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <hr>
 
 <a name="Comunidades Autónomas"></a>
@@ -205,8 +210,14 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </li>
 
 </ul>
-  
-  <hr>
+
+<p align="right">
+  <a href="#covid-19">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
 
 
 
@@ -311,15 +322,8 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </p>
 
 
-[blabla](#covid-19)
-
-
 
 <hr>
-
-
-
-
 
 
 
@@ -372,7 +376,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [China CDC Real-time RT-PCR protocol](http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf)
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -501,7 +505,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -538,7 +542,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -551,7 +555,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -571,7 +575,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf) 
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -605,7 +609,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
