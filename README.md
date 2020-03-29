@@ -70,7 +70,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [EMBL-EBI COVID-19 Portal](https://www.ebi.ac.uk/covid-19)
 <p align="center">
     <a href="https://www.ebi.ac.uk/covid-19" title="See this resource">
-      <img src="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.svg" width="40%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/EMBL-EBI-COVID19.png" width="40%"/>
     </a> 
 </p>
 
