@@ -5,15 +5,17 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <br>
 <ul>
   <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
-  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
-  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
-  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
-  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
-  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
-  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Comunidades Autónomas" >Comunidades Aut&oacute;nomas</a></li>
+  <li><a href="#Protocols">Protocols</a></li>
+  <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
+  <li><a href="#Guidelines">Guidelines</a></li>
+  <li><a href="#Educational resources">Educational resources</a></li>
+  <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
+  <li><a href="#Media sources">Media sources</a></li>
 <hr>
 
-<a name="Sciencific data and resources">## Sciencific data and resources ##</a>
+<a name="Sciencific data and resources"></a>
+## Sciencific data and resources ##
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE: 
 https://github.com/CSSEGISandData/COVID-19
 <p align="center">
@@ -93,8 +95,8 @@ Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo)
 </p>
 <hr>
 
-<a name="Comunidades Autónomas">Comunidades Aut&oacute;nomas:</a>
-
+<a name="Comunidades Autónomas"></a>
+Comunidades Aut&oacute;nomas:
 <ul>
   <li>
     Arag&oacute;n: https://www.aragon.es/coronavirus
@@ -228,6 +230,7 @@ COVID-19 Tracker Shiny app in R
 https://mentalbreaks.shinyapps.io/covid19/
 <hr>
 
+<a name="Protocols"></a>
 ## Protocols ##
 
 WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
@@ -266,6 +269,7 @@ Real-time RT-PCR protocol: http://www.chinacdc.cn/en/COVID19/202003/P02020032339
 
 <hr>
 
+<a name="Scientific Communications and Literature"></a>
 ## Scientific Communications and Literature
 Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response: 
 https://bedford.io/blog/genomic-epi-for-ncov-response/
@@ -386,6 +390,7 @@ https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1
 
 <hr>
 
+<a name="Guidelines"></a>
 ## Guidelines
 WHO - Laboratory Biosafety Manual - Third Edition: 
 https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/
@@ -411,13 +416,15 @@ WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19): int
 https://apps.who.int/iris/handle/10665/331500
 <hr>
 
+<a name="Educational resources"></a>
 ## Educational resources ##
 Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM:
 https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#
 
 <hr>
 
-## Respirators, masks
+<a name="Respirators, masks, and other Personal Protective Equipments (PPE)"></a>
+## Respirators, masks, and other Personal Protective Equipments (PPE)
 N95 Respirators and Surgical Masks (Face Masks): 
 https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks
 
@@ -428,6 +435,7 @@ Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Class
 
 <hr>
 
+<a name="Media sources"></a>
 ## Media sources
 Financial Times: 
 https://www.ft.com/coronavirus-latest
