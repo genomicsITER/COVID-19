@@ -63,14 +63,14 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences](https://bigd.big.ac.cn/ncov/v2?lang=en) [Released genomes](https://bigd.big.ac.cn/ncov/release_genome)
 <p align="center">
     <a href="https://bigd.big.ac.cn/ncov/v2?lang=en" title="See this resource">
-      <img src="https://bigd.big.ac.cn/static/image/nsti.png" width="40%"/>
+      <img src="https://bigd.big.ac.cn/static/image/nsti.png" width="20%"/>
     </a> 
 </p>
 
 [EMBL-EBI COVID-19 Portal](https://www.ebi.ac.uk/covid-19)
 <p align="center">
     <a href="https://www.ebi.ac.uk/covid-19" title="See this resource">
-      <img src="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.svg" width="20%"/>
+      <img src="https://ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.3/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.svg" width="40%"/>
     </a> 
 </p>
 
@@ -112,7 +112,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [IHME, Institute for Health Metrics and Evaluation, USA data](https://covid19.healthdata.org/projections?sfns=mo)
 <p align="center">
     <a href="https://covid19.healthdata.org/projections?sfns=mo" title="See this resource">
-      <img src="https://covid19.healthdata.org/dist/images/ihme-logo.svg" width="40%"/>
+      <img src="https://covid19.healthdata.org/dist/images/ihme-logo.svg" width="30%"/>
     </a> 
 </p>
 
