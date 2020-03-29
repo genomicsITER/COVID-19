@@ -83,6 +83,13 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Clustering COVID-19 research papers](https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html)
 
+[Análisis de los datos de COVID-19 en España, por Z Data Labs](https://zzdatalabs.com/coronavirus-es/)
+<p align="center">
+    <a href="https://zzdatalabs.com/coronavirus-es/" title="See this resource">
+      <img src="https://zzdatalabs.com/wp-content/uploads/2019/07/Extended_headerAsset-21.png" width="40%"/>
+    </a> 
+</p>
+
 [COVID-19 3D visualizer](https://www.covidvisualizer.com/)
 <p align="center">
     <a href="https://www.covidvisualizer.com/" title="See this resource">
