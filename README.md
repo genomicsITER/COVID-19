@@ -242,6 +242,8 @@ Comunidades y Ciudades Aut&oacute;nomas:
   </a>
 </p>
 
+[Casos de Covid-19 en España por Comunidades Autónomas, by CJP](https://public.flourish.studio/visualisation/1693192/)
+
 <hr>
 
 [Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV) Modelling Uncertainty Quantification, Reports in PDF](https://www.imm.upv.es/covid-19/) 
