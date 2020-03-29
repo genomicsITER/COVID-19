@@ -305,7 +305,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 
 <p align="right">
-  <a href="#Inicio">
+  <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
