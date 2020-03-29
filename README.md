@@ -23,12 +23,18 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <a name="Sciencific data and resources"></a>
 ## Sciencific data and resources ##
-[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE] (https://github.com/CSSEGISandData/COVID-19)
+[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE] 
+
+
+[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE] 
+
+(https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <img src="https://github.com/genomicsITER/COVID-19/blob/master/JHU-CSSE_dashboard.png" width="40%" />
 </p>
 
-Nextstrain. Real-time tracking of pathogen evolution: 
+[Nextstrain. Real-time tracking of pathogen evolution] (https://nextstrain.org/)
+
 https://nextstrain.org/
 <p align="center">
   <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
