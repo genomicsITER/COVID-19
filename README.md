@@ -76,13 +76,14 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </p>
 
 <hr>
+
 [Ministerio de Sanidad, España](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html)
 <br>
 <p align="center">
   <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="60%"/>
 </p>
 
-[Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo)) del Instituto de Salud Carlos III(https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx)
+[Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo) del Instituto de Salud Carlos III](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx)
 <p align="center">
   <img src="https://www.isciii.es/Style%20Library/ISCIII.Portal/imagenes/LogoISCIII.svg" width="40%"/>
 </p>
