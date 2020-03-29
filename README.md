@@ -1,9 +1,19 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
+<hr>Table of contents
+<br>
+<ul>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
+  <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
 <hr>
 
-## Sciencific data and resources ##
+<a name="Sciencific data and resources">## Sciencific data and resources ##</a>
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE: 
 https://github.com/CSSEGISandData/COVID-19
 <p align="center">
@@ -83,7 +93,7 @@ Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo)
 </p>
 <hr>
 
-Comunidades Aut&oacute;nomas:
+<a name="Comunidades Autónomas">Comunidades Aut&oacute;nomas:</a>
 
 <ul>
   <li>
