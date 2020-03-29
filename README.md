@@ -93,7 +93,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [COVID-19 3D visualizer](https://www.covidvisualizer.com/)
 <p align="center">
     <a href="https://www.covidvisualizer.com/" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/covidvisualizer.com.png" width="40%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/covidvisualizer.com.png" width="30%"/>
     </a> 
 </p>
 
