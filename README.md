@@ -28,75 +28,61 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <img src="https://github.com/genomicsITER/COVID-19/blob/master/JHU-CSSE_dashboard.png" width="40%" />
 </p>
 
-[Nextstrain. Real-time tracking of pathogen evolution] (https://nextstrain.org/)
-
-https://nextstrain.org/
+[Nextstrain. Real-time tracking of pathogen evolution](https://nextstrain.org/)
 <p align="center">
   <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
 </p>
 
-Artic Network: 
-https://artic.network/ncov-2019
+[Artic Network](https://artic.network/ncov-2019)
 <p align="center">
   <img src="https://artic.network/assets/images/artic-logo-sticker.png" width="10%" />
 </p>
 
-GISAID: 
-https://www.gisaid.org/
+[GISAID](https://www.gisaid.org/)
 <p align="center">
   <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" width="20%"/>
 </p>
 
-NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences: 
-https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+[NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
 
-Virological: 
-http://virological.org/
+[Virological](http://virological.org/)
 <p align="center">
   <img src="http://virological.org/uploads/default/original/1X/7897c4e655617c4b6fe71a98eaa97a38778f0623.png" width="20%"/>
 </p>
 
-Nanopore (ONT) Novel Coronavirus information(COVID-19): 
-https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates
+[Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
 <p align="center">
   <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="40%"/>
 </p>
 
-Clustering COVID-19 research papers: 
-https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html
+[Clustering COVID-19 research papers](https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html)
 
-COVID-19 3D visualizer: 
-https://www.covidvisualizer.com/
+[COVID-19 3D visualizer](https://www.covidvisualizer.com/)
 <p align="center">
   <img src="https://github.com/genomicsITER/COVID-19/blob/master/covidvisualizer.com.png" width="40%"/>
 </p>
 
-Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU): 
-https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
-European Centre for Disease Prevention and Control: 
-https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
-https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+[European Centre for Disease Prevention and Control](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+[European Centre for Disease Prevention and Control, data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 <p align="center">
   <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
 </p>
 
-European Data Portal, data for Spain
-Evolución de enfermedad por el coronavirus (COVID-19): 
-https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es
+[European Data Portal, data for Spain, Evolución de enfermedad por el coronavirus (COVID-19)](https://www.europeandataportal.eu/data/datasets?locale=en&query=covid%20&page=1&country=es)
 <p align="center">
   <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
 </p>
 
 <hr>
-Ministerio de Sanidad, España: https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm
+[Ministerio de Sanidad, España](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html)
 <br>
 <p align="center">
   <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="60%"/>
 </p>
 
-
-Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo)) del Instituto de Salud Carlos III: https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx
+[Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo)) del Instituto de Salud Carlos III](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx)
 <p align="center">
   <img src="https://www.isciii.es/Style%20Library/ISCIII.Portal/imagenes/LogoISCIII.svg" width="40%"/>
 </p>
