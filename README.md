@@ -60,7 +60,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
     </a> 
 </p>
 
-[National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences](https://bigd.big.ac.cn/ncov/v2?lang=en)
+[National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences](https://bigd.big.ac.cn/ncov/v2?lang=en) [Released genomes](https://bigd.big.ac.cn/ncov/release_genome)
 <p align="center">
     <a href="https://bigd.big.ac.cn/ncov/v2?lang=en" title="See this resource">
       <img src="https://bigd.big.ac.cn/static/image/nsti.png" width="40%"/>
