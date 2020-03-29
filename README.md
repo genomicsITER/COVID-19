@@ -1,4 +1,5 @@
 <a name="#Inicio"></a>
+
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
@@ -235,7 +236,7 @@ COVID-19 Tracker Shiny app in R
 https://mentalbreaks.shinyapps.io/covid19/
 <hr>
 
-<p>
+<p align="right">
   <a href="#Inicio">
     <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/64/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
