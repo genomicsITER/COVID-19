@@ -223,6 +223,11 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
 
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/img/galaxy_logo.png" width="30%"/>
+    </a> 
+</p>
 
 [COVID-19 scenarios](https://neherlab.org/covid19/) 
 
@@ -233,6 +238,12 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [NIH Coronavirus Disease 2019 Situation Summary](https://www.nih.gov/health-information/coronavirus) 
 
 
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png" width="30%"/>
+    </a> 
+</p>
+
 [Bioinformatics resources for SARS-CoV-2](http://www.clinbioinfosspa.es/CovidResources) 
 
 
@@ -240,21 +251,44 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 
 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://www.kaggle.com/static/images/site-logo.png" width="30%"/>
+    </a> 
+</p>
 
 
 [World-o-Meter](https://www.worldometers.info/coronavirus/) 
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://www.worldometers.info/img/worldometers-logo.gif" width="30%"/>
+    </a> 
+</p>
 
 
 [How many tests for COVID-19 are being performed around the world?](https://ourworldindata.org/covid-testing) 
 
 
 [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) 
-
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/epidemic_calculator.png" width="30%"/>
+    </a> 
+</p>
 
 [SARS-CoV-2 pathways](https://www.wikipathways.org/index.php/Portal:Disease/COVIDPathways) 
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://www.wikipathways.org//skins/common/images/wplogo_125.png" width="30%"/>
+    </a> 
+</p>
 
 [Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
-
+<p align="center">
+    <a href="" title="See this resource">
+      <img src="https://opendata.euskadi.eus/images/w79-logo_opendata.gif" width="30%"/>
+    </a> 
+</p>
 
 [CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html) 
 
