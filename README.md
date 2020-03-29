@@ -574,6 +574,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Rockefeller-Led Team Launches Initiative to Study COVID-19 Genetic Vulnerability (GenomeWeb)](https://www.genomeweb.com/infectious-disease/rockefeller-led-team-launches-initiative-study-covid-19-genetic-vulnerability)
 
+[El Cabildo de Tenerife aporta una máquina de análisis de COVID-19 que hace 50 pruebas por hora](http://www.diariodetenerife.info/el-cabildo-de-tenerife-aporta-una-maquina-de-analisis-de-covid-19-que-hace-50-pruebas-por-hora/)
+
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
