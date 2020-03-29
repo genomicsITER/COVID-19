@@ -3,8 +3,9 @@
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
 <hr>
-## Table of contents ##
-## Sciencific data and resources ##
+
+# Table of contents #
+
 <br>
 <ul>
   <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
