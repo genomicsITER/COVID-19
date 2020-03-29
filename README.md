@@ -3,6 +3,7 @@
 
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
+Last update: March 29, 2020 (by JM)
 
 <hr>
 
