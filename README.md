@@ -249,8 +249,8 @@ Comunidades Aut&oacute;nomas:
 <a name="Protocols"></a>
 ## Protocols ##
 
-[WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans]() https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
-Updated March 25, 2020:
+[WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans (Updated March 25, 2020)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance) 
+
 <ul>
 <li>
 <a href="http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html" title="See this resorce">China CDC Primers and probes for detection 2019-nCoV (24 January 2020)</a>
@@ -435,28 +435,29 @@ https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1
 
 <a name="Guidelines"></a>
 ## Guidelines
-[]()WHO - Laboratory Biosafety Manual - Third Edition: 
-https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/
+[WHO - Laboratory Biosafety Manual - Third Edition](https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/) 
 
-[]()SemiSyuc: 
+
+[SemiSyuc]() 
 https://semicyuc.org/covid-19/#Documentos
-Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19: 
-https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf
+[Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19](https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf) 
 
-[]()Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings: https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html
 
-[]()Recomendaciones Institucionales de la Sociedad Española de Enfermedades Infeccionas y Microbiología Clínica (SEIMC): 
-https://seimc.org/documentos-cientificos/recomendaciones-institucionales
+[Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings](https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html
+)
 
-[]()Documento de posicionamiento de la SEIMC sobre el diagnstico microbiológo de COVID-19:
-https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf
+[Recomendaciones Institucionales de la Sociedad Española de Enfermedades Infeccionas y Microbiología Clínica (SEIMC)](https://seimc.org/documentos-cientificos/recomendaciones-institucionales) 
 
-[]()USA CDC Clean & Disinfect
-Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019: 
-https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html
 
-[]()WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19): interim guidance, 19 March 2020:
-https://apps.who.int/iris/handle/10665/331500
+[Documento de posicionamiento de la SEIMC sobre el diagnstico microbiológo de COVID-19](https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf)
+
+
+[USA CDC Clean & Disinfect
+Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
+
+
+[WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19) interim guidance, 19 March 2020:](https://apps.who.int/iris/handle/10665/331500)
+
 
 <p align="right">
   <a href="#Inicio">
@@ -468,8 +469,8 @@ https://apps.who.int/iris/handle/10665/331500
 
 <a name="Educational resources"></a>
 ## Educational resources ##
-[]()Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM:
-https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#
+[Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#)
+
 
 <p align="right">
   <a href="#Inicio">
@@ -482,13 +483,13 @@ https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/
 <a name="Respirators, masks, and other Personal Protective Equipments (PPE)"></a>
 ## Respirators, masks, and other Personal Protective Equipments (PPE)
 
-[]()N95 Respirators and Surgical Masks (Face Masks): 
-https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks
+[N95 Respirators and Surgical Masks (Face Masks)](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks)
 
-[]()Comparison of nanoparticle filtration performance of NIOSH-approved and CE-marked particulate filtering facepiece respirators
+
+[Comparison of nanoparticle filtration performance of NIOSH-approved and CE-marked particulate filtering facepiece respirators](https://www.ncbi.nlm.nih.gov/pubmed/19261695)
 https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
-[]()Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes: https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf
+[Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf) 
 
 <p align="right">
   <a href="#Inicio">
@@ -501,26 +502,26 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 <a name="Media sources"></a>
 ## Media sources
 
-[]()Financial Times: 
-https://www.ft.com/coronavirus-latest
+[Financial Times](https://www.ft.com/coronavirus-latest) 
 
-[]()Example of a device using UV-C for decontamination: 
-https://www.tmghealthtech.com/rds-32
 
-[]()Example of a Rapid Bio Decontamination Service, from Bioquell: 
-https://www.bioquell.com/life-sciences/systems-and-services/decontamination/?lang=en-uk
+[Example of a device using UV-C for decontamination](https://www.tmghealthtech.com/rds-32) 
 
-[]()How did Spain get its coronavirus response so wrong?
-https://www.theguardian.com/world/2020/mar/26/spain-coronavirus-response-analysis
 
-[]()Mount Sinai to Begin the Transfer of COVID-19 Antibodies into Critically Ill Patients:
-https://inside.mountsinai.org/blog/mount-sinai-to-begin-the-transfer-of-covid-19-antibodies-into-critically-ill-patients/
+[Example of a Rapid Bio Decontamination Service, from Bioquell](https://www.bioquell.com/life-sciences/systems-and-services/decontamination/?lang=en-uk) 
 
-[]()Los sesgos que engañan al cerebro durante la pandemia, El Pa&iacute;s: 
-https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-la-pandemia.html
 
-[]()The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors: 
-https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/
+[How did Spain get its coronavirus response so wrong?](https://www.theguardian.com/world/2020/mar/26/spain-coronavirus-response-analysis)
+
+
+[Mount Sinai to Begin the Transfer of COVID-19 Antibodies into Critically Ill Patients](https://inside.mountsinai.org/blog/mount-sinai-to-begin-the-transfer-of-covid-19-antibodies-into-critically-ill-patients/)
+
+
+[Los sesgos que engañan al cerebro durante la pandemia, El País](https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-la-pandemia.html) 
+
+
+[The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors](https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/) 
+
 
 <p align="right">
   <a href="#Inicio">
@@ -529,5 +530,3 @@ https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-
 </p>
 
 <hr>
-
-
