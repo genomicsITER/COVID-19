@@ -102,7 +102,7 @@ Comunidades Aut&oacute;nomas:
 </li>
 
 <li>
-<a href="Chttps://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus<" title="See this resource">Castilla La Mancha</a>
+<a href="https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus" title="See this resource">Castilla La Mancha</a>
 <a href="https://sanidad.castillalamancha.es/ciudadanos/enfermedades-infecciosas/coronavirus/actualizacion-de-casos-en-castilla-la-mancha" title="See this resource">Datos</a>
 </li>
 
