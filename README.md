@@ -526,6 +526,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <a name="Media sources"></a>
 ## Media sources
+> Selected media articles because of their informative content.
+> The opinions expressed in there do not reflect ITER institutional position.
 
 [Financial Times](https://www.ft.com/coronavirus-latest) 
 
