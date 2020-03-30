@@ -589,7 +589,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Rockefeller-Led Team Launches Initiative to Study COVID-19 Genetic Vulnerability (GenomeWeb)](https://www.genomeweb.com/infectious-disease/rockefeller-led-team-launches-initiative-study-covid-19-genetic-vulnerability)
 
-[El Cabildo de Tenerife aporta una máquina de análisis de COVID-19]()
+[El Cabildo de Tenerife aporta una máquina de análisis de COVID-19](http://www.diariodetenerife.info/el-cabildo-de-tenerife-aporta-una-maquina-de-analisis-de-covid-19-que-hace-50-pruebas-por-hora/)
 
 [COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
 
