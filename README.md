@@ -331,6 +331,12 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [COVID-19 Tracker Shiny app in R](https://mentalbreaks.shinyapps.io/covid19/)
 
+[United Against COVID-19](http://united-against-covid.org/)
+
+[PolyMath COVID-19 dataset clearinghouse](http://michaelnielsen.org/polymath1/index.php?title=COVID-19_dataset_clearinghouse)
+
+[Discourse Data Against Covid19](https://discourse.data-against-covid.org/)
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -585,6 +591,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [El Cabildo de Tenerife aporta una máquina de análisis de COVID-19]()
 
+[COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
 
 <p align="right">
   <a href="#covid-19">
