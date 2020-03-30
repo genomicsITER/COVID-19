@@ -410,7 +410,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [SemanticScholar COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 <p align="center">
     <a href="https://pages.semanticscholar.org/coronavirus-research" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/CORD-19.png" width="20%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/CORD-19.png" width="40%"/>
     </a> 
 </p>
 
