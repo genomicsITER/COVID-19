@@ -407,6 +407,13 @@ Comunidades y Ciudades Aut&oacute;nomas:
 > They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
 <br />
 
+[SemanticScholar COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+<p align="center">
+    <a href="https://pages.semanticscholar.org/coronavirus-research" title="See this resource">
+      <img src="https://www.wikipathways.org//skins/common/images/wplogo_125.png" width="20%"/>
+    </a> 
+</p>
+
 [Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response](https://bedford.io/blog/genomic-epi-for-ncov-response/) 
 
 [A Novel Coronavirus from Patients with Pneumonia in China, 2019](https://www.nejm.org/doi/10.1056/NEJMoa2001017) 
@@ -592,6 +599,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [El Cabildo de Tenerife aporta una máquina de análisis de COVID-19](http://www.diariodetenerife.info/el-cabildo-de-tenerife-aporta-una-maquina-de-analisis-de-covid-19-que-hace-50-pruebas-por-hora/)
 
 [COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
+
+[Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
 
 <p align="right">
   <a href="#covid-19">
