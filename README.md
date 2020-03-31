@@ -344,7 +344,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
     </a> 
 </p>
 
-[CSVS Babelomics visualiza los polimorfismos de la población española en los genes relevantes en COVIDー19](https://twitter.com/CSVS_es/status/1244286199243603972)
+[CSVS Babelomics Collaborative Spanish Variant Server to visualize polimorphisms in the Spanish population in genes related with COVIDー19](https://twitter.com/CSVS_es/status/1244286199243603972)
 
 <p align="right">
   <a href="#covid-19">
