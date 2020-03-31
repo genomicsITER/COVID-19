@@ -337,6 +337,15 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [Discourse Data Against Covid19](https://discourse.data-against-covid.org/)
 
+[International-Domestic spreading of 2019-nCoV-V4](https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lCB)
+<p align="center">
+    <a href="https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lC" title="See this resource">
+      <img src="https://opendata.euskadi.eus/images/w79-logo_opendata.gif" width="30%"/>
+    </a> 
+</p>
+
+[CSVS Babelomics visualiza los polimorfismos de la población española en los genes relevantes en COVIDー19](https://twitter.com/CSVS_es/status/1244286199243603972)
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -569,6 +578,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf) 
 
+[Ventilators are in high demand for Covid-19 patients. How do they work?](https://www.statnews.com/2020/03/30/covid-19-ventilators-how-they-work/)
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -611,4 +622,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: March 30, 2020 (by JM)
+Last update: March 31, 2020 (by JM)
