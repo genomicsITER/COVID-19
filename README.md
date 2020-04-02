@@ -554,6 +554,11 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19) interim guidance, 19 March 2020:](https://apps.who.int/iris/handle/10665/331500)
 
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
+<p align="center">
+    <a href="https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php" title="See this resource">
+      <img src="https://www.thoracic.org/_files/images/logoats.jpg" width="30%"/>
+    </a> 
+</p>
 
 <p align="right">
   <a href="#covid-19">
