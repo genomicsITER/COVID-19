@@ -347,6 +347,14 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [CSVS Babelomics Collaborative Spanish Variant Server to visualize polimorphisms in the Spanish population in genes related with COVIDー19](https://twitter.com/CSVS_es/status/1244286199243603972)
 
+[Jupyter R notebook for prediction modelling of Covid-19 data. Predictive modelling of 2019-nCov outbreak data in Canary Islands. Departamento de Matemáticas, Estadística e Investigación Operativa, ULL](https://github.com/ULL-STAT/covid19_model)
+<p align="center">
+    <a href="https://github.com/ULL-STAT/covid19_model" title="See this resource">
+      <img src="https://hub.gke.mybinder.org/user/ull-stat-covid19_model-ei2yus3p/notebooks/EIO_ULL_logo.png" width="30%"/>
+    </a> 
+</p>
+
+
 <p align="right">
   <a href="#covid-19">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
