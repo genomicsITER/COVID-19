@@ -510,6 +510,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf)
 
+[Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
+
 [Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
 
 <p align="right">
