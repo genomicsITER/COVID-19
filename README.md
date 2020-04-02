@@ -141,7 +141,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </p>
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
