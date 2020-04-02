@@ -552,6 +552,12 @@ https://semicyuc.org/covid-19/#Documentos
 Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
 
 [WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19) interim guidance, 19 March 2020:](https://apps.who.int/iris/handle/10665/331500)
+<p align="center">
+    <a href="https://apps.who.int/iris/handle/10665/331500" title="See this resource">
+      <img src="https://apps.who.int/iris/themes/WHO//images/en/who_logo.svg" width="30%"/>
+    </a> 
+</p>
+
 
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 <p align="center">
