@@ -246,7 +246,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 <hr>
 
-[Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV) Modelling Uncertainty Quantification, Reports in PDF](https://www.imm.upv.es/covid-19/) 
+[Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV) Modelling Uncertainty Quantification, Reports in PDF](https://www.imm.upv.es/covid-19/) [Modelización epidemiolgica: Informes](https://covid19.webs.upv.es/informes.html)
 
 <p align="center">
     <a href="https://www.imm.upv.es/covid-19/" title="See this resource">
