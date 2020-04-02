@@ -558,11 +558,10 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
-
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 <p align="center">
     <a href="https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php" title="See this resource">
-      <img src="https://www.thoracic.org/_files/images/logoats.jpg" width="30%"/>
+      <img src="https://www.thoracic.org/_files/images/logoats.jpg" width="40%"/>
     </a> 
 </p>
 
@@ -648,4 +647,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: April 2, 2020 (by JM)
+Last update: 23:18 GMT - April 2, 2020 (by JM)
