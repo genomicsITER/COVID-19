@@ -14,7 +14,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Comunidades Autónomas" >Comunidades Aut&oacute;nomas</a></li>
   <li><a href="#Protocols">Protocols</a></li>
   <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
-  <li><a href="#Guidelines">Guidelines</a></li>
+  <li><a href="#Guidelines, Society's Clinical and Professional Statements">Guidelines, Society's Clinical and Professional Statements</a></li>
   <li><a href="#Educational resources">Educational resources</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Media sources">Media sources</a></li>
@@ -531,7 +531,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <hr>
 
-<a name="Guidelines"></a>
+<a name="Guidelines, Society's Clinical and Professional Statements"></a>
 ## Guidelines
 > A colection of guides and documents from different natianal and international institutions with means to protect people againts COVID-19, including biosafety guidelines, decontamination recommendations and risks, etc. 
 > The opinions expressed in there do not reflect ITER institutional position.
@@ -552,6 +552,8 @@ https://semicyuc.org/covid-19/#Documentos
 Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
 
 [WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19) interim guidance, 19 March 2020:](https://apps.who.int/iris/handle/10665/331500)
+
+[Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 
 <p align="right">
   <a href="#covid-19">
