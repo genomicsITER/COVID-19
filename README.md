@@ -373,7 +373,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
     </a> 
 </p>
 
-[WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans (Updated March 25, 2020)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance) 
+[WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans (Updated March 25, 2020)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance) [In-house developed molecular assays, not validated, probably still under development, but not necessarily updated here](https://www.who.int/docs/default-source/coronaviruse/whoinhouseassays.pdf?sfvrsn=de3a76aa_2)
 
 <ul>
 <li>
