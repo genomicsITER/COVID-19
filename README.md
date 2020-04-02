@@ -366,6 +366,13 @@ Comunidades y Ciudades Aut&oacute;nomas:
 <a name="Protocols"></a>
 ## Protocols ##
 
+[Shared SARS-COV-2 DIAGNOSTIC PIPELINES at FinDX](https://www.finddx.org/covid-19/pipeline/)
+<p align="center">
+    <a href="https://www.finddx.org/covid-19/pipeline/" title="See this resource">
+      <img src="https://www.finddx.org/wp-content/themes/find/img/logo_header.svg" width="15%"/>
+    </a> 
+</p>
+
 [WHO Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans (Updated March 25, 2020)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance) 
 
 <ul>
