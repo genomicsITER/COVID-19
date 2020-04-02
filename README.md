@@ -237,7 +237,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </ul>
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -356,7 +356,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -412,7 +412,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [China CDC Real-time RT-PCR protocol](http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf)
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -524,7 +524,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -566,7 +566,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -585,7 +585,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [We need #masks4all, in Youtube](https://youtu.be/BoDwXwZXsDI)
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -606,7 +606,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Ventilators are in high demand for Covid-19 patients. How do they work?](https://www.statnews.com/2020/03/30/covid-19-ventilators-how-they-work/)
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
@@ -641,7 +641,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
 
 <p align="right">
-  <a href="#covid-19">
+  <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
