@@ -283,6 +283,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [Bioinformatics resources for SARS-CoV-2](http://www.clinbioinfosspa.es/CovidResources) 
 
+[Coronavirus analysis tools developed by scientists at the University of Tartu, Estonia](https://koroona.ut.ee/?lang=en)
 
 [SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing) 
 
