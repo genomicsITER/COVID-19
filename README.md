@@ -532,6 +532,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction](https://www.biorxiv.org/content/10.1101/2020.03.28.013508v1)
 
+[Nature Special Report. Special report: The simulations driving the world’s response to COVID-19. How epidemiologists rushed to model the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01003-6)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
