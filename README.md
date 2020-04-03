@@ -575,8 +575,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [CEN and CENELEC make European standards available to help prevent the COVID-19 contagion](https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx)
 <p align="center">
     <a href="https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx" title="See this resource">
-      <img src="https://www.cencenelec.eu/_layouts/1033/STYLES/CENCENELECResponsive/img/device-cen-cenelec.gif
-" width="40%"/>
+      <img src="https://www.cencenelec.eu/_layouts/1033/STYLES/CENCENELECResponsive/img/device-cen-cenelec.gif" width="40%"/>
     </a> 
 </p>
 
