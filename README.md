@@ -600,6 +600,13 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [Czech campaign #masks4all](https://docs.google.com/document/u/0/d/1EWpWmyjzM4sNBF-7jp_1Y9a-pqiRg0wakGXy7kj11RA/mobilebasic)
 [We need #masks4all, in Youtube](https://youtu.be/BoDwXwZXsDI)
 
+[COVID-19 and chest CT: protocol and dose optimization](https://www.iaea.org/resources/webinar/covid-19-and-chest-ct-protocol-and-dose-optimization)
+<p align="center">
+    <a href="https://www.iaea.org/resources/webinar/covid-19-and-chest-ct-protocol-and-dose-optimization" title="See this resource">
+      <img src="https://www.iaea.org/sites/default/files/iaea-logo.png" width="40%"/>
+    </a> 
+</p>
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
