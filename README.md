@@ -656,6 +656,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
 
+[How sewage could reveal true scale of coronavirus outbreak](https://www.nature.com/articles/d41586-020-00973-x)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -663,4 +665,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 15:08 GMT - April 3, 2020 (by JM)
+Last update: 21:51 GMT - April 3, 2020 (by JM)
