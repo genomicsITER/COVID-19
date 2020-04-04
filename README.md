@@ -686,7 +686,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
-> Section to highlight the main contributors of many links within this repository.
+> Section to highlight the contributors of many links within this repository.
+> Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 <ul>
   <li>Agust&iacute;n Valenzuela (ULL)</li>
   <li>Carlos Javier P&eacute;z (ULL)</li>
@@ -701,4 +702,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 12:29 GMT - April 4, 2020 (by JM)
+Last update: 00:02 GMT - April 5, 2020 (by JM)
