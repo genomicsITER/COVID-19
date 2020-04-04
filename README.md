@@ -528,6 +528,12 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
 
+[https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1.full.pdf](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
+
+[Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)](http://www.en-journal.org/journal/view.html?doi=10.5607/en20009)
+
+[Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
+
 [Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
 
 [SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction](https://www.biorxiv.org/content/10.1101/2020.03.28.013508v1)
@@ -674,4 +680,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 21:51 GMT - April 3, 2020 (by JM)
+Last update: 12:29 GMT - April 4, 2020 (by JM)
