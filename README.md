@@ -18,6 +18,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Educational resources">Educational resources</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Media sources">Media sources</a></li>
+  <li><a href="#Acknowledgements">Acknowledgements</a></li>
   </ul>
 <hr>
 
@@ -672,6 +673,26 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
 
 [How sewage could reveal true scale of coronavirus outbreak](https://www.nature.com/articles/d41586-020-00973-x)
+
+[NYT, Bad News Wrapped in Protein: Inside the Coronavirus Genome](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+
+<a name="Acknowledgements"></a>
+## Acknowledgements ##
+> Section to highlight the main contributors of many links within this repository.
+<ul>
+  <li>Agust&iacute;n Valenzuela (ULL)</li>
+  <li>Carlos Javier P&eacute;z (ULL)</li>
+  <li>Mar&iacute; López (FIMERALL-SEGAI, ULL)</li>
+  <li>Carlos Flores (FIISC, ITER)</li>
+</ul>
 
 <p align="right">
   <a href="#covid-19" title="Up">
