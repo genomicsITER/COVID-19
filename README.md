@@ -689,10 +689,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 > Section to highlight the contributors of many links within this repository.
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 <ul>
-  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez(ULL)</li>
-  <li>Carlos Javier P&eacute;rez Gonz&aacute;lez(ULL)</li>
-  <li>Mar&iacute; López P&eacute;rez(FIMERALL-SEGAI, ULL)</li>
-  <li>Carlos Flores Infante(FIISC, ITER)</li>
+  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL)</li>
+  <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL)</li>
+  <li>Mar&iacute; López P&eacute;rez (FIMERALL-SEGAI, ULL)</li>
+  <li>Carlos Flores Infante (FIISC, ITER)</li>
 </ul>
 
 <p align="right">
