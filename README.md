@@ -593,7 +593,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [European CDC, Considerations relating to social distancing measures in response to COVID-19 – second update](https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second)
 <p align="center">
     <a href="https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second" title="See this resource">
-      <img src="https://www.ecdc.europa.eu/profiles/custom/ecdc/themes/anthrax/images/logo-ecdc.png" width="30%"/>
+      <img src="https://www.ecdc.europa.eu/profiles/custom/ecdc/themes/anthrax/images/logo-ecdc.png" width="25%"/>
     </a> 
 </p>
 
