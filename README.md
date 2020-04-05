@@ -590,6 +590,15 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
+[European CDC, Considerations relating to social distancing measures in response to COVID-19 – second update](https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second)
+<p align="center">
+    <a href="https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second" title="See this resource">
+      <img src="https://www.ecdc.europa.eu/profiles/custom/ecdc/themes/anthrax/images/logo-ecdc.png
+" width="40%"/>
+    </a> 
+</p>
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
