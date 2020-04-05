@@ -674,6 +674,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [How sewage could reveal true scale of coronavirus outbreak](https://www.nature.com/articles/d41586-020-00973-x)
 
+[Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/)
+
 [NYT, Bad News Wrapped in Protein: Inside the Coronavirus Genome](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html)
 
 <p align="right">
