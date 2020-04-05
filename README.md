@@ -355,6 +355,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
     </a> 
 </p>
 
+[Explore the Spread of Covid-19, Humboldt-Universität zu Berlin](https://trr266.wiwi.hu-berlin.de/shiny/tidycovid19/)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -541,6 +542,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Nature Special Report. Special report: The simulations driving the world’s response to COVID-19. How epidemiologists rushed to model the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01003-6)
 
+[Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -714,4 +717,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 17:14 GMT - April 5, 2020 (by JM)
+Last update: 22:07 GMT - April 5, 2020 (by JM)
