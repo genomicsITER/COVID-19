@@ -716,6 +716,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Reproducible analyses for rejecting rare genomic inversions in SARS-CoV-2](https://github.com/alexcritschristoph/sars_cov_2_inversion)
 
+[SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies](https://www.biorxiv.org/content/10.1101/2020.03.27.009480v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
