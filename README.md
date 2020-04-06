@@ -627,6 +627,14 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
+[COVID-19 Preparedness for Radiotherapy Departments - Towards Consensus on Best Practices](https://humanhealth.iaea.org/HHW/)
+
+<p align="center">
+    <a href="https://humanhealth.iaea.org/HHW/" title="See this resource">
+      <img src="https://humanhealth.iaea.org/HHW/resources/images/product-name.png" width="40%"/>
+    </a> 
+</p>
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -717,4 +725,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 22:07 GMT - April 5, 2020 (by JM)
+Last update: 16:34 GMT - April 6, 2020 (by JMLS)
