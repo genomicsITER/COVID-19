@@ -668,6 +668,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Clarificación de los diferentes tipos de mascarillas, Ministerio de Sanidad](https://www.redaccionmedica.com/contenido/images/1_clarificacion_diferentes_tipos_mascarillas.pdf)
 
+[Marcado CE de las mascarillas, Ministerio de Industrial, Comercio y Turismo](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/2_mascarillas_tipo_EPI_como_legalizarlas_v2.0.pdf)
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
