@@ -743,6 +743,50 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [U.S. National Library of Medicine, ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=COVID&term=&cntry=&state=&city=&dist=)
 
+
+<ul>
+
+<li>[Anakinra Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=anakinra&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Azithromycin Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?term=Azithromycin&cond=COVID(</li>
+
+<li>[Colchicina Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=colchicine&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Darunavir Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Darunavir&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Cobicistat Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=cobicistat&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Hydroychloroquine Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?term=chloroquine&cond=COVID(</li>
+
+<li>[Interferon Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=interferon&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Lopinavir Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=lopinavir&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Remdesivir Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?term=remdesivir&cond=COVID(</li>
+
+<li>[Ritonavir Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Ritonavir&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Sarilumab Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Sarilumab&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Siltuximab Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Siltuximab&cntry=&state=&city=&dist=&Search=Search(</li>
+
+<li>[Tocilizumab Clinical Trials]
+(https://clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab&cntry=&state=&city=&dist=&Search=Search(</li>
+
+</ul>
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
