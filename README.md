@@ -548,7 +548,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation](https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
 
-[irological assessment of hospitalized patients with COVID-2019](https://www.nature.com/articles/s41586-020-2196-x)
+[Virological assessment of hospitalized patients with COVID-2019](https://www.nature.com/articles/s41586-020-2196-x)
+
+[Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
