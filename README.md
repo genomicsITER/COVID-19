@@ -737,7 +737,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <hr>
 
-<a name="#Clinical Trials"></a>
+<a name="Clinical Trials"></a>
 ## Clinical Trials ##
 > Section to show on-going clinical trials to figth against COVID-19
 
