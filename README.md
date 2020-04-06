@@ -713,6 +713,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 <a name="Genomics of SARS-CoV-2"></a>
 ## Genomics of SARS-CoV-2 ""
 > Section devoted to show main findings in the genomics of the virus
+
 [Reproducible analyses for rejecting rare genomic inversions in SARS-CoV-2](https://github.com/alexcritschristoph/sars_cov_2_inversion)
 
 <p align="right">
