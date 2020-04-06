@@ -18,6 +18,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Educational resources">Educational resources</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Media sources">Media sources</a></li>
+  <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   </ul>
 <hr>
@@ -709,6 +710,19 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <hr>
 
+<a name="Genomics of SARS-CoV-2"></a>
+## Genomics of SARS-CoV-2 ""
+> Section devoted to show main findings in the genomics of the virus
+[Reproducible analyses for rejecting rare genomic inversions in SARS-CoV-2](https://github.com/alexcritschristoph/sars_cov_2_inversion)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
 > Section to highlight the contributors of many links within this repository.
@@ -729,4 +743,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 16:34 GMT - April 6, 2020 (by JMLS)
+Last update: 16:49 GMT - April 6, 2020 (by JMLS)
