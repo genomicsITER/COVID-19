@@ -546,7 +546,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
 
-[SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation (https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
+[SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation](https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
 
 [Virological assessment of hospitalized patient](https://www.nature.com/articles/s41586-020-2196-x)
 
