@@ -745,44 +745,31 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <ul>
 
-<li>[Anakinra Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=anakinra&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=anakinra&cond=COVID">Anakinra Clinical Trials</a></li>
 
-<li>[Azithromycin Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?term=Azithromycin&cond=COVID)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=azithromycin&cond=COVID">Azithromycin Clinical Trials</a></li>
 
-<li>[Colchicina Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=colchicine&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=colchicina&cond=COVID">Colchicina Clinical Trials</a></li>
 
-<li>[Darunavir Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Darunavir&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=darunavir&cond=COVID">Darunavir Clinical Trials</a></li>
 
-<li>[Cobicistat Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=cobicistat&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=cobicistat&cond=COVID">Cobicistat Clinical Trials</a></li>
 
-<li>[Hydroychloroquine Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?term=chloroquine&cond=COVID)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=hydrychloroquine&cond=COVID">Hydrychloroquine Clinical Trials/a></li>
 
-<li>[Interferon Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=interferon&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=interferon&cond=COVID">Interferon Clinical Trials</a></li>
 
-<li>[Lopinavir Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=lopinavir&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=lopinavir&cond=COVID">Lopinavir Clinical Trials</a></li>
 
-<li>[Remdesivir Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?term=remdesivir&cond=COVID)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=remdesivir&cond=COVID">Remdesivir Clinical Trials</a></li>
 
-<li>[Ritonavir Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Ritonavir&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=ritonavir&cond=COVID">Ritonavir Clinical Trials</a></li>
 
-<li>[Sarilumab Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Sarilumab&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=sarilumab&cond=COVID">Sarilumab Clinical Trials</a></li>
 
-<li>[Siltuximab Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=Siltuximab&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=siltuximab&cond=COVID">Siltuximab Clinical Trials</a></li>
 
-<li>[Tocilizumab Clinical Trials]
-(https://clinicaltrials.gov/ct2/results?cond=COVID&term=tocilizumab&cntry=&state=&city=&dist=&Search=Search)</li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=tocilizumab&cond=COVID">Tocilizumab Clinical Trials</a></li>
 
 </ul>
 
