@@ -19,6 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
+  <li><a href="#Clinical Trials">Clinical Trials</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   </ul>
 <hr>
@@ -727,6 +728,20 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Reproducible analyses for rejecting rare genomic inversions in SARS-CoV-2](https://github.com/alexcritschristoph/sars_cov_2_inversion)
 
 [SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies](https://www.biorxiv.org/content/10.1101/2020.03.27.009480v1)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+
+<a name="#Clinical Trials"></a>
+## Clinical Trials ##
+> Section to show on-going clinical trials to figth against COVID-19
+
+[U.S. National Library of Medicine, ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=COVID&term=&cntry=&state=&city=&dist=)
 
 <p align="right">
   <a href="#covid-19" title="Up">
