@@ -743,8 +743,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [U.S. National Library of Medicine, ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=COVID&term=&cntry=&state=&city=&dist=)
 
-
-
 <ul>
 
 <li>[Anakinra Clinical Trials]
