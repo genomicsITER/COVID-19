@@ -755,7 +755,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=cobicistat&cond=COVID">Cobicistat Clinical Trials</a></li>
 
-<li><a href="https://clinicaltrials.gov/ct2/results?term=hydrychloroquine&cond=COVID">Hydrychloroquine Clinical Trials/a></li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=hydrychloroquine&cond=COVID">Hydrychloroquine Clinical Trials</a></li>
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=interferon&cond=COVID">Interferon Clinical Trials</a></li>
 
