@@ -359,6 +359,8 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [Explore the Spread of Covid-19, Humboldt-Universität zu Berlin](https://trr266.wiwi.hu-berlin.de/shiny/tidycovid19/)
 
+[COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
