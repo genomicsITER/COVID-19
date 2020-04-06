@@ -554,6 +554,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
 
+[Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v2)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -735,6 +736,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies](https://www.biorxiv.org/content/10.1101/2020.03.27.009480v1)
 
 [Proyecto Epidemiologia Genomica COVID 19](https://evosalut1.uv.es/)
+
+[CovProfile: profiling the viral genome and gene expressions of SARS-COV2](https://www.biorxiv.org/content/10.1101/2020.04.05.026146v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
