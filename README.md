@@ -544,6 +544,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
 
+[SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation (https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -628,12 +630,14 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 [COVID-19 Preparedness for Radiotherapy Departments - Towards Consensus on Best Practices](https://humanhealth.iaea.org/HHW/)
-
 <p align="center">
     <a href="https://humanhealth.iaea.org/HHW/" title="See this resource">
       <img src="https://humanhealth.iaea.org/HHW/resources/images/product-name.png" width="40%"/>
     </a> 
 </p>
+
+[Actualización sobre la situación de la COVID-19, Dr. Josep Maria Miró](https://www.youtube.com/watch?v=VcURN4NnaJI)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
