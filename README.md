@@ -547,6 +547,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation (https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
 
+[Virological assessment of hospitalized patient](https://www.nature.com/articles/s41586-020-2196-x)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -639,6 +641,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Actualización sobre la situación de la COVID-19, Dr. Josep Maria Miró](https://www.youtube.com/watch?v=VcURN4NnaJI)
 
+[SARS-CoV-2 (COVID-19) by the n. EPIDEMIOLOGY AND GLOBAL HEALTH MICROBIOLOGY AND INFECTIOUS DISEASE elife](https://elifesciences.org/articles/57309)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -660,6 +663,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf) 
 
 [Ventilators are in high demand for Covid-19 patients. How do they work?](https://www.statnews.com/2020/03/30/covid-19-ventilators-how-they-work/)
+
+[Guías para la fabricación de mascarillas y ropa de protección, Ministerio de Sanidad](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
+
+[Clarificación de los diferentes tipos de mascarillas, Ministerio de Sanidad](https://www.redaccionmedica.com/contenido/images/1_clarificacion_diferentes_tipos_mascarillas.pdf)
 
 <p align="right">
   <a href="#covid-19" title="Up">
