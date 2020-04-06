@@ -774,6 +774,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 </ul>
 
+[European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
