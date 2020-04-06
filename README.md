@@ -743,7 +743,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 ## Clinical Trials ##
 > Section to show on-going clinical trials to figth against COVID-19
 
-[U.S. National Library of Medicine, ClinicalTrials.gov](https://clinicaltrials.gov/ct2/results?cond=COVID&term=&cntry=&state=&city=&dist=)
+[U.S. National Library of Medicine, ClinicalTrials.gov, Clinical Trials ordered by treatment](https://clinicaltrials.gov/ct2/results?cond=COVID&term=&cntry=&state=&city=&dist=)
 
 
 <ul>
