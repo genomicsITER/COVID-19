@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis.
 
 
 # Table of contents #
@@ -444,6 +444,8 @@ Comunidades y Ciudades Aut&oacute;nomas:
 > They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
 <br />
 
+[REACTing research & action targeting emerging infectious diseases web portal. Selection of the most relevant articles published on COVID-19 on a bi-weekly basis. France](https://reacting.inserm.fr/literature-review/)
+
 [SemanticScholar COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 <p align="center">
     <a href="https://pages.semanticscholar.org/coronavirus-research" title="See this resource">
@@ -824,4 +826,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 09:04 MT - April 7, 2020 (by JMLS)
+Last update: 10:29 GMT - April 7, 2020 (by JMLS)
