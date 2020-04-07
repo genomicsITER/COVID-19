@@ -24,7 +24,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Clinical Trials">Clinical Trials</a></li>
-  <li><a href="#Research Coations and Funding Calls">Research Coations and Funding Calls</a></li>
+  <li><a href="#Research Coalitions and Funding Calls">Research Coations and Funding Calls</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
 </ul>
