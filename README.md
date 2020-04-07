@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific data and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis; public and private Research Coations and Funding Calls, new section, new contact section.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific data and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis; public and private Research Coalitions and Funding Calls, new section, new contact section.
 
 
 # Table of contents #
