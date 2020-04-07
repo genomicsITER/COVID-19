@@ -826,4 +826,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 10:29 GMT - April 7, 2020 (by JMLS <a href="https://twitter.com/resocios">@resocios<img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="40%" /></a>)
+Last update: 10:29 GMT - April 7, 2020 (by JMLS <a href="https://twitter.com/resocios">@resocios<img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="16px" /></a>)
