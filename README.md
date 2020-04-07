@@ -7,7 +7,7 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 <hr>
-<p style="background-color: #FFFF00">Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain</p>.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain.
 
 # Table of contents #
 <ul>
