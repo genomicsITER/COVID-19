@@ -7,6 +7,7 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 <hr>
+> Updated today: webinars in Education.
 
 # Table of contents #
 <ul>
@@ -650,6 +651,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [SARS-CoV-2 (COVID-19) by the n. EPIDEMIOLOGY AND GLOBAL HEALTH MICROBIOLOGY AND INFECTIOUS DISEASE elife](https://elifesciences.org/articles/57309)
 
+[International AIDS Society COVID-19 and HIV: Webinar series: "COVID-19 and HIV: What you need to know"](https://www.iasociety.org/HIV-Programmes/Cross-cutting-issues/COVID-19-and-HIV-Webinars)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -814,4 +817,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 21:14 GMT - April 6, 2020 (by JMLS)
+Last update: 08:29 GMT - April 7, 2020 (by JMLS)
