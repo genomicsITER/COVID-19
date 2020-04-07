@@ -7,7 +7,7 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 <hr>
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain.
 
 # Table of contents #
 <ul>
@@ -788,6 +788,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 <li><a href="https://clinicaltrials.gov/ct2/results?term=tocilizumab&cond=COVID">Tocilizumab clinical trials</a></li>
 
 </ul>
+
+[Clinical Trials in Spain](https://clinicaltrials.gov/ct2/results?cond=COVID-19&term=&cntry=ES&state=&city=&dist=&Search=Search)
 
 [European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
 
