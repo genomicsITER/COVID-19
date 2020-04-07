@@ -826,6 +826,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [European Comission Coronavirus research and innovation. Research and innovation projects and initiatives to tackle the spread of coronavirus and preparedness for other outbreaks](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research_en)
 
+[Solicitud urgente de Expresiones de Interés para la financiacin extraordinaria de proyectos de investigacin sobre el SARS-CoV-2 y la enfermedad COVID-19, Ministerio de Ciencia e Innovacin, España](https://www.isciii.es/QueHacemos/Financiacion/Paginas/SolicitudExpresionesInteresCoVid19.aspx#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=solicitud-urgente-de-expresiones-de-interes-para-la-financiacion-extraordinaria-de-proyectos-de-investigacion-sobre-el-sars-cov-2-y-la-enfermedad-covid19)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
