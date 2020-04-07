@@ -11,6 +11,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 > Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain.
 
+
 # Table of contents #
 <ul>
   <li><a href="#Sciencific data and resources" >Sciencific data and resources</a></li>
