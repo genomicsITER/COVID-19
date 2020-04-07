@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis; new contact section.
 
 
 # Table of contents #
@@ -25,7 +25,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Clinical Trials">Clinical Trials</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
-  </ul>
+  <li><a href="#Contact us">Contact us</a></li>
+</ul>
 <hr>
 
 <a name="Sciencific data and resources"></a>
@@ -826,4 +827,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-Last update: 10:29 GMT - April 7, 2020 (by JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>)
+
+<a name="Contact us"></a>
+## Contact us ##
+
+<a href="https://www.iter.es/areas/area-genomica/" tile="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">Contact us at ITER/a>
+ 
+Last update: 10:29 GMT - April 7, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
