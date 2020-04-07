@@ -820,6 +820,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [CaixaImpulse COVID-19 Call for projects that address the COVID-19 emergency open until 15 April](https://caixaimpulse.com/programme?program_id=PROGRAMME_COVID_19)
 
+[European Comission Funding & tender opportunities Single Electronic Data Interchange Area (SEDIA)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/covid-19)
+
+[European Research Council List of ERC-funded Research Projects related to coronavirus](https://erc.europa.eu/list-erc-funded-research-projects-related-coronavirus)
+
 <hr>
 
 <a name="Acknowledgements"></a>
