@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis; new contact section.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis; new contact section; public and private Research Coations and Funding Calls, new section.
 
 
 # Table of contents #
@@ -24,6 +24,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Clinical Trials">Clinical Trials</a></li>
+  <li><a href="#Research Coations and Funding Calls">Research Coations and Funding Calls</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
 </ul>
@@ -807,6 +808,20 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <hr>
 
+<a name="Research Coations and Funding Calls"></a>
+## Research Coations and Funding Calls ##
+> 
+
+[COVID-19 Clinical Research Coalition](https://covid19crc.org/)
+
+[COVID-Zero Coalition](https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero)
+
+[WHO The Global Preparedness Monitoring Board](https://apps.who.int/gpmb/)
+
+[CaixaImpulse COVID-19 Call for projects that address the COVID-19 emergency open until 15 April](https://caixaimpulse.com/programme?program_id=PROGRAMME_COVID_19)
+
+<hr>
+
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
 > Section to highlight the contributors of many links within this repository.
@@ -837,4 +852,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
   </a>
 </p>
 
-Last update: 10:55 GMT - April 7, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:03 GMT - April 7, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
