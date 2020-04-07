@@ -831,6 +831,10 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 <a name="Contact us"></a>
 ## Contact us ##
 
-<a href="https://www.iter.es/areas/area-genomica/" tile="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">Contact us at ITER/a>
- 
+ <p align="left">
+  <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
+    <img src="https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="30%" />
+  </a>
+</p>
+
 Last update: 10:29 GMT - April 7, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
