@@ -7,7 +7,7 @@
 # COVID-19
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 <hr>
-> Updated today: webinars in Education.
+> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources.
 
 # Table of contents #
 <ul>
@@ -361,6 +361,8 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [Explore the Spread of Covid-19, Humboldt-Universität zu Berlin](https://trr266.wiwi.hu-berlin.de/shiny/tidycovid19/)
 
 [COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
+
+[The COVID Tracking Project, testing data available for US states and territories](https://covidtracking.com/)
 
 <p align="right">
   <a href="#covid-19" title="Up">
