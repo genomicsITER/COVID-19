@@ -826,6 +826,12 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [European Comission Coronavirus research and innovation. Research and innovation projects and initiatives to tackle the spread of coronavirus and preparedness for other outbreaks](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research_en)
 
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <hr>
 
 <a name="Acknowledgements"></a>
