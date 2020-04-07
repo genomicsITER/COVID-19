@@ -824,6 +824,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [European Research Council List of ERC-funded Research Projects related to coronavirus](https://erc.europa.eu/list-erc-funded-research-projects-related-coronavirus)
 
+[European Comission Coronavirus research and innovation. Research and innovation projects and initiatives to tackle the spread of coronavirus and preparedness for other outbreaks](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research_en)
+
 <hr>
 
 <a name="Acknowledgements"></a>
