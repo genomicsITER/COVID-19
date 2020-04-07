@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain.
+> <p style="background-color: #FFFF00">Updated today: webinars in Education; The COVID Tracking Project in Scientific dada and resources; clinical trials in Spain.</p>
 
 # Table of contents #
 <ul>
