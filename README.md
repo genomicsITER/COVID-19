@@ -433,6 +433,12 @@ Comunidades y Ciudades Aut&oacute;nomas:
 [Chinese Center for Disease and Control and Prevention](http://www.chinacdc.cn/en/COVID19/)
 [China CDC Real-time RT-PCR protocol](http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf)
 
+[SwabSeq. Allows for detection of SARS-COV-2 genomic RNA, without purification, in a single-step RT-PCR followed by sequencing. By OctanBio](https://github.com/octantbio/SwabSeq)
+
+[A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20) [Protocol](https://t.co/x2c2v8uvw3?amp=1) [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
+
+[DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -773,6 +779,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [Genomic variations of SARS-CoV-2 suggest multiple outbreak sources of transmission](https://www.medrxiv.org/content/10.1101/2020.02.25.20027953v2)
 
 [A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v3)
+
+[SARS-CoV-2 Receptor ACE2 is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Enriched in Specific Cell Subsets Across Tissues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555145)
 
 <p align="right">
   <a href="#covid-19" title="Up">
