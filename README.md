@@ -916,8 +916,8 @@ Autonomous Regions and Cities in Spain:
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 <ul>
   <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D" title="Follow to @SciArt3 on Twitter">@SciArt3</a></li>
-  <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL)</li>
-  <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga" title="Follow to joluroga on Twitter">@joluroga</a></i>
+  <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL) <a href="https://twitter.com/cpgonzal" title="Follow to @cpgonzal on Twitter">@cpgonzal</a></li>
+  <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga" title="Follow to @joluroga on Twitter">@joluroga</a></i>
   <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook" title="Follow to @MColebrook on Twitter">@MColebrook</a></li>
   <li>Mar&iacute;a López P&eacute;rez (FIMERALL-SEGAI, ULL)</li>
   <li>Carlos Flores Infante (FIISC, ITER) <a href="https://twitter.com/LabCflores" title="Follow to @LabCflores on Twitter">@LabCflores</a></li>
