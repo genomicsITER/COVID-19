@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; rapid tests section.
+> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; rapid tests section; new entries in the genomics section.
 
 
 # Table of contents #
@@ -25,7 +25,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Clinical Trials">Clinical Trials</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coations and Funding Calls</a></li>
-  <li><a hre="Rapid Test">Rapid Tests</a></li>
+  <li><a href="#Rapid Tests">Rapid Tests</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
 </ul>
@@ -762,6 +762,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [MERS-CoV recombination: implications about the reservoir and potential for adaptation](https://academic.oup.com/ve/article/2/1/vev023/1753363)
 
+[Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa203/5780800)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -820,8 +822,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 <hr>
 
 <a name="Research Coations and Funding Calls"></a>
-## Research Coations and Funding Calls ##
-> 
+## Research Coalitions and Funding Calls ##
+> Section to collect open calls in the research funding arena.
 
 [COVID-19 Clinical Research Coalition](https://covid19crc.org/)
 
