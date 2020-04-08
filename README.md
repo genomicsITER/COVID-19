@@ -556,6 +556,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
 
+[Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
