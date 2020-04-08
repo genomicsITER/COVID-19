@@ -766,6 +766,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
 
+[Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal](https://mra.asm.org/content/9/11/e00169-20)
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
