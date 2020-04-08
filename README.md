@@ -772,6 +772,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Genomic variations of SARS-CoV-2 suggest multiple outbreak sources of transmission](https://www.medrxiv.org/content/10.1101/2020.02.25.20027953v2)
 
+[A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v3)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
