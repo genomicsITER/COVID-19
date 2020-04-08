@@ -691,7 +691,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <p align="center">
     <a href="https://www.imm.upv.es/covid-19/" title="See this resource">
-      <img src="http://covid19.webs.upv.es//IMAGES/MUNQU.png" width="20%"/>
+      <img src="http://covid19.webs.upv.es/IMAGENES/prueba3.png" width="20%"/>
     </a> 
 </p>
 
