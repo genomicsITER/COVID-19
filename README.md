@@ -923,7 +923,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 <a name="Contact us"></a>
 ## Contact us ##
-> Want to contact us? Please, send me a Direct Message in Twitter (see below).
+> Want to contact us? Please, send me a Direct Message on Twitter (see below).
 
  <p align="left">
   <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
