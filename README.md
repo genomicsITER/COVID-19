@@ -770,6 +770,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Nanopore target sequencing for accurate and comprehensive detection of SARS-CoV-2 and other respiratory viruses](https://www.medrxiv.org/content/10.1101/2020.03.04.20029538v1)
 
+[Genomic variations of SARS-CoV-2 suggest multiple outbreak sources of transmission](https://www.medrxiv.org/content/10.1101/2020.02.25.20027953v2)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -907,4 +909,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
   </a>
 </p>
 
-Last update: 13:50 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 13:53 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
