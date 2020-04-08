@@ -165,6 +165,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1725399)
 
+[Global patterns in coronavirus diversity](https://academic.oup.com/ve/article/3/1/vex012/3866407)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
