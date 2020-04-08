@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; new section about rapid tests for COVID-19; new entries in the genomics section; all sections now sorted by alphabetical order.
+> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; new section about rapid tests for COVID-19; new entries in the genomics section; new inputs in Protocols and Scientific Literature; all sections now sorted by alphabetical order.
 
 > Use the "Home" button to move up between sections and the ToC.
 
