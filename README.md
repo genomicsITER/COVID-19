@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: webinars in Education; The COVID Tracking Project in Scientific data and resources; clinical trials in Spain; REACTing selection of the most relevant articles published on COVID-19 on a bi-weekly basis; public and private Research Coalitions and Funding Calls, new section, new contact section.
+> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv.
 
 
 # Table of contents #
@@ -446,6 +446,8 @@ Comunidades y Ciudades Aut&oacute;nomas:
 > They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
 <br />
 
+[COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv](https://connect.medrxiv.org/relate/content/181)
+
 [REACTing research & action targeting emerging infectious diseases web portal. Selection of the most relevant articles published on COVID-19 on a bi-weekly basis. France](https://reacting.inserm.fr/literature-review/)
 
 [SemanticScholar COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
@@ -565,6 +567,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
 
 [Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v2)
+
+[Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR thermocycler and a well-plate reader for SARS-Co2 virus detection](https://www.medrxiv.org/content/10.1101/2020.04.03.20052860v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -751,6 +755,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [CovProfile: profiling the viral genome and gene expressions of SARS-COV2](https://www.biorxiv.org/content/10.1101/2020.04.05.026146v1)
 
+[MERS-CoV recombination: implications about the reservoir and potential for adaptation](https://academic.oup.com/ve/article/2/1/vev023/1753363)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -827,6 +833,15 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [European Comission Coronavirus research and innovation. Research and innovation projects and initiatives to tackle the spread of coronavirus and preparedness for other outbreaks](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research_en)
 
 [Solicitud urgente de Expresiones de Interés para la financiacin extraordinaria de proyectos de investigacin sobre el SARS-CoV-2 y la enfermedad COVID-19, Ministerio de Ciencia e Innovacin, España](https://www.isciii.es/QueHacemos/Financiacion/Paginas/SolicitudExpresionesInteresCoVid19.aspx#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=solicitud-urgente-de-expresiones-de-interes-para-la-financiacion-extraordinaria-de-proyectos-de-investigacion-sobre-el-sars-cov-2-y-la-enfermedad-covid19)
+
+[The Open COVID Pledge](https://opencovidpledge.org/)
+<p align="center">
+    <a href="https://opencovidpledge.org/" title="See this resource">
+      <img src="https://opencovidpledge.org/wp-content/uploads/OCP_Logos/cropped-OCP_WP_logo_240x240.png
+" width="40%"/>
+    </a> 
+</p>
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
