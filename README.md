@@ -940,4 +940,4 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 14:23 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:32 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
