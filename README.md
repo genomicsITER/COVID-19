@@ -768,6 +768,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal](https://mra.asm.org/content/9/11/e00169-20)
 
+[Nanopore target sequencing for accurate and comprehensive detection of SARS-CoV-2 and other respiratory viruses](https://www.medrxiv.org/content/10.1101/2020.03.04.20029538v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
