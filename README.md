@@ -764,6 +764,8 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa203/5780800)
 
+[The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -901,4 +903,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
   </a>
 </p>
 
-Last update: 10:29 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 13:50 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
