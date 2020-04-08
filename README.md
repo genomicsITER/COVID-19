@@ -84,7 +84,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -124,7 +124,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -163,7 +163,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -220,7 +220,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -262,7 +262,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -331,7 +331,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -346,7 +346,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -382,7 +382,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -411,7 +411,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -431,7 +431,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [SemanticScholar COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
 <p align="center">
     <a href="https://pages.semanticscholar.org/coronavirus-research" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/CORD-19.png" width="40%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CORD-19.png" width="40%"/>
     </a> 
 </p>
 
@@ -555,7 +555,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -634,7 +634,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [COVID-19 3D visualizer](https://www.covidvisualizer.com/)
 <p align="center">
     <a href="https://www.covidvisualizer.com/" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/covidvisualizer.com.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/covidvisualizer.com.png" width="30%"/>
     </a> 
 </p>
 
@@ -683,7 +683,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -747,7 +747,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) 
 <p align="center">
     <a href="http://gabgoh.github.io/COVID/index.html" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/epidemic_calculator.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/epidemic_calculator.png" width="30%"/>
     </a> 
 </p>
 
@@ -791,7 +791,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Jupyter R notebook for prediction modelling of Covid-19 data. Predictive modelling of 2019-nCov outbreak data in Canary Islands. Departamento de Matemáticas, Estadística e Investigación Operativa, ULL](https://github.com/ULL-STAT/covid19_model)
 <p align="center">
     <a href="https://github.com/ULL-STAT/covid19_model" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/COVID-19_ULL.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/COVID-19_ULL.png" width="30%"/>
     </a> 
 </p>
 
@@ -803,7 +803,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -903,7 +903,7 @@ Autonomous Regions and Cities in Spain:
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -925,7 +925,7 @@ Autonomous Regions and Cities in Spain:
 
 <p align="right">
   <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
@@ -942,4 +942,4 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 14:32 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:32 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/images/images/images/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
