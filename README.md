@@ -844,7 +844,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [The Open COVID Pledge](https://opencovidpledge.org/)
 <p align="center">
     <a href="https://opencovidpledge.org/" title="See this resource">
-      <img src="https://opencovidpledge.org/wp-content/uploads/OCP_Logos/cropped-OCP_WP_logo_240x240.png" width="40%"/>
+      <img src="https://opencovidpledge.org/wp-content/uploads/OCP_Logos/cropped-OCP_WP_logo_240x240.png" width="20%"/>
     </a> 
 </p>
 
