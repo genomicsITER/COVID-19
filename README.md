@@ -56,6 +56,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=azithromycin&cond=COVID">Azithromycin clinical trials</a></li>
 
+<li><a href="https://clinicaltrials.gov/ct2/results?term=baricitinib&cond=COVID">Baricitinib clinical trials</a></li>
+ 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=colchicina&cond=COVID">Colchicina clinical trials</a></li>
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=darunavir&cond=COVID">Darunavir clinical trials</a></li>
