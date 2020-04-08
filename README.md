@@ -567,7 +567,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <a href="https://github.com/CSSEGISandData/COVID-19" title="See this resource">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/JHU-CSSE_dashboard.png" width="40%" />
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/JHU-CSSE_dashboard.png" width="40%" />
   </a>
 </p>
 
