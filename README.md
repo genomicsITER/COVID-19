@@ -811,7 +811,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <a name="Autonomous Regions and Cities in Spain"></a>
 > List of institutional websites for the governments of each of the Spanish Autonomous Regions (17) and Cities (2).
 
-Comunidades y Ciudades Aut&oacute;nomas:
+Autonomous Regions and Cities in Spain:
 <ul>
 
 <li>
@@ -896,13 +896,14 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 </ul>
 
+[Casos de Covid-19 en España por Comunidades Autónomas, by CJP](https://public.flourish.studio/visualisation/1693192/)
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-
-[Casos de Covid-19 en España por Comunidades Autónomas, by CJP](https://public.flourish.studio/visualisation/1693192/)
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
