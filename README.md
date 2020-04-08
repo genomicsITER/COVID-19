@@ -1,3 +1,12 @@
+<!-- ------------------ HEADER ------------------ -->
+<!-- Developed and maintained by Jos&eacute; Miguel Lorenzo Salazar
+<!-- Researcher on Human Genetics working at the Genomics Division
+<!-- of the Institute of Technology an Renewable Energy (ITER)
+<!-- Tenerife, Canary Islands, SPAIN
+<!-- See the "Contact us" section to collaborate with us to growth
+<!-- this repository. ;=)
+
+<!-- ------------------ SECTION ------------------ -->
 <p align="left">
   <a href="https://www.iter.es" title="Instituto Tecnológico y de Energ&iacute;as Renovables (ITER) / Institute of Technology and Renewable Energy (ITER)">
     <img src="https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="30%" />
