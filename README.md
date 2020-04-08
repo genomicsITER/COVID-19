@@ -915,12 +915,12 @@ Autonomous Regions and Cities in Spain:
 > Section to highlight the contributors of many links within this repository.
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 <ul>
-  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D">@SciArt3</a></li>
+  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D" title="Follow to @SciArt3 on Twitter">@SciArt3</a></li>
   <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL)</li>
-  <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga">@joluroga</a></i>
-  <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook">@MColebrook</a></li>
+  <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga" title="Follow to joluroga on Twitter">@joluroga</a></i>
+  <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook" title="Follow to @MColebrook on Twitter">@MColebrook</a></li>
   <li>Mar&iacute;a López P&eacute;rez (FIMERALL-SEGAI, ULL)</li>
-  <li>Carlos Flores Infante (FIISC, ITER) <a href="https://twitter.com/LabCflores">@LabCflores</a></li>
+  <li>Carlos Flores Infante (FIISC, ITER) <a href="https://twitter.com/LabCflores" title="Follow to @LabCflores on Twitter">@LabCflores</a></li>
 </ul>
 
 <p align="right">
@@ -942,4 +942,4 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 14:32 GMT - April 8, 2020     |     By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:32 GMT - April 8, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
