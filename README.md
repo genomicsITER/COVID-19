@@ -560,6 +560,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Clinical characteristics of the recovered COVID-19 patients with re-detectable positive RNA test](https://www.medrxiv.org/content/10.1101/2020.03.26.20044222v1)
 
+[The convalescent sera option for containing COVID-19](https://www.jci.org/articles/view/138003/pdf)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
