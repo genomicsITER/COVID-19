@@ -8,7 +8,7 @@
 A public repository of scientific and media resources of SARS-CoV-2 related COVID-19 maintained by ITER.
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 > Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; new section about rapid tests for COVID-19; new entries in the genomics section; all sections now sorted by alphabetical order.
 
@@ -31,7 +31,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </ul>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Clinical Trials"></a>
 ## Clinical Trials ##
@@ -80,7 +80,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Educational resources"></a>
 ## Educational resources ##
@@ -120,7 +120,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Genomics of SARS-CoV-2"></a>
 ## Genomics of SARS-CoV-2 ##
@@ -157,7 +157,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Guidelines, Society's Clinical and Professional Statements"></a>
 ## Guidelines
@@ -214,7 +214,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Media sources"></a>
 ## Media sources
@@ -256,7 +256,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Protocols"></a>
 ## Protocols ##
@@ -326,7 +326,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Rapid Tests"></a>
 ## Rapid Tests ##
@@ -377,7 +377,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Respirators, masks, and other Personal Protective Equipments (PPE)"></a>
 ## Respirators, masks, and other Personal Protective Equipments (PPE)
@@ -406,7 +406,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Scientific Communications and Literature"></a>
 ## Scientific Communications and Literature
@@ -549,7 +549,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 </p>
 
 <hr>
-<!-- SECTION -->
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Sciencific Data and Resources"></a>
 ## Sciencific Data and Resources ##
@@ -677,7 +677,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 </p>
 
 <hr>
-
+<!-- ------------------ SUB-SECTION ------------------ -->
 <a name="Comunidades Autónomas"></a>
 > List of institutional websites for the governments of each of the Spanish Autonomous Regions (17) and Cities (2).
 
@@ -897,8 +897,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </p>
 
 <hr>
-<!-- SECTION -->
-
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Acknowledgements"></a>
 ## Acknowledgements ##
@@ -920,9 +919,11 @@ Comunidades y Ciudades Aut&oacute;nomas:
 </p>
 
 <hr>
+<!-- ------------------ SECTION ------------------ -->
 
 <a name="Contact us"></a>
 ## Contact us ##
+> Want to contact us? Please, send me a Direct Message in Twitter (see below).
 
  <p align="left">
   <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
@@ -930,4 +931,4 @@ Comunidades y Ciudades Aut&oacute;nomas:
   </a>
 </p>
 
-Last update: 13:53 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:23 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
