@@ -915,12 +915,12 @@ Autonomous Regions and Cities in Spain:
 > Section to highlight the contributors of many links within this repository.
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 <ul>
-  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL)</li>
+  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D">@SciArt3</a></li>
   <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL)</li>
+  <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga">@joluroga</a></i>
+  <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook">@MColebrook</a></li>
   <li>Mar&iacute;a López P&eacute;rez (FIMERALL-SEGAI, ULL)</li>
-  <li>Jos&eacute; Luis Roda (ULL)</i>
-  <li>Marcos Colebrook Santamar&iacute;a (ULL)</li>
-  <li>Carlos Flores Infante (FIISC, ITER)</li>
+  <li>Carlos Flores Infante (FIISC, ITER) <a href="https://twitter.com/LabCflores">@LabCflores</a></li>
 </ul>
 
 <p align="right">
