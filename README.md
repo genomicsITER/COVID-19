@@ -58,11 +58,11 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=baricitinib&cond=COVID">Baricitinib clinical trials</a></li>
  
+<li><a href="https://clinicaltrials.gov/ct2/results?term=cobicistat&cond=COVID">Cobicistat clinical trials</a></li>
+
 <li><a href="https://clinicaltrials.gov/ct2/results?term=colchicina&cond=COVID">Colchicina clinical trials</a></li>
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=darunavir&cond=COVID">Darunavir clinical trials</a></li>
-
-<li><a href="https://clinicaltrials.gov/ct2/results?term=cobicistat&cond=COVID">Cobicistat clinical trials</a></li>
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=hydrychloroquine&cond=COVID">Hydrychloroquine clinical trials</a></li>
 
@@ -946,4 +946,4 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 14:32 GMT - April 8, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 15:38 GMT - April 8, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
