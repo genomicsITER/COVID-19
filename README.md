@@ -938,7 +938,7 @@ Autonomous Regions and Cities in Spain:
 
  <p align="left">
   <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
-    <img src="https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="30%" />
+    <img src="https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="30%" /> 
   </a>
 </p>
 
