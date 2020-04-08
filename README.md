@@ -1,4 +1,4 @@
-<!-- ------------------ HEADER ------------------ -->
+Home care for patients with COVID-19 presenting with mild symptoms and management of their contacts<!-- ------------------ HEADER ------------------ -->
 <!-- Developed and maintained by Jos&eacute; Miguel Lorenzo Salazar
 <!-- Researcher on Human Genetics working at the Genomics Division
 <!-- of the Institute of Technology an Renewable Energy (ITER)
@@ -221,6 +221,10 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
       <img src="https://www.ecdc.europa.eu/profiles/custom/ecdc/themes/anthrax/images/logo-ecdc.png" width="25%"/>
     </a> 
 </p>
+
+[WHO Home care for patients with COVID-19 presenting with mild symptoms and management of their contacts](https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts)
+
+[WHO sveral guidelines to protect Workers Health](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/health-workers)
 
 <p align="right">
   <a href="#covid-19" title="Up">
