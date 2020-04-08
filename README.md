@@ -435,7 +435,7 @@ Comunidades y Ciudades Aut&oacute;nomas:
 
 [SwabSeq. Allows for detection of SARS-COV-2 genomic RNA, without purification, in a single-step RT-PCR followed by sequencing. By OctanBio](https://github.com/octantbio/SwabSeq)
 
-[A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20)   :=)   [Protocol](https://t.co/x2c2v8uvw3?amp=1)   :=)    [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
+[A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20)  | [Protocol](https://t.co/x2c2v8uvw3?amp=1) | [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
 
 [DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
 
