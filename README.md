@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; rapid tests section; new entries in the genomics section.
+> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; new section about rapid tests for COVID-19; new entries in the genomics section.
 
 
 # Table of contents #
@@ -902,4 +902,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
   </a>
 </p>
 
-Last update: 14:27 GMT - April 7, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 10:29 GMT - April 8, 2020    |   By JMLS <a href="https://twitter.com/resocios">@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
