@@ -9,7 +9,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <hr>
 
-> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv.
+> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; rapid tests section.
 
 
 # Table of contents #
@@ -25,6 +25,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Clinical Trials">Clinical Trials</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coations and Funding Calls</a></li>
+  <li><a hre="Rapid Test">Rapid Tests</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
 </ul>
@@ -570,6 +571,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR thermocycler and a well-plate reader for SARS-Co2 virus detection](https://www.medrxiv.org/content/10.1101/2020.04.03.20052860v1)
 
+[An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
+
+[Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -842,6 +847,20 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
     </a> 
 </p>
 
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+
+<a name="Rapid Tests"></a>
+## Rapid Tests ##
+> Section to highlight contributions to rapid tests production and testing.
+
+[Fast, portable tests come online to curb coronavirus pandemic, Nature. See table inside](https://www.nature.com/articles/d41587-020-00010-2)
 
 <p align="right">
   <a href="#covid-19" title="Up">
