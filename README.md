@@ -782,7 +782,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [DataStudio International-Domestic spreading of 2019-nCoV-V4](https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lCB)
 <p align="center">
     <a href="https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lC" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/International_Domestic_SpreadingCOVID-19.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/International_Domestic_SpreadingCOVID-19.png" width="30%"/>
     </a> 
 </p>
 
