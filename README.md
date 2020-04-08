@@ -611,7 +611,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [EMBL-EBI COVID-19 Portal](https://www.ebi.ac.uk/covid-19)
 <p align="center">
     <a href="https://www.ebi.ac.uk/covid-19" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/EMBL-EBI-COVID19.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/EMBL-EBI-COVID19.png" width="30%"/>
     </a> 
 </p>
 
