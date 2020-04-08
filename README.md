@@ -159,6 +159,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [SARS-CoV-2 Receptor ACE2 is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Enriched in Specific Cell Subsets Across Tissues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555145)
 
+[RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1725399)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -309,7 +311,6 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
 
 [Broad Institute](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf) 
-
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1) 
 
@@ -550,6 +551,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
 [Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
