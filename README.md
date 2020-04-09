@@ -35,6 +35,9 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
+  <ul>
+    <li><a href="PCR related articles">PCR related articles</a></li>
+  </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
@@ -518,10 +521,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [CDC Coronavirus Disease 2019 (COVID-19) publications](https://www.cdc.gov/coronavirus/2019-ncov/publications.html) 
 
-[Positive RT-PCR Test Results in Patients Recovered From COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762452) 
-
-[Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045) 
-
 [Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336) 
 
 [NIID National Institute for Infectious Diseases Manual for the Detection of Pathogen 2019-nCoV](https://www.niid.go.jp/niid/en/examination/9493-labmanual-en.html) 
@@ -560,8 +559,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)](http://www.en-journal.org/journal/view.html?doi=10.5607/en20009)
 
-[Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
-
 [Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
 
 [SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction](https://www.biorxiv.org/content/10.1101/2020.03.28.013508v1)
@@ -578,19 +575,13 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v2)
 
-[Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR thermocycler and a well-plate reader for SARS-Co2 virus detection](https://www.medrxiv.org/content/10.1101/2020.04.03.20052860v1)
-
 [An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
-
-[Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
 
 [Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
 
 [Clinical characteristics of the recovered COVID-19 patients with re-detectable positive RNA test](https://www.medrxiv.org/content/10.1101/2020.03.26.20044222v1)
 
 [The convalescent sera option for containing COVID-19](https://www.jci.org/articles/view/138003/pdf)
-
-[Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
 
 [Novel Coronavirus Infection in Newborn Babies Under 28 Days in China](https://erj.ersjournals.com/content/early/2020/04/01/13993003.00697-2020)
 
@@ -600,12 +591,37 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://www.medrxiv.org/content/10.1101/2020.04.03.20052175v1)
 
+[Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SUBSECTION ------------------ -->
+
+<a name="PCR related articles"></a>
+## PCR related articles
+> Subsection dedicated to PCR (RT-qPCR) and related topics.
+<br />
+
+[Positive RT-PCR Test Results in Patients Recovered From COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762452) 
+
+[Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045) 
+
+[Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
+
+[Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR thermocycler and a well-plate reader for SARS-Co2 virus detection](https://www.medrxiv.org/content/10.1101/2020.04.03.20052860v1)
+
+[Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
+
+[Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
+
 [Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
 
 [The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
-
-[Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
-
 
 <p align="right">
   <a href="#covid-19" title="Up">
