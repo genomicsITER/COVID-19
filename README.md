@@ -171,6 +171,11 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1)
 
+[Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site](https://www.biorxiv.org/content/10.1101/2020.03.22.002204v1)
+
+[The architecture of SARS-CoV-2 transcriptome](https://www.biorxiv.org/content/10.1101/2020.03.12.988865v2)
+
+[Direct RNA sequencing and early evolution of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v2)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -231,7 +236,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [WHO Home care for patients with COVID-19 presenting with mild symptoms and management of their contacts](https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts)
 
-[WHO sveral guidelines to protect Workers Health](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/health-workers)
+[WHO several guidelines to protect Workers Health](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/health-workers)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -524,8 +529,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Direct RNA nanopore sequencing of full-length coronavirus genomes provides novel insights into structural variants and enables modification analysis](https://europepmc.org/article/MED/31439691) 
 
 [Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein](https://www.medrxiv.org/content/10.1101/2020.03.07.20032524v2)
-
-[Direct RNA sequencing and early evolution of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v1)
 
 [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
 
