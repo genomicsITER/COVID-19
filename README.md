@@ -985,6 +985,11 @@ Autonomous Regions and Cities in Spain:
 ## Sequencing and Sequences ##
 > Under construction. Soon here!
 
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
