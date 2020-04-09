@@ -35,7 +35,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
-  <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
+  <li><a href="#Scientific Data and Resources" >Scientific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
@@ -383,6 +383,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Solicitud urgente de Expresiones de Interés para la financiacin extraordinaria de proyectos de investigacin sobre el SARS-CoV-2 y la enfermedad COVID-19, Ministerio de Ciencia e Innovacin, España](https://www.isciii.es/QueHacemos/Financiacion/Paginas/SolicitudExpresionesInteresCoVid19.aspx#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=solicitud-urgente-de-expresiones-de-interes-para-la-financiacion-extraordinaria-de-proyectos-de-investigacion-sobre-el-sars-cov-2-y-la-enfermedad-covid19)
 
+[Fast Funding for COVID-19 Science](https://fastgrants.org/)
+
 [The Open COVID Pledge](https://opencovidpledge.org/)
 <p align="center">
     <a href="https://opencovidpledge.org/" title="See this resource">
@@ -577,8 +579,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Sciencific Data and Resources"></a>
-## Sciencific Data and Resources ##
+<a name="Scientific Data and Resources"></a>
+## Scientific Data and Resources ##
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <a href="https://github.com/CSSEGISandData/COVID-19" title="See this resource">
@@ -629,6 +631,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/EMBL-EBI-COVID19.png" width="30%"/>
     </a> 
 </p>
+
+[Coronavirus Structural Task Force](https://github.com/thorn-lab/coronavirus_structural_task_force)
+
+[SWISSMODEL homology models](http://www.rcsb.org/news?year=2020&article=5e3c4bcba5007a04a313edcc)
 
 [Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
 <p align="center">
