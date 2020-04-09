@@ -997,7 +997,7 @@ Autonomous Regions and Cities in Spain:
 [China National Center for Bioinformation (CNCB), 2019 Novel Coronavirus Resource](https://bigd.big.ac.cn/ncov/?lang=en)     |     [Genome Variation](https://bigd.big.ac.cn/ncov/variation)     |     [Data release statistics](https://bigd.big.ac.cn/ncov/release_genome)
 <p align="center">
     <a href="https://bigd.big.ac.cn/ncov/?lang=en" title="See this resource">
-      <img src="https://bigd.big.ac.cn/ncov/static/image/ncovr-logo.png" width="40%"/>
+      <img src="https://bigd.big.ac.cn/ncov/static/image/ncovr-logo.png" width="25%"/>
     </a> 
 </p>
 
