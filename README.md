@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> Updated today: new entries in the scientific literature section.
+> Updated today: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies); new entry in the genomics section.
 
 > Use the "Home" button to move up between sections and the ToC.
 
