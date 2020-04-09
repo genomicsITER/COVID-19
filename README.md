@@ -177,6 +177,10 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Direct RNA sequencing and early evolution of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v2)
 
+[Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses](https://www.biorxiv.org/content/10.1101/2020.04.05.026450v1)
+
+[Gene expression and in situ protein profiling of candidate SARS-CoV-2 receptors in human airway epithelial cells and lung tissue](https://www.biorxiv.org/content/10.1101/2020.04.07.030742v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -428,6 +432,16 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Marcado CE de las mascarillas, Ministerio de Industrial, Comercio y Turismo](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/2_mascarillas_tipo_EPI_como_legalizarlas_v2.0.pdf)
 
+[Widespread use of face masks in public may slow the spread of SARS CoV-2: an ecological study](https://www.medrxiv.org/content/10.1101/2020.03.31.20048652v1)
+
+[Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.04.20052696v1)
+
+[Efficacy of face mask in preventing respiratory virus transmission: a systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.04.03.20051649v1)
+
+[Can N95 respirators be reused after disinfection? And for how many times?](https://www.medrxiv.org/content/10.1101/2020.04.01.20050443v1)
+
+[N95 Mask Decontamination using Standard Hospital Sterilization Technologies](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -579,6 +593,19 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
 
 [Novel Coronavirus Infection in Newborn Babies Under 28 Days in China](https://erj.ersjournals.com/content/early/2020/04/01/13993003.00697-2020)
+
+[A case of SARS-CoV-2 carrier for 32 days with several times false negative nucleic acid tests](https://www.medrxiv.org/content/10.1101/2020.03.31.20045401v1)
+
+[Loss of smell and taste in combination with other symptoms is a strong predictor of COVID-19 infection](https://www.medrxiv.org/content/10.1101/2020.04.05.20048421v1)
+
+[Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://www.medrxiv.org/content/10.1101/2020.04.03.20052175v1)
+
+[Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
+
+[The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
+
+[Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -969,4 +996,4 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 15:30 GMT - April 9, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 21:34 GMT - April 9, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
