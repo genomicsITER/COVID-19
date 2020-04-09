@@ -36,7 +36,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
   <ul>
-    <li><a href="PCR related articles">PCR related articles</a></li>
+    <li><a href="#PCR related articles">PCR related articles</a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
