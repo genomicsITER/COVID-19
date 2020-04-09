@@ -985,12 +985,26 @@ Autonomous Regions and Cities in Spain:
 ## Sequencing and Sequences ##
 > Under construction. Soon here!
 
-[Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome. GenBank: MN908947.3](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+[NCBI GenBank SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
+
+[NCBI GenBank Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome. GenBank: MN908947.3](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
 <p align="center">
     <a href="https://www.ncbi.nlm.nih.gov/nuccore/MN908947" title="See this resource">
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MN908947.3.png" width="40%"/>
     </a> 
 </p>
+
+[China National Center for Bioinformation (CNCB), 2019 Novel Coronavirus Resource](https://bigd.big.ac.cn/ncov/?lang=en)     |     [Genome Variation](https://bigd.big.ac.cn/ncov/variation)     |     [Data release statistics](https://bigd.big.ac.cn/ncov/release_genome)
+<p align="center">
+    <a href="https://bigd.big.ac.cn/ncov/?lang=en" title="See this resource">
+      <img src="https://bigd.big.ac.cn/ncov/static/image/ncovr-logo.png" width="40%"/>
+    </a> 
+</p>
+
+
+
+[SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
