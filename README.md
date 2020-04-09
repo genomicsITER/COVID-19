@@ -1008,9 +1008,12 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
-[SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
+[Enrichment workflow for detecting
+coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
 
+[CDC GitHub SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
 
+[Katarina Braun GitHub ARS-CoV-2_sequencing repository](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
