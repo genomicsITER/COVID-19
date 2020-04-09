@@ -985,6 +985,13 @@ Autonomous Regions and Cities in Spain:
 ## Sequencing and Sequences ##
 > Under construction. Soon here!
 
+[Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome. GenBank: MN908947.3](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+<p align="center">
+    <a href="https://www.ncbi.nlm.nih.gov/nuccore/MN908947" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MN908947.3.png" width="40%"/>
+    </a> 
+</p>
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
