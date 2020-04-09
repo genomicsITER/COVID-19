@@ -1001,7 +1001,12 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
-
+[Centre for Genomic Regulation, CRG, public.docs repository, COVID sequences, including fast5 files](https://public-docs.crg.es/covid/)
+<p align="center">
+    <a href="https://public-docs.crg.es/covid/" title="See this resource">
+      <img src="https://public-docs.crg.es/icons/logo-crg.png" width="30%"/>
+    </a> 
+</p>
 
 [SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
 
