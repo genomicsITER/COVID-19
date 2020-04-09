@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> Updated today: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies); new entry in the genomics section.
+> Updated today: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory devices and ways to disinfect them.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -40,6 +40,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
+  <li><a href="#Sequencing and Sequences">Sequencing and Sequences</a></li> 
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
 </ul>
@@ -976,6 +977,14 @@ Autonomous Regions and Cities in Spain:
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Sequencing and Sequences"></a>
+## Sequencing and Sequences ##
+> Under construction. Soon here!
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
