@@ -169,6 +169,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1)
 
+[LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
