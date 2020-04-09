@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> Updated today: COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv; The Open COVID Pledge; new section about rapid tests for COVID-19; new entries in the genomics section; new inputs in Protocols and Scientific Literature; all sections now sorted by alphabetical order.
+> Updated today: new entries in scientific literature.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -166,6 +166,9 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1725399)
 
 [Global patterns in coronavirus diversity](https://academic.oup.com/ve/article/3/1/vex012/3866407)
+
+[Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -568,6 +571,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [The convalescent sera option for containing COVID-19](https://www.jci.org/articles/view/138003/pdf)
 
+[Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
+
+[Novel Coronavirus Infection in Newborn Babies Under 28 Days in China](https://erj.ersjournals.com/content/early/2020/04/01/13993003.00697-2020)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -957,4 +964,4 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 15:43 GMT - April 8, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 15:06 GMT - April 9, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
