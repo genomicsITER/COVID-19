@@ -278,6 +278,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [El Cabildo de Tenerife aporta una máquina de análisis de COVID-19](http://www.diariodetenerife.info/el-cabildo-de-tenerife-aporta-una-maquina-de-analisis-de-covid-19-que-hace-50-pruebas-por-hora/)
 
+[Investigadores del ITER y de La Candelaria aceleran el método de diagnóstico del Covid-19](http://www.diariodetenerife.info/investigadores-del-iter-y-de-la-candelaria-aceleran-el-metodo-de-diagnostico-del-covid-19/)
+
 [COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
 
 [Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
