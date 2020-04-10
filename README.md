@@ -652,6 +652,12 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Sustainable social distancing through facemask use and testing during the Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.01.20049981v1)
 
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 <hr>
 <!-- ------------------ SUBSECTION ------------------ -->
 
