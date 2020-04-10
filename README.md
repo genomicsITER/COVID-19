@@ -682,6 +682,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
 
+[Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction](biorxiv.org/cgi/content/short/2020.04.06.028902)
+
+[Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure](https://www.medrxiv.org/content/10.1101/2020.04.07.20051474v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
