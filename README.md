@@ -42,9 +42,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
   <li><a href="#Sequencing and Sequences">Sequencing and Sequences</a></li>
-  <li><a href="#Viral mechanisms and Tropism: infection, entry, and replication">Sequencing and Sequences</a></li> 
-  
-  <li><a href="#Viral mechanisms and Tropism: infection, entry, and replication" >Viral mechanisms: infection, entry, and replication. Under construction</a></li>
+  <li><a href="#Viral mechanisms and Tropism: infection, entry, and replication">Viral mechanisms: infection, entry, and replication. Under construction</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
   <li><a href="#Update logs">Update logs</a></li>
