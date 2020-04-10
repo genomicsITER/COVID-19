@@ -41,7 +41,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
-  <li><a href="#Sequencing and Sequences">Sequencing and Sequences</a></li>
+  <li><a href="#Sequencing, Sequences and Bioinformatics">Sequencing, Sequences and Bioinformatics</a></li>
   <li><a href="#Viral mechanisms and Tropism">Viral mechanisms: infection, entry, and replication. Under construction</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
@@ -661,7 +661,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <!-- ------------------ SUBSECTION ------------------ -->
 
 <a name="PCR related articles"></a>
-## PCR related articles
+## PCR related articles and other detection techniques
+
 > Subsection dedicated to PCR (RT-qPCR) and related topics.
 <br />
 
@@ -690,6 +691,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure](https://www.medrxiv.org/content/10.1101/2020.04.07.20051474v1)
 
 [Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS–CoV-2/COVID-19](https://mbio.asm.org/content/11/2/e00722-20)
+
+[Rapid colorimetric detection of COVID-19 coronavirus using a reverse tran-scriptional loop-mediated isothermal amplification (RT-LAMP) diagnostic plat-form: iLACO](https://www.medrxiv.org/content/10.1101/2020.02.20.20025874v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1048,8 +1051,8 @@ Autonomous Regions and Cities in Spain:
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Sequencing and Sequences"></a>
-## Sequencing and Sequences ##
+<a name="Sequencing, Sequences and Bioinformatics"></a>
+## Sequencing, Sequences and Bioinformatics ##
 > Under construction. Soon here!
 
 [NCBI GenBank SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
@@ -1075,12 +1078,14 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
-[Enrichment workflow for detecting
-coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
+[Enrichment workflow for detecting coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
 
 [CDC GitHub SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
 
 [Katarina Braun GitHub ARS-CoV-2_sequencing repository](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
+
+[Broad Institute viral-pipelines. A set of scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute/viral-pipelines)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
