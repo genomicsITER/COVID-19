@@ -1084,7 +1084,7 @@ Autonomous Regions and Cities in Spain:
 
 [Katarina Braun GitHub ARS-CoV-2_sequencing repository](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
 
-[Broad Institute viral-pipelines. A set of scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute/viral-pipelines)
+[Broad Institute viral-related pipelines. Several available repositories with scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute?q=vir&type=&language=)
 
 
 <p align="right">
