@@ -190,6 +190,9 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like motif](https://www.biorxiv.org/content/10.1101/2020.04.09.033522v1)
 
+[Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors](https://www.biorxiv.org/content/10.1101/2020.03.24.005702v1.full.pdf)
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1144,7 +1147,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 20:42 GMT - April 10, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 22:31 GMT - April 10, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
