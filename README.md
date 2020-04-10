@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
+> April 10, 2020 updates: new logos; new papers in Scientic Literature.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -185,11 +185,14 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Gene expression and in situ protein profiling of candidate SARS-CoV-2 receptors in human airway epithelial cells and lung tissue](https://www.biorxiv.org/content/10.1101/2020.04.07.030742v1)
 
+[The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like motif](https://www.biorxiv.org/content/10.1101/2020.04.09.033522v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+<!-- ------------------ END of GENOMICS SECTION ------------------ -->
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -600,6 +603,16 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://www.medrxiv.org/content/10.1101/2020.04.03.20052175v1)
 
 [Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
+
+<!--
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+-->
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1063,3 +1076,9 @@ coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/ill
 </p>
 
 Last update: 22:59 GMT - April 9, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+# Update logs ##
+> April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
