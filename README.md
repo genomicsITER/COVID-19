@@ -467,7 +467,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 [COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv](https://connect.medrxiv.org/relate/content/181)
 <p align="center">
     <a href="https://connect.medrxiv.org/relate/content/181" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/medRxiv-bioRxiv.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/medRxiv-bioRxiv.png" width="40%"/>
     </a> 
 </p>
 
