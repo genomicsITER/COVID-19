@@ -343,8 +343,6 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
   </li>
 </ul>
   
-[RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
-
 [Broad Institute](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf) 
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1) 
@@ -361,8 +359,6 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [SwabSeq. Allows for detection of SARS-COV-2 genomic RNA, without purification, in a single-step RT-PCR followed by sequencing. By OctanBio](https://github.com/octantbio/SwabSeq)
 
 [A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20)  | [Protocol](https://t.co/x2c2v8uvw3?amp=1) | [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
-
-[DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -669,6 +665,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Positive RT-PCR Test Results in Patients Recovered From COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762452) 
 
 [Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045) 
+
+[RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
+
+[DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
 
