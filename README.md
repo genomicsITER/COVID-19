@@ -37,6 +37,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
   <ul>
     <li><a href="#PCR related articles">PCR related articles</a></li>
+    <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
@@ -622,6 +623,34 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+<hr>
+<!-- ------------------ SUBSECTION ------------------ -->
+
+<a name="Maths and Epidemiological Models"></a>
+## Maths and Epidemiological Models
+> Subsection dedicated to PCR (RT-qPCR) and related topics.
+<br />
+
+[Modelo para el estudio de la dinámica de transmisión del SARS-CoV-2 y la enfermedad COVID19. Descripción técnica](https://covid19.webs.upv.es/INFORMES/Explicacion_tecnica.pdf)
+
+[The use of facemasks to prevent respiratory infection: a literature review in the context of the Health Belief Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293989/)
+
+[Reproductive numbers, epidemic spread and control in a community of households](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2731010/)
+
+[Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714/)
+
+[The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany, 2009-2011](https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-12-26)
+
+[Mask use, hand hygiene, and seasonal influenza-like illness among young adults: A randomized intervention trial](https://academic.oup.com/jid/article/201/4/491/861190)
+
+[Unraveling R0: Considerations for Public Health Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935673/)
+
+[The Immediate Effect of COVID-19 Policies on Social Distancing Behavior in the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571421)
+
+[Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
+
+[Sustainable social distancing through facemask use and testing during the Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.01.20049981v1)
 
 <hr>
 <!-- ------------------ SUBSECTION ------------------ -->
