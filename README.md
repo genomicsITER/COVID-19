@@ -43,7 +43,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Sequencing and Sequences">Sequencing and Sequences</a></li> 
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
-</ul>
+  <li><a href="#Update logs">Update logs</a></li>
+  </ul>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -1075,10 +1076,11 @@ coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/ill
   </a>
 </p>
 
-Last update: 22:59 GMT - April 9, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 13:23 GMT - April 10, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-# Update logs ##
+<a name="#Update logs"></a>
+## Update logs ##
 > April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
