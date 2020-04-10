@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 10, 2020 updates: new logos; new papers in Scientic Literature.
+> April 10, 2020 updates: new logos; new papers in Scientic Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -36,8 +36,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
   <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
   <ul>
-    <li><a href="#PCR related articles">PCR related articles</a></li>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
+    <li><a href="#PCR related articles">PCR related articles</a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
