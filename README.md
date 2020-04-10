@@ -42,6 +42,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
   <li><a href="#Sequencing and Sequences">Sequencing and Sequences</a></li> 
+  <li><a href="#Viral mechanisms and Tropism: infection, entry, and replication">Viral mechanisms: infection, entry, and replication (under construction)</a>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
   <li><a href="#Update logs">Update logs</a></li>
@@ -375,6 +376,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Fast, portable tests come online to curb coronavirus pandemic, Nature. See table inside](https://www.nature.com/articles/d41587-020-00010-2)
 
+[COVID-19: immunopathology and its implications for therapy](https://www.nature.com/articles/s41577-020-0308-3)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -685,6 +688,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction](biorxiv.org/cgi/content/short/2020.04.06.028902)
 
 [Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure](https://www.medrxiv.org/content/10.1101/2020.04.07.20051474v1)
+
+[Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS–CoV-2/COVID-19](https://mbio.asm.org/content/11/2/e00722-20)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1076,6 +1081,21 @@ coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/ill
 [CDC GitHub SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
 
 [Katarina Braun GitHub ARS-CoV-2_sequencing repository](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+<a name="Viral mechanisms and Tropism: infection, entry, and replication
+"></a>
+## Viral mechanisms and Tropism: infection, entry, and replication
+> Section to describe the different mechanisms and tropism that the virus displays. Under construction...
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
