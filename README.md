@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 11, 2020 updates: new rapid PCR method to detect COVID-19.
+> April 11, 2020 updates: new rapid PCR method to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -699,6 +699,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Rapid colorimetric detection of COVID-19 coronavirus using a reverse tran-scriptional loop-mediated isothermal amplification (RT-LAMP) diagnostic plat-form: iLACO](https://www.medrxiv.org/content/10.1101/2020.02.20.20025874v1)
 
+[Non-specific Primers Reveal False-negative Risk in Detection of COVID-19 Infections](https://www.medrxiv.org/content/10.1101/2020.04.07.20056804v1)
+
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
 
 <p align="right">
@@ -1151,7 +1153,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 13:45 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:12 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
