@@ -718,6 +718,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
+[High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
+
 [A streamlined approach to rapidly detect SARS-CoV-2 infection, avoiding RNA extraction](https://www.medrxiv.org/content/10.1101/2020.04.06.20054114v1)
 
 <p align="right">
