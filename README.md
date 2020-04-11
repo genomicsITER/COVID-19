@@ -682,6 +682,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 > Subsection dedicated to PCR (RT-qPCR) and related topics.
 <br />
 
+[Combination of RT‐qPCR testing and clinical features for diagnosis of COVID‐19 facilitates management of SARS‐CoV‐2 outbreak](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25721)
+
 [Positive RT-PCR Test Results in Patients Recovered From COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762452) 
 
 [Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045) 
@@ -1168,7 +1170,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 17:16 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 17:26 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
