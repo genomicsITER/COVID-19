@@ -399,6 +399,13 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [COVID-Zero Coalition](https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero)
 
+[COVID Human Genetic Effort](https://www.covidhge.com/)
+<p align="center">
+    <a href="https://www.covidhge.com/">
+      <img src="https://images.squarespace-cdn.com/content/v1/5e7bb93fa060854b1a204f9a/1585618859125-Q41LFBN0HJ30OTPJC2FT/ke17ZwdGBToddI8pDm48kHf62bRcj8g5xu3PjqRtWb5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzVvhhfg18jv7JFa1V4i-BVDEgkDMV135pHH45GHFhanv1h3j41qTAPGVXHKsjsg_U/COVID+Human+Genetic+Effort+Logo?format=750w" width="20%"/>
+    </a> 
+</p>
+
 [WHO The Global Preparedness Monitoring Board](https://apps.who.int/gpmb/)
 
 [CaixaImpulse COVID-19 Call for projects that address the COVID-19 emergency open until 15 April](https://caixaimpulse.com/programme?program_id=PROGRAMME_COVID_19)
