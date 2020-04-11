@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 11, 2020 updates: new rapid PCR method to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives.
+> April 11, 2020 updates: new rapid PCR method to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives; more on the disinfection of respirators.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -1159,7 +1159,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 14:12 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 14:24 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
