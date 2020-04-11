@@ -590,6 +590,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v2)
 
+[Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing](https://pubs.rsna.org/doi/10.1148/radiol.2020200343)
+
 [An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
 [Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
