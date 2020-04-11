@@ -192,6 +192,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors](https://www.biorxiv.org/content/10.1101/2020.03.24.005702v1.full.pdf)
 
+[In-depth Bioinformatic Analyses of Human SARS-CoV-2, SARS-CoV, MERS-CoV, and Other Nidovirales Suggest Important Roles of Noncanonical Nucleic Acid Structures in Their Lifecycles](https://www.biorxiv.org/content/10.1101/2020.04.09.031252v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -455,6 +456,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [N95 Mask Decontamination using Standard Hospital Sterilization Technologies](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
 
+[UV light dosage distribution over irregular respirator surfaces. Methods and implications for safety](https://www.medrxiv.org/content/10.1101/2020.04.07.20057224v1)
+
+[Nonmedical Masks in Public for Respiratory Pandemics: Droplet Retention by two-layer Textile Barrier Fully Protects Germ-free Mice from Bacteria in Droplets](https://www.biorxiv.org/content/10.1101/2020.04.06.028688v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -611,6 +615,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
 
 [An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883)
+
+[Estimation of the percentages of asymptomatic patients and undiagnosed patients of the novel coronavirus (SARS-CoV-2) infection in Hokkaido, Japan by using birth-death process with recursive full tracing](https://www.medrxiv.org/content/10.1101/2020.04.06.20053934v1)
 
 <!--
 []()
