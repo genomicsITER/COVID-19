@@ -603,8 +603,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing](https://pubs.rsna.org/doi/10.1148/radiol.2020200343)
 
-[An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
-
 [Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
 
 [Clinical characteristics of the recovered COVID-19 patients with re-detectable positive RNA test](https://www.medrxiv.org/content/10.1101/2020.03.26.20044222v1)
@@ -715,6 +713,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Non-specific Primers Reveal False-negative Risk in Detection of COVID-19 Infections](https://www.medrxiv.org/content/10.1101/2020.04.07.20056804v1)
 
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
+
+[An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
 [A streamlined approach to rapidly detect SARS-CoV-2 infection, avoiding RNA extraction](https://www.medrxiv.org/content/10.1101/2020.04.06.20054114v1)
 
