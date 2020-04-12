@@ -42,6 +42,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
   <li><a href="#Sequencing, Sequences and Bioinformatics">Sequencing, Sequences and Bioinformatics</a></li>
+  <li><a href="#Shiny and R related dashboards and packages">Shiny and R related dashboards and packages. Under construction</a></li>  
   <li><a href="#Viral mechanisms and Tropism">Viral mechanisms: infection, entry, and replication. Under construction</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
@@ -447,7 +448,6 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [N95 Respirators and Surgical Masks (Face Masks)](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks)
 
 [Comparison of nanoparticle filtration performance of NIOSH-approved and CE-marked particulate filtering facepiece respirators](https://www.ncbi.nlm.nih.gov/pubmed/19261695)
-https://www.ncbi.nlm.nih.gov/pubmed/19261695
 
 [Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf) 
 
@@ -1138,7 +1138,20 @@ Autonomous Regions and Cities in Spain:
 
 [Broad Institute viral-related pipelines. Several available repositories with scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute?q=vir&type=&language=)
 
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Shiny and R related dashboards and packages"></a>
+## Shiny and R related dashboards and packages ##
+> Section to show relevant Shiny dashborads, R packages and codes. Under construction...
+ 
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1160,6 +1173,8 @@ Autonomous Regions and Cities in Spain:
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
