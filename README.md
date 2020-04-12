@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives; more on the disinfection of respirators.
+> April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (update April 11), dermatological effects of COVID-19, a new report from and many more.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -93,6 +93,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
 
+[WHO DRAFT landscape of COVID-19 candidate vaccines, now includes two Spanish pre-clinical trials (April 11)](https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_11April2020.PDF)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -132,6 +134,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [SARS-CoV-2 (COVID-19) by the n. EPIDEMIOLOGY AND GLOBAL HEALTH MICROBIOLOGY AND INFECTIOUS DISEASE elife](https://elifesciences.org/articles/57309)
 
 [International AIDS Society COVID-19 and HIV: Webinar series: "COVID-19 and HIV: What you need to know"](https://www.iasociety.org/HIV-Programmes/Cross-cutting-issues/COVID-19-and-HIV-Webinars)
+
+[Infectious Disease Modelling: Beyond the Basic SIR Model](https://towardsdatascience.com/infectious-disease-modelling-beyond-the-basic-sir-model-216369c584c4)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -193,6 +197,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors](https://www.biorxiv.org/content/10.1101/2020.03.24.005702v1.full.pdf)
 
 [In-depth Bioinformatic Analyses of Human SARS-CoV-2, SARS-CoV, MERS-CoV, and Other Nidovirales Suggest Important Roles of Noncanonical Nucleic Acid Structures in Their Lifecycles](https://www.biorxiv.org/content/10.1101/2020.04.09.031252v1)
+
+[Comparative ACE2 variation and primate COVID-19 risk](https://www.biorxiv.org/content/10.1101/2020.04.09.034967v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -581,10 +587,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
 
-[https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1.full.pdf](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
-
-[Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)](http://www.en-journal.org/journal/view.html?doi=10.5607/en20009)
-
 [Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
 
 [SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction](https://www.biorxiv.org/content/10.1101/2020.03.28.013508v1)
@@ -622,6 +624,16 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883)
 
 [Estimation of the percentages of asymptomatic patients and undiagnosed patients of the novel coronavirus (SARS-CoV-2) infection in Hokkaido, Japan by using birth-death process with recursive full tracing](https://www.medrxiv.org/content/10.1101/2020.04.06.20053934v1)
+
+[Blueprint for a Pop-up SARS-CoV-2 Testing Lab](https://www.medrxiv.org/content/10.1101/2020.04.11.20061424v1)
+
+[Cutaneous manifestations in COVID‐19: a first perspective](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16387)
+
+[Dermatology staff participate in fight against Covid-19 in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/jdv.16390)
+
+[Severe Acute Respiratory Syndrome Coronavirus 2 RNA Detected in Blood Donations](https://wwwnc.cdc.gov/eid/article/26/7/20-0839_article)
+
+[Structural Basis for the Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir](https://www.biorxiv.org/content/10.1101/2020.04.08.032763v2)
 
 <!--
 []()
@@ -716,11 +728,17 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
 
+[Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)](http://www.en-journal.org/journal/view.html?doi=10.5607/en20009)
+
 [An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
 [High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
 
 [A streamlined approach to rapidly detect SARS-CoV-2 infection, avoiding RNA extraction](https://www.medrxiv.org/content/10.1101/2020.04.06.20054114v1)
+
+[SARS-CoV-2 detection with CRISPR diagnostics](https://www.biorxiv.org/content/10.1101/2020.04.10.023358v1)
+
+[Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -883,6 +901,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Imperial College London reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/) 
 
+[COVID-19: on average only 6% of actual SARS-CoV-2 infections detected worldwide, University of Göttingen](http://www.uni-goettingen.de/de/document/download/3d655c689badb262c2aac8a16385bf74.pdf/Bommer%20&%20Vollmer%20(2020)%20COVID-19%20detection%20April%202nd.pdf)
+
 
 [NIH Coronavirus Disease 2019 Situation Summary](https://www.nih.gov/health-information/coronavirus) 
 <p align="center">
@@ -1039,7 +1059,7 @@ Autonomous Regions and Cities in Spain:
 </li>
 
 <li>
-<a href="https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus" title="See this resource">Madrid</a>
+<a href="https://www.comunidad.madrid/servicios/salud/2019-nuevo-coronavirus" title="See this resource">Madrid</a> | <a href="https://datos.comunidad.madrid/catalogo/dataset/covid19_tia_zonas_basicas_salud" >Covid 19 -TIA Zonas Básicas de Salud - Conjuntos de datos - Datos Abiertos Comunidad de Madrid</a>
 </li>
 
 <li>
@@ -1108,6 +1128,8 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
+[COVID-19 ARTIC v3 Illumina library construction and sequencing protocol](https://www.protocols.io/view/covid-19-artic-v3-illumina-library-construction-an-beuzjex6)
+
 [Enrichment workflow for detecting coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
 
 [CDC GitHub SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
@@ -1130,6 +1152,8 @@ Autonomous Regions and Cities in Spain:
 <a name="Viral mechanisms and Tropism"></a>
 ## Viral mechanisms and Tropism: infection, entry, and replication ##
 > Section to describe the different mechanisms and tropism that the virus displays. Under construction...
+
+[Immunoglobulin fragment F(ab')2 against RBD potently neutralizes SARS-CoV-2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.07.029884v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1172,13 +1196,14 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 18:31 GMT - April 11, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 15:47 GMT - April 12, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
+> April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives; more on the disinfection of respirators.
 > April 10, 2020 updates: new logos; new papers in Scientic Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
 > April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
 
