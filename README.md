@@ -1225,9 +1225,13 @@ Last update: 21:33 GMT - April 13, 2020     |     By JMLS <a href="https://twitt
 
 <a name="Update logs"></a>
 ## Update logs ##
+
 > April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (update April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
+
 > April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives; more on the disinfection of respirators.
+
 > April 10, 2020 updates: new logos; new papers in Scientic Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
+
 > April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
 
 <p align="right">
