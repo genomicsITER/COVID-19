@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (update April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
+> April 13, 2020 updates: few new articles in Scientific Literatura section and MIDAS COVID-19 repository in Data Sources section.
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -992,6 +992,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [ETE team modeling group ( MIVEGEC Laboratory , CNRS, IRD, University of Montpellier)](http://bioinfo-shiny.ird.fr:3838/COVIDSIM/)
 
+[MIDAS 2019 Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1211,13 +1213,14 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 15:47 GMT - April 12, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 21:33 GMT - April 13, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
+> April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (update April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
 > April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives; more on the disinfection of respirators.
 > April 10, 2020 updates: new logos; new papers in Scientic Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
 > April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
