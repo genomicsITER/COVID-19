@@ -752,7 +752,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Sciencific Data and Resources"></a>
-## Sciencific Data and Resources (Pre-prints & Peer-Reviewed Papers) ##
+## Sciencific Data and Resources ##
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <a href="https://github.com/CSSEGISandData/COVID-19" title="See this resource">
