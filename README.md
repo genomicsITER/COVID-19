@@ -993,6 +993,11 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [ETE team modeling group ( MIVEGEC Laboratory , CNRS, IRD, University of Montpellier)](http://bioinfo-shiny.ird.fr:3838/COVIDSIM/)
 
 [MIDAS 2019 Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
+<p align="center">
+    <a href="https://github.com/midas-network/COVID-19" title="See this resource">
+      <img src="https://raw.githubusercontent.com/midas-network/COVID-19/master/docs/MIDAS-4.png" width="20%"/>
+    </a> 
+</p>
 
 <p align="right">
   <a href="#covid-19" title="Up">
