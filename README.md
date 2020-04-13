@@ -994,7 +994,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [MIDAS 2019 Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 <p align="center">
-    <a href="https://github.com/midas-network/COVID-19" title="See this resource">
+    <a target="_blank" href="https://github.com/midas-network/COVID-19" title="See this resource">
       <img src="https://raw.githubusercontent.com/midas-network/COVID-19/master/docs/MIDAS-4.png" width="20%"/>
     </a> 
 </p>
