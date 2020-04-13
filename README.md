@@ -482,8 +482,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Scientific Communications and Literature"></a>
-## Scientific Communications and Literature
+<a name="Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)"></a>
+## Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)
 > Reminder. Notice that a number of these papers might be preliminary reports that have not been peer-reviewed. 
 > They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
 <br />
