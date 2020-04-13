@@ -1205,6 +1205,7 @@ Autonomous Regions and Cities in Spain:
   <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook" title="Follow to @MColebrook on Twitter">@MColebrook</a></li>
   <li>Mar&iacute;a López P&eacute;rez (FIMERALL-SEGAI, ULL)</li>
   <li>Carlos Flores Infante (FIISC, ITER) <a href="https://twitter.com/LabCflores" title="Follow to @LabCflores on Twitter">@LabCflores</a></li>
+  <li>Contributing PR to this repository, <a href=https://github.com/miguelcorrea" title="Follow to Miguel Correo in GitHub">Miguel Correa (@evocellnet, EMBL-EBI)</a></li>
 </ul>
 
 <p align="right">
