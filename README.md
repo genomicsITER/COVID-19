@@ -34,7 +34,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
-  <li><a href="#Scientific Communications and Literature" >Scientific Communications and Literature</a></li>
+  <li><a href="#Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)" >Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)</a></li>
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
     <li><a href="#PCR related articles">PCR related articles</a></li>
@@ -750,7 +750,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Sciencific Data and Resources"></a>
-## Sciencific Data and Resources ##
+## Sciencific Data and Resources (Pre-prints & Peer-Reviewed Papers) ##
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <a href="https://github.com/CSSEGISandData/COVID-19" title="See this resource">
