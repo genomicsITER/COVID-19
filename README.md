@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 13, 2020 updates: few new articles in Scientific Literatura section and MIDAS COVID-19 repository in Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!).
+> April 13, 2020 updates: few new articles in Scientific Literature (Pre-prints & Peer-Reviewed Papers) section and MIDAS COVID-19 repository in Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!).
 
 > Use the "Home" button to move up between sections and the ToC.
 
