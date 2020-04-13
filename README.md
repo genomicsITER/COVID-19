@@ -473,6 +473,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Nonmedical Masks in Public for Respiratory Pandemics: Droplet Retention by two-layer Textile Barrier Fully Protects Germ-free Mice from Bacteria in Droplets](https://www.biorxiv.org/content/10.1101/2020.04.06.028688v1)
 
+[Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.03.30.20047217v2)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
