@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 14, 2020 updates: more on False Negatives in qPCR in the Prepints section. As the repository increases its size, we are moving into a Wiki format (soon here!).
+> April 14, 2020 updates: more on False Negatives in qPCR and the impact of face mask against COVID-19 in the Prepints section. As the repository increases its size, we are moving into a Wiki format (soon here!).
 
 > Use the "Home" button to move up between sections and the ToC.
 
@@ -476,6 +476,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [Nonmedical Masks in Public for Respiratory Pandemics: Droplet Retention by two-layer Textile Barrier Fully Protects Germ-free Mice from Bacteria in Droplets](https://www.biorxiv.org/content/10.1101/2020.04.06.028688v1)
 
 [Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.03.30.20047217v2)
+
+[Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1229,7 +1231,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 13:27 GMT - April 14, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 13:41 GMT - April 14, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
