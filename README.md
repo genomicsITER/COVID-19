@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section.
+> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; dashboard of the Spanish MoMo report about mortality in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
