@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; dashboard of the Spanish MoMo report about mortality and new dashboard with graphical information for COVID-19 data in the Canary Islands by Grafcan-GOBCAN, in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section; new pages "Code of Conduct" and "Contributing to this repository" created.
+> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; added some Journals Watch pages; dashboard of the Spanish MoMo report about mortality, new dashboard for WHO, and new dashboard with graphical information for COVID-19 data in the Canary Islands by Grafcan-GOBCAN, in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section; many new inputs in different sections (>20); new pages "Code of Conduct" and "Contributing to this repository" created.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -1278,7 +1278,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 13:59 GMT - April 14, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 22:00 GMT - April 14, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
