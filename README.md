@@ -48,7 +48,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Viral mechanisms and Tropism">Viral mechanisms: infection, entry, and replication. Under construction</a></li>
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
-  <li><a href="https://github.com/genomicsITER/COVID-19/blob/master/CONTRIBUTING.md">Contributing to this repository</a></li> 
+  <li><a href="https://github.com/genomicsITER/COVID-19/blob/master/CONTRIBUTING.md">Contributing to this repository</a></li>
+  <li><a href="https://github.com/genomicsITER/COVID-19/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
   <li><a href="#Update logs">Update logs</a></li>
   </ul>
 
