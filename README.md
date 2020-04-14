@@ -395,6 +395,11 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [COVID-19: immunopathology and its implications for therapy](https://www.nature.com/articles/s41577-020-0308-3)
 
+[Immunological assays for SARS-CoV-2: an analysis of available commercial tests to measure antigen and antibodies](https://www.medrxiv.org/content/10.1101/2020.04.10.20061150v1)
+
+[Diagnostic Testing for Severe Acute Respiratory Syndrome–Related Coronavirus-2: A Narrative Review](https://annals.org/aim/fullarticle/2764737/diagnostic-testing-severe-acute-respiratory-syndrome-related-coronavirus-2-narrative)
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -506,6 +511,12 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/medRxiv-bioRxiv.png" width="40%"/>
     </a> 
 </p>
+
+[NEJM Jornal Watch](https://www.jwatch.org/covid-19)
+
+[Coronavirus: Research, Commentary, and News | Science | AAAS](https://www.sciencemag.org/collections/coronavirus)
+
+[COVID-19 Preprints](https://covid19preprints.app/)
 
 [REACTing research & action targeting emerging infectious diseases web portal. Selection of the most relevant articles published on COVID-19 on a bi-weekly basis. France](https://reacting.inserm.fr/literature-review/)
 
@@ -647,6 +658,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Structural Basis for the Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir](https://www.biorxiv.org/content/10.1101/2020.04.08.032763v2)
 
+[Universal Screening for SARS-CoV-2 at Delivery Could Identify Many Asymptomatic Women](https://www.nejm.org/doi/full/10.1056/NEJMc2009316)
+
+[Stability of the COVID-19 virus under wet, dry and acidic conditions](https://www.medrxiv.org/content/10.1101/2020.04.09.20058875v1)
+
 <!--
 []()
 []()
@@ -690,6 +705,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
 
 [Sustainable social distancing through facemask use and testing during the Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.01.20049981v1)
+
+[Swiss Medical Weekly - Potential impact of seasonal forcing on a SARS-CoV-2 pandemic](https://doi.org/10.4414/smw.2020.20224)
+
+[Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -753,6 +772,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
 
 [Analysis of factors associated early diagnosis in coronavirus disease 2019 (COVID-19)](https://www.medrxiv.org/content/10.1101/2020.04.09.20059352v1)
+
+[COVID-19 Protocolo - Grupo de investigación Neuronal Ubiquitin Pathways - UPV/EHU](https://www.ehu.eus/es/web/umayor/covid-19-protocol)
+
+[A protocol for massively parallel diagnosis and genome sequencing of SARS-CoV-](https://www.protocols.io/view/a-protocol-for-massively-parallel-diagnosis-and-ge-betrjem6)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1023,6 +1046,9 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MoMo-dashboard.png" width="30%"/>
     </a> 
 </p>
+
+[WHO updates COVID-19 dashboard with better data visualization](https://covid19.who.int/)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
