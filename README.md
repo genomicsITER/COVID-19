@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; dashboard of the Spanish MoMo report about mortality in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section.
+> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; dashboard of the Spanish MoMo report about mortality and new dashboard with graphical information for COVID-19 data in the Canary Islands by Grafcan-GOBCAN, in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -1051,8 +1051,9 @@ Autonomous Regions and Cities in Spain:
 </li>
 
 <li>
-<a href="https://www.gobiernodecanarias.org/sanidad/scs/covid19" title="See this resource">Portal del GOBCAN con el seguimiento de la pandemia por SARS-Cov-2</a>
-<a href="https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11ea-9a8e-719d4b52bf6c/InformeCasosCOVID-19.pdf" title="See this resource">Canarias. Informes epidemiológicos de Salud Pública de la Consejería de Sanidad del Gobierno Autónomo de Canarias</a>
+  <a href="https://www.gobiernodecanarias.org/sanidad/scs/covid19" title="See this resource">Portal del GOBCAN con el seguimiento de la pandemia por SARS-Cov-2</a>
+  <a href="https://www3.gobiernodecanarias.org/sanidad/scs/content/dcb400c5-6504-11ea-9a8e-719d4b52bf6c/InformeCasosCOVID-19.pdf" title="See this resource">Canarias. Informes epidemiológicos de Salud Pública de la Consejería de Sanidad del Gobierno Autónomo de Canarias</a>
+  <a href="https://grafcan1.maps.arcgis.com/apps/opsdashboard/index.html#/156eddd4d6fa4ff1987468d1fd70efb6" >Dashboard with graphical information on COVID-19 incidence in the Canary Islands, by Grafcan-GOBCAN</a>
 </li>
 
 <li>
