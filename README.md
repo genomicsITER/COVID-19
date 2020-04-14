@@ -1258,7 +1258,7 @@ Last update: 13:59 GMT - April 14, 2020     |     By JMLS <a href="https://twitt
 <a name="Update logs"></a>
 ## Update logs ##
 
-> April 13, 2020 updates: few new articles in Scientific Literature (Pre-prints & Peer-Reviewed Papers) section and MIDAS COVID-19 repository in Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!).
+> April 13, 2020 updates: few new articles in Scientific Literature (Pre-prints & Peer-Reviewed Papers) section and MIDAS COVID-19 repository in Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!). Pull request by Miguel Correa added to the main branch of this repository.
 
 > April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (update April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
 
