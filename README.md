@@ -19,13 +19,15 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 14, 2020 updates: more on False Negatives in qPCR and the impact of face mask against COVID-19 in the Prepints section. As the repository increases its size, we are moving into a Wiki format (soon here!).
+> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatmets for COVID-19 in the Prepints section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section.
+
+> As the repository increases its size, we are moving into a Wiki format (soon here!).
 
 > Use the "Home" button to move up between sections and the ToC.
 
 # Table of contents #
 <ul>
-  <li><a href="#Clinical Trials">Clinical Trials</a></li>
+  <li><a href="#Clinical Trials and Pharmacological Treatments">Clinical Trials and Pharmacological Treatments</a></li>
   <li><a href="#Educational resources">Educational resources</a></li>
   <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
   <li><a href="#Guidelines, Society's Clinical and Professional Statements">Guidelines, Society's Clinical and Professional Statements</a></li>
@@ -52,8 +54,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Clinical Trials"></a>
-## Clinical Trials ##
+<a name="Clinical Trials and Pharmacological Treatments"></a>
+## Clinical Trials and Pharmacological Treatments ##
 > Section to show on-going clinical trials to figth against COVID-19
 
 [U.S. National Library of Medicine, ClinicalTrials.gov, Clinical Trials ordered by treatment](https://clinicaltrials.gov/ct2/results?cond=COVID&term=&cntry=&state=&city=&dist=)
@@ -95,6 +97,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
 
 [WHO DRAFT landscape of COVID-19 candidate vaccines, now includes two Spanish pre-clinical trials (April 11)](https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_11April2020.PDF)
+
+[Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A review](Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A Review)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1186,6 +1190,13 @@ Autonomous Regions and Cities in Spain:
 > Section to describe the different mechanisms and tropism that the virus displays. Under construction...
 
 [Immunoglobulin fragment F(ab')2 against RBD potently neutralizes SARS-CoV-2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.07.029884v1)
+
+[Mechanistic modeling of the SARS-CoV-2 disease map](https://www.biorxiv.org/content/10.1101/2020.04.12.025577v1)
+<p align="center">
+    <a href="http://hipathia.babelomics.org/covid19/" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Hipatia.png" width="30%"/>
+    </a> 
+</p>
 
 <p align="right">
   <a href="#covid-19" title="Up">
