@@ -1194,7 +1194,7 @@ Autonomous Regions and Cities in Spain:
 [Mechanistic modeling of the SARS-CoV-2 disease map](https://www.biorxiv.org/content/10.1101/2020.04.12.025577v1)
 <p align="center">
     <a href="http://hipathia.babelomics.org/covid19/" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Hipatia.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Hipathia.png" width="30%"/>
     </a> 
 </p>
 
