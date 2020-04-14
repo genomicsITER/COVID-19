@@ -662,6 +662,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Stability of the COVID-19 virus under wet, dry and acidic conditions](https://www.medrxiv.org/content/10.1101/2020.04.09.20058875v1)
 
+[Aerosol and surface distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards, Wuhan, China, 2020](https://doi.org/10.3201/eid2607.200885)
+
 <!--
 []()
 []()
