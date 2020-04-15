@@ -1201,7 +1201,6 @@ Autonomous Regions and Cities in Spain:
 [Broad Institute viral-related pipelines. Several available repositories with scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute?q=vir&type=&language=)
 
 [CoV Genome Tracker: tracing genomic footprints of Covid-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1)
-
 <p align="center">
     <a href="https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1" title="See this resource">
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/CoV-Genome-Tracker.png" width="30%"/>
