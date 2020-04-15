@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 15, 2020 updates: added Databricks data collection.
+> April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -1200,6 +1200,14 @@ Autonomous Regions and Cities in Spain:
 
 [Broad Institute viral-related pipelines. Several available repositories with scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute?q=vir&type=&language=)
 
+[CoV Genome Tracker: tracing genomic footprints of Covid-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1)
+
+<p align="center">
+    <a href="https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/CoV-Genome-Tracker.png" width="30%"/>
+    </a> 
+</p>
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1281,7 +1289,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 10:25 GMT - April 15, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 10:55 GMT - April 15, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
