@@ -1,4 +1,5 @@
-<!-- ------------------ HEADER ------------------ -->
+<a name=covid-19></a>
+  <!-- ------------------ HEADER ------------------ -->
 <!-- Developed and maintained by Jos&eacute; Miguel Lorenzo Salazar
 <!-- Researcher on Human Genetics working at the Genomics Division
 <!-- of the Institute of Technology an Renewable Energy (ITER)
@@ -1203,7 +1204,7 @@ Autonomous Regions and Cities in Spain:
 [CoV Genome Tracker: tracing genomic footprints of Covid-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1)
 <p align="center">
     <a href="https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/CoV-Genome-Tracker.png" width="30%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Genome-Tracker.png" width="30%"/>
     </a> 
 </p>
 
