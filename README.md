@@ -1,5 +1,4 @@
-<a name=covid-19></a>
-  <!-- ------------------ HEADER ------------------ -->
+<!-- ------------------ HEADER ------------------ -->
 <!-- Developed and maintained by Jos&eacute; Miguel Lorenzo Salazar
 <!-- Researcher on Human Genetics working at the Genomics Division
 <!-- of the Institute of Technology an Renewable Energy (ITER)
