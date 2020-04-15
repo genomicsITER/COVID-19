@@ -500,6 +500,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1)
 
+[Publicada la Especificación UNE para facilitar la fabricación de mascarillas higiénicas reutilizables](https://www.une.org/la-asociacion/sala-de-informacion-une/noticias/especificacion-une-mascarillas)     |     [Descarga directa de PDF](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/Especificacion%20UNE%20Mascarillas%20higienicas%20reutilizables/Especificacion_UNE_0065_mascarillas_higienicas_reutilizables.pdf)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
