@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker; COVID-19 in Icelandic population.
+> April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker; COVID-19 in Icelandic population; new records in the Education section; new articles about use and disinfection or repirators; more on virus mechanisms; new papers on COVID-19 detection techniques.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -143,6 +143,12 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [International AIDS Society COVID-19 and HIV: Webinar series: "COVID-19 and HIV: What you need to know"](https://www.iasociety.org/HIV-Programmes/Cross-cutting-issues/COVID-19-and-HIV-Webinars)
 
 [Infectious Disease Modelling: Beyond the Basic SIR Model](https://towardsdatascience.com/infectious-disease-modelling-beyond-the-basic-sir-model-216369c584c4)
+
+[COVID19: Top 7 online interactive simulations, curated](https://towardsdatascience.com/covid19-top-7-online-interactive-simulations-curated-fa4282889875)
+
+[Los virus más infecciosos del último siglo, en imágenes, diario El País, España](https://elpais.com/elpais/2020/04/14/album/1586870301_739813.html)
+
+[The woman who discovered the first coronavirus](https://www.bbc.com/news/uk-scotland-52278716)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -490,6 +496,10 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
 
+[Assessment of N95 respirator decontamination and re-use for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.11.20062018v1)
+
+[Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -780,6 +790,11 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [COVID-19 Protocolo - Grupo de investigación Neuronal Ubiquitin Pathways - UPV/EHU](https://www.ehu.eus/es/web/umayor/covid-19-protocol)
 
 [A protocol for massively parallel diagnosis and genome sequencing of SARS-CoV-](https://www.protocols.io/view/a-protocol-for-massively-parallel-diagnosis-and-ge-betrjem6)
+
+[A simple colorimetric molecular detection of novel coronavirus (COVID-19), an essential diagnostic tool for pandemic screening](https://www.medrxiv.org/content/10.1101/2020.04.10.20060293v1)
+
+[Rapid diagnosis of SARS-CoV-2 infection by detecting IgG and IgM antibodies with an immunochromatographic device: a prospective single-center study](https://www.medrxiv.org/content/10.1101/2020.04.11.20062158v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1209,6 +1224,11 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
+[The global population of SARS-CoV-2 is composed of six major subtypes](https://www.biorxiv.org/content/10.1101/2020.04.14.040782v1)
+
+[A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing](https://www.medrxiv.org/content/10.1101/2020.04.11.20061507v1)
+
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1245,6 +1265,8 @@ Autonomous Regions and Cities in Spain:
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Hipathia.png" width="30%"/>
     </a> 
 </p>
+
+[ACE2 and TMPRSS2 variants and expression as candidates to sex and country differences in COVID-19 severity in Italy](https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v2)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1290,7 +1312,7 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 11:11 GMT - April 15, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 16:52 GMT - April 15, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
