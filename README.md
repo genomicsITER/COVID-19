@@ -678,6 +678,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Spread of SARS-CoV-2 in the Icelandic Population](https://www.nejm.org/doi/full/10.1056/NEJMoa2006100)
 
+[Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](https://science.sciencemag.org/content/early/2020/03/24/science.abb3221)
+
 [Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens](https://jamanetwork.com/journals/jama/fullarticle/2764787)
 
 [Exploring possible mechanisms for COVID‐19 induced thrombocytopenia: Unanswered Questions](https://onlinelibrary.wiley.com/doi/abs/10.1111/jth.14832)
