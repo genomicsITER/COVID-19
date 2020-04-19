@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 17, 2020 updates: 67 new selected preprints and published papers in the Viral mechanisms section courtesy of Prof. A. Valenzuela (ULL).
+> April 19, 2020 updates: 67 new selected preprints and published papers in the Viral mechanisms section courtesy of Prof. A. Valenzuela (ULL).
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -1468,6 +1468,8 @@ Last update: 18:25 GMT - April 19, 2020     |     By JMLS <a href="https://twitt
 
 <a name="Update logs"></a>
 ## Update logs ##
+
+> April 17-18, 2020 updates: new wiki structure in progress.
 
 > April 16, 2020 updates: several entries in the Scientific Literature (Preprints & Published); and two new items in data sources.
 
