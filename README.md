@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 16, 2020 updates: several entries in the Scientific Literature (Preprints & Published); and two new items in data sources.
+> April 17, 2020 updates: 70 new selected preprints and published papers in the Viral mechanisms section.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -1285,6 +1285,138 @@ Autonomous Regions and Cities in Spain:
 
 [ACE2 and TMPRSS2 variants and expression as candidates to sex and country differences in COVID-19 severity in Italy](https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v2)
 
+[ACE2: from vasopeptidase to SARS virus receptor](https://linkinghub.elsevier.com/retrieve/pii/S0165-6147(04)00097-5)
+
+[ACE2 Receptor Expression and Severe Acute Respiratory Syndrome Coronavirus Infection Depend on Differentiation of Human Airway Epithelia](http://jvi.asm.org/cgi/pmidlookup?view=long&pmid=16282461)
+
+[ACE2 shedding and furin abundance in target organs may influence the efficiency of SARS-CoV-2 entry](http://www.chinaxiv.org/abs/202002.00082)
+
+[A highly conserved cryptic epitope in the receptor-binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/early/2020/04/02/science.abb7269)
+
+[Analysis the susceptibility of lung cancer patients to SARS-CoV-2 infection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558022)
+
+[Angiotensin‐converting enzyme 2 (ACE2) as a SARS‐CoV‐2 receptor: molecular mechanisms and potential therapeutic target](https://link.springer.com/article/10.1007/s00134-020-05985-9)
+
+[Angiotensin Converting Enzyme 2: SARS-CoV-2 Receptor and Regulator of the Renin-Angiotensin System](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.120.317015)
+
+[Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics](https://onlinelibrary.wiley.com/doi/full/10.1002/ddr.21656)
+
+[A review on the cleavage priming of the spike protein on coronavirus by angiotensin-converting enzyme-2 and furin](https://www.ncbi.nlm.nih.gov/pubmed/32274964)
+
+[A Unique Protease Cleavage Site Predicted in the Spike Protein of the Novel Pneumonia Coronavirus (2019-nCoV) Potentially Related to Viral Transmissibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7091172/)
+
+[CD147/EMMPRIN Acts as a Functional Entry Receptor for Measles Virus on Epithelial Cells](https://jvi.asm.org/content/84/9/4183.long)
+
+[Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site](https://www.biorxiv.org/content/10.1101/2020.03.22.002204v1)
+
+[Characterization of spike glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-CoV](https://www.nature.com/articles/s41467-020-15562-9)
+
+[Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine](https://www.nature.com/articles/s41423-020-0400-4)
+
+[We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
+
+[Coronavirus envelope protein: current knowledge](https://virologyj.biomedcentral.com/articles/10.1186/s12985-019-1182-0)
+
+[Coronavirus infections and immune responses](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25685)
+
+[COVID‐19 in the heart and the lungs: could we “Notch” the inflammatory storm?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7144545/)
+
+[Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation](https://science.sciencemag.org/content/367/6483/1260)
+
+[Cyclophilin–CD147 interactions: a new target for anti-inflammatory therapeutics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883100/)
+
+[Elevated Plasmin(ogen) as a Common Risk Factor for COVID-19 Susceptibility](https://journals.physiology.org/doi/full/10.1152/physrev.00013.2020)
+
+[Emerging WuHan (COVID-19) coronavirus: glycan shield and structure prediction of spike glycoprotein and its interaction with human CD26](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1739565)
+
+[Enhanced isolation of SARS-CoV-2 by TMPRSS2-expressing cells](https://www.pnas.org/content/117/13/7001)
+
+[Evolutionary stasis of viruses?](https://www.nature.com/articles/s41579-019-0168-7)
+
+[Reply to ‘Evolutionary stasis of viruses?’](https://www.nature.com/articles/s41579-019-0169-6)
+
+[Expression of SARS-CoV-2 receptor ACE2 and the spike protein processing enzymes in developing human embryos](https://arxiv.org/abs/2004.04935)
+
+[Full-genome evolutionary analysis of the novel corona virus (2019-nCoV) rejects the hypothesis of emergence as a result of a recent recombination event](https://www.sciencedirect.com/science/article/pii/S1567134820300447)
+
+[Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses](https://www.nature.com/articles/s41564-020-0688-y)
+
+[Human ACE2 receptor polymorphisms predict SARS-CoV-2 susceptibility](https://www.biorxiv.org/content/10.1101/2020.04.07.024752v1)
+
+[Individual variation of the SARS-CoV2 receptor ACE2 gene expression and regulation](https://www.preprints.org/manuscript/202003.0191/v1)
+
+[Interaction of drugs candidates with various SARS-CoV-2 receptors: an in silico study to combat COVID-19](https://chemrxiv.org/articles/Interaction_of_drugs_candidates_with_various_SARS-CoV-2_receptors_an_in_silico_study_to_combat_COVID-19/12100968/1)
+
+[Is COVID-19 receiving ADE from other coronaviruses?](https://www.sciencedirect.com/science/article/pii/S1286457920300344)
+
+[Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial](https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1)
+
+[Origin and evolution of pathogenic coronaviruses](https://www.nature.com/articles/s41579-018-0118-9)
+
+[Pandemics: spend on surveillance, not prediction](https://www.nature.com/articles/d41586-018-05373-w)
+
+[Predicting the angiotensin converting enzyme 2 (ACE2) utilizing capability as the receptor of SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S1286457920300496)
+
+[Prisoners of war — host adaptation and its constraints on virus evolution](https://www.nature.com/articles/s41579-018-0120-2)
+
+[Probable Pangolin Origin of SARS-CoV-2 Associated with the COVID-19 Outbreak](https://linkinghub.elsevier.com/retrieve/pii/S0960-9822(20)30360-2)
+
+[Ready, Set, Fuse! The Coronavirus Spike Protein and Acquisition of Fusion Competence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347323/)
+
+[Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus](https://jvi.asm.org/content/94/7/e00127-20)
+
+[Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases](https://pubs.acs.org/doi/10.1021/acscentsci.0c00272)
+
+[SARS Coronavirus Redux](https://www.sciencedirect.com/science/article/pii/S1471490620300387)
+
+[SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor](https://www.sciencedirect.com/science/article/pii/S0092867420302294)
+
+[SARS-CoV-2 infects T lymphocytes through its spike protein-mediated membrane fusion](https://www.nature.com/articles/s41423-020-0424-9)
+
+[SARS-CoV-2 invades host cells via a novel route: CD147-spike protein](https://www.biorxiv.org/content/10.1101/2020.03.14.988345v1)
+
+[SARS-CoV-2 Life Cycle: Stages and Inhibition Targets](https://www.antibodies-online.com/resources/18/5410/sars-cov-2-life-cycle-stages-and-inhibition-targets/)
+
+[SARS-CoV-2 receptor ACE2 and TMPRSS2 are predominantly expressed in a transient secretory cell type in subsegmental bronchial branches](https://www.biorxiv.org/content/10.1101/2020.03.13.991455v3)
+
+[SARS-CoV-2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](https://www.ncbi.nlm.nih.gov/pubmed/32246845)
+
+[Should COVID-19 Concern Nephrologists? Why and to What Extent? The Emerging Impasse of Angiotensin Blockade](https://www.karger.com/Article/FullText/507305)
+
+[Structural basis of receptor cognition by SARS-CoV-2](https://www.nature.com/articles/s41586-020-2179-y)
+
+[Structural interactions between pandemic SARS-CoV-2 spike glycoprotein and human Furin protease](https://www.biorxiv.org/content/10.1101/2020.04.10.036533v1)
+
+[Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein](https://www.sciencedirect.com/science/article/pii/S0092867420302622)
+
+[Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor](https://www.nature.com/articles/s41586-020-2180-5)
+
+[Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
+
+[Targeting the Endocytic Pathway and Autophagy Process as a Novel Therapeutic Strategy in COVID-19](https://www.ijbs.com/v16p1724.htm)
+
+[Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30196-1/fulltext)
+
+[The biology of influenza viruses](https://www.sciencedirect.com/science/article/pii/S0264410X08009377)
+
+[The insert sequence in SARS-CoV-2 enhances spike protein cleavage by TMPRSS](https://www.biorxiv.org/content/10.1101/2020.02.08.926006v3.full)
+
+[The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+
+[The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement]https://www.biorxiv.org/content/10.1101/2020.04.10.036418v1()
+
+[TMPRSS2 and ADAM17 Cleave ACE2 Differentially and Only Proteolysis by TMPRSS2 Augments Entry Driven by the Severe Acute Respiratory Syndrome Coronavirus Spike Protein](https://jvi.asm.org/content/88/2/1293.long)
+
+[Tracking virus outbreaks in the twenty-first century](https://www.nature.com/articles/s41564-018-0296-2)
+
+[Understanding SARS-CoV-2-Mediated Inflammatory Responses: From Mechanisms to Potential Therapeutic Tools](https://link.springer.com/article/10.1007%2Fs12250-020-00207-4)
+
+[We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
+
+[Why do RNA viruses recombine?](https://www.nature.com/articles/nrmicro2614)
+
+[Widely available lysosome targeting agents should be considered as a potential therapy for COVID-19](https://www.preprints.org/manuscript/202003.0345/v2)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1336,6 +1468,8 @@ Last update: 22:48 GMT - April 15, 2020     |     By JMLS <a href="https://twitt
 
 <a name="Update logs"></a>
 ## Update logs ##
+
+> April 16, 2020 updates: several entries in the Scientific Literature (Preprints & Published); and two new items in data sources.
 
 > April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker; COVID-19 in Icelandic population; new records in the Education section; new articles about use and disinfection or repirators; more on virus mechanisms; new papers on COVID-19 detection techniques.
 
