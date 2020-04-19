@@ -100,7 +100,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [WHO DRAFT landscape of COVID-19 candidate vaccines, now includes two Spanish pre-clinical trials (April 11)](https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_11April2020.PDF)
 
-[Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A review](Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A Review)
+[Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A review](https://jamanetwork.com/journals/jama/fullarticle/2764727)
 
 <p align="right">
   <a href="#covid-19" title="Up">
