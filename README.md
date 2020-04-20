@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 20, 2020 updates: an alternative Illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section; new PCR fast detection method using a portable PCR thermocycler.
+> April 20, 2020 updates: an alternative Illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section; new PCR fast detection method using a portable PCR thermocycler and comparative of PCR methods.
 
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
