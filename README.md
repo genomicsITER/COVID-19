@@ -1246,7 +1246,7 @@ Autonomous Regions and Cities in Spain:
 
 [A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing](https://www.medrxiv.org/content/10.1101/2020.04.11.20061507v1)
 
-[Alternative illumina protocol for SARS sequencing (for Ct up to 38)](https://www.protocols.io/view/rtpcr-amplification-of-sars-cov2-whole-genome-for-bew8jfhw)
+[Alternative Illumina protocol for SARS sequencing (for Ct up to 38)](https://www.protocols.io/view/rtpcr-amplification-of-sars-cov2-whole-genome-for-bew8jfhw)
 
 <p align="right">
   <a href="#covid-19" title="Up">
