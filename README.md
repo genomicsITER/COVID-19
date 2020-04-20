@@ -738,6 +738,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
 
+[An SEIR Model for Assessment of Current COVID-19 Pandemic Situation in the UK](https://www.medrxiv.org/content/10.1101/2020.04.12.20062588v1)
+
+[Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries](https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -810,6 +814,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Rapid diagnosis of SARS-CoV-2 infection by detecting IgG and IgM antibodies with an immunochromatographic device: a prospective single-center study](https://www.medrxiv.org/content/10.1101/2020.04.11.20062158v1)
 
 [Rapid direct nucleic acid amplification test without RNA extraction for SARS-CoV-2 using a portable PCR thermocycler](https://www.biorxiv.org/content/10.1101/2020.04.17.042366v1)
+
+[Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
+
+[Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1300,6 +1308,8 @@ Autonomous Regions and Cities in Spain:
 
 [Angiotensin‐converting enzyme 2 (ACE2) as a SARS‐CoV‐2 receptor: molecular mechanisms and potential therapeutic target](https://link.springer.com/article/10.1007/s00134-020-05985-9)
 
+[Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus](https://www.nature.com/articles/nature02145)
+
 [Angiotensin Converting Enzyme 2: SARS-CoV-2 Receptor and Regulator of the Renin-Angiotensin System](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.120.317015)
 
 [Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics](https://onlinelibrary.wiley.com/doi/full/10.1002/ddr.21656)
@@ -1337,6 +1347,10 @@ Autonomous Regions and Cities in Spain:
 [Evolutionary stasis of viruses?](https://www.nature.com/articles/s41579-019-0168-7)
 
 [Reply to ‘Evolutionary stasis of viruses?’](https://www.nature.com/articles/s41579-019-0169-6)
+
+[Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys](https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1)
+
+[Evaluation of antibody testing for SARS-Cov-2 using ELISA and lateral flow immunoassays](https://www.medrxiv.org/content/10.1101/2020.04.15.20066407v1)
 
 [Expression of SARS-CoV-2 receptor ACE2 and the spike protein processing enzymes in developing human embryos](https://arxiv.org/abs/2004.04935)
 
