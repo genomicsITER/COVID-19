@@ -1097,6 +1097,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [CIVIO datos Pruebas PCR para detectar casos de coronavirus. Actualización diaria con el número (total y relativo) de PCR realizadas por comunidades autónomas para diagnosticar casos de covid-19](https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/)
 
+[COVID-19 Data Portal](https://www.covid19dataportal.org/)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
