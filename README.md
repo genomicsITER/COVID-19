@@ -19,7 +19,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 19, 2020 updates: 67 new selected preprints and published papers in the Viral mechanisms section courtesy of Prof. A. Valenzuela (ULL).
+> April 20, 2020 updates: an alternative illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section.
+
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -1245,6 +1246,7 @@ Autonomous Regions and Cities in Spain:
 
 [A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing](https://www.medrxiv.org/content/10.1101/2020.04.11.20061507v1)
 
+[Alternative illumina protocol for SARS sequencing (for Ct up to 38)](https://www.protocols.io/view/rtpcr-amplification-of-sars-cov2-whole-genome-for-bew8jfhw)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1461,13 +1463,15 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-Last update: 18:25 GMT - April 19, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 13:10 GMT - April 20, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Update logs"></a>
 ## Update logs ##
+
+> April 19, 2020 updates: 67 new selected preprints and published papers in the Viral mechanisms section courtesy of Prof. A. Valenzuela (ULL).
 
 > April 17-18, 2020 updates: new wiki structure in progress.
 
