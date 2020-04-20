@@ -1405,7 +1405,7 @@ Autonomous Regions and Cities in Spain:
 
 [The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
 
-[The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement]https://www.biorxiv.org/content/10.1101/2020.04.10.036418v1()
+[The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement](https://www.biorxiv.org/content/10.1101/2020.04.10.036418v1)
 
 [TMPRSS2 and ADAM17 Cleave ACE2 Differentially and Only Proteolysis by TMPRSS2 Augments Entry Driven by the Severe Acute Respiratory Syndrome Coronavirus Spike Protein](https://jvi.asm.org/content/88/2/1293.long)
 
