@@ -19,8 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 20, 2020 updates: an alternative Illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section; new PCR fast detection method using a portable PCR thermocycler and comparative of PCR methods.
-
+> April 21, 2020 updates: CRISPR–Cas12-based detection of SARS-CoV-2.
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -819,6 +818,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
 
+[CRISPR–Cas12-based detection of SARS-CoV-2](https://www.nature.com/articles/s41587-020-0513-4)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -1487,6 +1488,8 @@ Last update: 21:25 GMT - April 20, 2020     |     By JMLS <a href="https://twitt
 
 <a name="Update logs"></a>
 ## Update logs ##
+
+> April 20, 2020 updates: an alternative Illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section; new PCR fast detection method using a portable PCR thermocycler and comparative of PCR methods.
 
 > April 19, 2020 updates: 67 new selected preprints and published papers in the Viral mechanisms section courtesy of Prof. A. Valenzuela (ULL).
 
