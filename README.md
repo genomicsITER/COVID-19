@@ -455,8 +455,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [SwabSeq. Allows for detection of SARS-COV-2 genomic RNA, without purification, in a single-step RT-PCR followed by sequencing. By OctanBio](https://github.com/octantbio/SwabSeq)
 
-[USA CDC Center for Disease and Control Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flab%2Frt-pcr-detection-instructions.html) 
-[RT-PCR protocol](https://www.fda.gov/media/134922/download) 
+[USA CDC Center for Disease and Control Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flab%2Frt-pcr-detection-instructions.html) [RT-PCR protocol](https://www.fda.gov/media/134922/download) 
 
 <p align="right">
   <a href="#covid-19" title="Up">
