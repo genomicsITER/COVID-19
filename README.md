@@ -288,6 +288,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 </p>
 <!-- ------------------ END of GENOMICS SECTION ------------------ -->
 
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
@@ -823,8 +825,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
 
-
-
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
@@ -929,9 +929,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
 
 [Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure](https://www.medrxiv.org/content/10.1101/2020.04.07.20051474v1)
-
-
-
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1358,12 +1355,16 @@ Autonomous Regions and Cities in Spain:
 ## Sequencing, Sequences and Bioinformatics ##
 > A section of sequencing protocols, sequence sources and related bioinformatics pipelines
 
-[NCBI GenBank SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
+[A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing](https://www.medrxiv.org/content/10.1101/2020.04.11.20061507v1)
 
-[NCBI GenBank Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome. GenBank: MN908947.3](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+[Alternative Illumina protocol for SARS sequencing (for Ct up to 38)](https://www.protocols.io/view/rtpcr-amplification-of-sars-cov2-whole-genome-for-bew8jfhw)
+
+[Broad Institute viral-related pipelines. Several available repositories with scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute?q=vir&type=&language=)
+
+[Centre for Genomic Regulation, CRG, public.docs repository, COVID sequences, including fast5 files](https://public-docs.crg.es/covid/)
 <p align="center">
-    <a href="https://www.ncbi.nlm.nih.gov/nuccore/MN908947" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MN908947.3.png" width="40%"/>
+    <a href="https://public-docs.crg.es/covid/" title="See this resource">
+      <img src="https://public-docs.crg.es/icons/logo-crg.png" width="30%"/>
     </a> 
 </p>
 
@@ -1374,22 +1375,7 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
-[Centre for Genomic Regulation, CRG, public.docs repository, COVID sequences, including fast5 files](https://public-docs.crg.es/covid/)
-<p align="center">
-    <a href="https://public-docs.crg.es/covid/" title="See this resource">
-      <img src="https://public-docs.crg.es/icons/logo-crg.png" width="30%"/>
-    </a> 
-</p>
-
-[COVID-19 ARTIC v3 Illumina library construction and sequencing protocol](https://www.protocols.io/view/covid-19-artic-v3-illumina-library-construction-an-beuzjex6)
-
-[Enrichment workflow for detecting coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
-
 [CDC GitHub SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing/blob/master/README.md)
-
-[Katarina Braun GitHub ARS-CoV-2_sequencing repository](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
-
-[Broad Institute viral-related pipelines. Several available repositories with scripts and tools for the analysis of viral NGS data](https://github.com/broadinstitute?q=vir&type=&language=)
 
 [CoV Genome Tracker: tracing genomic footprints of Covid-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.04.10.036343v1)
 <p align="center">
@@ -1398,11 +1384,23 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
+[COVID-19 ARTIC v3 Illumina library construction and sequencing protocol](https://www.protocols.io/view/covid-19-artic-v3-illumina-library-construction-an-beuzjex6)
+
+[Enrichment workflow for detecting coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
+
+[Katarina Braun GitHub ARS-CoV-2_sequencing repository](https://github.com/katarinabraun/SARS-CoV-2_sequencing)
+
+[NCBI GenBank SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
+
+[NCBI GenBank Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome. GenBank: MN908947.3](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+<p align="center">
+    <a href="https://www.ncbi.nlm.nih.gov/nuccore/MN908947" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MN908947.3.png" width="40%"/>
+    </a> 
+</p>
+
 [The global population of SARS-CoV-2 is composed of six major subtypes](https://www.biorxiv.org/content/10.1101/2020.04.14.040782v1)
 
-[A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing](https://www.medrxiv.org/content/10.1101/2020.04.11.20061507v1)
-
-[Alternative Illumina protocol for SARS sequencing (for Ct up to 38)](https://www.protocols.io/view/rtpcr-amplification-of-sars-cov2-whole-genome-for-bew8jfhw)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1431,15 +1429,6 @@ Autonomous Regions and Cities in Spain:
 <a name="Viral mechanisms and Tropism"></a>
 ## Viral mechanisms and Tropism: infection, entry, and replication ##
 > Section to describe the different mechanisms and tropism that the virus displays. Under construction...
-
-[Immunoglobulin fragment F(ab')2 against RBD potently neutralizes SARS-CoV-2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.07.029884v1)
-
-[Mechanistic modeling of the SARS-CoV-2 disease map](https://www.biorxiv.org/content/10.1101/2020.04.12.025577v1)
-<p align="center">
-    <a href="http://hipathia.babelomics.org/covid19/" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Hipathia.png" width="30%"/>
-    </a> 
-</p>
 
 [A single-cell atlas of the peripheral immune response to severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.17.20069930v1)
 
@@ -1519,12 +1508,21 @@ Autonomous Regions and Cities in Spain:
 
 [Individual variation of the SARS-CoV2 receptor ACE2 gene expression and regulation](https://www.preprints.org/manuscript/202003.0191/v1)
 
+[Immunoglobulin fragment F(ab')2 against RBD potently neutralizes SARS-CoV-2 in vitro](https://www.biorxiv.org/content/10.1101/2020.04.07.029884v1)
+
 [Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and highlights inflammatory programs in putative target 
 cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 
 [Interaction of drugs candidates with various SARS-CoV-2 receptors: an in silico study to combat COVID-19](https://chemrxiv.org/articles/Interaction_of_drugs_candidates_with_various_SARS-CoV-2_receptors_an_in_silico_study_to_combat_COVID-19/12100968/1)
 
 [Is COVID-19 receiving ADE from other coronaviruses?](https://www.sciencedirect.com/science/article/pii/S1286457920300344)
+
+[Mechanistic modeling of the SARS-CoV-2 disease map](https://www.biorxiv.org/content/10.1101/2020.04.12.025577v1)
+<p align="center">
+    <a href="http://hipathia.babelomics.org/covid19/" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CoV-Hipathia.png" width="30%"/>
+    </a> 
+</p>
 
 [Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial](https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1)
 
