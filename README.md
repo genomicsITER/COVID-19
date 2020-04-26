@@ -19,9 +19,9 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 26, 2020 updates: new Epidemiology, Diagnostics, and Seroprevalence sections; 2 entries in Media section; 10 new entries in Virology section; 7 entries in the renamed 'Genomics and Phylodynamics' section; many (13) new entries in the PCR and related stuff (attention to new protocols an experiments for detecting the virus in sputum, use of 'dry-swabs', and saliva samples); more on funding opportunities; and some new data sources (3). Most of entries now alphabetycally sorted.
+> April 26, 2020 updates: new Epidemiology, Diagnostics, and Seroprevalence sections; 2 entries in Media section; 10 new entries in Virology section; 7 entries in the renamed 'Genomics and Phylodynamics' section; many (13) new entries in the PCR and related stuff (attention to new protocols and experiments for detecting the virus in sputum, use of 'dry-swabs', and saliva samples); more on funding opportunities; and some new data sources (3). Most of the entries now alphabetically sorted.
 
-> As the repository increases its size, it is available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a>.
+> As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
 > Use the "Home" button to move up between sections and the ToC.
 
