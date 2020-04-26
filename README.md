@@ -439,6 +439,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
   </li>
 </ul>
 
+<hr>
+
 [A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20)  | [Protocol](https://t.co/x2c2v8uvw3?amp=1) | [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1) 
