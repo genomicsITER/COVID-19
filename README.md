@@ -606,11 +606,11 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
-[NEJM Jornal Watch](https://www.jwatch.org/covid-19)
-
 [Coronavirus: Research, Commentary, and News | Science | AAAS](https://www.sciencemag.org/collections/coronavirus)
 
 [COVID-19 Preprints](https://covid19preprints.app/)
+
+[NEJM Jornal Watch](https://www.jwatch.org/covid-19)
 
 [REACTing research & action targeting emerging infectious diseases web portal. Selection of the most relevant articles published on COVID-19 on a bi-weekly basis. France](https://reacting.inserm.fr/literature-review/)
 
