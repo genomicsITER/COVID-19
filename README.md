@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> April 21, 2020 updates: CRISPR–Cas12-based detection of SARS-CoV-2.
+> April 26, 2020 updates: new Epidemiology, Diagnostics, and Seroprevalence sections; 2 entries in Media section; 10 new entries in Virology section; 7 entries in the renamed 'Genomics and Phylodynamics' section; many (13) new entries in the PCR and related stuff (attention to new protocols an experiments for detecting the virus in sputum, use of 'dry-swabs', and saliva samples); more on funding opportunities; and some new data sources (3).
 
 > As the repository increases its size, we are moving into a Wiki format (soon here!).
 
@@ -28,14 +28,17 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 # Table of contents #
 <ul>
   <li><a href="#Clinical Trials and Pharmacological Treatments">Clinical Trials and Pharmacological Treatments</a></li>
+  <li><a href="#Diagnostics">Diagnostics</a></li>
   <li><a href="#Educational resources">Educational resources</a></li>
-  <li><a href="#Genomics of SARS-CoV-2">Genomics of SARS-CoV-2</a></li>
+  <li><a href="#Epidemiology">Epidemiology</a></li>  
+  <li><a href="#Genomics and Phylodynamics of SARS-CoV-2">Genomics and Phylodynamics of SARS-CoV-2</a></li>
   <li><a href="#Guidelines, Society's Clinical and Professional Statements">Guidelines, Society's Clinical and Professional Statements</a></li>
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Protocols">Protocols</a></li>
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
+  <li><a href="#Seroprevalence">Seroprevalence</a></li>  
   <li><a href="#Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)" >Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)</a></li>
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
@@ -98,9 +101,9 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
 
-[WHO DRAFT landscape of COVID-19 candidate vaccines, now includes two Spanish pre-clinical trials (April 11)](https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_11April2020.PDF)
-
 [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A review](https://jamanetwork.com/journals/jama/fullarticle/2764727)
+
+[WHO DRAFT landscape of COVID-19 candidate vaccines, now includes two Spanish pre-clinical trials (April 11)](https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_11April2020.PDF)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -108,26 +111,40 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   </a>
 </p>
 
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Diagnostics"></a>
+## Diagnostics ##
+
+> New section on April 26, 2020.
+
+[COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG by a quantitative and sensitive immunoassay](https://www.medrxiv.org/content/10.1101/2020.04.17.20064907v1)
+
+[Distinguishing COVID-19 from influenza pneumonia in the early stage through CT imaging and clinical features](https://www.medrxiv.org/content/10.1101/2020.04.17.20061242v1)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Educational resources"></a>
 ## Educational resources ##
-[Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#)
+
+[Actualización sobre la situación de la COVID-19, Dr. Josep Maria Miró](https://www.youtube.com/watch?v=VcURN4NnaJI)
 
 [#AprendeBioinformáticaEnCasa](https://bioinfogp.cnb.csic.es/courses/quedateencasa/)
 
 [Bioinformatics Training Resources for Experimentalists (and Friends)](https://jasondk.github.io/bioinformatics-edu/)
 
-[Czech campaign #masks4all](https://docs.google.com/document/u/0/d/1EWpWmyjzM4sNBF-7jp_1Y9a-pqiRg0wakGXy7kj11RA/mobilebasic)
-[We need #masks4all, in Youtube](https://youtu.be/BoDwXwZXsDI)
-
-[IAEA International Atomic Energy Agency webinar, COVID-19 and chest CT: protocol and dose optimization](https://www.iaea.org/resources/webinar/covid-19-and-chest-ct-protocol-and-dose-optimization)
-<p align="center">
-    <a href="https://www.iaea.org/resources/webinar/covid-19-and-chest-ct-protocol-and-dose-optimization" title="See this resource">
-      <img src="https://www.iaea.org/sites/default/files/iaea-logo.png" width="40%"/>
-    </a> 
-</p>
+[COVID19: Top 7 online interactive simulations, curated](https://towardsdatascience.com/covid19-top-7-online-interactive-simulations-curated-fa4282889875)
 
 [COVID-19 Preparedness for Radiotherapy Departments - Towards Consensus on Best Practices](https://humanhealth.iaea.org/HHW/)
 <p align="center">
@@ -136,17 +153,25 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
     </a> 
 </p>
 
-[Actualización sobre la situación de la COVID-19, Dr. Josep Maria Miró](https://www.youtube.com/watch?v=VcURN4NnaJI)
+[Czech campaign #masks4all](https://docs.google.com/document/u/0/d/1EWpWmyjzM4sNBF-7jp_1Y9a-pqiRg0wakGXy7kj11RA/mobilebasic)
+[We need #masks4all, in Youtube](https://youtu.be/BoDwXwZXsDI)
 
-[SARS-CoV-2 (COVID-19) by the n. EPIDEMIOLOGY AND GLOBAL HEALTH MICROBIOLOGY AND INFECTIOUS DISEASE elife](https://elifesciences.org/articles/57309)
+[Harvard Medical School MEDICAL STUDENT COVID-19 CURRICULUM](https://docs.google.com/document/d/13JfRRw1GEIKz4JCde8WcQBCHnu-7nn11P_z0dHov1eA/preview#)
 
-[International AIDS Society COVID-19 and HIV: Webinar series: "COVID-19 and HIV: What you need to know"](https://www.iasociety.org/HIV-Programmes/Cross-cutting-issues/COVID-19-and-HIV-Webinars)
+[IAEA International Atomic Energy Agency webinar, COVID-19 and chest CT: protocol and dose optimization](https://www.iaea.org/resources/webinar/covid-19-and-chest-ct-protocol-and-dose-optimization)
+<p align="center">
+    <a href="https://www.iaea.org/resources/webinar/covid-19-and-chest-ct-protocol-and-dose-optimization" title="See this resource">
+      <img src="https://www.iaea.org/sites/default/files/iaea-logo.png" width="40%"/>
+    </a> 
+</p>
 
 [Infectious Disease Modelling: Beyond the Basic SIR Model](https://towardsdatascience.com/infectious-disease-modelling-beyond-the-basic-sir-model-216369c584c4)
 
-[COVID19: Top 7 online interactive simulations, curated](https://towardsdatascience.com/covid19-top-7-online-interactive-simulations-curated-fa4282889875)
+[International AIDS Society COVID-19 and HIV: Webinar series: "COVID-19 and HIV: What you need to know"](https://www.iasociety.org/HIV-Programmes/Cross-cutting-issues/COVID-19-and-HIV-Webinars)
 
 [Los virus más infecciosos del último siglo, en imágenes, diario El País, España](https://elpais.com/elpais/2020/04/14/album/1586870301_739813.html)
+
+[SARS-CoV-2 (COVID-19) by the n. EPIDEMIOLOGY AND GLOBAL HEALTH MICROBIOLOGY AND INFECTIOUS DISEASE elife](https://elifesciences.org/articles/57309)
 
 [The woman who discovered the first coronavirus](https://www.bbc.com/news/uk-scotland-52278716)
 
@@ -156,62 +181,105 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   </a>
 </p>
 
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Genomics of SARS-CoV-2"></a>
-## Genomics of SARS-CoV-2 ##
+<a name="Epidemiology"></a>
+## Epidemiology ##
+
+[Analysis of the impact of lockdown on the evolution Covid-19 epidemics in Spain](https://www.medrxiv.org/content/10.1101/2020.04.18.20070862v1)
+
+[COVID-19 Asymptomatic Infection Estimation](https://www.medrxiv.org/content/10.1101/2020.04.19.20068072v1)
+
+[Estimating the probability of New Zealand regions being free from COVID-19 using a stochastic SEIR model](https://www.medrxiv.org/content/10.1101/2020.04.20.20073304v1)
+
+[Outbreak dynamics of COVID-19 in Europe and the effect of travel restrictions](https://www.medrxiv.org/content/10.1101/2020.04.18.20071035v1)
+
+[Public Health Interventions for COVID-19: Emerging Evidence and Implications for an Evolving Public Health Crisis. JAMA editorial | Infectious Diseases](https://jamanetwork.com/journals/jama/fullarticle/2764656)
+
+[Why does COVID-19 case fatality rate vary among countries?](https://www.medrxiv.org/content/10.1101/2020.04.17.20069393v1)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Genomics and Phylodynamics of SARS-CoV-2"></a>
+## Genomics and Phylodynamics of SARS-CoV-2 ##
 > Section devoted to show main findings in the virus genome.
-
-[Reproducible analyses for rejecting rare genomic inversions in SARS-CoV-2](https://github.com/alexcritschristoph/sars_cov_2_inversion)
-
-[SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies](https://www.biorxiv.org/content/10.1101/2020.03.27.009480v1)
-
-[Proyecto Epidemiologia Genomica COVID 19](https://evosalut1.uv.es/)
-
-[CovProfile: profiling the viral genome and gene expressions of SARS-COV2](https://www.biorxiv.org/content/10.1101/2020.04.05.026146v1)
-
-[MERS-CoV recombination: implications about the reservoir and potential for adaptation](https://academic.oup.com/ve/article/2/1/vev023/1753363)
-
-[Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa203/5780800)
-
-[The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
-
-[Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal](https://mra.asm.org/content/9/11/e00169-20)
-
-[Nanopore target sequencing for accurate and comprehensive detection of SARS-CoV-2 and other respiratory viruses](https://www.medrxiv.org/content/10.1101/2020.03.04.20029538v1)
-
-[Genomic variations of SARS-CoV-2 suggest multiple outbreak sources of transmission](https://www.medrxiv.org/content/10.1101/2020.02.25.20027953v2)
 
 [A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing](https://www.biorxiv.org/content/10.1101/2020.03.22.002386v3)
 
-[SARS-CoV-2 Receptor ACE2 is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Enriched in Specific Cell Subsets Across Tissues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555145)
+[An 81 base-pair deletion in SARS-CoV-2 ORF7a identified from sentinel surveillance in Arizona (Jan-Mar 2020)](https://www.medrxiv.org/content/10.1101/2020.04.17.20069641v1)
 
-[RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1725399)
-
-[Global patterns in coronavirus diversity](https://academic.oup.com/ve/article/3/1/vex012/3866407)
-
-[Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1)
-
-[LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1)
+[A New Resource for Genomics and Precision Health Information and Publications on the Investigation and Control of COVID-19 and other Coronaviruses](https://www.biorxiv.org/content/10.1101/2020.04.21.050922v1)
 
 [Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site](https://www.biorxiv.org/content/10.1101/2020.03.22.002204v1)
 
-[The architecture of SARS-CoV-2 transcriptome](https://www.biorxiv.org/content/10.1101/2020.03.12.988865v2)
+[Comparative ACE2 variation and primate COVID-19 risk](https://www.biorxiv.org/content/10.1101/2020.04.09.034967v1)
+
+[Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal](https://mra.asm.org/content/9/11/e00169-20)
+
+[CoV-GLUE. Virus genome analysis for the SARS-CoV-2 pandemic](http://cov-glue.cvr.gla.ac.uk/)
+
+[CovProfile: profiling the viral genome and gene expressions of SARS-COV2](https://www.biorxiv.org/content/10.1101/2020.04.05.026146v1)
 
 [Direct RNA sequencing and early evolution of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.05.976167v2)
 
+[Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1)
+
 [Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses](https://www.biorxiv.org/content/10.1101/2020.04.05.026450v1)
+
+[Genomic diversity of SARS-CoV-2 in Coronavirus Disease 2019 patients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa203/5780800)
 
 [Gene expression and in situ protein profiling of candidate SARS-CoV-2 receptors in human airway epithelial cells and lung tissue](https://www.biorxiv.org/content/10.1101/2020.04.07.030742v1)
 
-[The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like motif](https://www.biorxiv.org/content/10.1101/2020.04.09.033522v1)
+[Genomic variations of SARS-CoV-2 suggest multiple outbreak sources of transmission](https://www.medrxiv.org/content/10.1101/2020.02.25.20027953v2)
 
-[Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors](https://www.biorxiv.org/content/10.1101/2020.03.24.005702v1.full.pdf)
+[Global patterns in coronavirus diversity](https://academic.oup.com/ve/article/3/1/vex012/3866407)
 
 [In-depth Bioinformatic Analyses of Human SARS-CoV-2, SARS-CoV, MERS-CoV, and Other Nidovirales Suggest Important Roles of Noncanonical Nucleic Acid Structures in Their Lifecycles](https://www.biorxiv.org/content/10.1101/2020.04.09.031252v1)
 
-[Comparative ACE2 variation and primate COVID-19 risk](https://www.biorxiv.org/content/10.1101/2020.04.09.034967v1)
+[Knowledge synthesis from 100 million biomedical documents augments the deep expression profiling of coronavirus receptors](https://www.biorxiv.org/content/10.1101/2020.03.24.005702v1.full.pdf)
+
+[LAMP-Seq: Population-Scale COVID-19 Diagnostics Using a Compressed Barcode Space](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v1)
+
+[MERS-CoV recombination: implications about the reservoir and potential for adaptation](https://academic.oup.com/ve/article/2/1/vev023/1753363)
+
+[Nanopore target sequencing for accurate and comprehensive detection of SARS-CoV-2 and other respiratory viruses](https://www.medrxiv.org/content/10.1101/2020.03.04.20029538v1)
+
+[Phylodynamics of SARS-CoV-2 transmission in Spain](https://www.biorxiv.org/content/10.1101/2020.04.20.050039v1)
+
+[Proyecto Epidemiologia Genomica COVID 19](https://evosalut1.uv.es/)
+
+[Proyecto SeqCOVID – Genomic epidemiology of SARS-CoV-2 in Spain](http://seqcovid.csic.es/)
+
+[Reproducible analyses for rejecting rare genomic inversions in SARS-CoV-2](https://github.com/alexcritschristoph/sars_cov_2_inversion)
+
+[REVEALING COVID-19 TRANSMISSION BY SARS-CoV-2 GENOME SEQUENCING AND AGENT BASED MODELLING](https://www.biorxiv.org/content/10.1101/2020.04.19.048751v1)
+
+[RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1725399)
+
+[SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies](https://www.biorxiv.org/content/10.1101/2020.03.27.009480v1)
+
+[SARS-CoV-2 Receptor ACE2 is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Enriched in Specific Cell Subsets Across Tissues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3555145)
+
+[Synonymous mutations and the molecular evolution of SARS-Cov-2 origins](https://www.biorxiv.org/content/10.1101/2020.04.20.052019v1)
+
+[The architecture of SARS-CoV-2 transcriptome](https://www.biorxiv.org/content/10.1101/2020.03.12.988865v2)
+
+[The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme](https://www.biorxiv.org/content/10.1101/2020.04.21.054221v1)
+
+[The proximal origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
+
+[The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like motif](https://www.biorxiv.org/content/10.1101/2020.04.09.033522v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -228,25 +296,19 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 > A colection of guides and documents from different natianal and international institutions with means to protect people againts COVID-19, including biosafety guidelines, decontamination recommendations and risks, etc. 
 > The opinions expressed in there do not reflect ITER institutional position.
 
-[WHO - Laboratory Biosafety Manual - Third Edition](https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/) 
-
-[SemiSyuc]() 
-https://semicyuc.org/covid-19/#Documentos
-[Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19](https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf) 
-
-[Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings](https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html)
-
-[Recomendaciones Institucionales de la Sociedad Española de Enfermedades Infeccionas y Microbiología Clínica (SEIMC)](https://seimc.org/documentos-cientificos/recomendaciones-institucionales) 
+[CEN and CENELEC make European standards available to help prevent the COVID-19 contagion](https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx)
+<p align="center">
+    <a href="https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx" title="See this resource">
+      <img src="https://www.cencenelec.eu/_layouts/1033/STYLES/CENCENELECResponsive/img/device-cen-cenelec.gif" width="40%"/>
+    </a> 
+</p>
 
 [Documento de posicionamiento de la SEIMC sobre el diagnstico microbiológo de COVID-19](https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf)
 
-[USA CDC Clean & Disinfect
-Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
-
-[WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19) interim guidance, 19 March 2020:](https://apps.who.int/iris/handle/10665/331500)
+[European CDC, Considerations relating to social distancing measures in response to COVID-19 – second update](https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second)
 <p align="center">
-    <a href="https://apps.who.int/iris/handle/10665/331500" title="See this resource">
-      <img src="https://apps.who.int/iris/themes/WHO//images/en/who_logo.svg" width="30%"/>
+    <a href="https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second" title="See this resource">
+      <img src="https://www.ecdc.europa.eu/profiles/custom/ecdc/themes/anthrax/images/logo-ecdc.png" width="25%"/>
     </a> 
 </p>
 
@@ -257,29 +319,34 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
-[CEN and CENELEC make European standards available to help prevent the COVID-19 contagion](https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx)
-<p align="center">
-    <a href="https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx" title="See this resource">
-      <img src="https://www.cencenelec.eu/_layouts/1033/STYLES/CENCENELECResponsive/img/device-cen-cenelec.gif" width="40%"/>
-    </a> 
-</p>
+[Recommended Guidance for Extended Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare Settings](https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html)
 
-[European CDC, Considerations relating to social distancing measures in response to COVID-19 – second update](https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second)
-<p align="center">
-    <a href="https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second" title="See this resource">
-      <img src="https://www.ecdc.europa.eu/profiles/custom/ecdc/themes/anthrax/images/logo-ecdc.png" width="25%"/>
-    </a> 
-</p>
+[Recomendaciones Institucionales de la Sociedad Española de Enfermedades Infeccionas y Microbiología Clínica (SEIMC)](https://seimc.org/documentos-cientificos/recomendaciones-institucionales) 
+
+[USA CDC Clean & Disinfect
+Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
+
+[SemiSyuc](https://semicyuc.org/covid-19/#Documentos)     |     [Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19](https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf) 
 
 [WHO Home care for patients with COVID-19 presenting with mild symptoms and management of their contacts](https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts)
 
 [WHO several guidelines to protect Workers Health](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/health-workers)
+
+[WHO Laboratory biosafety guidance related to coronavirus disease (COVID-19) interim guidance, 19 March 2020:](https://apps.who.int/iris/handle/10665/331500)
+<p align="center">
+    <a href="https://apps.who.int/iris/handle/10665/331500" title="See this resource">
+      <img src="https://apps.who.int/iris/themes/WHO//images/en/who_logo.svg" width="30%"/>
+    </a> 
+</p>
+
+[WHO - Laboratory Biosafety Manual - Third Edition](https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/) 
 
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -289,41 +356,46 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 > Selected media articles because of their informative content.
 > The opinions expressed in there do not reflect ITER institutional position.
 
-[Financial Times](https://www.ft.com/coronavirus-latest) 
+[Así es la lucha entre el sistema inmune y el coronavirus. El País, España](https://elpais.com/elpais/2020/04/20/ciencia/1587379836_984471.html)
+
+[COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
+
+[El Cabildo de Tenerife aporta una máquina de análisis de COVID-19](http://www.diariodetenerife.info/el-cabildo-de-tenerife-aporta-una-maquina-de-analisis-de-covid-19-que-hace-50-pruebas-por-hora/)
 
 [Example of a device using UV-C for decontamination](https://www.tmghealthtech.com/rds-32) 
 
 [Example of a Rapid Bio Decontamination Service, from Bioquell](https://www.bioquell.com/life-sciences/systems-and-services/decontamination/?lang=en-uk) 
 
+[Everything we know about coronavirus immunity and antibodies — and plenty we still don’t](https://www.statnews.com/2020/04/20/everything-we-know-about-coronavirus-immunity-and-antibodies-and-plenty-we-still-dont)
+
+[Financial Times](https://www.ft.com/coronavirus-latest) 
+
 [How did Spain get its coronavirus response so wrong?](https://www.theguardian.com/world/2020/mar/26/spain-coronavirus-response-analysis)
+
+[How sewage could reveal true scale of coronavirus outbreak](https://www.nature.com/articles/d41586-020-00973-x)
+
+[Investigadores del ITER y de La Candelaria aceleran el método de diagnóstico del Covid-19](http://www.diariodetenerife.info/investigadores-del-iter-y-de-la-candelaria-aceleran-el-metodo-de-diagnostico-del-covid-19/)
+
+[Los sesgos que engañan al cerebro durante la pandemia, El País](https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-la-pandemia.html) 
 
 [Mount Sinai to Begin the Transfer of COVID-19 Antibodies into Critically Ill Patients](https://inside.mountsinai.org/blog/mount-sinai-to-begin-the-transfer-of-covid-19-antibodies-into-critically-ill-patients/)
 
-[Los sesgos que engañan al cerebro durante la pandemia, El País](https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-la-pandemia.html) 
+[NYT, Bad News Wrapped in Protein: Inside the Coronavirus Genome](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html)
+
+[Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
 
 [The Ibuprofen Debate Reveals the Danger of Covid-19 Rumors](https://www.wired.com/story/the-ibuprofen-debate-reveals-the-danger-of-covid-19-rumors/) 
 
 [Rockefeller-Led Team Launches Initiative to Study COVID-19 Genetic Vulnerability (GenomeWeb)](https://www.genomeweb.com/infectious-disease/rockefeller-led-team-launches-initiative-study-covid-19-genetic-vulnerability)
 
-[El Cabildo de Tenerife aporta una máquina de análisis de COVID-19](http://www.diariodetenerife.info/el-cabildo-de-tenerife-aporta-una-maquina-de-analisis-de-covid-19-que-hace-50-pruebas-por-hora/)
-
-[Investigadores del ITER y de La Candelaria aceleran el método de diagnóstico del Covid-19](http://www.diariodetenerife.info/investigadores-del-iter-y-de-la-candelaria-aceleran-el-metodo-de-diagnostico-del-covid-19/)
-
-[COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
-
-[Over 24,000 coronavirus research papers are now available in one place](https://www.technologyreview.com/s/615367/coronavirus-24000-research-papers-available-open-data/)
-
-[How sewage could reveal true scale of coronavirus outbreak](https://www.nature.com/articles/d41586-020-00973-x)
-
 [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/)
-
-[NYT, Bad News Wrapped in Protein: Inside the Coronavirus Genome](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html)
 
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -366,23 +438,23 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 <a href="https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2" title="See this resorce">Real-time RT-PCR assays for the detection of SARS-CoV-2 Institut Pasteur, Paris (2 March 2020)</a>
   </li>
 </ul>
-  
-[Broad Institute](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf) 
+
+[A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20)  | [Protocol](https://t.co/x2c2v8uvw3?amp=1) | [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1) 
-
-[NIID Japan](https://www.niid.go.jp/niid/en/2019-ncov-e/9334-ncov-vir3-2.html)
-[Detection of second case of 2019-nCoV infection in Japan](https://www.niid.go.jp/niid/en/examination.html)
-
-[USA CDC Center for Disease and Control Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flab%2Frt-pcr-detection-instructions.html) 
-[RT-PCR protocol](https://www.fda.gov/media/134922/download) 
 
 [Chinese Center for Disease and Control and Prevention](http://www.chinacdc.cn/en/COVID19/)
 [China CDC Real-time RT-PCR protocol](http://www.chinacdc.cn/en/COVID19/202003/P020200323390496137554.pdf)
 
+[Broad Institute](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf) 
+
+[NIID Japan](https://www.niid.go.jp/niid/en/2019-ncov-e/9334-ncov-vir3-2.html)
+[Detection of second case of 2019-nCoV infection in Japan](https://www.niid.go.jp/niid/en/examination.html)
+
 [SwabSeq. Allows for detection of SARS-COV-2 genomic RNA, without purification, in a single-step RT-PCR followed by sequencing. By OctanBio](https://github.com/octantbio/SwabSeq)
 
-[A Massively Parallel COVID-19 Diagnostic Assay for Simultaneous Testing of 19200 Patient Samples, in Twitter](https://twitter.com/hsalis/status/1241121806473461760?s=20)  | [Protocol](https://t.co/x2c2v8uvw3?amp=1) | [Primers & Spike-in Controls](https://t.co/9cWzQrfz5P?amp=1)
+[USA CDC Center for Disease and Control Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Flab%2Frt-pcr-detection-instructions.html) 
+[RT-PCR protocol](https://www.fda.gov/media/134922/download) 
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -397,14 +469,13 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 ## Rapid Tests ##
 > Section to highlight contributions to rapid tests production and testing.
 
-[Fast, portable tests come online to curb coronavirus pandemic, Nature. See table inside](https://www.nature.com/articles/d41587-020-00010-2)
-
 [COVID-19: immunopathology and its implications for therapy](https://www.nature.com/articles/s41577-020-0308-3)
-
-[Immunological assays for SARS-CoV-2: an analysis of available commercial tests to measure antigen and antibodies](https://www.medrxiv.org/content/10.1101/2020.04.10.20061150v1)
 
 [Diagnostic Testing for Severe Acute Respiratory Syndrome–Related Coronavirus-2: A Narrative Review](https://annals.org/aim/fullarticle/2764737/diagnostic-testing-severe-acute-respiratory-syndrome-related-coronavirus-2-narrative)
 
+[Fast, portable tests come online to curb coronavirus pandemic, Nature. See table inside](https://www.nature.com/articles/d41587-020-00010-2)
+
+[Immunological assays for SARS-CoV-2: an analysis of available commercial tests to measure antigen and antibodies](https://www.medrxiv.org/content/10.1101/2020.04.10.20061150v1)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -412,12 +483,15 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
   </a>
 </p>
 
+
 <hr>
 <!-- SECTION -->
 
 <a name="Research Coalitions and Funding Calls"></a>
 ## Research Coalitions and Funding Calls ##
 > Section to collect open calls in the research funding arena.
+
+[CaixaImpulse COVID-19 Call for projects that address the COVID-19 emergency open until 15 April](https://caixaimpulse.com/programme?program_id=PROGRAMME_COVID_19)
 
 [COVID-19 Clinical Research Coalition](https://covid19crc.org/)
 
@@ -430,9 +504,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
-[WHO The Global Preparedness Monitoring Board](https://apps.who.int/gpmb/)
-
-[CaixaImpulse COVID-19 Call for projects that address the COVID-19 emergency open until 15 April](https://caixaimpulse.com/programme?program_id=PROGRAMME_COVID_19)
+[Crue Universidades Españolas, CSIC y Banco Santander lanzan el FONDO SUPERA COVID-19](http://www.crue.org/Comunicacion/Noticias/FONDOsuperaCOVID19.aspx)
 
 [European Comission Funding & tender opportunities Single Electronic Data Interchange Area (SEDIA)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/covid-19)
 
@@ -440,9 +512,9 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [European Comission Coronavirus research and innovation. Research and innovation projects and initiatives to tackle the spread of coronavirus and preparedness for other outbreaks](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research_en)
 
-[Solicitud urgente de Expresiones de Interés para la financiacin extraordinaria de proyectos de investigacin sobre el SARS-CoV-2 y la enfermedad COVID-19, Ministerio de Ciencia e Innovacin, España](https://www.isciii.es/QueHacemos/Financiacion/Paginas/SolicitudExpresionesInteresCoVid19.aspx#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=solicitud-urgente-de-expresiones-de-interes-para-la-financiacion-extraordinaria-de-proyectos-de-investigacion-sobre-el-sars-cov-2-y-la-enfermedad-covid19)
-
 [Fast Funding for COVID-19 Science](https://fastgrants.org/)
+
+[Solicitud urgente de Expresiones de Interés para la financiacin extraordinaria de proyectos de investigacin sobre el SARS-CoV-2 y la enfermedad COVID-19, Ministerio de Ciencia e Innovacin, España](https://www.isciii.es/QueHacemos/Financiacion/Paginas/SolicitudExpresionesInteresCoVid19.aspx#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=solicitud-urgente-de-expresiones-de-interes-para-la-financiacion-extraordinaria-de-proyectos-de-investigacion-sobre-el-sars-cov-2-y-la-enfermedad-covid19)
 
 [The Open COVID Pledge](https://opencovidpledge.org/)
 <p align="center">
@@ -451,11 +523,15 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
+[WHO The Global Preparedness Monitoring Board](https://apps.who.int/gpmb/)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -464,49 +540,55 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 ## Respirators, masks, and other Personal Protective Equipments (PPE)
 > A selection of websites to understand what a respirator or a mask is, and what are the differences between the different personal protective equipments.
 
-[N95 Respirators and Surgical Masks (Face Masks)](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks)
+[Analysis of SteraMist ionized hydrogen peroxide technology as a method for sterilizing N95 respirators and other personal protective equipment](https://www.medrxiv.org/content/10.1101/2020.04.19.20069997v1)
+
+[Aerosolized Hydrogen Peroxide Decontamination of N95 Respirators, with Fit-Testing and Virologic Confirmation of Suitability for Re-Use During the COVID-19 Pandemic](https://www.medrxiv.org/content/10.1101/2020.04.17.20068577v1)
+
+[Assessment of N95 respirator decontamination and re-use for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.11.20062018v1)
+
+[Can N95 respirators be reused after disinfection? And for how many times?](https://www.medrxiv.org/content/10.1101/2020.04.01.20050443v1)
+
+[Clarificación de los diferentes tipos de mascarillas, Ministerio de Sanidad](https://www.redaccionmedica.com/contenido/images/1_clarificacion_diferentes_tipos_mascarillas.pdf)
 
 [Comparison of nanoparticle filtration performance of NIOSH-approved and CE-marked particulate filtering facepiece respirators](https://www.ncbi.nlm.nih.gov/pubmed/19261695)
 
 [Comparison of FFP2, KN95, and N95 and Other Filtering Facepiece Respirator Classes](https://multimedia.3m.com/mws/media/1791500O/comparison-ffp2-kn95-n95-filtering-facepiece-respirator-classes-tb.pdf) 
 
-[Ventilators are in high demand for Covid-19 patients. How do they work?](https://www.statnews.com/2020/03/30/covid-19-ventilators-how-they-work/)
-
-[Guías para la fabricación de mascarillas y ropa de protección, Ministerio de Sanidad](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
-
-[Clarificación de los diferentes tipos de mascarillas, Ministerio de Sanidad](https://www.redaccionmedica.com/contenido/images/1_clarificacion_diferentes_tipos_mascarillas.pdf)
-
-[Marcado CE de las mascarillas, Ministerio de Industrial, Comercio y Turismo](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/2_mascarillas_tipo_EPI_como_legalizarlas_v2.0.pdf)
-
-[Widespread use of face masks in public may slow the spread of SARS CoV-2: an ecological study](https://www.medrxiv.org/content/10.1101/2020.03.31.20048652v1)
-
-[Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.04.20052696v1)
+[Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1)
 
 [Efficacy of face mask in preventing respiratory virus transmission: a systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.04.03.20051649v1)
 
-[Can N95 respirators be reused after disinfection? And for how many times?](https://www.medrxiv.org/content/10.1101/2020.04.01.20050443v1)
+[Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
+
+[Face mask use in the general population and optimal resource allocation during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.04.20052696v1)
+
+[Guías para la fabricación de mascarillas y ropa de protección, Ministerio de Sanidad](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
+
+[Marcado CE de las mascarillas, Ministerio de Industrial, Comercio y Turismo](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/2_mascarillas_tipo_EPI_como_legalizarlas_v2.0.pdf)
 
 [N95 Mask Decontamination using Standard Hospital Sterilization Technologies](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
 
+[N95 Respirators and Surgical Masks (Face Masks)](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-and-surgical-masks-face-masks)
+
+[Publicada la Especificación UNE para facilitar la fabricación de mascarillas higiénicas reutilizables](https://www.une.org/la-asociacion/sala-de-informacion-une/noticias/especificacion-une-mascarillas)     |     [Descarga directa de PDF](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/Especificacion%20UNE%20Mascarillas%20higienicas%20reutilizables/Especificacion_UNE_0065_mascarillas_higienicas_reutilizables.pdf)
+
 [UV light dosage distribution over irregular respirator surfaces. Methods and implications for safety](https://www.medrxiv.org/content/10.1101/2020.04.07.20057224v1)
+
+[Ventilators are in high demand for Covid-19 patients. How do they work?](https://www.statnews.com/2020/03/30/covid-19-ventilators-how-they-work/)
+
+[Widespread use of face masks in public may slow the spread of SARS CoV-2: an ecological study](https://www.medrxiv.org/content/10.1101/2020.03.31.20048652v1)
 
 [Nonmedical Masks in Public for Respiratory Pandemics: Droplet Retention by two-layer Textile Barrier Fully Protects Germ-free Mice from Bacteria in Droplets](https://www.biorxiv.org/content/10.1101/2020.04.06.028688v1)
 
 [Physical interventions to interrupt or reduce the spread of respiratory viruses. Part 1 - Face masks, eye protection and person distancing: systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.03.30.20047217v2)
-
-[Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
-
-[Assessment of N95 respirator decontamination and re-use for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.11.20062018v1)
-
-[Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1)
-
-[Publicada la Especificación UNE para facilitar la fabricación de mascarillas higiénicas reutilizables](https://www.une.org/la-asociacion/sala-de-informacion-une/noticias/especificacion-une-mascarillas)     |     [Descarga directa de PDF](https://www.mincotur.gob.es/es-es/COVID-19/GuiaFabricacionEPIs/Especificacion%20UNE%20Mascarillas%20higienicas%20reutilizables/Especificacion_UNE_0065_mascarillas_higienicas_reutilizables.pdf)
 
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -539,155 +621,150 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
-[Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response](https://bedford.io/blog/genomic-epi-for-ncov-response/) 
+<hr>
 
-[A Novel Coronavirus from Patients with Pneumonia in China, 2019](https://www.nejm.org/doi/10.1056/NEJMoa2001017) 
-
-[Novel 2019 coronavirus genome](http://virological.org/t/novel-2019-coronavirus-genome/319) 
-
-[Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316) 
-
-[Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973) 
-
-[A pneumonia outbreak associated with a new coronavirus of probable bat origin](https://www.nature.com/articles/s41586-020-2012-7?WT.ec_id=NATURE-20200312) 
-
-[Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases](https://pubs.acs.org/doi/10.1021/acscentsci.0c00272) 
-
-[A new coronavirus associated with human respiratory disease in China](https://www.nature.com/articles/s41586-020-2008-3?WT.ec_id=NATURE-20200312) 
-
-[Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X) 
-
-[Three Emerging Coronaviruses in Two Decades
-The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article/153/4/420/5735509) 
-
-[Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://www.sciencedirect.com/science/article/pii/S0140673620302518) 
-
-[Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding](https://doi.org/10.1038/s41591-020-0817-4) 
+[A case of SARS-CoV-2 carrier for 32 days with several times false negative nucleic acid tests](https://www.medrxiv.org/content/10.1101/2020.03.31.20045401v1)
 
 [A contingency plan for the management of the 2019 novel coronavirus outbreak in neonatal intensive care units](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30040-7/fulltext) 
 
-[Managing neonates with respiratory failure due to SARS-CoV-2](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30073-0/fulltext) 
+[A new coronavirus associated with human respiratory disease in China](https://www.nature.com/articles/s41586-020-2008-3?WT.ec_id=NATURE-20200312) 
 
-[Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext) 
-
-[Clinical Features of 69 Cases with Coronavirus Disease 2019 in Wuhan,China](https://doi.org/10.1093/cid/ciaa272) 
-
-[Coronavirus Disease 2019: Coronaviruses and Blood Safety](https://doi.org/10.1016/j.tmrv.2020.02.003) 
-
-[COVID-19: what is next for public health?](https://doi.org/10.1016/S0140-6736(20)30374-3) 
-
-[Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) 
-
-[Understanding of COVID-19 based on current evidence](https://www.ncbi.nlm.nih.gov/pubmed/32096567) 
+[A Novel Coronavirus from Patients with Pneumonia in China, 2019](https://www.nejm.org/doi/10.1056/NEJMoa2001017) 
 
 [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973) 
 
-[Clinical Characteristics of Coronavirus Disease 2019 in China](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) 
+[Aerosol and surface distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards, Wuhan, China, 2020](https://doi.org/10.3201/eid2607.200885)
+
+[A pneumonia outbreak associated with a new coronavirus of probable bat origin](https://www.nature.com/articles/s41586-020-2012-7?WT.ec_id=NATURE-20200312) 
 
 [A Trial of Lopinavir–Ritonavir in Adults Hospitalized with Severe Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2001282) 
 
-[CDC Coronavirus Disease 2019 (COVID-19) publications](https://www.cdc.gov/coronavirus/2019-ncov/publications.html) 
+[An international comparison of the second derivative of COVID-19 deaths after implementation of social distancing measures](https://www.medrxiv.org/content/10.1101/2020.03.25.20041475v1)
 
-[Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336) 
+[An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883)
 
-[NIID National Institute for Infectious Diseases Manual for the Detection of Pathogen 2019-nCoV](https://www.niid.go.jp/niid/en/examination/9493-labmanual-en.html) 
-
-[Coronavirus Disease 2019 (COVID-19) in Italy](https://jamanetwork.com/journals/jama/fullarticle/2763401) 
+[Blueprint for a Pop-up SARS-CoV-2 Testing Lab](https://www.medrxiv.org/content/10.1101/2020.04.11.20061424v1)
 
 [Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy](https://jamanetwork.com/journals/jama/fullarticle/2763667) 
 
-[Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy. Early Experience and Forecast During an Emergency Response](https://jamanetwork.com/journals/jama/fullarticle/2763188)
+[CDC Coronavirus Disease 2019 (COVID-19) publications](https://www.cdc.gov/coronavirus/2019-ncov/publications.html) 
 
-[Detection of SARS-CoV-2 in Different Types of Clinical Specimens](https://jamanetwork.com/journals/jama/fullarticle/2762997) 
+[Characteristics of pediatric SARS-CoV-2 infection and potential evidence for persistent fecal viral shedding](https://doi.org/10.1038/s41591-020-0817-4) 
 
-[OVID-19 in Singapore—Current Experience: Critical Global Issues That Require Attention and Action](https://jamanetwork.com/journals/jama/fullarticle/2761890)
+[Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing](https://pubs.rsna.org/doi/10.1148/radiol.2020200343)
+
+[Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext) 
+
+[Clinical Characteristics of Coronavirus Disease 2019 in China](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) 
+
+[Clinical characteristics of the recovered COVID-19 patients with re-detectable positive RNA test](https://www.medrxiv.org/content/10.1101/2020.03.26.20044222v1)
+
+[Clinical Features of 69 Cases with Coronavirus Disease 2019 in Wuhan,China](https://doi.org/10.1093/cid/ciaa272) 
+
+[Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
+
+[Coronavirus Disease 2019: Coronaviruses and Blood Safety](https://doi.org/10.1016/j.tmrv.2020.02.003) 
+
+[Coronavirus Disease 2019 (COVID-19) in Italy](https://jamanetwork.com/journals/jama/fullarticle/2763401) 
 
 [Coronavirus Disease 2019 and Influenza](https://jamanetwork.com/journals/jama/fullarticle/2762386) 
 
 [Coronavirus Infections—More Than Just the Common Cold](https://jamanetwork.com/journals/jama/fullarticle/2759815) 
 
-[Direct RNA nanopore sequencing of full-length coronavirus genomes provides novel insights into structural variants and enables modification analysis](https://europepmc.org/article/MED/31439691) 
+[COVID-19 in Singapore—Current Experience: Critical Global Issues That Require Attention and Action](https://jamanetwork.com/journals/jama/fullarticle/2761890)
 
-[Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein](https://www.medrxiv.org/content/10.1101/2020.03.07.20032524v2)
+[COVID-19: what is next for public health?](https://doi.org/10.1016/S0140-6736(20)30374-3) 
 
-[Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
-
-[Transcriptional Inhibition of Host Viral Entry Proteins as a Therapeutic Strategy for SARS-CoV-2](https://www.preprints.org/manuscript/202003.0360/v1)
-
-[Human leukocyte antigen susceptibility map for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.03.22.20040600v1)
-
-[An international comparison of the second derivative of COVID-19 deaths after implementation of social distancing measures](https://www.medrxiv.org/content/10.1101/2020.03.25.20041475v1)
-
-[Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf)
-
-[Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
-
-[Clinical and virological data of the first cases of COVID-19 in Europe: a case series](https://www.sciencedirect.com/science/article/pii/S1473309920302000?via%3Dihub)
-
-[SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction](https://www.biorxiv.org/content/10.1101/2020.03.28.013508v1)
-
-[Nature Special Report. Special report: The simulations driving the world’s response to COVID-19. How epidemiologists rushed to model the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01003-6)
-
-[Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
-
-[SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation](https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
-
-[Virological assessment of hospitalized patients with COVID-2019](https://www.nature.com/articles/s41586-020-2196-x)
-
-[Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
-
-[Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v2)
-
-[Chest CT for Typical 2019-nCoV Pneumonia: Relationship to Negative RT-PCR Testing](https://pubs.rsna.org/doi/10.1148/radiol.2020200343)
-
-[Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
-
-[Clinical characteristics of the recovered COVID-19 patients with re-detectable positive RNA test](https://www.medrxiv.org/content/10.1101/2020.03.26.20044222v1)
-
-[The convalescent sera option for containing COVID-19](https://www.jci.org/articles/view/138003/pdf)
-
-[Novel Coronavirus Infection in Newborn Babies Under 28 Days in China](https://erj.ersjournals.com/content/early/2020/04/01/13993003.00697-2020)
-
-[A case of SARS-CoV-2 carrier for 32 days with several times false negative nucleic acid tests](https://www.medrxiv.org/content/10.1101/2020.03.31.20045401v1)
-
-[Loss of smell and taste in combination with other symptoms is a strong predictor of COVID-19 infection](https://www.medrxiv.org/content/10.1101/2020.04.05.20048421v1)
-
-[Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://www.medrxiv.org/content/10.1101/2020.04.03.20052175v1)
-
-[Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
-
-[An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice](https://stm.sciencemag.org/content/early/2020/04/03/scitranslmed.abb5883)
-
-[Estimation of the percentages of asymptomatic patients and undiagnosed patients of the novel coronavirus (SARS-CoV-2) infection in Hokkaido, Japan by using birth-death process with recursive full tracing](https://www.medrxiv.org/content/10.1101/2020.04.06.20053934v1)
-
-[Blueprint for a Pop-up SARS-CoV-2 Testing Lab](https://www.medrxiv.org/content/10.1101/2020.04.11.20061424v1)
+[Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy. Early Experience and Forecast During an Emergency Response](https://jamanetwork.com/journals/jama/fullarticle/2763188)
 
 [Cutaneous manifestations in COVID‐19: a first perspective](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16387)
 
+[Detection of SARS-CoV-2 in Different Types of Clinical Specimens](https://jamanetwork.com/journals/jama/fullarticle/2762997) 
+
 [Dermatology staff participate in fight against Covid-19 in China](https://onlinelibrary.wiley.com/doi/abs/10.1111/jdv.16390)
 
-[Severe Acute Respiratory Syndrome Coronavirus 2 RNA Detected in Blood Donations](https://wwwnc.cdc.gov/eid/article/26/7/20-0839_article)
+[Diagnosis of Acute Respiratory Syndrome Coronavirus 2 Infection by Detection of Nucleocapsid Protein](https://www.medrxiv.org/content/10.1101/2020.03.07.20032524v2)
 
-[Structural Basis for the Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir](https://www.biorxiv.org/content/10.1101/2020.04.08.032763v2)
+[Direct RNA nanopore sequencing of full-length coronavirus genomes provides novel insights into structural variants and enables modification analysis](https://europepmc.org/article/MED/31439691) 
 
-[Universal Screening for SARS-CoV-2 at Delivery Could Identify Many Asymptomatic Women](https://www.nejm.org/doi/full/10.1056/NEJMc2009316)
+[Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316) 
 
-[Stability of the COVID-19 virus under wet, dry and acidic conditions](https://www.medrxiv.org/content/10.1101/2020.04.09.20058875v1)
-
-[Aerosol and surface distribution of severe acute respiratory syndrome coronavirus 2 in hospital wards, Wuhan, China, 2020](https://doi.org/10.3201/eid2607.200885)
-
-[Spread of SARS-CoV-2 in the Icelandic Population](https://www.nejm.org/doi/full/10.1056/NEJMoa2006100)
-
-[Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](https://science.sciencemag.org/content/early/2020/03/24/science.abb3221)
-
-[Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens](https://jamanetwork.com/journals/jama/fullarticle/2764787)
+[Early warnings of novel coronavirus from genomic epidemiology and the global open scientific response](https://bedford.io/blog/genomic-epi-for-ncov-response/) 
 
 [Exploring possible mechanisms for COVID‐19 induced thrombocytopenia: Unanswered Questions](https://onlinelibrary.wiley.com/doi/abs/10.1111/jth.14832)
 
+[Estimation of the percentages of asymptomatic patients and undiagnosed patients of the novel coronavirus (SARS-CoV-2) infection in Hokkaido, Japan by using birth-death process with recursive full tracing](https://www.medrxiv.org/content/10.1101/2020.04.06.20053934v1)
+
+[Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf)
+
+[Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding](https://www.sciencedirect.com/science/article/pii/S0140673620302518) 
+
+[Human leukocyte antigen susceptibility map for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.03.22.20040600v1)
+
+[Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
+
+[Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
+
+[Loss of smell and taste in combination with other symptoms is a strong predictor of COVID-19 infection](https://www.medrxiv.org/content/10.1101/2020.04.05.20048421v1)
+
+[Managing neonates with respiratory failure due to SARS-CoV-2](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30073-0/fulltext) 
+[Novel 2019 coronavirus genome](http://virological.org/t/novel-2019-coronavirus-genome/319) 
+
+[Molecular Diagnosis of a Novel Coronavirus (2019-nCoV) Causing an Outbreak of Pneumonia](https://academic.oup.com/clinchem/advance-article/doi/10.1093/clinchem/hvaa029/5719336) 
+
+[Nature Special Report. Special report: The simulations driving the world’s response to COVID-19. How epidemiologists rushed to model the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01003-6)
+
+[Novel Coronavirus Infection in Newborn Babies Under 28 Days in China](https://erj.ersjournals.com/content/early/2020/04/01/13993003.00697-2020)
+
+[NIID National Institute for Infectious Diseases Manual for the Detection of Pathogen 2019-nCoV](https://www.niid.go.jp/niid/en/examination/9493-labmanual-en.html) 
+
+[Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.02.022764v2)
+
+[Rates of Co-infection Between SARS-CoV-2 and Other Respiratory Pathogens](https://jamanetwork.com/journals/jama/fullarticle/2764787)
+
+[Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X)
+
+[Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases](https://pubs.acs.org/doi/10.1021/acscentsci.0c00272) 
+
+[Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
+
+[SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction](https://www.biorxiv.org/content/10.1101/2020.03.28.013508v1)
+
+[SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation](https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1)
+
+[Severe Acute Respiratory Syndrome Coronavirus 2 RNA Detected in Blood Donations](https://wwwnc.cdc.gov/eid/article/26/7/20-0839_article)
+
+[Spread of SARS-CoV-2 in the Icelandic Population](https://www.nejm.org/doi/full/10.1056/NEJMoa2006100)
+
+[Stability of the COVID-19 virus under wet, dry and acidic conditions](https://www.medrxiv.org/content/10.1101/2020.04.09.20058875v1)
+
+[Structural Basis for the Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir](https://www.biorxiv.org/content/10.1101/2020.04.08.032763v2)
+
 [Structure of the RNA-dependent RNA polymerase from COVID-19 virus](https://science.sciencemag.org/content/early/2020/04/09/science.abb7498)
+
+[Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1)
+
+[Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](https://science.sciencemag.org/content/early/2020/03/24/science.abb3221)
 
 [Temporal dynamics in viral shedding and transmissibility of COVID-19](https://www.nature.com/articles/s41591-020-0869-5)
 
+[The convalescent sera option for containing COVID-19](https://www.jci.org/articles/view/138003/pdf)
+
+[Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany](https://www.nejm.org/doi/full/10.1056/NEJMc2001468) 
+
+[Three Emerging Coronaviruses in Two Decades
+The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article/153/4/420/5735509) 
+
+[Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://www.medrxiv.org/content/10.1101/2020.04.03.20052175v1)
+
+[Transcriptional Inhibition of Host Viral Entry Proteins as a Therapeutic Strategy for SARS-CoV-2](https://www.preprints.org/manuscript/202003.0360/v1)
+
+[Understanding of COVID-19 based on current evidence](https://www.ncbi.nlm.nih.gov/pubmed/32096567) 
+
+[Universal Screening for SARS-CoV-2 at Delivery Could Identify Many Asymptomatic Women](https://www.nejm.org/doi/full/10.1056/NEJMc2009316)
+
+[Validation of a Lysis Buffer Containing 4 M Guanidinium Thiocyanate (GITC)/ Triton X-100 for Extraction of SARS-CoV-2 RNA for COVID-19 Testing: Comparison of Formulated Lysis Buffers Containing 4 to 6 M GITC, Roche External Lysis Buffer and Qiagen RTL Lysis Buffer](https://www.medrxiv.org/content/10.1101/2020.04.05.20049346v1)
+[Virological assessment of hospitalized patients with COVID-2019](https://www.nature.com/articles/s41586-020-2196-x)
 
 <!--
 []()
@@ -705,6 +782,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
   </a>
 </p>
 
+
+
 <hr>
 <!-- ------------------ SUBSECTION ------------------ -->
 
@@ -713,33 +792,37 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 > Subsection dedicated to PCR (RT-qPCR) and related topics.
 <br />
 
-[Modelo para el estudio de la dinámica de transmisión del SARS-CoV-2 y la enfermedad COVID19. Descripción técnica](https://covid19.webs.upv.es/INFORMES/Explicacion_tecnica.pdf)
-
-[The use of facemasks to prevent respiratory infection: a literature review in the context of the Health Belief Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293989/)
-
-[Reproductive numbers, epidemic spread and control in a community of households](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2731010/)
-
-[Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714/)
-
-[The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany, 2009-2011](https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-12-26)
-
-[Mask use, hand hygiene, and seasonal influenza-like illness among young adults: A randomized intervention trial](https://academic.oup.com/jid/article/201/4/491/861190)
-
-[Unraveling R0: Considerations for Public Health Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935673/)
-
-[The Immediate Effect of COVID-19 Policies on Social Distancing Behavior in the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571421)
-
-[Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
-
-[Sustainable social distancing through facemask use and testing during the Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.01.20049981v1)
-
-[Swiss Medical Weekly - Potential impact of seasonal forcing on a SARS-CoV-2 pandemic](https://doi.org/10.4414/smw.2020.20224)
-
-[Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
+[A Path to the End of COIVD-19 - a Mathematical Model](https://www.medrxiv.org/content/10.1101/2020.04.17.20069443v1)
 
 [An SEIR Model for Assessment of Current COVID-19 Pandemic Situation in the UK](https://www.medrxiv.org/content/10.1101/2020.04.12.20062588v1)
 
 [Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries](https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v1)
+
+[Mask use, hand hygiene, and seasonal influenza-like illness among young adults: A randomized intervention trial](https://academic.oup.com/jid/article/201/4/491/861190)
+
+[Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714/)
+
+[Modelo para el estudio de la dinámica de transmisión del SARS-CoV-2 y la enfermedad COVID19. Descripción técnica](https://covid19.webs.upv.es/INFORMES/Explicacion_tecnica.pdf)
+
+[Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
+
+[Reproductive numbers, epidemic spread and control in a community of households](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2731010/)
+
+[Swiss Medical Weekly - Potential impact of seasonal forcing on a SARS-CoV-2 pandemic](https://doi.org/10.4414/smw.2020.20224)
+
+[Sustainable social distancing through facemask use and testing during the Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.01.20049981v1)
+
+[The Immediate Effect of COVID-19 Policies on Social Distancing Behavior in the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571421)
+
+[The role of facemasks and hand hygiene in the prevention of influenza transmission in households: results from a cluster randomised trial; Berlin, Germany, 2009-2011](https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-12-26)
+
+[The use of facemasks to prevent respiratory infection: a literature review in the context of the Health Belief Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293989/)
+
+[Unraveling R0: Considerations for Public Health Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935673/)
+
+[Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
+
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -756,69 +839,98 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 > Subsection dedicated to PCR (RT-qPCR) and related topics.
 <br />
 
-[Combination of RT‐qPCR testing and clinical features for diagnosis of COVID‐19 facilitates management of SARS‐CoV‐2 outbreak](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25721)
+[A protocol for massively parallel diagnosis and genome sequencing of SARS-CoV-](https://www.protocols.io/view/a-protocol-for-massively-parallel-diagnosis-and-ge-betrjem6)
 
-[Positive RT-PCR Test Results in Patients Recovered From COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762452) 
+[A Scalable, Easy-to-Deploy, Protocol for Cas13-Based Detection of SARS-CoV-2 Genetic Material](https://www.biorxiv.org/content/10.1101/2020.04.20.052159v1)
 
-[Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045) 
-
-[RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
-
-[DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
-
-[Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
-
-[Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR thermocycler and a well-plate reader for SARS-Co2 virus detection](https://www.medrxiv.org/content/10.1101/2020.04.03.20052860v1)
-
-[Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
-
-[Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
-
-[Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
-
-[The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
-
-[Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction](biorxiv.org/cgi/content/short/2020.04.06.028902)
-
-[Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure](https://www.medrxiv.org/content/10.1101/2020.04.07.20051474v1)
-
-[Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS–CoV-2/COVID-19](https://mbio.asm.org/content/11/2/e00722-20)
-
-[Rapid colorimetric detection of COVID-19 coronavirus using a reverse tran-scriptional loop-mediated isothermal amplification (RT-LAMP) diagnostic plat-form: iLACO](https://www.medrxiv.org/content/10.1101/2020.02.20.20025874v1)
-
-[Non-specific Primers Reveal False-negative Risk in Detection of COVID-19 Infections](https://www.medrxiv.org/content/10.1101/2020.04.07.20056804v1)
-
-[Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
-
-[Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)](http://www.en-journal.org/journal/view.html?doi=10.5607/en20009)
-
-[An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
-
-[High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
+[A simple colorimetric molecular detection of novel coronavirus (COVID-19), an essential diagnostic tool for pandemic screening](https://www.medrxiv.org/content/10.1101/2020.04.10.20060293v1)
 
 [A streamlined approach to rapidly detect SARS-CoV-2 infection, avoiding RNA extraction](https://www.medrxiv.org/content/10.1101/2020.04.06.20054114v1)
 
-[SARS-CoV-2 detection with CRISPR diagnostics](https://www.biorxiv.org/content/10.1101/2020.04.10.023358v1)
-
-[Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
+[An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
 [Analysis of factors associated early diagnosis in coronavirus disease 2019 (COVID-19)](https://www.medrxiv.org/content/10.1101/2020.04.09.20059352v1)
 
+[Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
+
+[Combination of RT‐qPCR testing and clinical features for diagnosis of COVID‐19 facilitates management of SARS‐CoV‐2 outbreak](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25721)
+
+[Comparison of Four Molecular In Vitro Diagnostic Assays for the Detection of SARS-CoV-2 in Nasopharyngeal Specimens](https://www.medrxiv.org/content/10.1101/2020.04.17.20069864v1)
+
+[Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
+
+[Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
+
 [COVID-19 Protocolo - Grupo de investigación Neuronal Ubiquitin Pathways - UPV/EHU](https://www.ehu.eus/es/web/umayor/covid-19-protocol)
 
-[A protocol for massively parallel diagnosis and genome sequencing of SARS-CoV-](https://www.protocols.io/view/a-protocol-for-massively-parallel-diagnosis-and-ge-betrjem6)
+[CRISPR–Cas12-based detection of SARS-CoV-2](https://www.nature.com/articles/s41587-020-0513-4)
 
-[A simple colorimetric molecular detection of novel coronavirus (COVID-19), an essential diagnostic tool for pandemic screening](https://www.medrxiv.org/content/10.1101/2020.04.10.20060293v1)
+[Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.3.2000045) 
+
+[Development of a Laboratory-safe and Low-cost Detection Protocol for SARS-CoV-2 of the Coronavirus Disease 2019 (COVID-19)](http://www.en-journal.org/journal/view.html?doi=10.5607/en20009)
+
+[Detection of SARS-CoV-2 RNA by direct RT-qPCR on nasopharyngeal specimens without extraction of viral RNA](https://www.medrxiv.org/content/10.1101/2020.04.18.20070755v1)
+
+[Detection of Respiratory Viruses in Sputum from Adults by Use of Automated Multiplex PCR](https://jcm.asm.org/content/52/10/3590.long)
+
+[Developing antibody tests for SARS-CoV-2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30788-1/fulltext)
+
+[DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
+
+[Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
+
+[Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
+
+[FALSE-NEGATIVE RESULTS OF INITIAL RT-PCR ASSAYS FOR COVID-19: A SYSTEMATIC REVIEW](https://www.medrxiv.org/content/10.1101/2020.04.16.20066787v1)
+
+[Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
+
+[High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
+
+[Increased PCR screening capacity using a multi-replicate pooling scheme](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v1)
+
+[Molecular Detection of SARS-CoV-2 in Formalin Fixed Paraffin Embedded Specimens](https://www.biorxiv.org/content/10.1101/2020.04.21.042911v1)
+
+[Non-specific Primers Reveal False-negative Risk in Detection of COVID-19 Infections](https://www.medrxiv.org/content/10.1101/2020.04.07.20056804v1)
+
+[Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction](biorxiv.org/cgi/content/short/2020.04.06.028902)
+
+[Pooled RNA extraction and PCR assay for efficient SARS-CoV-2 detection](https://www.medrxiv.org/content/10.1101/2020.04.17.20069062v1)
+
+[Portable and accurate diagnostics for COVID-19: Combined use of the miniPCR thermocycler and a well-plate reader for SARS-Co2 virus detection](https://www.medrxiv.org/content/10.1101/2020.04.03.20052860v1)
+
+[Positive RT-PCR Test Results in Patients Recovered From COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2762452) 
+
+[Preliminary support for a 'dry swab, extraction free' protocol for SARS-CoV-2 testing via RT-qPCR](https://www.biorxiv.org/content/10.1101/2020.04.22.056283v1)
+
+[Rapid and quantitative detection of COVID-19 markers in micro-liter sized samples](https://www.biorxiv.org/content/10.1101/2020.04.20.052233v1)
+
+[Rapid colorimetric detection of COVID-19 coronavirus using a reverse tran-scriptional loop-mediated isothermal amplification (RT-LAMP) diagnostic plat-form: iLACO](https://www.medrxiv.org/content/10.1101/2020.02.20.20025874v1)
 
 [Rapid diagnosis of SARS-CoV-2 infection by detecting IgG and IgM antibodies with an immunochromatographic device: a prospective single-center study](https://www.medrxiv.org/content/10.1101/2020.04.11.20062158v1)
 
 [Rapid direct nucleic acid amplification test without RNA extraction for SARS-CoV-2 using a portable PCR thermocycler](https://www.biorxiv.org/content/10.1101/2020.04.17.042366v1)
 
-[Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
+[Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
 
-[Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes](https://www.biorxiv.org/content/10.1101/2020.04.17.047118v1)
+[Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS–CoV-2/COVID-19](https://mbio.asm.org/content/11/2/e00722-20)
 
-[CRISPR–Cas12-based detection of SARS-CoV-2](https://www.nature.com/articles/s41587-020-0513-4)
+[Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
+
+[RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
+
+[Saliva Sample as a Non-Invasive Specimen for the Diagnosis of Coronavirus Disease-2019 (COVID-19): a Cross-Sectional Study](https://www.medrxiv.org/content/10.1101/2020.04.17.20070045v1)
+
+[Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs](https://www.medrxiv.org/content/10.1101/2020.04.16.20067835v1)
+
+[SARS-CoV-2 detection with CRISPR diagnostics](https://www.biorxiv.org/content/10.1101/2020.04.10.023358v1)
+
+[The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
+
+[Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure](https://www.medrxiv.org/content/10.1101/2020.04.07.20051474v1)
+
+
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -831,6 +943,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 <a name="Sciencific Data and Resources"></a>
 ## Sciencific Data and Resources ##
+
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 <p align="center">
   <a href="https://github.com/CSSEGISandData/COVID-19" title="See this resource">
@@ -838,12 +951,14 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
   </a>
 </p>
 
-[Nextstrain. Real-time tracking of pathogen evolution](https://nextstrain.org/)
+
+[Análisis de los datos de COVID-19 en España, por Z Data Labs](https://zzdatalabs.com/coronavirus-es/)
 <p align="center">
-  <a href="https://nextstrain.org/" title="See this resource">
-    <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
-  </a>
+    <a href="https://zzdatalabs.com/coronavirus-es/" title="See this resource">
+      <img src="https://zzdatalabs.com/wp-content/uploads/2019/07/Extended_headerAsset-21.png" width="40%"/>
+    </a> 
 </p>
+
 
 [Artic Network](https://artic.network/ncov-2019)
 <p align="center">
@@ -852,26 +967,86 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[Bioinformatics Unit of Instituto de Salud Carlos III (Spain)](https://github.com/BU-ISCIII/SARS-Cov2_analysis) 
+
+<p align="center">
+    <a href="https://github.com/BU-ISCIII/SARS-Cov2_analysis" title="See this resource">
+      <img src="https://github.com/BU-ISCIII/SARS-Cov2_analysis/blob/master/BU_ISCIII_logo.png" width="30%"/>
+    </a> 
+</p>
+
+[Bioinformatics resources for SARS-CoV-2](http://www.clinbioinfosspa.es/CovidResources) 
+
+[Broad COVID-19 Testing Dashboard](https://covid19-testing.broadinstitute.org/)
+
+[CIVIO datos Pruebas PCR para detectar casos de coronavirus. Actualización diaria con el número (total y relativo) de PCR realizadas por comunidades autónomas para diagnosticar casos de covid-19](https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/)
+
+[Clustering COVID-19 research papers](https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html)
+
+[Coronavirus analysis tools developed by scientists at the University of Tartu, Estonia](https://koroona.ut.ee/?lang=en)
+
+[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[COVID-19 Collaboration Platform](https://covidcp.org/)
+
+[Coronavirus Structural Task Force](https://github.com/thorn-lab/coronavirus_structural_task_force)
+
+[COVID-19 3D visualizer](https://www.covidvisualizer.com/)
+<p align="center">
+    <a href="https://www.covidvisualizer.com/" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/covidvisualizer.com.png" width="30%"/>
+    </a> 
+</p>
+
+[COVID-19 Data Portal](https://www.covid19dataportal.org/)
+
+[COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
+
+[COVID-19:on average only 6% of actual SARS-CoV-2 infections detected worldwide, University of Göttingen](http://www.uni-goettingen.de/de/document/download/3d655c689badb262c2aac8a16385bf74.pdf/Bommer%20&%20Vollmer%20(2020)%20COVID-19%20detection%20April%202nd.pdf)
+
+[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
+<p align="center">
+    <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge" title="See this resource">
+      <img src="https://www.kaggle.com/static/images/site-logo.png" width="20%"/>
+    </a> 
+</p>
+
+[COVID-19 scenarios](https://neherlab.org/covid19/) 
+
+[CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html) 
+
+[COVID-19 R-shiny codes](https://github.com/topics/covid-19) 
+
+[CDC Information for Laboratories RT-PCR resources](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html) 
+
+[COVID-19 Tracker Shiny app in R](https://mentalbreaks.shinyapps.io/covid19/)
+
+[CSVS Babelomics Collaborative Spanish Variant Server to visualize polimorphisms in the Spanish population in genes related with COVIDー19](https://twitter.com/CSVS_es/status/1244286199243603972)
+
+[DataStudio International-Domestic spreading of 2019-nCoV-V4](https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lCB)
+<p align="center">
+    <a href="https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lC" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/International_Domestic_SpreadingCOVID-19.png" width="30%"/>
+    </a> 
+</p>
+
+[Databriks data collection](https://databricks.com/blog/2020/04/14/covid-19-datasets-now-available-on-databricks.html)
+
+[Datadista data on COVID-19](https://github.com/datadista/datasets/blob/master/COVID%2019/readme.md)
+
+[Dashboard del Sistema para la Vigilancia de la mortalidad diaria por todas las causas en España (Informe MoMo)](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html)
+<p align="center">
+    <a target="_blank" href="https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MoMo-dashboard.png" width="30%"/>
+    </a> 
+</p>
+
+[Discourse Data Against Covid19](https://discourse.data-against-covid.org/)
+
 [GISAID](https://www.gisaid.org/)
 <p align="center">
     <a href="https://www.gisaid.org/" title="See this resource">
       <img src="https://www.gisaid.org/fileadmin/gisaid/img/schild.png" width="20%"/>
-    </a> 
-</p>
-
-[NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
-
-[Virological](http://virological.org/)
-<p align="center">
-    <a href="http://virological.org/" title="See this resource">
-      <img src="http://virological.org/uploads/default/original/1X/7897c4e655617c4b6fe71a98eaa97a38778f0623.png" width="20%"/>
-    </a> 
-</p>
-
-[National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences](https://bigd.big.ac.cn/ncov/v2?lang=en) [Released genomes](https://bigd.big.ac.cn/ncov/release_genome)
-<p align="center">
-    <a href="https://bigd.big.ac.cn/ncov/v2?lang=en" title="See this resource">
-      <img src="https://bigd.big.ac.cn/static/image/nsti.png" width="20%"/>
     </a> 
 </p>
 
@@ -882,36 +1057,16 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
-[Coronavirus Structural Task Force](https://github.com/thorn-lab/coronavirus_structural_task_force)
-
-[SWISSMODEL homology models](http://www.rcsb.org/news?year=2020&article=5e3c4bcba5007a04a313edcc)
-
-[Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
+[Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) 
 <p align="center">
-    <a href="https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates" title="See this resource">
-      <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="40%"/>
+    <a href="http://gabgoh.github.io/COVID/index.html" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/epidemic_calculator.png" width="30%"/>
     </a> 
 </p>
 
-[Clustering COVID-19 research papers](https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html)
+[ETE team modeling group ( MIVEGEC Laboratory , CNRS, IRD, University of Montpellier)](http://bioinfo-shiny.ird.fr:3838/COVIDSIM/)
 
-[Análisis de los datos de COVID-19 en España, por Z Data Labs](https://zzdatalabs.com/coronavirus-es/)
-<p align="center">
-    <a href="https://zzdatalabs.com/coronavirus-es/" title="See this resource">
-      <img src="https://zzdatalabs.com/wp-content/uploads/2019/07/Extended_headerAsset-21.png" width="40%"/>
-    </a> 
-</p>
-
-[COVID-19 3D visualizer](https://www.covidvisualizer.com/)
-<p align="center">
-    <a href="https://www.covidvisualizer.com/" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/covidvisualizer.com.png" width="30%"/>
-    </a> 
-</p>
-
-[Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-
-[Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
+[European mortality monitoring: EUROMOMO](https://www.euromomo.eu/graphs-and-maps)
 
 [European Centre for Disease Prevention and Control](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
 [European Centre for Disease Prevention and Control, data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
@@ -928,6 +1083,17 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
+<p align="center">
+    <a href="https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/" title="See this resource">
+      <img src="https://opendata.euskadi.eus/images/w79-logo_opendata.gif" width="30%"/>
+    </a> 
+</p>
+
+[Explore the Spread of Covid-19, Humboldt-Universität zu Berlin](https://trr266.wiwi.hu-berlin.de/shiny/tidycovid19/)
+
+[How many tests for COVID-19 are being performed around the world?](https://ourworldindata.org/covid-testing) 
+
 [IHME, Institute for Health Metrics and Evaluation, USA data](https://covid19.healthdata.org/projections?sfns=mo)
 <p align="center">
     <a href="https://covid19.healthdata.org/projections?sfns=mo" title="See this resource">
@@ -935,27 +1101,13 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
-<hr>
-
-[Ministerio de Sanidad, España](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html)
-<br>
-<p align="center">
-    <a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html" title="See this resource">
-      <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="60%"/>
-    </a> 
-</p>
+[Imperial College London reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/) 
 
 [Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo) del Instituto de Salud Carlos III](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx)
 <p align="center">
     <a href="https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx" title="See this resource">
       <img src="https://www.isciii.es/Style%20Library/ISCIII.Portal/imagenes/LogoISCIII.svg" width="40%"/>
     </a> 
-</p>
-
-<p align="right">
-  <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
 </p>
 
 [Instituto de Matemática Interdisciplinar de la Universitat Politécnica de Valencia (UPV) Modelling Uncertainty Quantification, Reports in PDF](https://www.imm.upv.es/covid-19/) [Modelización epidemiolgica: Informes](https://covid19.webs.upv.es/informes.html)
@@ -966,27 +1118,36 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
-[Bioinformatics Unit of Instituto de Salud Carlos III (Spain)](https://github.com/BU-ISCIII/SARS-Cov2_analysis) 
-
+[Jupyter R notebook for prediction modelling of Covid-19 data. Predictive modelling of 2019-nCov outbreak data in Canary Islands. Departamento de Matemáticas, Estadística e Investigación Operativa, ULL](https://github.com/ULL-STAT/covid19_model)
 <p align="center">
-    <a href="https://github.com/BU-ISCIII/SARS-Cov2_analysis" title="See this resource">
-      <img src="https://github.com/BU-ISCIII/SARS-Cov2_analysis/blob/master/BU_ISCIII_logo.png" width="30%"/>
+    <a href="https://github.com/ULL-STAT/covid19_model" title="See this resource">
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/COVID-19_ULL.png" width="30%"/>
     </a> 
 </p>
 
-[SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
+[MIDAS 2019 Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
 <p align="center">
-    <a href="https://github.com/galaxyproject/SARS-CoV-2" title="See this resource">
-      <img src="https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/img/galaxy_logo.png" width="20%"/>
+    <a target="_blank" href="https://github.com/midas-network/COVID-19" title="See this resource">
+      <img src="https://raw.githubusercontent.com/midas-network/COVID-19/master/docs/MIDAS-4.png" width="20%"/>
     </a> 
 </p>
 
-[COVID-19 scenarios](https://neherlab.org/covid19/) 
+[Ministerio de Sanidad, España](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html)
+<br>
+<p align="center">
+    <a href="https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.html" title="See this resource">
+      <img src="https://www.mscbs.gob.es/diseno/img/BANER-CORONAVIRUS-900X100.jpg" width="60%"/>
+    </a> 
+</p>
 
-[Imperial College London reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/) 
+[National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences](https://bigd.big.ac.cn/ncov/v2?lang=en) [Released genomes](https://bigd.big.ac.cn/ncov/release_genome)
+<p align="center">
+    <a href="https://bigd.big.ac.cn/ncov/v2?lang=en" title="See this resource">
+      <img src="https://bigd.big.ac.cn/static/image/nsti.png" width="20%"/>
+    </a> 
+</p>
 
-[COVID-19: on average only 6% of actual SARS-CoV-2 infections detected worldwide, University of Göttingen](http://www.uni-goettingen.de/de/document/download/3d655c689badb262c2aac8a16385bf74.pdf/Bommer%20&%20Vollmer%20(2020)%20COVID-19%20detection%20April%202nd.pdf)
-
+[NCBI SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
 
 [NIH Coronavirus Disease 2019 Situation Summary](https://www.nih.gov/health-information/coronavirus) 
 <p align="center">
@@ -995,32 +1156,26 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
-[Bioinformatics resources for SARS-CoV-2](http://www.clinbioinfosspa.es/CovidResources) 
-
-[Coronavirus analysis tools developed by scientists at the University of Tartu, Estonia](https://koroona.ut.ee/?lang=en)
-
-[SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing) 
-
-[COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
+[Nanopore (ONT) Novel Coronavirus information(COVID-19)](https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates)
 <p align="center">
-    <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge" title="See this resource">
-      <img src="https://www.kaggle.com/static/images/site-logo.png" width="20%"/>
+    <a href="https://nanoporetech.com/about-us/news/novel-coronavirus-covid-19-information-and-updates" title="See this resource">
+      <img src="https://nanoporetech.com/themes/custom/nanopore/images/ont-logo.svg" width="40%"/>
     </a> 
 </p>
 
-[World-o-Meter](https://www.worldometers.info/coronavirus/) 
+[Nextstrain. Real-time tracking of pathogen evolution](https://nextstrain.org/)
 <p align="center">
-    <a href="https://www.worldometers.info/coronavirus/" title="See this resource">
-      <img src="https://www.worldometers.info/img/worldometers-logo.gif" width="30%"/>
-    </a> 
+  <a href="https://nextstrain.org/" title="See this resource">
+    <img src="https://nextstrain.org/dist/ea8c3e13e8c17436264760d638ab970e.png" width="10%" />
+  </a>
 </p>
 
-[How many tests for COVID-19 are being performed around the world?](https://ourworldindata.org/covid-testing) 
+[PolyMath COVID-19 dataset clearinghouse](http://michaelnielsen.org/polymath1/index.php?title=COVID-19_dataset_clearinghouse)
 
-[Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) 
+[SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
 <p align="center">
-    <a href="http://gabgoh.github.io/COVID/index.html" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/epidemic_calculator.png" width="30%"/>
+    <a href="https://github.com/galaxyproject/SARS-CoV-2" title="See this resource">
+      <img src="https://raw.githubusercontent.com/galaxyproject/SARS-CoV-2/master/genomics/img/galaxy_logo.png" width="20%"/>
     </a> 
 </p>
 
@@ -1031,74 +1186,37 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
-[Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
-<p align="center">
-    <a href="https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/" title="See this resource">
-      <img src="https://opendata.euskadi.eus/images/w79-logo_opendata.gif" width="30%"/>
-    </a> 
-</p>
+[SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing) 
 
-[CDC Morbidity and Mortality Weekly Report (MMWR) Novel Coronavirus Reports](https://www.cdc.gov/mmwr/Novel_Coronavirus_Reports.html) 
-
-[COVID-19 R-shiny codes](https://github.com/topics/covid-19) 
-
-[CDC Information for Laboratories RT-PCR resources](https://www.cdc.gov/coronavirus/2019-ncov/lab/index.html) 
-
-[COVID-19 Tracker Shiny app in R](https://mentalbreaks.shinyapps.io/covid19/)
-
-[United Against COVID-19](http://united-against-covid.org/)
-
-[PolyMath COVID-19 dataset clearinghouse](http://michaelnielsen.org/polymath1/index.php?title=COVID-19_dataset_clearinghouse)
-
-[Discourse Data Against Covid19](https://discourse.data-against-covid.org/)
-
-[DataStudio International-Domestic spreading of 2019-nCoV-V4](https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lCB)
-<p align="center">
-    <a href="https://datastudio.google.com/reporting/3ffd36c3-0272-4510-a140-39e288a9f15c/page/U5lC" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/International_Domestic_SpreadingCOVID-19.png" width="30%"/>
-    </a> 
-</p>
-
-[CSVS Babelomics Collaborative Spanish Variant Server to visualize polimorphisms in the Spanish population in genes related with COVIDー19](https://twitter.com/CSVS_es/status/1244286199243603972)
-
-[Jupyter R notebook for prediction modelling of Covid-19 data. Predictive modelling of 2019-nCov outbreak data in Canary Islands. Departamento de Matemáticas, Estadística e Investigación Operativa, ULL](https://github.com/ULL-STAT/covid19_model)
-<p align="center">
-    <a href="https://github.com/ULL-STAT/covid19_model" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/COVID-19_ULL.png" width="30%"/>
-    </a> 
-</p>
-
-[Explore the Spread of Covid-19, Humboldt-Universität zu Berlin](https://trr266.wiwi.hu-berlin.de/shiny/tidycovid19/)
-
-[COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
+[SWISSMODEL homology models](http://www.rcsb.org/news?year=2020&article=5e3c4bcba5007a04a313edcc)
 
 [The COVID Tracking Project, testing data available for US states and territories](https://covidtracking.com/)
 
-[ETE team modeling group ( MIVEGEC Laboratory , CNRS, IRD, University of Montpellier)](http://bioinfo-shiny.ird.fr:3838/COVIDSIM/)
-
-[MIDAS 2019 Novel Coronavirus Repository](https://github.com/midas-network/COVID-19)
+[Virological](http://virological.org/)
 <p align="center">
-    <a target="_blank" href="https://github.com/midas-network/COVID-19" title="See this resource">
-      <img src="https://raw.githubusercontent.com/midas-network/COVID-19/master/docs/MIDAS-4.png" width="20%"/>
+    <a href="http://virological.org/" title="See this resource">
+      <img src="http://virological.org/uploads/default/original/1X/7897c4e655617c4b6fe71a98eaa97a38778f0623.png" width="20%"/>
     </a> 
 </p>
 
-[Dashboard del Sistema para la Vigilancia de la mortalidad diaria por todas las causas en España (Informe MoMo)](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html)
-<p align="center">
-    <a target="_blank" href="https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html" title="See this resource">
-      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/MoMo-dashboard.png" width="30%"/>
-    </a> 
-</p>
+[Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
+
+[United Against COVID-19](http://united-against-covid.org/)
 
 [WHO updates COVID-19 dashboard with better data visualization](https://covid19.who.int/)
 
-[Databriks data collection](https://databricks.com/blog/2020/04/14/covid-19-datasets-now-available-on-databricks.html)
+[World-o-Meter](https://www.worldometers.info/coronavirus/) 
+<p align="center">
+    <a href="https://www.worldometers.info/coronavirus/" title="See this resource">
+      <img src="https://www.worldometers.info/img/worldometers-logo.gif" width="30%"/>
+    </a> 
+</p>
 
-[Datadista data on COVID-19](https://github.com/datadista/datasets/blob/master/COVID%2019/readme.md)
-
-[CIVIO datos Pruebas PCR para detectar casos de coronavirus. Actualización diaria con el número (total y relativo) de PCR realizadas por comunidades autónomas para diagnosticar casos de covid-19](https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/)
-
-[COVID-19 Data Portal](https://www.covid19dataportal.org/)
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1107,6 +1225,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 </p>
 
 <hr>
+
+
 
 <!-- ------------------ SUB-SECTION ------------------ -->
 <a name="Autonomous Regions and Cities in Spain"></a>
@@ -1207,12 +1327,35 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Seroprevalence"></a>
+## Seroprevalence ##
+> New section on April 26, 2020.
+
+[A serological assay to detect SARS-CoV-2 seroconversion in humans](https://www.medrxiv.org/content/10.1101/2020.03.17.20037713v2)
+
+[Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors](https://www.medrxiv.org/content/10.1101/2020.04.17.20061440v1)
+
+[SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpmc.100)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+
+
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Sequencing, Sequences and Bioinformatics"></a>
 ## Sequencing, Sequences and Bioinformatics ##
-> Under construction. Soon here!
+> A section of sequencing protocols, sequence sources and related bioinformatics pipelines
 
 [NCBI GenBank SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
 
@@ -1297,6 +1440,8 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
+[A single-cell atlas of the peripheral immune response to severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.17.20069930v1)
+
 [ACE2 and TMPRSS2 variants and expression as candidates to sex and country differences in COVID-19 severity in Italy](https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v2)
 
 [ACE2: from vasopeptidase to SARS virus receptor](https://linkinghub.elsevier.com/retrieve/pii/S0165-6147(04)00097-5)
@@ -1321,6 +1466,8 @@ Autonomous Regions and Cities in Spain:
 
 [A Unique Protease Cleavage Site Predicted in the Spike Protein of the Novel Pneumonia Coronavirus (2019-nCoV) Potentially Related to Viral Transmissibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7091172/)
 
+[Bioinformatics Study on Structural Proteins of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-COV-2) For Better Understanding the Vaccine Development](https://www.biorxiv.org/content/10.1101/2020.04.21.053199v2)
+
 [CD147/EMMPRIN Acts as a Functional Entry Receptor for Measles Virus on Epithelial Cells](https://jvi.asm.org/content/84/9/4183.long)
 
 [Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site](https://www.biorxiv.org/content/10.1101/2020.03.22.002204v1)
@@ -1331,17 +1478,23 @@ Autonomous Regions and Cities in Spain:
 
 [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
 
+[Complement as a target in COVID-19?](https://www.nature.com/articles/s41577-020-0320-7)
+
 [Coronavirus envelope protein: current knowledge](https://virologyj.biomedcentral.com/articles/10.1186/s12985-019-1182-0)
 
 [Coronavirus infections and immune responses](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25685)
 
 [COVID‐19 in the heart and the lungs: could we “Notch” the inflammatory storm?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7144545/)
 
+[COVID-19. Transport of respiratory droplets in a microclimatologic urban scenario](https://www.medrxiv.org/content/10.1101/2020.04.17.20064394v1)
+
 [Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation](https://science.sciencemag.org/content/367/6483/1260)
 
 [Cyclophilin–CD147 interactions: a new target for anti-inflammatory therapeutics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2883100/)
 
 [Elevated Plasmin(ogen) as a Common Risk Factor for COVID-19 Susceptibility](https://journals.physiology.org/doi/full/10.1152/physrev.00013.2020)
+
+[Elucidating the differences in the molecular mechanism of receptor binding between 2019-nCoV and the SARS-CoV viruses using computational tools](https://www.biorxiv.org/content/10.1101/2020.04.21.053009v1)
 
 [Emerging WuHan (COVID-19) coronavirus: glycan shield and structure prediction of spike glycoprotein and its interaction with human CD26](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1739565)
 
@@ -1365,6 +1518,9 @@ Autonomous Regions and Cities in Spain:
 
 [Individual variation of the SARS-CoV2 receptor ACE2 gene expression and regulation](https://www.preprints.org/manuscript/202003.0191/v1)
 
+[Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and highlights inflammatory programs in putative target 
+cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
+
 [Interaction of drugs candidates with various SARS-CoV-2 receptors: an in silico study to combat COVID-19](https://chemrxiv.org/articles/Interaction_of_drugs_candidates_with_various_SARS-CoV-2_receptors_an_in_silico_study_to_combat_COVID-19/12100968/1)
 
 [Is COVID-19 receiving ADE from other coronaviruses?](https://www.sciencedirect.com/science/article/pii/S1286457920300344)
@@ -1374,6 +1530,8 @@ Autonomous Regions and Cities in Spain:
 [Origin and evolution of pathogenic coronaviruses](https://www.nature.com/articles/s41579-018-0118-9)
 
 [Pandemics: spend on surveillance, not prediction](https://www.nature.com/articles/d41586-018-05373-w)
+
+[Persistent viral shedding of SARS-CoV-2 in faeces - a rapid review](https://www.medrxiv.org/content/10.1101/2020.04.17.20069526v1)
 
 [Predicting the angiotensin converting enzyme 2 (ACE2) utilizing capability as the receptor of SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S1286457920300496)
 
@@ -1405,6 +1563,10 @@ Autonomous Regions and Cities in Spain:
 
 [Structural basis of receptor cognition by SARS-CoV-2](https://www.nature.com/articles/s41586-020-2179-y)
 
+[Structural Basis of SARS-CoV-2 Spike Protein Priming by TMPRSS2](https://www.biorxiv.org/content/10.1101/2020.04.21.052639v1)
+
+[Structural analysis of SARS-CoV-2 and predictions of the human interactome](https://www.biorxiv.org/content/10.1101/2020.03.28.013789v4.abstract?%3Fcollection=)
+
 [Structural interactions between pandemic SARS-CoV-2 spike glycoprotein and human Furin protease](https://www.biorxiv.org/content/10.1101/2020.04.10.036533v1)
 
 [Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein](https://www.sciencedirect.com/science/article/pii/S0092867420302622)
@@ -1426,6 +1588,8 @@ Autonomous Regions and Cities in Spain:
 [The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement](https://www.biorxiv.org/content/10.1101/2020.04.10.036418v1)
 
 [TMPRSS2 and ADAM17 Cleave ACE2 Differentially and Only Proteolysis by TMPRSS2 Augments Entry Driven by the Severe Acute Respiratory Syndrome Coronavirus Spike Protein](https://jvi.asm.org/content/88/2/1293.long)
+
+[TMPRSS2 and TMPRSS4 mediate SARS-CoV-2 infection of human small intestinal enterocytes](https://www.biorxiv.org/content/10.1101/2020.04.21.054015v1)
 
 [Tracking virus outbreaks in the twenty-first century](https://www.nature.com/articles/s41564-018-0296-2)
 
@@ -1488,6 +1652,8 @@ Last update: 15:44 GMT - April 21, 2020     |     By JMLS <a href="https://twitt
 
 <a name="Update logs"></a>
 ## Update logs ##
+
+> April 21, 2020 updates: CRISPR–Cas12-based detection of SARS-CoV-2.
 
 > April 20, 2020 updates: an alternative Illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section; new PCR fast detection method using a portable PCR thermocycler and comparative of PCR methods.
 
