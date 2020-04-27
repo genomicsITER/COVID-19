@@ -38,7 +38,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
-  <li><a href="#Seroprevalence">Seroprevalence</a></li>  
+
   <li><a href="#Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)" >Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)</a></li>
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
@@ -46,6 +46,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
+    <li><a href="#Seroprevalence">Seroprevalence</a></li>  
   <li><a href="#Sequencing, Sequences and Bioinformatics">Sequencing, Sequences and Bioinformatics</a></li>
   <li><a href="#Shiny and R related dashboards and packages">Shiny and R related dashboards and packages. Under construction</a></li>  
   <li><a href="#Viral mechanisms and Tropism">Viral mechanisms: infection, entry, and replication. Under construction</a></li>
