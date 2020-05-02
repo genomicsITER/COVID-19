@@ -616,6 +616,13 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
     </a> 
 </p>
 
+[COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
+<p align="center">
+    <a href="https://www.covid19hg.org/">
+      <img src="" width="20%"/>
+    </a> 
+</p>
+
 [COVID-19 Testing Project](https://covidtestingproject.org/index.html)
 
 [COVID-Zero Coalition](https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero)
