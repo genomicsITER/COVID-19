@@ -733,10 +733,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [COVID-19 Preprints](https://covid19preprints.app/)
 
 [ELSEVIER Novel Coronavirus Resource Directory](https://www.elsevier.com/novel-coronavirus-covid-19) | [ELSEVIER Novel Coronavirus Information Center](https://www.elsevier.com/connect/coronavirus-information-center)
-Download full text for data-mining: 
-server: sftp://public@coronacontent.np.elsst.com
-user: public
-pass: beat_corona
+> Download full text for data-mining: server: sftp://public@coronacontent.np.elsst.com | user: public | pass: beat_corona
 
 [ERS COVID-19 resource centre](https://www.ersnet.org/the-society/news/novel-coronavirus-outbreak--update-and-information-for-healthcare-professionals)
 
@@ -964,6 +961,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
   </a>
 </p>
 
+
+
 <hr>
 <!-- ------------------ SUBSECTION ------------------ -->
 
@@ -1088,6 +1087,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
