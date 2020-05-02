@@ -1032,6 +1032,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
 
+[Evaluation of Reverse Transcription-PCR Assays for Rapid Diagnosis of Severe Acute Respiratory Syndrome Associated with a Novel Coronavirus](https://jcm.asm.org/content/41/10/4521)
+
 [Evaluation of WHO listed COVID-19 qPCR primers and probe in silico with 375 SERS-CoV-2 full genome sequences](https://www.medrxiv.org/content/10.1101/2020.04.22.20075697v1)
 
 [FALSE-NEGATIVE RESULTS OF INITIAL RT-PCR ASSAYS FOR COVID-19: A SYSTEMATIC REVIEW](https://www.medrxiv.org/content/10.1101/2020.04.16.20066787v1)
@@ -1747,6 +1749,8 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 
 [Meplazumab treats COVID-19 pneumonia: an open-labelled, concurrent controlled add-on clinical trial](https://www.medrxiv.org/content/10.1101/2020.03.21.20040691v1)
 
+[Molecular characterization of SARS-CoV-2 in the first COVID-19 cluster in France reveals an amino-acid deletion in nsp2 (Asp268Del)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7142683/)
+
 [Origin and evolution of pathogenic coronaviruses](https://www.nature.com/articles/s41579-018-0118-9)
 
 [Pandemics: spend on surveillance, not prediction](https://www.nature.com/articles/d41586-018-05373-w)
@@ -1825,6 +1829,10 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 
 [Understanding SARS-CoV-2-Mediated Inflammatory Responses: From Mechanisms to Potential Therapeutic Tools](https://link.springer.com/article/10.1007%2Fs12250-020-00207-4)
 
+[Viral dynamics in mild and severe cases of COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30232-2/fulltext)
+
+[Viral load of SARS-CoV-2 in clinical samples](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30113-4/fulltext)
+
 [We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
 
 [Why do RNA viruses recombine?](https://www.nature.com/articles/nrmicro2614)
@@ -1875,7 +1883,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
   </a>
 </p>
 
-Last update: 11:35 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 15:13 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
