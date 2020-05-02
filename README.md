@@ -746,7 +746,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [ERS COVID-19 resource centre](https://www.ersnet.org/the-society/news/novel-coronavirus-outbreak--update-and-information-for-healthcare-professionals)
 
-[NEJM Jornal Watch](https://www.jwatch.org/covid-19)
+[NEJM Journal Watch](https://www.jwatch.org/covid-19)
 
 <hr>
 
