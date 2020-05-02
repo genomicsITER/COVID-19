@@ -1525,6 +1525,8 @@ Autonomous Regions and Cities in Spain:
 
 [SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpmc.100)
 
+[Seroprevalence of antibodies against SARS-CoV-2 among health care workers in a large Spanish reference hospital](https://www.medrxiv.org/content/10.1101/2020.04.27.20082289v1)
+
 [Test performance evaluation of SARS-CoV-2 serological assays](https://www.medrxiv.org/content/10.1101/2020.04.25.20074856v1)
 
 [The potential danger of suboptimal antibody responses in COVID-19](https://www.nature.com/articles/s41577-020-0321-6)
@@ -1883,7 +1885,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
   </a>
 </p>
 
-Last update: 15:13 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 22:27 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
