@@ -625,7 +625,7 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
 <p align="center">
     <a href="https://www.covid19hg.org/">
-      <img src="" width="20%"/>
+      <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/COVID19_hg_project.png" width="20%"/>
     </a> 
 </p>
 
