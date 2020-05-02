@@ -613,6 +613,13 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [CaixaImpulse COVID-19 Call for projects that address the COVID-19 emergency open until 15 April](https://caixaimpulse.com/programme?program_id=PROGRAMME_COVID_19)
 
+[COG-UK COVID Genomics UK Consortium](https://www.cogconsortium.uk)
+<p align="center">
+    <a href="https://www.cogconsortium.uk">
+      <img src="https://www.cogconsortium.uk/wp-content/themes/cogconsortium/dist/assets/svg/logos/logo-cog-uk.png" width="30%"/>
+    </a> 
+</p>
+
 [COVID-19 Clinical Research Coalition](https://covid19crc.org/)
 
 [COVID Human Genetic Effort](https://www.covidhge.com/)
@@ -1154,6 +1161,13 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [CIVIO datos Pruebas PCR para detectar casos de coronavirus. Actualización diaria con el número (total y relativo) de PCR realizadas por comunidades autónomas para diagnosticar casos de covid-19](https://datos.civio.es/dataset/pcr-coronavirus-covid19-espana-comunidades-autonomas/)
 
 [Clustering COVID-19 research papers](https://gclen.github.io/covid19-kaggle/plots/umap_covid-19_interactive.html)
+
+[COG-UK The New Microreact dashboard](https://microreact.org/project/COGconsortium)
+<p align="center">
+    <a href="https://www.covidvisualizer.com/" title="See this resource">
+      <img src="https://www.cogconsortium.uk/wp-content/themes/cogconsortium/dist/assets/svg/logos/logo-cog-uk.png" width="30%"/>
+    </a> 
+</p>
 
 [Coronavirus analysis tools developed by scientists at the University of Tartu, Estonia](https://koroona.ut.ee/?lang=en)
 
