@@ -420,7 +420,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
     </a> 
 </p>
 
-[Documento de posicionamiento de la SEIMC sobre el diagnstico microbiológo de COVID-19](https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf)
+[Documento de posicionamiento de la SEIMC sobre el diagnóstico microbiológico de COVID-19](https://seimc.org/contenidos/documentoscientificos/recomendaciones/seimc-rc-2020-Posicionamiento_SEIMC_diagnostico_microbiologico_COVID19.pdf)
 
 [European CDC, Considerations relating to social distancing measures in response to COVID-19 – second update](https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measures-response-covid-19-second)
 <p align="center">
