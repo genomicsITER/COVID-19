@@ -444,8 +444,9 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Recomendaciones Institucionales de la Sociedad Española de Enfermedades Infeccionas y Microbiología Clínica (SEIMC)](https://seimc.org/documentos-cientificos/recomendaciones-institucionales) 
 
-[USA CDC Clean & Disinfect
-Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
+[SEI Sociedad Española de Inmunología: test de detección de anticuerpos, pruebas de anticuerpos anti SARS-CoV-2 y diagnóstico de infección por SARS-CoV-2](https://www.inmunologia.org/Upload/Documents/1/5/2/1529.pdf)
+
+[USA CDC Clean & Disinfect Interim Recommendations for US Households with Suspected/Confirmed Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html) 
 
 [SemiSyuc](https://semicyuc.org/covid-19/#Documentos)     |     [Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19](https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf) 
 
@@ -1915,7 +1916,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
   </a>
 </p>
 
-Last update: 22:27 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 23:12 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
