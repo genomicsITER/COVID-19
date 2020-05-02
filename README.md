@@ -429,6 +429,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
     </a> 
 </p>
 
+[Fichas InfoSEV de la Sociedad Española de Virología con información básica para dar respuesta a las preguntas más frecuentes sobre el coronavirus SARS-CoV-2 y la enfermedad COVID-19](http://sevirologia.es/2020/04/02/infosev-preguntas-y-respuestas-sobre-covid-9-y-sars-cov-2/)
+
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 <p align="center">
     <a href="https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php" title="See this resource">
@@ -621,6 +623,11 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 </p>
 
 [COVID-19 Clinical Research Coalition](https://covid19crc.org/)
+<p align="center">
+    <a href="https://covid19crc.org/">
+      <img src="https://covid19crc.org/wp-content/uploads/2020/04/Logo-COVID19_CRC_web.png" width="30%"/>
+    </a> 
+</p>
 
 [COVID Human Genetic Effort](https://www.covidhge.com/)
 <p align="center">
@@ -639,6 +646,11 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 [COVID-19 Testing Project](https://covidtestingproject.org/index.html)
 
 [COVID-Zero Coalition](https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero)
+<p align="center">
+    <a href="https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero">
+      <img src="https://wellcome.ac.uk/sites/default/files/covid-zero-header-03.jpg" width="230%"/>
+    </a> 
+</p>
 
 [Crue Universidades Españolas, CSIC y Banco Santander lanzan el FONDO SUPERA COVID-19](http://www.crue.org/Comunicacion/Noticias/FONDOsuperaCOVID19.aspx)
 
