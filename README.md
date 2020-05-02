@@ -274,6 +274,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Estimating the probability of New Zealand regions being free from COVID-19 using a stochastic SEIR model](https://www.medrxiv.org/content/10.1101/2020.04.20.20073304v1)
 
+[Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.03.03.20030593v1)
+
 [How did SARS-CoV-19 spread in India from Italy, Iran and China? Genetic surveillance of early cases and virus demography](https://www.biorxiv.org/content/10.1101/2020.04.26.062406v1)
 
 [INTRODUCTIONS ET CIRCULATION INITIALE DU SARS-COV-2 EN FRANCE](https://www.pasteur.fr/fr/espace-presse/documents-presse/introductions-circulation-initiale-du-sars-cov-2-france)
