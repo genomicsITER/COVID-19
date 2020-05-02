@@ -845,6 +845,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
 
+[Insight into 2019 novel coronavirus — An updated interim review and lessons from SARS-CoV and MERS-CoV](https://www.sciencedirect.com/science/article/pii/S1201971220302046)
+
 [Is low dose radiation therapy a potential treatment for COVID-19 pneumonia?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext)
 
 [Loss of smell and taste in combination with other symptoms is a strong predictor of COVID-19 infection](https://www.medrxiv.org/content/10.1101/2020.04.05.20048421v1)
@@ -1042,8 +1044,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Increased PCR screening capacity using a multi-replicate pooling scheme](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v1)
 
 [In silico analysis of RT-qPCR designs recommended by WHO for detection of SARS-CoV-2 and a commercial kit validated following UNE/EN ISO 17025:2005 and two reference laboratories](https://www.biorxiv.org/content/10.1101/2020.04.27.065383v1)
-
-[Insight into 2019 novel coronavirus — An updated interim review and lessons from SARS-CoV and MERS-CoV](https://www.sciencedirect.com/science/article/pii/S1201971220302046)
 
 [Large-scale, in-house production of viral transport media to support SARS-CoV-2 PCR testing in a multi-hospital healthcare network during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.29.20085514v1)
 
