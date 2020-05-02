@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Jounal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (10), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Engoy the reading! ;=)
+> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Journal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (10), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Engoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -719,6 +719,8 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 > They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
 <br />
 
+[Cell Press Coronavirus Resource Hub](https://www.cell.com/COVID-19)
+
 [COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv](https://connect.medrxiv.org/relate/content/181)
 <p align="center">
     <a href="https://connect.medrxiv.org/relate/content/181" title="See this resource">
@@ -730,7 +732,17 @@ Interim Recommendations for US Households with Suspected/Confirmed Coronavirus D
 
 [COVID-19 Preprints](https://covid19preprints.app/)
 
+[ELSEVIER Novel Coronavirus Resource Directory](https://www.elsevier.com/novel-coronavirus-covid-19) | [ELSEVIER Novel Coronavirus Information Center](https://www.elsevier.com/connect/coronavirus-information-center)
+Download full text for data-mining: 
+server: sftp://public@coronacontent.np.elsst.com
+user: public
+pass: beat_corona
+
+[ERS COVID-19 resource centre](https://www.ersnet.org/the-society/news/novel-coronavirus-outbreak--update-and-information-for-healthcare-professionals)
+
 [NEJM Jornal Watch](https://www.jwatch.org/covid-19)
+
+<hr>
 
 [REACTing research & action targeting emerging infectious diseases web portal. Selection of the most relevant articles published on COVID-19 on a bi-weekly basis. France](https://reacting.inserm.fr/literature-review/)
 
