@@ -1549,6 +1549,8 @@ Autonomous Regions and Cities in Spain:
 
 [Estimating population immunity without serological testing](https://www.medrxiv.org/content/10.1101/2020.04.23.20076786v1)
 
+[Performance Characteristics of the Abbott Architect SARS-CoV-2 IgG Assay and Seroprevalence Testing in Idaho](https://www.medrxiv.org/content/10.1101/2020.04.27.20082362v1)
+
 [Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors](https://www.medrxiv.org/content/10.1101/2020.04.17.20061440v1)
 
 [SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpmc.100)
