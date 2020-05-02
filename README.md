@@ -944,6 +944,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Estimating the impact of mobility patterns on COVID-19 infection rates in 11 European countries](https://www.medrxiv.org/content/10.1101/2020.04.13.20063644v1)
 
+[Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
+
 [How you can help with COVID-19 modelling](https://www.nature.com/articles/s42254-020-0175-7)
 
 [Mask use, hand hygiene, and seasonal influenza-like illness among young adults: A randomized intervention trial](https://academic.oup.com/jid/article/201/4/491/861190)
@@ -968,7 +970,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Unraveling R0: Considerations for Public Health Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935673/)
 
-[Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
 
 <p align="right">
   <a href="#covid-19" title="Up">
