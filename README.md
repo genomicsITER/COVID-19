@@ -326,6 +326,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Comparative ACE2 variation and primate COVID-19 risk](https://www.biorxiv.org/content/10.1101/2020.04.09.034967v1)
 
+[Comparative transcriptome analysis reveals the intensive early-stage responses of host cells to SARS-CoV-2 infection](https://www.biorxiv.org/content/10.1101/2020.04.30.071274v1)
+
 [Complete Genome Sequence of a 2019 Novel Coronavirus (SARS-CoV-2) Strain Isolated in Nepal](https://mra.asm.org/content/9/11/e00169-20)
 
 [CoV-GLUE. Virus genome analysis for the SARS-CoV-2 pandemic](http://cov-glue.cvr.gla.ac.uk/)
