@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Journal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (10), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Engoy the reading! ;=)
+> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Journal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (10), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
