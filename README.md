@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Journal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (10), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Enjoy the reading! ;=)
+> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Journal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (11), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -1021,6 +1021,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [FALSE-NEGATIVE RESULTS OF INITIAL RT-PCR ASSAYS FOR COVID-19: A SYSTEMATIC REVIEW](https://www.medrxiv.org/content/10.1101/2020.04.16.20066787v1)
 
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
+
+[Fast SARS-CoV-2 detection protocol based on RNA precipitation and RT-qPCR in nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.26.20081307v1)
 
 [High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
 
