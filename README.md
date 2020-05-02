@@ -131,6 +131,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19). A review](https://jamanetwork.com/journals/jama/fullarticle/2764727)
 
+[Recent progress and challenges in drug development against COVID-19 coronavirus (SARS-CoV-2) - an update on the status](https://www.sciencedirect.com/science/article/pii/S1567134820301581)
+
 [STAT's Covid-19 Drugs and Vaccines Tracker](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 
 [WHO DRAFT landscape of COVID-19 candidate vaccines, now includes two Spanish pre-clinical trials (April 11)](https://www.who.int/blueprint/priority-diseases/key-action/Novel_Coronavirus_Landscape_nCoV_11April2020.PDF)
@@ -153,6 +155,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [A case of a readmitted patient who recovered from COVID-19 in Chengdu, China](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-02877-8)
 
 [Chest CT findings of COVID-19 pneumonia by duration of symptoms](https://www.sciencedirect.com/science/article/pii/S0720048X20301984)
+
+[Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past](https://www.sciencedirect.com/science/article/pii/S1386653220301049)
 
 [COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG by a quantitative and sensitive immunoassay](https://www.medrxiv.org/content/10.1101/2020.04.17.20064907v1)
 
@@ -1039,6 +1043,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [In silico analysis of RT-qPCR designs recommended by WHO for detection of SARS-CoV-2 and a commercial kit validated following UNE/EN ISO 17025:2005 and two reference laboratories](https://www.biorxiv.org/content/10.1101/2020.04.27.065383v1)
 
+[Insight into 2019 novel coronavirus — An updated interim review and lessons from SARS-CoV and MERS-CoV](https://www.sciencedirect.com/science/article/pii/S1201971220302046)
+
 [Large-scale, in-house production of viral transport media to support SARS-CoV-2 PCR testing in a multi-hospital healthcare network during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.29.20085514v1)
 
 [Molecular Detection of SARS-CoV-2 in Formalin Fixed Paraffin Embedded Specimens](https://www.biorxiv.org/content/10.1101/2020.04.21.042911v1)
@@ -1770,6 +1776,8 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 
 [SARS-CoV-2 Life Cycle: Stages and Inhibition Targets](https://www.antibodies-online.com/resources/18/5410/sars-cov-2-life-cycle-stages-and-inhibition-targets/)
 
+[SARS-CoV-2 productively infects human gut enterocytes](https://science.sciencemag.org/content/early/2020/04/30/science.abc1669)
+
 [SARS-CoV-2 receptor ACE2 and TMPRSS2 are predominantly expressed in a transient secretory cell type in subsegmental bronchial branches](https://www.biorxiv.org/content/10.1101/2020.03.13.991455v3)
 
 [SARS-CoV-2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](https://www.ncbi.nlm.nih.gov/pubmed/32246845)
@@ -1777,6 +1785,8 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 [Should COVID-19 Concern Nephrologists? Why and to What Extent? The Emerging Impasse of Angiotensin Blockade](https://www.karger.com/Article/FullText/507305)
 
 [Single-cell analysis of human lung epithelia reveals concomitant expression of the SARS-CoV-2 receptor ACE2 with multiple virus receptors and scavengers in alveolar type II cells](https://www.biorxiv.org/content/10.1101/2020.04.16.045617v1)
+
+[Structural basis for inhibition of the RNA-dependent RNA polymerase from SARS-CoV-2 by remdesivir](https://science.sciencemag.org/content/early/2020/04/30/science.abc1560)
 
 [Structural basis of receptor cognition by SARS-CoV-2](https://www.nature.com/articles/s41586-020-2179-y)
 
