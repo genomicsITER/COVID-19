@@ -63,7 +63,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 <a name="Book chapters"></a>
 ## Book chapters ##
-> Section to show on-going clinical trials to figth against COVID-19
+> New section on May 2, 2020.
 
 [Coronaviruses, Chapter 31, Fenner and White's Medical Virology (Fifth Edition (Elsevier's Academic Press, 2017)](https://www.sciencedirect.com/science/article/pii/B978012375156000031X)
 
