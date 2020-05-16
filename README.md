@@ -508,7 +508,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Fichas InfoSEV de la Sociedad Española de Virología con información básica para dar respuesta a las preguntas más frecuentes sobre el coronavirus SARS-CoV-2 y la enfermedad COVID-19](http://sevirologia.es/2020/04/02/infosev-preguntas-y-respuestas-sobre-covid-9-y-sars-cov-2/)
 
-[How COVID-19 is changing the world: a statistical perspective]](https://covid-19-response.unstatshub.org/data-solutions/report-ccsa/)
+[How COVID-19 is changing the world: a statistical perspective](https://covid-19-response.unstatshub.org/data-solutions/report-ccsa/)
 
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 <p align="center">
@@ -734,7 +734,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [COVID-Zero Coalition](https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero)
 <p align="center">
     <a href="https://wellcome.ac.uk/what-we-do/our-work/coronavirus-covid-19/investment/covid-zero">
-      <img src="https://wellcome.ac.uk/sites/default/files/covid-zero-header-03.jpg" width="230%"/>
+      <img src="https://wellcome.ac.uk/sites/default/files/covid-zero-header-03.jpg" width="30%"/>
     </a> 
 </p>
 
