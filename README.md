@@ -1279,6 +1279,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[CORD-19. COVID-19 Open Research Dataset](https://www.semanticscholar.org/cord19)
+
 [Coronavirus analysis tools developed by scientists at the University of Tartu, Estonia](https://koroona.ut.ee/?lang=en)
 
 [Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
@@ -1362,6 +1364,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[ESTUDIO ENE-COVID19: PRIMERA RONDA. ESTUDIO NACIONAL DE SERO-EPIDEMIOLOGÍA DE LA INFECCIÓN POR SARS-COV-2 EN ESPAÑA. INFORME PRELIMINAR 13 DE MAYO DE 2020](https://www.mscbs.gob.es/gabinetePrensa/notaPrensa/pdf/13.05130520204528614.pdf)
+
 [ETE team modeling group ( MIVEGEC Laboratory , CNRS, IRD, University of Montpellier)](http://bioinfo-shiny.ird.fr:3838/COVIDSIM/)
 
 [European mortality monitoring: EUROMOMO](https://www.euromomo.eu/graphs-and-maps)
@@ -1380,6 +1384,10 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
       <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="40%"/>
     </a> 
 </p>
+
+[European Lung Foundation COVID-1) data center](https://www.europeanlung.org/covid-19/)
+
+[European Virus Archive](https://www.european-virus-archive.com/)
 
 [Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
 <p align="center">
@@ -1468,7 +1476,15 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
   </a>
 </p>
 
+[NIH Open-Access Data and Computational Resources to Address COVID-19](https://datascience.nih.gov/covid-19-open-access-resources)
+
+[NIKKEI ASIAN REVIEW. Coronavirus infection tracker -World Map-](https://vdata.nikkei.com/en/newsgraphics/coronavirus-world-map/)
+
 [PolyMath COVID-19 dataset clearinghouse](http://michaelnielsen.org/polymath1/index.php?title=COVID-19_dataset_clearinghouse)
+
+[Rivas Lab analysis of existing data](https://biobankengine.shinyapps.io/covid19/)
+
+[SARS-CoV-2 Alignment Screen](https://macman123.shinyapps.io/ugi-scov2-alignment-screen/)
 
 [SARS-CoV-2 Galaxy Project](https://github.com/galaxyproject/SARS-CoV-2) 
 <p align="center">
@@ -1497,23 +1513,22 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[UCSC COVID browser](https://genome.ucsc.edu/covid19.html)
+
 [Uniform analysis of coronavirus and SARS-COV-2 nanopore direct RNA sequencing datasets using MasterOfPores](https://biocorecrg.github.io/covid/)
 
 [United Against COVID-19](http://united-against-covid.org/)
 
+[Virus Pathogen Resource: VIPR SARS-CoV-2 resource (tools for sequence and structure analysis, comparative genomics and phenotype studies)](https://www.viprbrc.org/brc/home.spg?decorator=corona_ncov)
+
 [WHO updates COVID-19 dashboard with better data visualization](https://covid19.who.int/)
 
 [World-o-Meter](https://www.worldometers.info/coronavirus/) 
+
 <p align="center">
     <a href="https://www.worldometers.info/coronavirus/" title="See this resource">
       <img src="https://www.worldometers.info/img/worldometers-logo.gif" width="30%"/>
     </a> 
-</p>
-
-<p align="right">
-  <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
 </p>
 
 <p align="right">
