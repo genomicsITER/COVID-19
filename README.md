@@ -1414,6 +1414,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Imperial College London reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/) 
 
+[INB/ELIXIR-ES nodes and TransBioNet members effort on COVID-19 research](https://inb-elixir.es/news/inbelixir-es-nodes-and-transbionet-members-effort-covid-19-research)
+
 [Informes MoMo (Sistema de Monitorización de la Mortalidad Diaria (Sistema MoMo) del Instituto de Salud Carlos III](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx)
 <p align="center">
     <a href="https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/Informes-MoMo-2020.aspx" title="See this resource">
@@ -2059,7 +2061,7 @@ pii/S096098222030662X)
   </a>
 </p>
 
-Last update: 13:19 GMT - May 16, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 21:15 GMT - May 16, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
