@@ -322,7 +322,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020](https://wwwnc.cdc.gov/eid/article/26/7/20-0764-f1)
 
-[Detection of SARS-CoV-2 RNA on public surfaces in a densely populated urban area of Brazil](https://www.medrxiv.org/content/10.1101/2020.05.07.20094631v1
+[Detection of SARS-CoV-2 RNA on public surfaces in a densely populated urban area of Brazil](https://www.medrxiv.org/content/10.1101/2020.05.07.20094631v1)
 
 [Early detection of superspreaders by mass group pool testing can mitigate COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.22.20076166v1)
 
