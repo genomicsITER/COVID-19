@@ -286,6 +286,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Los virus más infecciosos del último siglo, en imágenes, diario El País, España](https://elpais.com/elpais/2020/04/14/album/1586870301_739813.html)
 
+[¿Qué pasará ahora? Los futuros de la COVID-19 explicados con simulaciones](https://vrruiz.github.io/covid-19/)
+
 [SARS-CoV-2 (COVID-19) by the n. EPIDEMIOLOGY AND GLOBAL HEALTH MICROBIOLOGY AND INFECTIOUS DISEASE elife](https://elifesciences.org/articles/57309)
 
 [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y)
