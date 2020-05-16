@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> May 16, 2020 updates: a new major update with 65 new entries as follows: a new section, Clinical stuff, including the first COVID-19 autopsies (10), Data sources (10), Diagnostics (6), Epidemiology (5), Genomics (9), Maths (1), Respirators and other PPE (1), Media (2), PCR and related stuff (4), Preprints and Published literature (2), Seroprevalence (7), and Viral mechanisms (8). Enjoy the reading! ;=)
+> May 16, 2020 updates: a new major update with 64 new entries as follows: a new section, Clinical stuff, including the first COVID-19 autopsies (10), Data sources (10), Diagnostics (6), Epidemiology (5), Genomics (9), Maths (1), Respirators and other PPE (1), Media (2), PCR and related stuff (4), Preprints and Published literature (2), Seroprevalence (7), and Viral mechanisms (7). Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -2061,19 +2061,19 @@ Last update: 23:12 GMT - May 2, 2020     |     By JMLS <a href="https://twitter.
 
 > April 16, 2020 updates: several entries in the Scientific Literature (Preprints & Published); and two new items in data sources.
 
-> April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker; COVID-19 in Icelandic population; new records in the Education section; new articles about use and disinfection or repirators; more on virus mechanisms; new papers on COVID-19 detection techniques.
+> April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker; COVID-19 in Icelandic population; new records in the Education section; new articles about use and disinfection or respirators; more on virus mechanisms; new papers on COVID-19 detection techniques.
 
-> April 14, 2020 updates: more on False Negatives in qPCR, impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Prepints section; added some Journals Watch pages; dashboard of the Spanish MoMo report about mortality, new dashboard for WHO, and new dashboard with graphical information for COVID-19 data in the Canary Islands by Grafcan-GOBCAN, in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section; many new inputs in different sections (>20); new pages "Code of Conduct" and "Contributing to this repository" created.
+> April 14, 2020 updates: more on False Negatives in qPCR, the impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Preprints section; added some Journals Watch pages; dashboard of the Spanish MoMo report about mortality, new dashboard for WHO, and new dashboard with graphical information for COVID-19 data in the Canary Islands by Grafcan-GOBCAN, in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section; many new inputs in different sections (>20); new pages "Code of Conduct" and "Contributing to this repository" created.
 
-> April 13, 2020 updates: few new articles in Scientific Literature (Pre-prints & Peer-Reviewed Papers) section and MIDAS COVID-19 repository in Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!). Pull request by Miguel Correa added to the main branch of this repository.
+> April 13, 2020 updates: few new articles in Scientific Literature (Pre-prints & Peer-Reviewed Papers) section and MIDAS COVID-19 repository in the Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!). Pull request by Miguel Correa added to the main branch of this repository.
 
-> April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (update April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
+> April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (updated April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
 
-> April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use on non-specific PCR primers and False Negatives; more on the disinfection of respirators.
+> April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use of non-specific PCR primers and False Negatives; more on the disinfection of respirators.
 
-> April 10, 2020 updates: new logos; new papers in Scientic Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
+> April 10, 2020 updates: new logos; new papers in Scientific Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
 
-> April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
+> April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); a new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
 
 <p align="right">
   <a href="#covid-19" title="Up">
