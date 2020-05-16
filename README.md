@@ -1387,7 +1387,12 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [European Lung Foundation COVID-1) data center](https://www.europeanlung.org/covid-19/)
 
-[European Virus Archive](https://www.european-virus-archive.com/)
+[European Virus Archive Global](https://www.european-virus-archive.com/)
+<p align="center">
+    <a href="https://www.european-virus-archive.com/sites/default/files/LOGO_EVAG.svg" title="See this resource">
+      <img src="https://data.europa.eu/euodp/sites/all/themes/openDataPortalTheme/images/odp_en.png" width="25%"/>
+    </a> 
+</p>
 
 [Evolución del coronavirus (COVID-19) en Euskadi](https://opendata.euskadi.eus/catalogo/-/evolucion-del-coronavirus-covid-19-en-euskadi/) 
 <p align="center">
