@@ -34,7 +34,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Educational resources">Educational resources</a></li>
   <li><a href="#Epidemiology">Epidemiology</a></li>  
   <li><a href="#Genomics and Phylodynamics of SARS-CoV-2">Genomics and Phylodynamics of SARS-CoV-2</a></li>
-  <li><a href="#Guidelines, Society's Clinical and Professional Statements">Guidelines, Society's Clinical and Professional Statements</a></li>
+  <li><a href="#Guidelines, Society's Clinical and Professional Statements, and Reports">Guidelines, Society's Clinical and Professional Statements, and Reports</a></li>
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Protocols">Protocols</a></li>
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
@@ -485,9 +485,9 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Guidelines, Society's Clinical and Professional Statements"></a>
-## Guidelines
-> A colection of guides and documents from different natianal and international institutions with means to protect people againts COVID-19, including biosafety guidelines, decontamination recommendations and risks, etc. 
+<a name="Guidelines, Society's Clinical and Professional Statements, and Reports"></a>
+## Guidelines, Society's Clinical and Professional Statements, and Reports
+> A collection of guides and documents from different national and international institutions with means to protect people against COVID-19, including biosafety guidelines, decontamination recommendations, and risks, etc.
 > The opinions expressed in there do not reflect ITER institutional position.
 
 [CEN and CENELEC make European standards available to help prevent the COVID-19 contagion](https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx)
@@ -507,6 +507,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 </p>
 
 [Fichas InfoSEV de la Sociedad Española de Virología con información básica para dar respuesta a las preguntas más frecuentes sobre el coronavirus SARS-CoV-2 y la enfermedad COVID-19](http://sevirologia.es/2020/04/02/infosev-preguntas-y-respuestas-sobre-covid-9-y-sars-cov-2/)
+
+[How COVID-19 is changing the world: a statistical perspective]](https://covid-19-response.unstatshub.org/data-solutions/report-ccsa/)
 
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 <p align="center">
