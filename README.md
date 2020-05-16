@@ -1385,7 +1385,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
-[European Lung Foundation COVID-1) data center](https://www.europeanlung.org/covid-19/)
+[European Lung Foundation COVID-19) data center](https://www.europeanlung.org/covid-19/)
 
 [European Virus Archive Global](https://www.european-virus-archive.com/)
 <p align="center">
