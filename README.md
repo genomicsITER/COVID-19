@@ -82,14 +82,23 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 > New section on July 4, 2020.
 
 [Apple and Google’s covid-tracing tech has been released to 23 countries](https://www.technologyreview.com/2020/05/20/1002001/apple-and-googles-covid-tracing-tech-has-been-released-to-22-countries)
+
 [Balancing functionality with Privacy for Effective Contact Tracing Apps](https://www.coronavirus-fraser-group.org/app-approaches)
+
 [BlueTrace: A privacy-preserving protocol for community-driven contact tracing across borders](https://bluetrace.io/)
+
 [Coronavirus contact-tracing apps: can they slow the spread of COVID-19?](https://www.nature.com/articles/d41586-020-01514-2)
+
 [Digital contact tracing: comparing the capabilities of centralised and decentralised data architectures to effectively suppress the COVID-19 epidemic whilst maximising freedom of movement and maintaining privacy](https://github.com/BDI-pathogens/covid-19_instant_tracing)
+
 [DP3T - Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents)
+
 [Effective configurations of a digital contact tracing app: A report to NHSX](https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/README.md)
+
 [Haz tu autoevaluación del COVID-19, Ministerio de Sanidad](https://asistencia.covid19.gob.es/)
+
 [It is possible to stop the epidemic](https://www.coronavirus-fraser-group.org/)
+
 [Pan-European Privacy-Preserving Proximity Tracing](https://www.pepp-pt.org/)
 
 <p align="right">
