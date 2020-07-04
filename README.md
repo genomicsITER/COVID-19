@@ -201,27 +201,93 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 > New section on May 16, 2020.
 
+[A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2016638)
+
+[Age Matters: COVID-19 Prevalence in a Vaping Adolescent Population - An Observational Study](https://www.medrxiv.org/content/10.1101/2020.07.03.20146035v1)
+
+[Air Hunger and Psychological Trauma in Ventilated COVID-19 Patients: An Urgent Problem](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202004-322VP)
+
 [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
+
+[Are COVID-19 Patients Dying of or with Cardiac Injury?](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1083LE)
 
 [Autopsy Findings and Venous Thromboembolism in Patients With COVID-19: A Prospective Cohort Study](https://www.ncbi.nlm.nih.gov/pubmed/32374815)
 
 [Bacterial and fungal co-infection in individuals with coronavirus: A rapid review to support COVID-19 antimicrobial prescribing](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa530/5828058)
 
+[Characterization of the Inflammatory Response to Severe COVID-19 Illness](https://www.atsjournals.org/doi/abs/10.1164/rccm.202005-1583OC)
+
+[Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections](https://www.nature.com/articles/s41591-020-0965-6)
+
 [Clinical Characteristics and Results of Semen Tests Among Men With Coronavirus Disease 2019](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2765654)
 
 [Clinical classifiers of COVID-19 infection from novel ultra-high-throughput proteomics](https://www.medrxiv.org/content/10.1101/2020.04.27.20081810v1)
 
-[Critically ill SARS-CoV-2 patients display lupus-like hallmarks of extrafollicular B cell activation](https://www.medrxiv.org/content/10.1101/2020.04.29.20083717v1)
+[Clinical Utility of SARS-CoV-2 Whole Genome Sequencing in Deciphering Source of Infection](https://www.medrxiv.org/content/10.1101/2020.05.21.20107599v1)
+
+[Coinfections in COVID-19](https://www.covid-coinfections.org/)
+
+[Coughs and Sneezes: Their Role in Transmission of Respiratory Viral Infections, Including SARS-CoV-2](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1263PP)
 
 [COVID-19 Autopsies, Oklahoma, USA](https://academic.oup.com/ajcp/article/153/6/725/5818922)
 
+[COVID-19 Lung Injury and “Typical” ARDS: The Danger of Presumed Equivalency](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202005-405LE)
+
+[COVID-19 Phenotypes and Potential Harm of Conventional Treatments: How to Prove the Hypothesis](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1293LE)
+
+[COVID-19 severity correlates with airway epithelium–immune cell interactions identified by single-cell analysis](https://www.nature.com/articles/s41587-020-0602-4)
+
+[Critically ill SARS-CoV-2 patients display lupus-like hallmarks of extrafollicular B cell activation](https://www.medrxiv.org/content/10.1101/2020.04.29.20083717v1)
+
+[Culture-Competent SARS-CoV-2 in Nasopharynx of Symptomatic Neonates, Children, and Adolescents](https://wwwnc.cdc.gov/eid/article/26/10/20-2403_article)
+
+[Description of COVID-19 in HIV-infected individuals: a single-centre, prospective cohort](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30164-8/fulltext)
+
 [European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
+
+[Expression of the SARS-CoV-2 ACE2 Receptor in the Human Airway Epithelium](https://www.atsjournals.org/doi/10.1164/rccm.202003-0541OC)
+
+[Extracorporeal Membrane Oxygenation for Critically Ill Patients with COVID-19 Related Acute Respiratory Distress Syndrome: Worth the Effort?](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1370LE)
+
+[Heterogeneity of Acute Respiratory Distress Syndrome in COVID-19: “Typical” or Not?](https://www.atsjournals.org/doi/10.1164/rccm.202004-1106LE)
+
+[IL6 inhibition in critically ill COVID-19 patients is associated with increased secondary infections](https://www.medrxiv.org/content/10.1101/2020.05.15.20103531v1)
+
+[Mechanics of Breathing and Gas Exchange in Mechanically Ventilated Patients with COVID-19 Associated Respiratory Failure](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1041LE)
+
+[Outbreak of Kawasaki disease in children during COVID-19 pandemic: a prospective observational study in Paris, France](https://www.medrxiv.org/content/10.1101/2020.05.10.20097394v1)
 
 [Pathological findings of COVID-19 associated with acute respiratory distress syndrome](https://www.thelancet.com/journals/lancet/article/PIIS2213-2600(20)30076-X/fulltext)
 
 [Possible use of the mucolytic drug, bromhexine hydrochloride, as a prophylactic agent against SARS-CoV-2 infection based on its action on the Transmembrane Serine Protease 2](https://www.sciencedirect.com/science/article/pii/S1043661820311610)
 
-[Outbreak of Kawasaki disease in children during COVID-19 pandemic: a prospective observational study in Paris, France](https://www.medrxiv.org/content/10.1101/2020.05.10.20097394v1)
+[Prior infection by seasonal coronaviruses does not prevent SARS-CoV-2 infection and associated Multisystem Inflammatory Syndrome in children](https://www.medrxiv.org/content/10.1101/2020.06.29.20142596v1)
+
+[Reply to: Are COVID-19 Patients Dying of or with Cardiac Injury?](https://www.atsjournals.org/doi/10.1164/rccm.202004-1156LE)
+
+[Respiratory Mechanics and Gas Exchange in COVID-19 Associated Respiratory Failure](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202005-427RL)
+
+[RETRACTED: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext)
+
+[Severe Hypoxemia in Early COVID-19 Pneumonia](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1313LE)
+
+[Standards and Stereotypes in COVID-19](https://www.atsjournals.org/doi/abs/10.1164/rccm.202005-1592LE)
+
+[Telemedicine-Enabled Accelerated Discharge of Hospitalized COVID-19 Patients to Isolation in Repurposed Hotel Rooms](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1238OE)
+
+[The COVID-19 Pandemic Presents an Opportunity to Reassess the Value of Polysomnography](https://www.atsjournals.org/doi/abs/10.1164/rccm.202005-1546ED)
+
+[The hallmarks of COVID-19 disease](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008536)
+
+[Tobacco Smoking Increases the Lung Gene Expression of ACE2, the Receptor of SARS-CoV-2](https://www.atsjournals.org/doi/full/10.1164/rccm.202003-0693LE)
+
+[Treatment of COVID-19 by Inhaled NO to Reduce Shunt?](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-0940LE)
+
+[Understanding pathophysiology of hemostasis disorders in critically ill patients with COVID‑19](https://link.springer.com/epdf/10.1007/s00134-020-06088-1)
+
+[Unravelling the debate on heme effects in COVID-19 infections](https://www.biorxiv.org/content/10.1101/2020.06.09.142125v2)
+
+[Ventilator Sharing During an Acute Shortage Caused by the COVID-19 Pandemic](https://www.atsjournals.org/doi/10.1164/rccm.202005-1586LE)
 
 <p align="right">
   <a href="#covid-19" title="Up">
