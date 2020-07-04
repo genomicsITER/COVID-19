@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> July 4, 2020 updates: the largest update since the creation of this repository: >300 new records! We are working on it. Enjoy the reading! ;=)
+> July 4, 2020 updates: the largest update since the creation of this repository: >300 new records! Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
