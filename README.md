@@ -1381,6 +1381,56 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 
 <hr>
+<!-- ------------------ SUBSECTION ------------------ -->
+
+<a name="Pooling"></a>
+## Pooling ##
+
+> Subsection dedicated to PCR (RT-qPCR) and related topics.
+<br />
+
+[Assessment of sample pooling for clinical SARS-CoV-2 testing](https://www.biorxiv.org/content/10.1101/2020.05.26.118133v1)
+
+[Evaluation of commercial qPCR kits for detection of SARS-CoV-2 in pooled samples](https://www.biorxiv.org/content/10.1101/2020.05.28.120667v1.full)
+
+[Evaluation of Pool-based Testing Approaches to Enable Population-wide Screening for COVID-19](https://arxiv.org/abs/2004.11851)
+
+[Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1)
+
+[Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1.full)
+
+[LAMP-Seq: Population-Scale COVID-19 Diagnostics Using Combinatorial Barcoding](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v2)
+
+[Large-scale implementation of pooled RNA-extraction and RT-PCR for SARS-CoV-2 detection](https://www.medrxiv.org/content/10.1101/2020.04.17.20069062v2)
+
+[Methodology for estimating point prevalence of SARS-CoV-2 infection by pooled RT-PCR testing](https://www.ecdc.europa.eu/sites/default/files/documents/Methodology-estimating-point-prevalence%20-SARS-CoV-2-infection-pooled-RT-PCR-testing.pdf)
+
+[Nanotrap® particles improve detection of SARS-CoV-2 for pooled sample methods, extraction-free saliva methods, and extraction-free transport medium methods](https://www.biorxiv.org/[Noisy Pooled PCR for Virus Testing](https://www.biorxiv.org/content/10.1101/2020.04.06.026765v1.full)
+
+[Optimal Pool Size for COVID-19 Group Testing](https://www.medrxiv.org/content/10.1101/2020.04.26.20076265v1)
+
+[Pooling nasopharyngeal swab specimens to increase testing capacity for SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.05.22.110932v1.full)
+
+[Pooling of Samples to Increase Testing Capacity for COVID-19](https://www.cass.city.ac.uk/__data/assets/pdf_file/0004/530869/pooling-samples-to-increase-testing-capacity-for-covid-19.pdf)
+
+[Rapid, Large-Scale, and Effective Detection of COVID-19 Via Non-Adaptive Testing](https://www.biorxiv.org/content/10.1101/2020.04.06.028431v1)
+
+[Recommendations for sample pooling on the Cepheid GeneXpert® system using the Cepheid Xpert® Xpress SARS-CoV-2 assay](https://www.biorxiv.org/content/10.1101/2020.05.14.097287v1)
+
+[Sample pooling on triplets to speed up SARS-CoV-2 diagnosis using CDC FDA EUA RT-qPCR kit](https://www.medrxiv.org/content/10.1101/2020.06.29.20142836v1)
+content/10.1101/2020.06.25.172510v2)
+
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+
+
+<hr>
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Sciencific Data and Resources"></a>
