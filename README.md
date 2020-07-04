@@ -1386,7 +1386,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <a name="Pooling"></a>
 ## Pooling ##
 
-> Subsection dedicated to PCR (RT-qPCR) and related topics.
+> Subsection dedicated to pooling of samples to apply PCR (RT-qPCR) to groups of individuals.
 <br />
 
 [Assessment of sample pooling for clinical SARS-CoV-2 testing](https://www.biorxiv.org/content/10.1101/2020.05.26.118133v1)
