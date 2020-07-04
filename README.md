@@ -778,7 +778,6 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [The Problem With Stories About Dangerous Coronavirus Mutations](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/)
 
 [The sprint to solve coronavirus protein structures — and disarm them with drugs](https://www.nature.com/articles/d41586-020-01444-z)
-contagios-covid-19-apple-y-google-tiene-respaldo-veinte-paises-202005201901_noticia.html)
 
 [We've never made a successful vaccine for a coronavirus before. This is why it's so difficult](https://www.abc.net.au/news/health/2020-04-17/coronavirus-vaccine-ian-frazer/12146616)
 
@@ -1493,7 +1492,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Recommendations for sample pooling on the Cepheid GeneXpert® system using the Cepheid Xpert® Xpress SARS-CoV-2 assay](https://www.biorxiv.org/content/10.1101/2020.05.14.097287v1)
 
 [Sample pooling on triplets to speed up SARS-CoV-2 diagnosis using CDC FDA EUA RT-qPCR kit](https://www.medrxiv.org/content/10.1101/2020.06.29.20142836v1)
-content/10.1101/2020.06.25.172510v2)
 
 
 <p align="right">
@@ -2836,7 +2834,7 @@ pii/S096098222030662X)
 
  <p align="left">
   <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
-    <img src="https://www.iter.es/wp-content/uploads/2016/05/logo.png" width="30%" /> 
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/ITER_logo.png" width="30%" /> 
   </a>
 </p>
 
