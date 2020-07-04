@@ -964,6 +964,10 @@ contagios-covid-19-apple-y-google-tiene-respaldo-veinte-paises-202005201901_noti
 > They should not be regarded as conclusive, guide clinical practice/health-related behavior, or be reported in news media as established information.
 <br />
 
+[American Society for Microbiology COVID-19 Research Registry](https://www.asm.org/COVID/COVID-19-Research-Registry/Basic-Virology#!)
+
+[American Thoracic Society COVID-19 Hub](https://www.atsjournals.org/page/ajrccm/collections/COVID-19)
+
 [Cell Press Coronavirus Resource Hub](https://www.cell.com/COVID-19)
 
 [COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv](https://connect.medrxiv.org/relate/content/181)
@@ -994,6 +998,9 @@ contagios-covid-19-apple-y-google-tiene-respaldo-veinte-paises-202005201901_noti
       <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/CORD-19.png" width="40%"/>
     </a> 
 </p>
+
+[Springer Nature COVID-19 Hub](https://www.springernature.com/gp/researchers/campaigns/coronavirus)
+
 
 <hr>
 
