@@ -1405,7 +1405,9 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Methodology for estimating point prevalence of SARS-CoV-2 infection by pooled RT-PCR testing](https://www.ecdc.europa.eu/sites/default/files/documents/Methodology-estimating-point-prevalence%20-SARS-CoV-2-infection-pooled-RT-PCR-testing.pdf)
 
-[Nanotrap® particles improve detection of SARS-CoV-2 for pooled sample methods, extraction-free saliva methods, and extraction-free transport medium methods](https://www.biorxiv.org/[Noisy Pooled PCR for Virus Testing](https://www.biorxiv.org/content/10.1101/2020.04.06.026765v1.full)
+[Nanotrap® particles improve detection of SARS-CoV-2 for pooled sample methods, extraction-free saliva methods, and extraction-free transport medium methods](https://www.biorxiv.org/content/10.1101/2020.06.25.172510v1)
+
+[Noisy Pooled PCR for Virus Testing](https://www.biorxiv.org/content/10.1101/2020.04.06.026765v1.full)
 
 [Optimal Pool Size for COVID-19 Group Testing](https://www.medrxiv.org/content/10.1101/2020.04.26.20076265v1)
 
