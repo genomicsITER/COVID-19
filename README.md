@@ -2081,22 +2081,6 @@ Autonomous Regions and Cities in Spain:
   </a>
 </p>
 
-<hr>
-<!-- ------------------ SECTION ------------------ -->
-
-<a name="Vaccines"></a>
-## Vaccines ##
-> Section under construction...
-
-[Draft landscape of COVID-19 candidate vaccines](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines)
-
-<p align="right">
-  <a href="#covid-19" title="Up">
-    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
-  </a>
-</p>
-
-
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -2107,6 +2091,22 @@ Autonomous Regions and Cities in Spain:
 
 [R Interface to COVID-19 Data Hub](https://www.r-bloggers.com/r-interface-to-covid-19-data-hub/)
 
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Vaccines"></a>
+## Vaccines ##
+> Section under construction...
+
+[Draft landscape of COVID-19 candidate vaccines](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines)
 
 <p align="right">
   <a href="#covid-19" title="Up">
