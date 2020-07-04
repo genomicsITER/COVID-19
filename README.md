@@ -1294,7 +1294,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Fast and accurate diagnostics from highly multiplexed sequencing assays](https://www.medrxiv.org/content/10.1101/2020.05.13.20100131v1)
 
-[Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.08.20058495v1)
+[Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.ijidonline.com/article/S1201-9712(20)30406-9/pdf)
 
 [Fast SARS-CoV-2 detection protocol based on RNA precipitation and RT-qPCR in nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.26.20081307v1)
 
@@ -1365,6 +1365,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [SARS-CoV-2 detection with CRISPR diagnostics](https://www.biorxiv.org/content/10.1101/2020.04.10.023358v1)
 
 [SARS-CoV-2 Detection Using an Isothermal Amplification Reaction and a Rapid, Inexpensive Protocol for Sample Inactivation and Purification](https://www.medrxiv.org/content/10.1101/2020.04.23.20076877v1)[Smart Pooled sample Testing for COVID-19: A Possible Solution for Sparsity of Test Kits](https://www.medrxiv.org/content/10.1101/2020.04.21.20044594v1)
+
+[Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection](https://www.medrxiv.org/content/10.1101/2020.06.23.20137455v1)
 
 [Sequential informed pooling approach to detect SARS-CoV2 infection](https://www.medrxiv.org/content/10.1101/2020.04.24.20077966v1)
 
