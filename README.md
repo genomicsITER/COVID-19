@@ -27,6 +27,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 # Table of contents #
 <ul>
+  <li><a href="#Apps for COVID tracking">Apps for COVID tracking</a></li>
   <li><a href="#Books chapters">Books chapters</a></li>
   <li><a href="#Clinical Trials and Pharmacological Treatments">Clinical Trials and Pharmacological Treatments</a></li>
   <li><a href="#Clinics">Clinics</a></li>
@@ -45,13 +46,25 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
     <li><a href="#PCR related articles">PCR related articles</a></li>
+    <li><a href="#Pooling">Pooling</a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
-    <li><a href="#Seroprevalence">Seroprevalence</a></li>  
+  <li><a href="#Seroprevalence">Seroprevalence</a></li>  
   <li><a href="#Sequencing, Sequences and Bioinformatics">Sequencing, Sequences and Bioinformatics</a></li>
   <li><a href="#Shiny and R related dashboards and packages">Shiny and R related dashboards and packages. Under construction</a></li>  
-  <li><a href="#Viral mechanisms and Tropism">Viral mechanisms: infection, entry, and replication. Under construction</a></li>
+
+ <li><a href="#Virology">Virology (largely based on the American Society for Microbiology web structure)</a></li>
+    <ul>
+      <li><a href="#Animal Models & Epizootic Infections">Animal Models & Epizootic Infections</a></li>
+      <li><a href="#Evolution & Phylogenetics">Evolution & Phylogenetics</a></li>
+      <li><a href="#Host Immune Response">Host Immune Response</a></li>
+      <li><a href="#RNA Replication">RNA Replication</a></li>
+      <li><a href="#Proteins & Translation">Proteins & Translation</a></li>
+      <li><a href="#Virus Assembly, Protein Processing and Structure">Virus Assembly, Protein Processing and Structure</a></li>
+      <li><a href="#Viral Entry & Receptors"></a>Viral Entry & Receptors</li>
+      <li><a href="#Viral Replicate/Non-Structural Proteins/Enzymes">Viral Replicate/Non-Structural Proteins/Enzymes</a></li>
+    </ul>  
   <li><a href="#Acknowledgements">Acknowledgements</a></li>
   <li><a href="#Contact us">Contact us</a></li>
   <li><a href="https://github.com/genomicsITER/COVID-19/blob/master/CONTRIBUTING.md">Contributing to this repository</a></li>
