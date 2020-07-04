@@ -2263,7 +2263,6 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 [Probable Pangolin Origin of SARS-CoV-2 Associated with the COVID-19 Outbreak](https://linkinghub.elsevier.com/retrieve/pii/S0960-9822(20)30360-2)
 
 [Profile of a killer: the complex biology powering the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01315-7)
-pii/S096098222030662X)
 
 [Ready, Set, Fuse! The Coronavirus Spike Protein and Acquisition of Fusion Competence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347323/)
 
