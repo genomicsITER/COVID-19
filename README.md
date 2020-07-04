@@ -1819,6 +1819,10 @@ Autonomous Regions and Cities in Spain:
 
 [Detection of SARS-CoV-2-Specific Humoral and Cellular Immunity in COVID-19 Convalescent Individuals](https://www.sciencedirect.com/science/article/pii/S1074761320301813)
 
+[Diagnostic accuracy of serological tests for covid-19: systematic review and meta-analysis](https://www.bmj.com/content/370/bmj.m2516)
+
+[Dissecting antibody-mediated protection against SARS-CoV-2](https://www.nature.com/articles/s41577-020-0359-5)
+
 [Estimating COVID-19 Antibody Seroprevalence in Santa Clara County, California. A re-analysis of Bendavid et al.](https://www.medrxiv.org/content/10.1101/2020.04.24.20078824v1)
 
 [Estimation of SARS-CoV-2 infection fatality rate by real-time antibody screening of blood donors](https://www.medrxiv.org/content/10.1101/2020.04.24.20075291v1)
@@ -1827,9 +1831,13 @@ Autonomous Regions and Cities in Spain:
 
 [Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region](https://www.medrxiv.org/content/10.1101/2020.04.30.20085613v1)
 
+[Immune evasion via SARS-CoV-2 ORF8 protein?](https://www.nature.com/articles/s41577-020-0360-z)
+
 [Long-Term Persistence of IgG Antibodies in SARS-CoV Infected Healthcare Workers](https://www.medrxiv.org/content/10.1101/2020.02.12.20021386v1)
 
 [Performance Characteristics of the Abbott Architect SARS-CoV-2 IgG Assay and Seroprevalence Testing in Idaho](https://www.medrxiv.org/content/10.1101/2020.04.27.20082362v1)
+
+[Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](https://www.cell.com/cell/fulltext/S0092-8674(20)30620-6)
 
 [Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors](https://www.medrxiv.org/content/10.1101/2020.04.17.20061440v1)
 
@@ -1843,6 +1851,7 @@ Autonomous Regions and Cities in Spain:
 
 [Towards the next phase: evaluation of serological assays for diagnostics and exposure assessment](https://www.medrxiv.org/content/10.1101/2020.04.23.20077156v1)
 
+[Transient IgA, steady IgG?](https://www.nature.com/articles/s41577-020-0382-6)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1926,9 +1935,13 @@ Autonomous Regions and Cities in Spain:
 
 [SARS coronavirus 2 in Viral Zone / Covid-19 genome expression](https://viralzone.expasy.org/9076)
 
+
+[Sequence characterization and molecular modeling of clinically relevant variants of the SARS-CoV-2 main protease](https://www.biorxiv.org/content/10.1101/2020.05.15.097493v1)
+
 [The global population of SARS-CoV-2 is composed of six major subtypes](https://www.biorxiv.org/content/10.1101/2020.04.14.040782v1)
 
 [Specific mutations in SARS-CoV2 RNA dependent RNA polymerase and helicase alter protein structure, dynamics and thus function: Effect on viral RNA replication](https://www.biorxiv.org/content/10.1101/2020.04.26.063024v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1981,6 +1994,8 @@ Autonomous Regions and Cities in Spain:
 
 [A novel bat coronavirus closely related to SARS-CoV-2 contains natural insertions at the S1/S2 cleavage site of the spike protein](https://www.sciencedirect.com/science/article/pii/S096098222030662X)
 
+[A previously uncharacterized gene in SARS-CoV-2 and the origins of the COVID-19 pandemic](https://www.biorxiv.org/content/10.1101/2020.05.21.109280v2)
+
 [Another Decade, Another Coronavirus](https://www.nejm.org/doi/full/10.1056/NEJMe2001126)
 
 [A single-cell atlas of the peripheral immune response to severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.17.20069930v1)
@@ -1993,7 +2008,11 @@ Autonomous Regions and Cities in Spain:
 
 [ACE2 shedding and furin abundance in target organs may influence the efficiency of SARS-CoV-2 entry](http://www.chinaxiv.org/abs/202002.00082)
 
+[ACE2: The Only Thing That Matters?](https://www.atsjournals.org/doi/abs/10.1164/rccm.202006-2151ED)
+
 [A highly conserved cryptic epitope in the receptor-binding domains of SARS-CoV-2 and SARS-CoV](https://science.sciencemag.org/content/early/2020/04/02/science.abb7269)
+
+[Airway expression of SARS-CoV-2 receptor, ACE2, and proteases, TMPRSS2 and furin, in severe asthma](https://www.medrxiv.org/content/10.1101/2020.06.29.20142091v1)
 
 [Analysis the susceptibility of lung cancer patients to SARS-CoV-2 infection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558022)
 
@@ -2099,6 +2118,8 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 
 [Molecular characterization of SARS-CoV-2 in the first COVID-19 cluster in France reveals an amino-acid deletion in nsp2 (Asp268Del)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7142683/)
 
+[Novel ACE2-Independent Carbohydrate-Binding of SARS-CoV-2 Spike Protein to Host Lectins and Lung Microbiota](https://www.biorxiv.org/content/10.1101/2020.05.13.092478v1)
+
 [Origin and evolution of pathogenic coronaviruses](https://www.nature.com/articles/s41579-018-0118-9)
 
 [Pandemics: spend on surveillance, not prediction](https://www.nature.com/articles/d41586-018-05373-w)
@@ -2176,11 +2197,17 @@ pii/S096098222030662X)
 
 [TMPRSS2 and TMPRSS4 mediate SARS-CoV-2 infection of human small intestinal enterocytes](https://www.biorxiv.org/content/10.1101/2020.04.21.054015v1)
 
+[Tracking changes in SARS-CoV-2 Spike: evidence that D614G increases infectivity of the COVID-19 virus](https://www.sciencedirect.com/science/article/pii/S0092867420308205)
+
 [Tracking virus outbreaks in the twenty-first century](https://www.nature.com/articles/s41564-018-0296-2)
+
+[Tropism, replication competence, and innate immune responses of the coronavirus SARS-CoV-2 in human respiratory tract and conjunctiva: an analysis in ex-vivo and in-vitro cultures](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30193-4/fulltext)
 
 [Understanding SARS-CoV-2-Mediated Inflammatory Responses: From Mechanisms to Potential Therapeutic Tools](https://link.springer.com/article/10.1007%2Fs12250-020-00207-4)
 
 [Unveiling diffusion pattern and structural impact of the most invasive SARS-CoV-2 spike mutation](https://www.biorxiv.org/content/10.1101/2020.05.14.095620v1)
+
+[Viral and host factors related to the clinical outcome of COVID-19](https://www.nature.com/articles/s41586-020-2355-0)
 
 [Viral dynamics in mild and severe cases of COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30232-2/fulltext)
 
@@ -2305,7 +2332,7 @@ pii/S096098222030662X)
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="Host Immune Response"></a>
-# Host Immune Response">Host Immune Response #
+# Host Immune Response #
 
 [A possible role of immunopathogenesis in COVID-19 progression](https://doi.org/10.1101/2020.04.28.20083089)
 
@@ -2447,7 +2474,7 @@ pii/S096098222030662X)
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="RNA Replication">RNA Replication"></a>
+<a name="RNA Replication"></a>
 # RNA Replication">RNA Replication #
 
 [A unifying structural and functional model of the coronavirus replication organelle: Tracking down RNA synthesis](https://doi.org/10.1371/journal.pbio.3000715)
