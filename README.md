@@ -2103,7 +2103,7 @@ Autonomous Regions and Cities in Spain:
 
 <a name="Shiny and R related dashboards and packages"></a>
 ## Shiny and R related dashboards and packages ##
-> Section to show relevant Shiny dashborads, R packages and codes. Under construction...
+> Section to show relevant Shiny dashborads, R packages and codes.
 
 [R Interface to COVID-19 Data Hub](https://www.r-bloggers.com/r-interface-to-covid-19-data-hub/)
 
