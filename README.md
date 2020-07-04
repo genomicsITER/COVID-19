@@ -2172,8 +2172,6 @@ Autonomous Regions and Cities in Spain:
 
 [Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine](https://www.nature.com/articles/s41423-020-0400-4)
 
-[We shouldn’t worry when a virus mutates during disease outbreaks](https://www.nature.com/articles/s41564-020-0690-4)
-
 [Comparative computational analysis of SARS-CoV-2 nucleocapsid protein epitopes in taxonomically related coronaviruses](https://www.sciencedirect.com/science/article/pii/S1286457920300538)
 
 [Comparison of Commercially Available and Laboratory Developed Assays for in vitro Detection of SARS-CoV-2 in Clinical Laboratories](https://www.medrxiv.org/content/10.1101/2020.04.24.20074559v1)
