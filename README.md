@@ -503,8 +503,6 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Relationship between COVID-19 death toll doubling time and national BCG vaccination policy](https://www.medrxiv.org/content/10.1101/2020.04.06.20055251v2)
 
-v
-
 [Scientists are drowning in COVID-19 papers. Can new tools keep them afloat?](https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat)
 
 [Temporal variation in transmission during the COVID-19 outbreak](https://epiforecasts.io/covid/reports.html)
