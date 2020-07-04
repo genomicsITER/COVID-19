@@ -2604,7 +2604,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 <!-- ------------------ SECTION ------------------ -->
 
 <a name="RNA Replication"></a>
-# RNA Replication">RNA Replication #
+# RNA Replication #
 
 [A unifying structural and functional model of the coronavirus replication organelle: Tracking down RNA synthesis](https://doi.org/10.1371/journal.pbio.3000715)
 
@@ -2835,7 +2835,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
   </a>
 </p>
 
-Last update: 19:20 GMT - July 4, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 00:10 GMT - July 5, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
