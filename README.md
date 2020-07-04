@@ -2208,20 +2208,35 @@ pii/S096098222030662X)
 # Animal Models & Epizootic Infections #
 
 [A Mouse Model of SARS-CoV-2 Infection and Pathogenesis](https://doi.org/10.1016/j.chom.2020.05.020)
+
 [A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies](https://doi.org/10.1016/j.cell.2020.06.011)
+
 [A versatile mouse model of COVID-19](https://www.nature.com/articles/s41577-020-0369-3)
+
 [Antiviral Efficacies of FDA-Approved Drugs against SARS-CoV-2 Infection in Ferrets](https://mbio.asm.org/content/11/3/e01114-20/article-info?_ga=2.71064976.1050737647.1593871507-1122481130.1593871507)
-[ARDS and Cytokine Storm in SARS-CoV-2 Infected Caribbean Vervets[(https://doi.org/10.1101/2020.06.18.157933)
+
+[ARDS and Cytokine Storm in SARS-CoV-2 Infected Caribbean Vervets](https://doi.org/10.1101/2020.06.18.157933)
+
 [Comparative pathogenesis of COVID-19, MERS, and SARS in a nonhuman primate model](http://doi.org/10.1126/science.abb7314)
+
 [Comparison of SARS-CoV-2 spike protein binding to ACE2 receptors from human, pets, farm animals, and putative intermediate hosts](https://doi.org/10.1128/jvi.00831-20)
+
 [Establishment of an African green monkey model for COVID-19](https://doi.org/10.1101/2020.05.17.100289)
+
 [Infection and Rapid Transmission of SARS-CoV-2 in Ferret](https://www.ncbi.nlm.nih.gov/pubmed/32259477)
+
 [Infection of bat and human intestinal organoids by SARS-CoV-2](https://doi.org/10.1038/s41591-020-0912-6)
+
 [Infection of dogs with SARS-CoV-2](https://doi.org/10.1038/s41586-020-2334-5)
+
 [Pathogenesis and transmission of SARS-CoV-2 in golden hamsters](https://doi.org/10.1038/s41586-020-2342-5)
+
 [Proteomics of SARS-CoV-2-infected host cells reveals therapy targets](https://doi.org/10.1038/s41586-020-2332-7)
+
 [Simulation of the clinical and pathological manifestations of Coronavirus Disease 2019 (COVID-19) in golden Syrian hamster model: implications for disease pathogenesis and transmissibility](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa325/5811871)
+
 [Susceptibility of ferrets, cats, dogs, and other domesticated animals to SARS–coronavirus 2](https://science.sciencemag.org/content/early/2020/04/07/science.abb7015)
+
 [The Role of Host Genetic Factors in Coronavirus Susceptibility: Review of Animal and Systematic Review of Human Literature](https://doi.org/10.1101/2020.05.30.20117788)
 
 
@@ -2242,22 +2257,39 @@ pii/S096098222030662X)
 # Evolution & Phylogenetics #
 
 [A new coronavirus associated with human respiratory disease in China](https://www.ncbi.nlm.nih.gov/pubmed/32015508)
+
 [A planarian nidovirus expands the limits of RNA genome size](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007314)
+
 [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://www.nature.com/articles/nm.3985)
+
 [ACE2 diversity in placental mammals reveals the evolutionary strategy of SARS-CoV-2](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572020000400607&tlng=en)
+
 [Assembly of an integrated human lung cell atlas reveals that SARS-CoV-2 receptor is co-expressed with key elements of the kinin-kallikrein, renin-angiotensin and coagulation systems in alveolar cells](https://www.medrxiv.org/content/10.1101/2020.06.02.20120634v1)
+
 [Complex Immune Dysregulation in COVID-19 Patients with Severe Respiratory Failure](https://www.sciencedirect.com/science/article/pii/S1931312820302365?via%3Dihub)
+
 [Equine arteritis virus is not a togavirus but belongs to the coronaviruslike superfamily](https://jvi.asm.org/content/65/6/2910.long?_ga=2.50747945.1050737647.1593871507-1122481130.1593871507)
+
 [High‐Coverage SARS‐CoV‐2 Genome Sequences Acquired by Target Capture Sequencing](https://doi.org/10.1002/jmv.26116)
+
 [Identification of super-transmitters of SARS-CoV-2](https://doi.org/10.1101/2020.04.19.20071399)
+
 [Identifying SARS-CoV-2 related coronaviruses in Malayan pangolins](https://www.nature.com/articles/s41586-020-2169-0)
+
 [Infection and Rapid Transmission of SARS-CoV-2 in Ferrets](https://www.ncbi.nlm.nih.gov/pubmed/32259477)
+
 [Genotyping coronavirus SARS-CoV-2: Methods and implications](https://doi.org/10.1016/j.ygeno.2020.04.016)
+
 [Pathological findings of COVID-19 associated with acute respiratory distress syndrome](https://www.ncbi.nlm.nih.gov/pubmed/32085846)
+
 [Possible Bat Origin of Severe Acute Respiratory Syndrome Coronavirus 2](https://wwwnc.cdc.gov/eid/article/26/7/20-0092_article)
+
 [RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses: a first look](https://www.meta.org/papers/rna-genome-conservation-and-secondary-structure/32398273)
+
 [Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2](https://www.biorxiv.org/content/biorxiv/early/2020/04/30/2020.04.29.069054.full.pdf)
+
 [The D614G mutation of SARS-CoV-2 spike protein enhances viral infectivity and decreases neutralization sensitivity to individual convalescent sera](https://doi.org/10.1101/2020.06.20.161323)
+
 [The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2](https://www.ncbi.nlm.nih.gov/pubmed/32123347)
 
 
@@ -2272,59 +2304,109 @@ pii/S096098222030662X)
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Host Immune Response">Host Immune Response"></a>
+<a name="Host Immune Response"></a>
 # Host Immune Response">Host Immune Response #
 
 [A possible role of immunopathogenesis in COVID-19 progression](https://doi.org/10.1101/2020.04.28.20083089)
+
 [A SARS-CoV-2 serological assay to determine the presence of blocking antibodies that compete for human ACE2 binding](https://doi.org/10.1101/2020.05.27.20114652)
+
 [An inflammatory cytokine signature helps predict COVID-19 severity and death](https://doi.org/10.1101/2020.05.28.20115758)
+
 [Analysis of a SARS-CoV-2-Infected Individual Reveals Development of Potent Neutralizing Antibodies with Limited Somatic Mutation](https://doi.org/10.1016/j.immuni.2020.06.001)
+
 [Anti-Spike, anti-Nucleocapsid and neutralizing antibodies in SARS-CoV-2 hospitalized patients and asymptomatic carriers](https://www.medrxiv.org/content/medrxiv/early/2020/05/18/2020.05.12.20098236.full.pdf)
+
 [Autoinflammatory and autoimmune conditions at the crossroad of COVID-19](https://doi.org/10.1016/j.jaut.2020.102506)
+
 [Beyond the Spike: identification of viral targets of the antibody response to SARS-CoV-2 in COVID-19 patients](https://doi.org/10.1101/2020.04.30.20085670)
+
 [Broad and strong memory CD4+ and CD8+ T cells induced by SARS-CoV-2 in UK convalescent COVID-19 patients](https://doi.org/10.1101/2020.06.05.134551)
+
 [CD8+ T cell cross-reactivity against SARS-CoV-2 conferred by other coronavirus strains and influenza virus](https://www.biorxiv.org/content/biorxiv/early/2020/05/20/2020.05.20.107292.full.pdf)
+
 [Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections](https://doi.org/10.1038/s41591-020-0965-6)
+
 [Convergent antibody responses to SARS-CoV-2 in convalescent individuals](https://doi.org/10.1038/s41586-020-2456-9)
+
 [Cross-reactive antibody response between SARS-CoV-2 and SARS-CoV infections](https://doi.org/10.1016/j.celrep.2020.107725)
+
 [Cross-talk between the airway epithelium and activated immune cells defines severity in COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.29.20084327v1.full.pdf)
+
 [Cytokine biomarkers of COVID-19](http://doi.org/10.1101/2020.05.31.20118315)
+
 [Deep sequencing of B cell receptor repertoires from COVID-19 patients reveals strong convergent immune signatures](https://doi.org/10.1101/2020.05.20.106294)
+
 [Detection of SARS-CoV-2-Specific Humoral and Cellular Immunity in COVID-19 Convalescent Individuals](https://doi.org/10.1016/j.immuni.2020.04.023)
+
 [Down-regulated gene expression spectrum and immune responses changed during the disease progression in COVID-19 patients](http://doi.org/10.1093/cid/ciaa462)
+
 [Enhanced receptor binding of SARS-CoV-2 through networks of hydrogen-bonding and hydrophobic interactions](https://www.pnas.org/content/early/2020/06/04/2008209117)
+
 [Gut microbiota may underlie the predisposition of healthy individuals to COVID-19](https://doi.org/10.1101/2020.04.22.20076091)
+
 [High seroprevalence for SARS-CoV-2 among household members of essential workers detected using a dried blood spot assay](https://doi.org/10.1101/2020.06.01.20119602)
+
 [Homologous 2′,5′-phosphodiesterases from disparate RNA viruses antagonize antiviral innate immunity](https://www.pnas.org/content/110/32/13114.long)
+
 [Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region](https://www.medrxiv.org/content/medrxiv/early/2020/05/05/2020.04.30.20085613.full.pdf)
+
 [IgA dominates the early neutralizing antibody response to SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.06.10.20126532v1)
+
 [Imbalanced Host Response to SARS-CoV-2 Drives Development of COVID-19](https://doi.org/10.1016/j.cell.2020.04.026)
+
 [Impaired immune cell cytotoxicity in severe COVID-19 is IL-6 dependent](https://doi.org/10.1172/jci138554)
+
 [Immunogenic profile of SARS-CoV-2 spike in individuals recovered from COVID-19](https://www.medrxiv.org/content/medrxiv/early/2020/05/21/2020.05.17.20104869.full.pdf)
+
 [Immune Response to SARS-CoV-2 and Mechanisms of Immunopathological Changes in COVID-19](https://pubmed.ncbi.nlm.nih.gov/32396996/)
+
 [Longitudinal immune profiling reveals distinct features of COVID-19 pathogenesis](https://www.medrxiv.org/content/10.1101/2020.06.13.20127605v1)
+
 [Longitudinal COVID-19 profiling associates IL-1Ra and IL-10 with disease severity and RANTES with mild disease](https://insight.jci.org/articles/view/139834)
+
 [Modulation of Extracellular ISG15 Signaling by Pathogens and Viral Effector Proteins](https://doi.org/10.1016/j.celrep.2020.107772)
+
 [Mouse model of SARS-CoV-2 reveals inflammatory role of type I interferon signaling](https://www.biorxiv.org/content/biorxiv/early/2020/05/27/2020.05.27.118893.full.pdf)
+
 [Profiling serum cytokines in COVID-19 patients reveals IL-6 and IL-10 are disease severity predictors](http://doi.org/10.1080/22221751.2020.1770129)
+
 [Proteomics Uncovers Immunosuppression in COVID-19 Patients with Long Disease Course](https://www.medrxiv.org/content/10.1101/2020.06.14.20131078v2)
+
 [SARS-CoV-2 epitopes are recognized by a public and diverse repertoire of human T-cell receptors](https://doi.org/10.1101/2020.05.20.20107813)
+
 [SARS-CoV-2 Receptor ACE2 Is an Interferon-Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues](https://doi.org/10.1016/j.cell.2020.04.035)
+
 [SARS-CoV-2 viral loads and serum IgA/IgG immune responses in critically ill COVID-19 patients](https://doi.org/10.1007/s00134-020-06157-5)
+
 [Serum protein profiling reveals a landscape of inflammation and immune signaling in early-stage COVID-19 infection](https://doi.org/10.1101/2020.05.08.20095836)
+
 [Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19](https://www.nature.com/articles/s41591-020-0901-9)
+
 [Single Nucleus Multiomic Profiling Reveals Age-Dynamic Regulation of Host Genes Associated with SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2020.04.12.037580v1)
+
 [Study on the expression levels of antibodies against SARS-CoV-2 at different period of disease and its related factors in 192 cases of COVID-19 patients](https://www.medrxiv.org/content/medrxiv/early/2020/05/26/2020.05.22.20102525.full.pdf)
+
 [Symptomatic SARS-CoV-2 infections display specific IgG Fc structures](https://www.medrxiv.org/content/medrxiv/early/2020/05/18/2020.05.15.20103341.full.pdf)
+
 [Targeted Immunosuppression Distinguishes COVID-19 from Influenza in Moderate and Severe Disease](https://doi.org/10.1101/2020.05.28.20115667)
+
 [Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals](https://doi.org/10.1016/j.cell.2020.05.015)
+
 [The Dynamic Changes of Antibodies against SARS-CoV-2 during the Infection and Recovery of COVID-19](https://www.medrxiv.org/content/medrxiv/early/2020/05/21/2020.05.18.20105155.full.pdf)
+
 [The receptor binding domain of the viral spike protein is an immunodominant and highly specific target of antibodies in SARS-CoV-2 patients](https://doi.org/10.1126/sciimmunol.abc8413)
+
 [The SARS-CoV-2 T-cell immunity is directed against the spike, membrane, and nucleocapsid protein and associated with COVID 19 severity](https://doi.org/10.1101/2020.05.13.20100636)
+
 [Type I and III interferons disrupt lung epithelial repair during recovery from viral infection](https://doi.org/10.1126/science.abc2061)
+
 [Type III interferons disrupt the lung epithelial barrier upon viral recognition](https://doi.org/10.1126/science.abc3545)
+
 [Viral and host factors related to the clinical outcome of COVID-19](https://www.nature.com/articles/s41586-020-2355-0_reference.pdf)
+
 [Will we see protection or reinfection in COVID-19?](http://doi.org/10.1038/s41577-020-0316-3)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -2340,12 +2422,19 @@ pii/S096098222030662X)
 # Proteins & Translation #
 
 [A Novel Bat Coronavirus Closely Related to SARS-CoV-2 Contains Natural Insertions at the S1/S2 Cleavage Site of the Spike Protein](https://doi.org/10.1016/j.cub.2020.05.023)
+
 [Characterization of an efficient coronavirus ribosomal frameshifting signal: requirement for an RNA pseudoknot](https://www.ncbi.nlm.nih.gov/pubmed/2720781)
+
 [Codon Usage and Phenotypic Divergences of SARS-CoV-2 Genes](https://www.mdpi.com/1999-4915/12/5/498/htm)
+
 [Critical Differences Between the Binding Features of the Spike Proteins of SARS-CoV-2 and SARS-CoV](https://doi.org/10.1021/acs.jpcb.0c04317)
+
 [Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses](https://doi.org/10.1073/pnas.2008176117)
+
 [High-Resolution Analysis of Coronavirus Gene Expression by RNA Sequencing and Ribosome Profiling](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005473)
+
 [Proteomic and Metabolomic Characterization of COVID-19 Patient Sera](https://doi.org/10.1016/j.cell.2020.05.032)
+
 [RNA 3'-end mismatch excision by the severe acute respiratory syndrome coronavirus nonstructural protein nsp10/nsp14 exoribonuclease complex](https://www.pnas.org/content/109/24/9372.long)
 
 <p align="right">
@@ -2362,17 +2451,29 @@ pii/S096098222030662X)
 # RNA Replication">RNA Replication #
 
 [A unifying structural and functional model of the coronavirus replication organelle: Tracking down RNA synthesis](https://doi.org/10.1371/journal.pbio.3000715)
+
 [Attenuation of replication by a 29 nucleotide deletion in SARS-coronavirus acquired during the early stages of human-to-human transmission](https://www.nature.com/articles/s41598-018-33487-8)
+
 [Coronaviruses: an RNA proofreading machine regulates replication fidelity and diversity](https://doi.org/10.4161/rna.8.2.15013)
+
 [Determination of host proteins composing the microenvironment of coronavirus replicase complexes by proximity-labeling](https://elifesciences.org/articles/42037)
+
 [Infidelity of SARS-CoV Nsp14-Exonuclease Mutant Virus Replication Is Revealed by Complete Genome Sequencing](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1000896)
+
 [Nidovirales: evolving the largest RNA virus genome](https://doi.org/10.1016/j.virusres.2006.01.017)
+
 [One severe acute respiratory syndrome coronavirus protein complex integrates processive RNA polymerase and exonuclease activities](https://www.pnas.org/content/111/37/E3900.long)
+
 [Ribose 2'-O-methylation provides a molecular signature for the distinction of self and non-self mRNA dependent on the RNA sensor Mda5](https://www.ncbi.nlm.nih.gov/pubmed/21217758)
+
 [SARS-coronavirus replication is supported by a reticulovesicular network of modified endoplasmic reticulum](https://doi.org/10.1371/journal.pbio.0060226)
+
 [Severe Acute Respiratory Syndrome Coronavirus 2 from Patient with 2019 Novel Coronavirus Disease, United States](https://www.ncbi.nlm.nih.gov/pubmed/32160149)
+
 [Structural Basis for RNA Replication by the SARS-CoV-2 Polymerase](https://doi.org/10.1016/j.cell.2020.05.034)
+
 [Structure of replicating SARS-CoV-2 polymerase](https://www.biorxiv.org/content/10.1101/2020.04.27.063180v1)
+
 [Structure of the SARS-CoV nsp12 polymerase bound to nsp7 and nsp8 co-factors](https://www.nature.com/articles/s41467-019-10280-3)
 
 <p align="right">
@@ -2389,30 +2490,54 @@ pii/S096098222030662X)
 # Virus Assembly, Protein Processing and Structure #
 
 [A proposed role for the SARS-CoV-2 nucleocapsid protein in the formation and regulation of biomolecular condensates](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202001351)
+
 [Afucosylated immunoglobulin G responses are a hallmark of enveloped virus infections and show an exacerbated phenotype in COVID-19](https://www.biorxiv.org/content/biorxiv/early/2020/05/18/2020.05.18.099507.full.pdf)
+
 [An Infectious cDNA Clone of SARS-CoV-2](https://www.sciencedirect.com/science/article/pii/S1931312820302316?via%3Dihub)
+
 [Companion vaccine Bioinformatic design tool reveals limited functional genomic variability of SARS-Cov-2 Spike Receptor Binding Domain](https://doi.org/10.1101/2020.06.22.133355)
+
 [Cryo-electron microscopy structure of a coronavirus spike glycoprotein trimer](https://doi.org/10.1038/nature16988)
+
 [Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation](https://www.ncbi.nlm.nih.gov/pubmed/32075877)
+
 [Crystal structure of SARS-CoV-2 nucleocapsid protein RNA binding domain reveals potential unique drug targeting sites](https://www.sciencedirect.com/science/article/pii/S2211383520305505?via%3Dihub)
+
 [Deducing the N- and O- glycosylation profile of the spike protein of novel coronavirus SARS-CoV-2](https://academic.oup.com/glycob/advance-article/doi/10.1093/glycob/cwaa042/5826952)
+
 [Discovery of G-quadruplex-forming sequences in SARS-CoV-2](https://doi.org/10.1093/bib/bbaa114)
+
 [High-surety isothermal amplification and detection of SARS-CoV-2, including with crude enzymes](https://www.biorxiv.org/content/10.1101/2020.04.13.039941v1)
 [Identification of common deletions in the spike protein of SARS-CoV-2](https://doi.org/10.1128/jvi.00790-20)
+
 [Ligand-centered assessment of SARS-CoV-2 drug target models in the Protein Data Bank](https://febs.onlinelibrary.wiley.com/doi/epdf/10.1111/febs.15366)
+
 [Modeling and Simulation of a Fully-glycosylated Full-length SARS-CoV-2 Spike Protein in a Viral Membrane](https://doi.org/10.1101/2020.05.20.103325)
+
 [Persistence of Severe Acute Respiratory Syndrome Coronavirus 2 in Aerosol Suspensions](https://doi.org/10.3201/eid2609.201806)
+
 [Phylogenetic Analysis and Structural Modeling of SARS-CoV-2 Spike Protein Reveals an Evolutionary Distinct and Proteolytically-Sensitive Activation Loop](https://doi.org/10.1016/j.jmb.2020.04.009)
+
 [Self-Collected Oral Fluid and Nasal Swabs Demonstrate Comparable Sensitivity to Clinician Collected Nasopharyngeal Swabs for Covid-19 Detection](https://www.medrxiv.org/content/10.1101/2020.04.11.20062372v1)
+
 [Severe Acute Respiratory Syndrome Coronavirus ORF6 Antagonizes STAT1 Function by Sequestering Nuclear Import Factors on the Rough Endoplasmic Reticulum/Golgi Membrane](https://jvi.asm.org/content/81/18/9812.long?_ga=2.12865975.1050737647.1593871507-1122481130.1593871507)
+
 [Structural analysis of the putative SARS-CoV-2 primase complex](https://pubmed.ncbi.nlm.nih.gov/32535228/)
+
 [Structural and functional conservation of the programmed -1 ribosomal frameshift signal of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.13.991083v1)
+
 [Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA](https://www.pnas.org/content/115/2/E162.long)
+
 [Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein](https://www.ncbi.nlm.nih.gov/pubmed/32155444)
+
 [The crystal structure of nsp10-nsp16 heterodimer from SARS-CoV-2 in complex with S-adenosylmethionine](https://doi.org/10.1101/2020.04.17.047498)
+
 [The D614G mutation in SARS-CoV-2 Spike increases transduction of multiple human cell types](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v1)
+
 [The SARS-CoV-2 conserved macrodomain is a highly efficient ADP-ribosylhydrolase enzyme](https://doi.org/10.1101/2020.05.11.089375)
+
 [The sprint to solve coronavirus protein structures — and disarm them with drugs](https://www.nature.com/articles/d41586-020-01444-z)
+
 [Unique and Conserved Features of Genome and Proteome of SARS-coronavirus, an Early Split-off From the Coronavirus Group 2 Lineage](https://www.sciencedirect.com/science/article/pii/S0022283603008659?via%3Dihub)
 
 <p align="right">
@@ -2430,30 +2555,55 @@ pii/S096098222030662X)
 # Viral Entry & Receptors #
 
 [A Multibasic Cleavage Site in the Spike Protein of SARS-CoV-2 Is Essential for Infection of Human Lung Cells](https://www.sciencedirect.com/science/article/pii/S1097276520302641?via%3Dihub)
+
 [A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2](https://doi.org/10.1126/science.abc2241)
+
 [ACE2 Expression is Increased in the Lungs of Patients with Comorbidities Associated with Severe COVID-19](https://doi.org/10.1093/infdis/jiaa332)
+
 [COVID-19 Coronavirus spike protein analysis for synthetic vaccines, a peptidomimetic antagonist, and therapeutic drugs, and analysis of a proposed achilles' heel conserved region to minimize probability of escape mutations and drug resistance](https://doi.org/10.1016/j.compbiomed.2020.103749)
+
 [Does the human placenta express the canonical cell entry mediators for SARS-CoV-2?](https://www.biorxiv.org/content/biorxiv/early/2020/05/18/2020.05.18.101485.full.pdf)
+
 [Functional assessment of cell entry and receptor usage for SARS-CoV-2 and other lineage B betacoronaviruses](https://www.nature.com/articles/s41564-020-0688-y)
+
 [Is the Rigidity of SARS-CoV-2 Spike Receptor-Binding Motif the Hallmark for Its Enhanced Infectivity? Insights from All-Atoms Simulations](https://doi.org/10.1021/acs.jpclett.0c01148)
+
 [Key residues of the receptor binding motif in the spike protein of SARS-CoV-2 that interact with ACE2 and neutralizing antibodies](https://www.nature.com/articles/s41423-020-0458-z.pdf)
+
 [Knowledge synthesis of 100 million biomedical documents augments the deep expression profiling of coronavirus receptors](https://doi.org/10.7554/elife.58040)
+
 [Neuropilin-1 facilitates SARS-CoV-2 cell entry and provides a possible pathway into the central nervous system](https://www.biorxiv.org/content/10.1101/2020.06.07.137802v1)
+
 [Neuropilin-1 is a host factor for SARS-CoV-2 infection](https://doi.org/10.1101/2020.06.05.134114)
+
 [Neutralization of SARS-CoV-2 spike pseudotyped virus by recombinant ACE2-Ig](https://doi.org/10.1038/s41467-020-16048-4)
+
 [Robust ACE2 protein expression localizes to the motile cilia of the respiratory tract epithelia and is not increased by ACE inhibitors or angiotensin receptor blockers](https://www.medrxiv.org/content/medrxiv/early/2020/05/12/2020.05.08.20092866.full.pdf)
+
 [SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory Tract](https://doi.org/10.1016/j.cell.2020.05.042)
+
 [Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells](https://doi.org/10.1101/2020.05.06.081695)
+
 [SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes](https://doi.org/10.1038/s41591-020-0868-6)
+
 [SARS-CoV-2 infection induces EMT-like molecular changes, including ZEB1-mediated repression of the viral receptor ACE2, in lung cancer models](https://doi.org/10.1101/2020.05.28.122291)
+
 [SARS-CoV-2 productively infects human gut enterocytes](https://doi.org/10.1126/science.abc1669)
+
 [SARS‐CoV‐2 receptor ACE2 and TMPRSS2 are primarily expressed in bronchial transient secretory cells](https://www.embopress.org/doi/10.15252/embj.20105114)
+
 [Site-specific glycan analysis of the SARS-CoV-2 spike](https://science.sciencemag.org/content/early/2020/05/01/science.abb9983)
+
 [Structural and functional basis of SARS-CoV-2 entry by using human ACE2](https://marlin-prod.literatumonline.com/pb-assets/journals/research/cell/Online%20Now%20PDfs/CELL_CELL-D-20-00586_S5.pdf)
+
 [Structural basis for the recognition of SARS-CoV-2 by full-length human ACE2](https://science.sciencemag.org/content/367/6485/1444)
+
 [Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor](https://www.nature.com/articles/s41586-020-2180-5)
+
 [TMPRSS2 and TMPRSS4 promote SARS-CoV-2 infection of human small intestinal enterocytes](https://doi.org/10.1126/sciimmunol.abc3582)
+
 [Unexpected Receptor Functional Mimicry Elucidates Activation of Coronavirus Fusion](https://www.cell.com/cell/fulltext/S0092-8674(18)31642-8)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -2470,13 +2620,21 @@ pii/S096098222030662X)
 # Viral Replicate/Non-Structural Proteins/Enzymes #
 
 [An in silico map of the SARS-CoV-2 RNA Structurome](https://doi.org/10.1101/2020.04.17.045161)
+
 [Crystal structures of SARS-CoV-2 ADP-ribose phosphatase (ADRP): from the apo form to ligand complexes](https://doi.org/10.1101/2020.05.14.096081)
+
 [Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform](https://www.meta.org/papers/rapid-reconstruction-of-sars-cov-2-using-a/32365353)
+
 [SARS-coronavirus-2 replication in Vero E6 cells: replication kinetics, rapid adaptation and cytopathology](https://doi.org/10.1099/jgv.0.001453)
+
 [SARS-CoV-2 nsp13, nsp14, nsp15 and orf6 function as potent interferon antagonists](https://doi.org/10.1080/22221751.2020.1780953)
+
 [Structural and Biochemical Characterization of the nsp12-nsp7-nsp8 Core Polymerase Complex from SARS-CoV-2](https://doi.org/10.1016/j.celrep.2020.107774)
+
 [Replication of Severe Acute Respiratory Syndrome Coronavirus 2 in Human Respiratory Epithelium](https://jvi.asm.org/content/early/2020/05/14/JVI.00957-20?_ga=2.45962660.1050737647.1593871507-1122481130.1593871507)
+
 [The ORF3a protein of SARS-CoV-2 induces apoptosis in cells](https://doi.org/10.1038/s41423-020-0485-9)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
