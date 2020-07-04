@@ -111,7 +111,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-<a name="Book chapters"></a>
+<a name="Books chapters"></a>
 ## Book chapters ##
 > New section on May 2, 2020.
 
