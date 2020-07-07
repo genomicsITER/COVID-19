@@ -1491,6 +1491,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Recommendations for sample pooling on the Cepheid GeneXpert® system using the Cepheid Xpert® Xpress SARS-CoV-2 assay](https://www.biorxiv.org/content/10.1101/2020.05.14.097287v1)
 
+[Sample Pooling as an efficient strategy for SARS-COV-2 RT-PCR screening: a multicenter study in Spain](https://www.medrxiv.org/content/10.1101/2020.07.04.20146027v1)
+
 [Sample pooling on triplets to speed up SARS-CoV-2 diagnosis using CDC FDA EUA RT-qPCR kit](https://www.medrxiv.org/content/10.1101/2020.06.29.20142836v1)
 
 
