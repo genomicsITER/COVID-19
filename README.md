@@ -1975,6 +1975,8 @@ Autonomous Regions and Cities in Spain:
 
 [Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors](https://www.medrxiv.org/content/10.1101/2020.04.17.20061440v1)
 
+[Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31483-5/fulltext)
+
 [SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpmc.100)
 
 [Seroprevalence of antibodies against SARS-CoV-2 among health care workers in a large Spanish reference hospital](https://www.medrxiv.org/content/10.1101/2020.04.27.20082289v1)
