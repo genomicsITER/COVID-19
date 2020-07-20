@@ -1010,6 +1010,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [SARS-CoV-2 Transmission and the Risk of Aerosol Generating Procedures](https://www.atsjournals.org/doi/10.1164/rccm.2020C11)
 
+[UV-C decontamination for N95 emergency reuse: Quantitative dose validation with photochromic indicators](https://www.medrxiv.org/content/10.1101/2020.07.17.20156497v1)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
