@@ -27,6 +27,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 # Table of contents #
 <ul>
+  <li><a href="#Airborne transmission">Airborne transmission</a></li>
   <li><a href="#Apps for COVID tracking">Apps for COVID tracking</a></li>
   <li><a href="#Books chapters">Books chapters</a></li>
   <li><a href="#Clinical Trials and Pharmacological Treatments">Clinical Trials and Pharmacological Treatments</a></li>
@@ -107,6 +108,72 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   </a>
 </p>
 
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Airborne transmission"></a>
+## Airborne transmission ##
+> New section on August 3, 2020.
+
+[A Letter about the Airborne Transmission of SARS-CoV-2 Based on the Current Evidence](https://aaqr.org/articles/aaqr-20-04-covid-0158)
+
+[Airborne Transmission of SARS-CoV-2 Theoretical Considerations and Available Evidence](https://jamanetwork.com/journals/jama/fullarticle/2768396)
+
+[Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/10.1056/NEJMc2004973)
+
+[Aerosol transmission of SARS-CoV-2. Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant](https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1)
+
+[Airborne Spread of SARS-CoV-2 and a Potential Role for Air Disinfection](https://jamanetwork.com/journals/jama/fullarticle/2766821)
+
+[Airborne Transmission of COVID-19: Epidemiologic Evidence from An Outbreak Investigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3567505)
+
+[Airborne transmission of SARS-CoV-2: The world should face the reality](https://www.sciencedirect.com/science/article/pii/S016041202031254X)
+
+[Airborne Transmission Route of COVID-19: Why 2 Meters/6 Feet of Inter-Personal Distance Could Not Be Enough](https://www.mdpi.com/1660-4601/17/8/2932)
+
+[Arguments pour une possible transmission par voie aérienne du SARS-CoV-2 dans la crise COVID-19Evidences for a possible airborne transmission of SARS-CoV-2 in 
+
+[Choir practice turns fatal. Coronavirus is to blame](https://www.latimes.com/world-nation/story/2020-03-29/coronavirus-choir-outbreak)
+
+[Covid-19: Airborne transmission is being underestimated, warn experts](https://www.bmj.com/content/370/bmj.m2720)
+
+[Detection of air and surface contamination by SARS-CoV-2 in hospital rooms of infected patients](https://www.nature.com/articles/s41467-020-16670-2)
+
+[Detection of Airborne Severe Acute Respiratory Syndrome (SARS) Coronavirus and Environmental Contamination in SARS Outbreak Units](https://academic.oup.com/jid/article/191/9/1472/862003)
+
+[Droplets and Aerosols in the Transmission of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2009324)
+
+[How can airborne transmission of COVID-19 indoors be minimised?](https://doi.org/10.1016/j.envint.2020.105832)
+
+[Identifying airborne transmission as the dominant route for the spread of COVID-19](https://www.pnas.org/content/117/26/14857)
+
+[If the coronavirus is really airborne, we might be fighting it the wrong way](https://www.technologyreview.com/2020/07/11/1005087/coronavirus-airborne-fighting-wrong-way/)
+
+[Intense fitness classes can lead to rapid spread of COVID-19, report shows](https://www.livescience.com/covid-19-fitness-dance-classes-south-korea.html)
+
+[Japan's supercomputer suggests changes to travel, work amid airborne virus threat](https://japantoday.com/category/national/japan-supercomputer-suggests-changes-to-travel-work-amid-airborne-virus-threat)
+
+[Mounting evidence suggests coronavirus is airborne — but health advice has not caught up](https://www.nature.com/articles/d41586-020-02058-1)
+
+[Respiratory Transmission of SARS-CoV-2: What Do We Really Know?](https://www.infectiousdiseaseadvisor.com/home/topics/covid19/respiratory-transmission-of-covid19-coronavirus/)
+
+[Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2)
+
+[Role of air distribution in SARS transmission during the largest nosocomial outbreak in Hong Kong](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0668.2004.00317.x)
+
+[SARS-CoV-2 failure to infect or replicate in mosquitoes: an extreme challenge](https://www.nature.com/articles/s41598-020-68882-7)
+
+[Severe COVID-19 in the young and healthy: monogenic inborn errors of immunity?](https://www.nature.com/articles/s41577-020-0373-7)
+
+[Transmission of SARS-CoV-2: implications for infection prevention precautions](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)
+
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
