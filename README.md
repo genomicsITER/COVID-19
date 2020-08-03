@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> August 3, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on scientific literature hubs (), data hubs (), sequencing (), genomics (), new section on schools (and other human-populated spaces) reopenings (), reports (), media sources (), mathematical models (), PCR stuff (), apps for COVID-19 tracking (), section on vaccines (), Virology (>), seroprevalence ()... Enjoy the reading! ;=)
+> August 3, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (), scientific literature hubs (), data boards (), sequencing (), genomics (), new section on schools (and other human-populated spaces) reopenings (), reports (), media sources (), mathematical models (), PCR stuff (), apps for COVID-19 tracking (), section on vaccines (), Virology (>), seroprevalence ()... Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
