@@ -744,6 +744,12 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [How COVID-19 is changing the world: a statistical perspective](https://covid-19-response.unstatshub.org/data-solutions/report-ccsa/)
 
+[Interim Guidelines for Clinical Specimens for COVID-19 | CDC](https://www.cdc.gov/coronavirus/2019-ncov/lab/guidelines-clinical-specimens.html?CDC_AA_refVal)
+
+[Interim Guidance for Use of Pooling Procedures in SARS-CoV-2 Diagnostic, Screening, and Surveillance Testing](https://www.cdc.gov/coronavirus/2019-ncov/lab/pooling-procedures.html)
+
+[Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/lab/lab-biosafety-guidelines.html)
+
 [Novel Coronavirus (COVID-19): The American Thoracic Society (ATS) Response](https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php)
 <p align="center">
     <a href="https://www.thoracic.org/professionals/clinical-resources/disease-related-resources/novel-coronavirus.php" title="See this resource">
@@ -763,6 +769,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [SemiSyuc](https://semicyuc.org/covid-19/#Documentos)     |     [Plan de Contingencia para los Servicios de Medicina Intensiva frente a la pandemia COVID-19](https://semicyuc.org/wp-content/uploads/2020/03/Plan-Contingencia-COVID-19.pdf) 
 
+[Transmission of SARS-CoV-2: implications for infection prevention precautions](https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions)
+
 [Weekly Coronavirus Disease 2019 (COVID-19) Surveillance Report  Summary of COVID-19 surveillance systems](https://schoolsweek.co.uk/suspected-covid-19-outbreaks-in-schools-almost-doubles/)
 
 
@@ -778,6 +786,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 </p>
 
 [WHO - Laboratory Biosafety Manual - Third Edition](https://www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en/) 
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
