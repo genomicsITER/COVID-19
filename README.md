@@ -572,15 +572,17 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Scientists are drowning in COVID-19 papers. Can new tools keep them afloat?](https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat)
 
+[Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.05.20.20108126v1)
+
+[Strategies to reduce the risk of SARS-CoV-2 re-introduction from international travellers](https://www.medrxiv.org/content/10.1101/2020.07.24.20161281v2)
+
+[Sustained suppression](https://www.nature.com/articles/s41551-020-0567-0)
+
 [Temporal variation in transmission during the COVID-19 outbreak](https://epiforecasts.io/covid/reports.html)
 
 [The fate of house cats during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/pii/S1286457920300733)
 
 [The incubation period of COVID-19: A rapid systematic review and meta-analysis of observational research](https://www.medrxiv.org/content/10.1101/2020.04.24.20073957v1)
-
-[Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.05.20.20108126v1)
-
-[Sustained suppression](https://www.nature.com/articles/s41551-020-0567-0)
 
 [Why does COVID-19 case fatality rate vary among countries?](https://www.medrxiv.org/content/10.1101/2020.04.17.20069393v1)
 
