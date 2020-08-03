@@ -796,6 +796,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Así es la lucha entre el sistema inmune y el coronavirus. El País, España](https://elpais.com/elpais/2020/04/20/ciencia/1587379836_984471.html)
 
+[Cientos de científicos piden a la OMS que reconozca la transmisión aérea del coronavirus](https://elpais.com/ciencia/2020-07-06/cientos-de-cientificos-piden-a-la-oms-que-reconozca-la-transmision-aerea-del-coronavirus.html)
+
 [Coronavirus contact-tracing apps: can they slow the spread of COVID-19?](https://www.nature.com/articles/d41586-020-01514-2)
 
 [COVID-19: Why we should all wear masks — There is new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
@@ -818,6 +820,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Investigadores del ITER y de La Candelaria aceleran el método de diagnóstico del Covid-19](http://www.diariodetenerife.info/investigadores-del-iter-y-de-la-candelaria-aceleran-el-metodo-de-diagnostico-del-covid-19/)
 
+[“Lo que sabemos ahora es que quien ha dado positivo por anticuerpos está protegido”](https://elpais.com/ciencia/2020-06-29/lo-que-sabemos-ahora-es-que-quien-ha-dado-positivo-por-anticuerpos-esta-protegido.html)
+
 [Los sesgos que engañan al cerebro durante la pandemia, El País](https://elpais.com/ciencia/2020-03-26/los-sesgos-que-enganan-al-cerebro-durante-la-pandemia.html) 
 
 [Llega la herramienta de rastreo de contagios por Covid-19 de Apple y Google: tiene el respaldo de veinte países](https://www.abc.es/tecnologia/informatica/soluciones/abci-llega-herramienta-rastro-contagios-covid-19-apple-y-google-tiene-respaldo-veinte-paises-202005201901_noticia.html)
@@ -832,9 +836,13 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Radiografía de tres brotes: así se contagiaron y así podemos evitarlo](https://elpais.com/ciencia/2020-06-06/radiografia-de-tres-brotes-asi-se-contagiaron-y-asi-podemos-evitarlo.html)
 
+[Respiratory Transmission of SARS-CoV-2: What Do We Really Know?](https://www.infectiousdiseaseadvisor.com/home/topics/covid19/respiratory-transmission-of-covid19-coronavirus/)
+
 [Rockefeller-Led Team Launches Initiative to Study COVID-19 Genetic Vulnerability (GenomeWeb)](https://www.genomeweb.com/infectious-disease/rockefeller-led-team-launches-initiative-study-covid-19-genetic-vulnerability)
 
 [SARS-CoV-2 y COVID-19: la dificultad de nombrar un nuevo virus y la enfermedad asociada](https://www.eldia.es/opinion/2020/05/27/sars-cov-2-covid-19/1081757.html)
+
+[¿Se transmite por el aire el coronavirus?](https://elpais.com/ciencia/2020-06-13/se-transmite-por-el-aire-el-coronavirus.html)
 
 [Scientists are drowning in COVID-19 papers. Can new tools keep them afloat?](https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat)
 
@@ -1033,11 +1041,21 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Aerosolized Hydrogen Peroxide Decontamination of N95 Respirators, with Fit-Testing and Virologic Confirmation of Suitability for Re-Use During the COVID-19 Pandemic](https://www.medrxiv.org/content/10.1101/2020.04.17.20068577v1)
 
+[Assessing the quality of nontraditional N95 filtering face-piece respirators available during the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.07.25.20161968v1)
+
 [Assessment of N95 respirator decontamination and re-use for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.11.20062018v1)
 
 [Association of Personal Protective Equipment Use with Successful Protection Against COVID-19 Infection Among Health Care Workers](https://www.medrxiv.org/content/10.1101/2020.04.24.20070169v1)
 
 [Can N95 respirators be reused after disinfection? And for how many times?](https://www.medrxiv.org/content/10.1101/2020.04.01.20050443v1)
+
+[CDC. Cleaning and Disinfecting Your Home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html)
+
+[CDC. Community, Work and School: Cleaning and Disinfecting](https://www.cdc.gov/coronavirus/2019-ncov/community/clean-disinfect/index.html)
+
+[CDC. How to Protect Yourself and Others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+
+[CDC. Use of Cloth Face Coverings to Help Slow the Spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
 
 [Clarificación de los diferentes tipos de mascarillas, Ministerio de Sanidad](https://www.redaccionmedica.com/contenido/images/1_clarificacion_diferentes_tipos_mascarillas.pdf)
 
@@ -1048,6 +1066,18 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1)
 
 [Efficacy of face mask in preventing respiratory virus transmission: a systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.04.03.20051649v1)
+
+[EPA. Additional Measures to Address COVID-19 in Public Indoor Spaces](https://www.epa.gov/coronavirus/additional-measures-address-covid-19-public-indoor-spaces)
+
+[EPA. Air Cleaners, HVAC Filters and Coronavirus (COVID-19)](https://www.epa.gov/coronavirus/air-cleaners-hvac-filters-and-coronavirus-covid-19)
+
+[EPA. COVID-19, Wildfires, and Indoor Air Quality](https://www.epa.gov/coronavirus/covid-19-wildfires-and-indoor-air-quality)
+
+[EPA. Indoor Air in Homes and Coronavirus (COVID-19)](https://www.epa.gov/coronavirus/indoor-air-homes-and-coronavirus-covid-19)
+
+[EPA. Science and Technical Resources related to Indoor Air and Coronavirus (COVID-19)](https://www.epa.gov/coronavirus/science-and-technical-resources-related-indoor-air-and-coronavirus-covid-19)
+
+[EPA. Ventilation and Coronavirus (COVID-19)](https://www.epa.gov/coronavirus/ventilation-and-coronavirus-covid-19)
 
 [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
 
@@ -1078,6 +1108,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [SARS-CoV-2 Transmission and the Risk of Aerosol Generating Procedures](https://www.atsjournals.org/doi/10.1164/rccm.2020C11)
 
 [UV-C decontamination for N95 emergency reuse: Quantitative dose validation with photochromic indicators](https://www.medrxiv.org/content/10.1101/2020.07.17.20156497v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
