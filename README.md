@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> July 4, 2020 updates: the largest update since the creation of this repository:ç (>300 new records!): scientific literature hubs (3), data hubs (2), sequencing (5), genomics (2), new section of pooling (2), reports (2), media sources (8), mathematical models (2), PCR stuff (3), new section of apps for COVID-19 tracking (10), new section on vaccines (1), restructured section on Virology (>250), seroprevalence (5)... Enjoy the reading! ;=)
+> August 3, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): scientific literature hubs (), data hubs (), sequencing (), genomics (), new section on schools (and other human-populated spaces) reopenings (), reports (), media sources (), mathematical models (), PCR stuff (), apps for COVID-19 tracking (), section on vaccines (), Virology (>), seroprevalence ()... Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -2955,7 +2955,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
   </a>
 </p>
 
-Last update: 00:10 GMT - July 5, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 15:15 GMT - Augsut 3, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -2963,7 +2963,7 @@ Last update: 00:10 GMT - July 5, 2020     |     By JMLS <a href="https://twitter
 <a name="Update logs"></a>
 ## Update logs ##
 
-> July 4, 2020 updates: the largest update since the creation of this repository:ç (>300 new records!): scientific literature hubs (3), data hubs (2), sequencing (5), genomics (2), new section of pooling (2), reports (2), media sources (8), mathematical models (2), PCR stuff (3), new section of apps for COVID-19 tracking (10), new section on vaccines (1), restructured section on Virology (>250), seroprevalence (5)... Enjoy the reading! ;=)
+> July 4, 2020 updates: the largest update since the creation of this repository: (>300 new records!): scientific literature hubs (3), data hubs (2), sequencing (5), genomics (2), new section of pooling (2), reports (2), media sources (8), mathematical models (2), PCR stuff (3), new section of apps for COVID-19 tracking (10), new section on vaccines (1), restructured section on Virology (>250), seroprevalence (5)... Enjoy the reading! ;=)
 
 > May 16, 2020 updates: a new major update with 64 new entries as follows: a new section, Clinical stuff, including the first COVID-19 autopsies (10), Data sources (10), Diagnostics (6), Epidemiology (5), Genomics (9), Maths (1), Respirators and other PPE (1), Media (2), PCR and related stuff (4), Preprints and Published literature (2), Seroprevalence (7), and Viral mechanisms (7). Enjoy the reading! ;=)
 
