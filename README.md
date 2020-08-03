@@ -274,6 +274,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Air Hunger and Psychological Trauma in Ventilated COVID-19 Patients: An Urgent Problem](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202004-322VP)
 
+[Airway expression of SARS-CoV-2 receptor, ACE2, and proteases, TMPRSS2 and furin, in severe asthma](https://www.medrxiv.org/content/10.1101/2020.06.29.20142091v1)
+
 [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
 
 [Are COVID-19 Patients Dying of or with Cardiac Injury?](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1083LE)
@@ -290,11 +292,15 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Clinical classifiers of COVID-19 infection from novel ultra-high-throughput proteomics](https://www.medrxiv.org/content/10.1101/2020.04.27.20081810v1)
 
+[Clinical importance of reporting SARS-CoV-2 viral loads across the different stages of the COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.07.10.20149773v1)
+
 [Clinical Utility of SARS-CoV-2 Whole Genome Sequencing in Deciphering Source of Infection](https://www.medrxiv.org/content/10.1101/2020.05.21.20107599v1)
 
 [Coinfections in COVID-19](https://www.covid-coinfections.org/)
 
 [Coughs and Sneezes: Their Role in Transmission of Respiratory Viral Infections, Including SARS-CoV-2](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1263PP)
+
+[Covert COVID-19 and false-positive dengue serology in Singapore](https://linkinghub.elsevier.com/retrieve/pii/S1473-3099(20)30158-4)
 
 [COVID-19 Autopsies, Oklahoma, USA](https://academic.oup.com/ajcp/article/153/6/725/5818922)
 
@@ -310,7 +316,11 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Description of COVID-19 in HIV-infected individuals: a single-centre, prospective cohort](https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(20)30164-8/fulltext)
 
+[Dengue antibodies can cross-react with SARS-CoV-2 and vice versa-Antibody detection kits can give false-positive results for both viruses in regions where both COVID-19 and Dengue co-exist](https://www.medrxiv.org/content/10.1101/2020.07.03.20145797v1)
+
 [European Union Clinical Trials Register, Clinical trials for COVID-19](https://www.clinicaltrialsregister.eu/ctr-search/search?query=covid-19)
+
+[Evolution and epidemic spread of SARS-CoV-2 in Brazil](https://science.sciencemag.org/content/early/2020/07/22/science.abd2161.full)
 
 [Expression of the SARS-CoV-2 ACE2 Receptor in the Human Airway Epithelium](https://www.atsjournals.org/doi/10.1164/rccm.202003-0541OC)
 
@@ -330,15 +340,25 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Prior infection by seasonal coronaviruses does not prevent SARS-CoV-2 infection and associated Multisystem Inflammatory Syndrome in children](https://www.medrxiv.org/content/10.1101/2020.06.29.20142596v1)
 
+[Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/368/6493/860)
+
 [Reply to: Are COVID-19 Patients Dying of or with Cardiac Injury?](https://www.atsjournals.org/doi/10.1164/rccm.202004-1156LE)
 
 [Respiratory Mechanics and Gas Exchange in COVID-19 Associated Respiratory Failure](https://www.atsjournals.org/doi/abs/10.1513/AnnalsATS.202005-427RL)
 
 [RETRACTED: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext)
 
+[SARS-CoV-2 viral load in the upper respiratory tract of children and adults with early acute COVID-19](https://www.medrxiv.org/content/10.1101/2020.07.17.20155333v1)
+
 [Severe Hypoxemia in Early COVID-19 Pneumonia](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1313LE)
 
+[Shared SARS-CoV-2 diversity suggests localised transmission of minority variants](https://www.biorxiv.org/content/10.1101/2020.05.28.118992v3)
+
 [Standards and Stereotypes in COVID-19](https://www.atsjournals.org/doi/abs/10.1164/rccm.202005-1592LE)
+
+[Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2)](https://science.sciencemag.org/content/368/6490/489)
+
+[Suppression of a SARS-CoV-2 outbreak in the Italian municipality of Vo’](https://www.nature.com/articles/s41586-020-2488-1)
 
 [Telemedicine-Enabled Accelerated Discharge of Hospitalized COVID-19 Patients to Isolation in Repurposed Hotel Rooms](https://www.atsjournals.org/doi/abs/10.1164/rccm.202004-1238OE)
 
@@ -355,6 +375,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [Unravelling the debate on heme effects in COVID-19 infections](https://www.biorxiv.org/content/10.1101/2020.06.09.142125v2)
 
 [Ventilator Sharing During an Acute Shortage Caused by the COVID-19 Pandemic](https://www.atsjournals.org/doi/10.1164/rccm.202005-1586LE)
+
+[Viable SARS-CoV-2 in various specimens from COVID-19 patients](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30427-4/fulltext)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -447,6 +469,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
 
+[COVID-19 Immunology 101 for Non-immunologists by Akiko Iwasaki, Ph.D.](https://www.youtube.com/watch?v=jeN8v5I5VNA)
+
 [COVID19: Top 7 online interactive simulations, curated](https://towardsdatascience.com/covid19-top-7-online-interactive-simulations-curated-fa4282889875)
 
 [COVID-19 Preparedness for Radiotherapy Departments - Towards Consensus on Best Practices](https://humanhealth.iaea.org/HHW/)
@@ -499,6 +523,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 <a name="Epidemiology"></a>
 ## Epidemiology ##
+
+[A dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology](https://www.nature.com/articles/s41564-020-0770-5)
 
 [A “One-Health” approach for diagnosis and molecular characterization of SARS-CoV-2 in Italy](https://www.sciencedirect.com/science/article/pii/S2352771420300823)
 
@@ -666,6 +692,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Phylodynamics of SARS-CoV-2 transmission in Spain](https://www.biorxiv.org/content/10.1101/2020.04.20.050039v1)
 
+[Presence of Genetic Variants Among Young Men With Severe COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2768926)
+
 [Proyecto Epidemiologia Genomica COVID 19](https://evosalut1.uv.es/)
 
 [Proyecto SeqCOVID – Genomic epidemiology of SARS-CoV-2 in Spain](http://seqcovid.csic.es/)
@@ -705,6 +733,13 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like motif](https://www.biorxiv.org/content/10.1101/2020.04.09.033522v1)
 
 [ViralZone. SARS coronavirus 2 / Covid-19 genome expression](https://viralzone.expasy.org/9076)
+
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 
 <p align="right">
@@ -979,6 +1014,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
       <img src="https://www.cogconsortium.uk/wp-content/themes/cogconsortium/dist/assets/svg/logos/logo-cog-uk.png" width="30%"/>
     </a> 
 </p>
+
+[COV-IRT – COVID-19 International Research Team](https://www.cov-irt.org/)
 
 [COVID-19 Clinical Research Coalition](https://covid19crc.org/)
 <p align="center">
@@ -1371,6 +1408,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Mathematical Modeling of the Effectiveness of Facemasks in Reducing the Spread of Novel Influenza A (H1N1)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818714/)
 
+[Mathematical models to guide pandemic response](https://science.sciencemag.org/content/369/6502/368)
+
 [Modelo para el estudio de la dinámica de transmisión del SARS-CoV-2 y la enfermedad COVID19. Descripción técnica](https://covid19.webs.upv.es/INFORMES/Explicacion_tecnica.pdf)
 
 [OpenABM-Covid19: Agent-based model for modelling the Covid-19](https://github.com/BDI-pathogens/OpenABM-Covid19/blob/master/README.md)
@@ -1378,6 +1417,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793)
 
 [Reproductive numbers, epidemic spread and control in a community of households](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2731010/)
+
+[SIAM Mathematics of Data Science (MDS20) Distinguished Lecture Series: David L. Donoho](https://www.youtube.com/watch?v=VOzl-RC4IIs&feature=youtu.be)
 
 [Swiss Medical Weekly - Potential impact of seasonal forcing on a SARS-CoV-2 pandemic](https://doi.org/10.4414/smw.2020.20224)
 
@@ -1413,6 +1454,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 > Subsection dedicated to PCR (RT-qPCR) and related topics.
 <br />
 
+[A Confirmed Case of SARS-CoV-2 Pneumonia with Routine RT-PCR Negative and Virus Variation in Guangzhou, China](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa941/5869155)
+
 [A handheld point-of-care system for rapid detection of SARS-CoV-2 in under 20 minutes](https://www.medrxiv.org/content/10.1101/2020.06.29.20142349v1)
 
 [A protocol for massively parallel diagnosis and genome sequencing of SARS-CoV-](https://www.protocols.io/view/a-protocol-for-massively-parallel-diagnosis-and-ge-betrjem6)
@@ -1427,9 +1470,13 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage](https://www.medrxiv.org/content/10.1101/2020.03.27.20044495v1)
 
+[Amplicon based MinION sequencing of SARS-CoV-2 and metagenomic characterisation of nasopharyngeal swabs from patients with COVID-19](https://prelights.biologists.com/highlights/amplicon-based-minion-sequencing-of-sars-cov-2-and-metagenomic-characterisation-of-nasopharyngeal-swabs-from-patients-with-covid-19/)
+
 [Analysis of factors associated early diagnosis in coronavirus disease 2019 (COVID-19)](https://www.medrxiv.org/content/10.1101/2020.04.09.20059352v1)
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
+
+[Artificial Intelligence-Assisted Loop Mediated Isothermal Amplification (ai-LAMP) for Rapid and Reliable Detection of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.07.08.20148999v2)
 
 [BEARmix: Basic Economical Amplification Reaction one-step RT-qPCR master mix](https://gitlab.com/tjian-darzacq-lab/bearmix)
 
@@ -1463,6 +1510,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
 
+[Efficient high throughput SARS-CoV-2 testing to detect asymptomatic carriers](https://www.medrxiv.org/content/10.1101/2020.04.14.20064618v1)
+
 [Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
 
 [Evaluation of Reverse Transcription-PCR Assays for Rapid Diagnosis of Severe Acute Respiratory Syndrome Associated with a Novel Coronavirus](https://jcm.asm.org/content/41/10/4521)
@@ -1478,6 +1527,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.ijidonline.com/article/S1201-9712(20)30406-9/pdf)
 
 [Fast SARS-CoV-2 detection protocol based on RNA precipitation and RT-qPCR in nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.26.20081307v1)
+
+[Genotyping SARS-CoV-2 through an interactive web application](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30140-0/fulltext)
 
 [High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
 
@@ -1527,6 +1578,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
 
+[Real-time colorimetric LAMP methodology for quantitative nucleic acids detection at the point-of-care](https://www.biorxiv.org/content/10.1101/2020.07.22.215251v1)
+
 [Reconstructed diagnostic sensitivity and specificity of the RT-PCR test for COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20078949v1)
 
 [Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS–CoV-2/COVID-19](https://mbio.asm.org/content/11/2/e00722-20)
@@ -1536,6 +1589,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Reverse-transcription quantitative PCR directly from cells without RNA extraction and without isothermal reverse-transcription: a ‘zero-step’ RT-qPCR protocol](https://academic.oup.com/biomethods/article/2/1/bpx008/3858804)
 
 [RT-qPCR detection of SARS-CoV-2 RNA from patient nasopharyngeal swab using Qiagen RNEasy kits or directly via omission of an extraction step](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v1) 
+
+[Saliva offers a sensitive, specific and non-invasive alternative to upper respiratory swabs for SARS-CoV-2 diagnosis](https://www.medrxiv.org/content/10.1101/2020.07.09.20149534v1)
 
 [Saliva Sample as a Non-Invasive Specimen for the Diagnosis of Coronavirus Disease-2019 (COVID-19): a Cross-Sectional Study](https://www.medrxiv.org/content/10.1101/2020.04.17.20070045v1)
 
@@ -1547,9 +1602,13 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [SARS-CoV-2 Detection Using an Isothermal Amplification Reaction and a Rapid, Inexpensive Protocol for Sample Inactivation and Purification](https://www.medrxiv.org/content/10.1101/2020.04.23.20076877v1)[Smart Pooled sample Testing for COVID-19: A Possible Solution for Sparsity of Test Kits](https://www.medrxiv.org/content/10.1101/2020.04.21.20044594v1)
 
+[Screening for SARS-CoV-2 infections with colorimetric RT-LAMP and LAMP sequencing](https://www.medrxiv.org/content/10.1101/2020.05.05.20092288v1)
+
 [Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection](https://www.medrxiv.org/content/10.1101/2020.06.23.20137455v1)
 
 [Sequential informed pooling approach to detect SARS-CoV2 infection](https://www.medrxiv.org/content/10.1101/2020.04.24.20077966v1)
+
+[Swabs Collected by Patients or Health Care Workers for SARS-CoV-2 Testing](https://www.nejm.org/doi/full/10.1056/NEJMc2016321)
 
 [The Potential Use of Unprocessed Sample for RT-qPCR Detection of COVID-19 without an RNA Extraction Step](https://www.biorxiv.org/content/10.1101/2020.04.06.028811v1)
 
@@ -1594,6 +1653,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Optimal Pool Size for COVID-19 Group Testing](https://www.medrxiv.org/content/10.1101/2020.04.26.20076265v1)
 
+[Optimal sample pooling: an efficient tool against SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.07.03.20145953v1)
+
 [Pooling nasopharyngeal swab specimens to increase testing capacity for SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.05.22.110932v1.full)
 
 [Pooling of Samples to Increase Testing Capacity for COVID-19](https://www.cass.city.ac.uk/__data/assets/pdf_file/0004/530869/pooling-samples-to-increase-testing-capacity-for-covid-19.pdf)
@@ -1606,6 +1667,9 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Sample pooling on triplets to speed up SARS-CoV-2 diagnosis using CDC FDA EUA RT-qPCR kit](https://www.medrxiv.org/content/10.1101/2020.06.29.20142836v1)
 
+[Tapestry: A Single-Round Smart Pooling Technique for COVID-19 Testing](https://www.medrxiv.org/content/10.1101/2020.04.23.20077727v2)
+
+[The Mathematics of Mass Testing for COVID-19](https://sinews.siam.org/Details-Page/the-mathematics-of-mass-testing-for-covid-19)
 
 <p align="right">
   <a href="#covid-19" title="Up">
@@ -1633,6 +1697,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [After Reopening Schools, Israel Orders Them To Shut If COVID-19 Cases Are Discovered](https://www.npr.org/sections/coronavirus-live-updates/2020/06/03/868507524/israel-orders-schools-to-close-when-covid-19-cases-are-discovered)
 
+[Coronavirus Disease Outbreak in Call Center, South Korea](https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article)
+
 [COVID-19 screening strategies that permit the safe re-opening of college campuses](https://www.medrxiv.org/content/10.1101/2020.07.06.20147702v1)
 
 [Dozens of Australian schools shut down after coronavirus outbreaks](https://www.wsws.org/en/articles/2020/07/27/vsch-j27.html)
@@ -1645,6 +1711,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
 
+[The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1057/
+
 [UNESCO Education: From disruption to recovery](https://en.unesco.org/covid19/educationresponse)
 
 [Weekly Coronavirus Disease 2019 (COVID-19) Surveillance Report Summary of COVID-19 surveillance systems Year: 2020 Week: 26](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/897481/Weekly_COVID19_Surveillance_Report_w26_UPDATED.pdf)
@@ -1656,11 +1724,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
-
-<hr>
-
-
-
 
 
 <hr>
@@ -2265,6 +2328,8 @@ Autonomous Regions and Cities in Spain:
 </p>
 
 [Partner independent fusion gene detection by multiplexed CRISPR-Cas9 enrichment and long read nanopore sequencing](https://www.nature.com/articles/s41467-020-16641-7)
+
+[Rapid SARS-CoV-2 whole-genome sequencing and analysis for informed public health decision-making in the Netherlands](https://www.nature.com/articles/s41591-020-0997-y)
 
 [Quality control of low-frequency variants in SARS-CoV-2 genomes](https://www.biorxiv.org/content/10.1101/2020.04.26.062422v1)
 
