@@ -1713,6 +1713,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[Coinfections in COVID-19](https://www.covid-coinfections.org/)
+
 [CORD-19. COVID-19 Open Research Dataset](https://www.semanticscholar.org/cord19)
 
 [Coronavirus analysis tools developed by scientists at the University of Tartu, Estonia](https://koroona.ut.ee/?lang=en)
@@ -1736,7 +1738,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)
 
-[COVID-19:on average only 6% of actual SARS-CoV-2 infections detected worldwide, University of Göttingen](http://www.uni-goettingen.de/de/document/download/3d655c689badb262c2aac8a16385bf74.pdf/Bommer%20&%20Vollmer%20(2020)%20COVID-19%20detection%20April%202nd.pdf)
+[COVID-19: on average only 6% of actual SARS-CoV-2 infections detected worldwide, University of Göttingen](http://www.uni-goettingen.de/de/document/download/3d655c689badb262c2aac8a16385bf74.pdf/Bommer%20&%20Vollmer%20(2020)%20COVID-19%20detection%20April%202nd.pdf)
 
 [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
 <p align="center">
@@ -1744,6 +1746,15 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
       <img src="https://www.kaggle.com/static/images/site-logo.png" width="20%"/>
     </a> 
 </p>
+
+
+[COVID-19 databoard ISCIII](https://cnecovid.isciii.es/covid19/#ccaa)
+
+[COVID-19 GENOTYPING TOOL (Genotyping SARS-CoV-2 through an interactive web application)](https://covidgenotyper.app/)
+
+[COVID-19: Government Response Stringency Index](https://ourworldindata.org/grapher/covid-stringency-index?year=2020-07-23&region=Europe)
+
+[COVID-19 Law Lab collecting legal documents from the COVID-19 response](https://covidlawlab.org)
 
 [COVID-19 scenarios](https://neherlab.org/covid19/) 
 
@@ -1865,6 +1876,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[IRRD COVID-19 em tempo real](http://www.irrd.org/covid-19/)
+
 [Jupyter R notebook for prediction modelling of Covid-19 data. Predictive modelling of 2019-nCov outbreak data in Canary Islands. Departamento de Matemáticas, Estadística e Investigación Operativa, ULL](https://github.com/ULL-STAT/covid19_model)
 <p align="center">
     <a href="https://github.com/ULL-STAT/covid19_model" title="See this resource">
@@ -1921,6 +1934,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [NIKKEI ASIAN REVIEW. Coronavirus infection tracker -World Map-](https://vdata.nikkei.com/en/newsgraphics/coronavirus-world-map/)
 
+[OpenTargets COVID-19 repository](https://covid19.opentargets.org/)
+
 [PolyMath COVID-19 dataset clearinghouse](http://michaelnielsen.org/polymath1/index.php?title=COVID-19_dataset_clearinghouse)
 
 [Reich Lab COVID-19 Forecast Hub](https://github.com/reichlab/covid19-forecast-hub)
@@ -1951,6 +1966,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [The COVID Tracking Project, testing data available for US states and territories](https://covidtracking.com/)
 
+[Tout sur SARS-Cov-2 / COVID-19 à l'Institut Psteur](https://www.pasteur.fr/fr/sars-cov-2-covid-19-institut-pasteur)
+
 [Virological](http://virological.org/)
 <p align="center">
     <a href="http://virological.org/" title="See this resource">
@@ -1964,6 +1981,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [United Against COVID-19](http://united-against-covid.org/)
 
+[Universidad de Granada - Genyo DatAC: Data Against COVID-19](https://covid19.genyo.es/)
+
 [Virus Pathogen Resource: VIPR SARS-CoV-2 resource (tools for sequence and structure analysis, comparative genomics and phenotype studies)](https://www.viprbrc.org/brc/home.spg?decorator=corona_ncov)
 
 [WHO updates COVID-19 dashboard with better data visualization](https://covid19.who.int/)
@@ -1976,14 +1995,16 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     </a> 
 </p>
 
+[Zoic Labs and The Krogan Lab SARS-Cov-2 Virus-HUman Protein-Protein Interaction Map](https://ppi.zoiclabs.io/#/)
+
 <p align="right">
   <a href="#covid-19" title="Up">
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
 
-<hr>
 
+<hr>
 
 
 <!-- ------------------ SUB-SECTION ------------------ -->
