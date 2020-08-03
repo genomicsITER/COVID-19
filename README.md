@@ -132,7 +132,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Airborne Transmission Route of COVID-19: Why 2 Meters/6 Feet of Inter-Personal Distance Could Not Be Enough](https://www.mdpi.com/1660-4601/17/8/2932)
 
-[Arguments pour une possible transmission par voie aérienne du SARS-CoV-2 dans la crise COVID-19Evidences for a possible airborne transmission of SARS-CoV-2 in 
+[Arguments pour une possible transmission par voie aérienne du SARS-CoV-2 dans la crise COVID-19. Evidences for a possible airborne transmission of SARS-CoV-2 in the COVID-19 crisis](https://www.sciencedirect.com/science/article/pii/S1775878520309875)
 
 [Choir practice turns fatal. Coronavirus is to blame](https://www.latimes.com/world-nation/story/2020-03-29/coronavirus-choir-outbreak)
 
