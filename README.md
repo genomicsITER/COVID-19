@@ -41,7 +41,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
-
+  <li><a href="#School and other human-populated spaces reopening">Schools and other human-populated spaces reopenings</a></li>
   <li><a href="#Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)" >Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)</a></li>
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
@@ -1503,6 +1503,53 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
+
+
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="School and other human-populated spaces reopening"></a>
+## School and other human-populated spaces reopening ##
+
+[A Georgia sleepaway camp's coronavirus outbreak is a warning for what could happen when schools reopen, CDC says](https://edition.cnn.com/2020/07/31/health/georgia-camp-coronavirus-outbreak-cdc-trnd/index.html)
+
+[A large COVID-19 outbreak in a high school 10 days after schools’ reopening, Israel, May 2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.29.2001352)
+
+[A school outbreak of Norwalk-like virus: evidence for airborne transmission](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870014/)
+
+[A School Reopens, and the Coronavirus Creeps In](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+
+[After Reopening Schools, Israel Orders Them To Shut If COVID-19 Cases Are Discovered](https://www.npr.org/sections/coronavirus-live-updates/2020/06/03/868507524/israel-orders-schools-to-close-when-covid-19-cases-are-discovered)
+
+[COVID-19 screening strategies that permit the safe re-opening of college campuses](https://www.medrxiv.org/content/10.1101/2020.07.06.20147702v1)
+
+[Dozens of Australian schools shut down after coronavirus outbreaks](https://www.wsws.org/en/articles/2020/07/27/vsch-j27.html)
+
+[GOV.UK Guidance. Actions for schools during the coronavirus outbreak](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak)
+
+[On the effect of age on the transmission of SARS-CoV-2 in households, schools and the community](https://www.medrxiv.org/content/10.1101/2020.07.19.20157362v1)
+
+[SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm)
+
+[School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
+
+[UNESCO Education: From disruption to recovery](https://en.unesco.org/covid19/educationresponse)
+
+[Weekly Coronavirus Disease 2019 (COVID-19) Surveillance Report Summary of COVID-19 surveillance systems Year: 2020 Week: 26](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/897481/Weekly_COVID19_Surveillance_Report_w26_UPDATED.pdf)
+
+[WHO Considerations for school-related public health measures in the context of COVID-19](https://www.who.int/publications/i/item/considerations-for-school-related-public-health-measures-in-the-context-of-covid-19)
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+
 
 
 
