@@ -2092,17 +2092,25 @@ Autonomous Regions and Cities in Spain:
 
 [A Statistical Analysis Of CoV-19 Positive Test Frequency Data Indicates A Need For Greater Attention To CoV-19 Test Quality And Pre-Wuhan Cov-19 Prevalence](https://www.medrxiv.org/content/10.1101/2020.04.24.20078402v1)
 
+[Considering how biological sex impacts immune responses and COVID-19 outcomes](https://www.nature.com/articles/s41577-020-0348-8)
+
 [Coronavirus: los primeros datos de seroprevalencia estiman que un 5% de la población ha estado contagiada, con variabilidad según provincias](https://www.isciii.es/Noticias/Noticias/Paginas/Noticias/PrimerosDatosEstudioENECOVID19.aspx) | [INFORME](https://www.mscbs.gob.es/gabinetePrensa/notaPrensa/pdf/13.05130520204528614.pdf)
 
 [COVID-19 and Postinfection Immunity. Limited Evidence, Many Remaining Questions](https://jamanetwork.com/journals/jama/fullarticle/2766097)
 
 [COVID-19 Antibody Seroprevalence in Santa Clara County, California](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1)
 
+[Daily viral kinetics and innate and adaptive immune responses assessment in COVID-19: a case series](https://www.medrxiv.org/content/10.1101/2020.07.02.20143271v1)
+
 [Detection of SARS-CoV-2-Specific Humoral and Cellular Immunity in COVID-19 Convalescent Individuals](https://www.sciencedirect.com/science/article/pii/S1074761320301813)
 
 [Diagnostic accuracy of serological tests for covid-19: systematic review and meta-analysis](https://www.bmj.com/content/370/bmj.m2516)
 
+[Disappearance of antibodies to SARS-CoV-2 in a Covid-19 patient after recovery](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30411-0/fulltext)
+
 [Dissecting antibody-mediated protection against SARS-CoV-2](https://www.nature.com/articles/s41577-020-0359-5)
+
+[Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants](https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1)
 
 [Estimating COVID-19 Antibody Seroprevalence in Santa Clara County, California. A re-analysis of Bendavid et al.](https://www.medrxiv.org/content/10.1101/2020.04.24.20078824v1)
 
@@ -2112,7 +2120,11 @@ Autonomous Regions and Cities in Spain:
 
 [Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region](https://www.medrxiv.org/content/10.1101/2020.04.30.20085613v1)
 
+[Humoral Response Dynamics Following Infection with SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.07.16.20155663v2)
+
 [Immune evasion via SARS-CoV-2 ORF8 protein?](https://www.nature.com/articles/s41577-020-0360-z)
+
+[Longitudinal analyses reveal immunological misfiring in severe COVID-19](https://www.nature.com/articles/s41586-020-2588-y)
 
 [Long-Term Persistence of IgG Antibodies in SARS-CoV Infected Healthcare Workers](https://www.medrxiv.org/content/10.1101/2020.02.12.20021386v1)
 
@@ -2124,7 +2136,11 @@ Autonomous Regions and Cities in Spain:
 
 [Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31483-5/fulltext)
 
+[Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19](https://www.biorxiv.org/content/10.1101/2020.06.29.174888v1)
+
 [SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpmc.100)
+
+[SARS-CoV-2 seroprevalence in COVID-19 hotspots](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31482-3/fulltext)
 
 [Seroprevalence of antibodies against SARS-CoV-2 among health care workers in a large Spanish reference hospital](https://www.medrxiv.org/content/10.1101/2020.04.27.20082289v1)
 
@@ -2135,6 +2151,10 @@ Autonomous Regions and Cities in Spain:
 [Towards the next phase: evaluation of serological assays for diagnostics and exposure assessment](https://www.medrxiv.org/content/10.1101/2020.04.23.20077156v1)
 
 [Transient IgA, steady IgG?](https://www.nature.com/articles/s41577-020-0382-6)
+
+[Viral RNA level, serum antibody responses, and transmission risk in discharged COVID-19 patients with recurrent positive SARS-CoV-2 RNA test results: a population-based observational cohort study](https://www.medrxiv.org/content/10.1101/2020.07.21.20125138v1)
+
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
