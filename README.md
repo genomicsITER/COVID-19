@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> August 3, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): scientific literature hubs (), data hubs (), sequencing (), genomics (), new section on schools (and other human-populated spaces) reopenings (), reports (), media sources (), mathematical models (), PCR stuff (), apps for COVID-19 tracking (), section on vaccines (), Virology (>), seroprevalence ()... Enjoy the reading! ;=)
+> August 3, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on scientific literature hubs (), data hubs (), sequencing (), genomics (), new section on schools (and other human-populated spaces) reopenings (), reports (), media sources (), mathematical models (), PCR stuff (), apps for COVID-19 tracking (), section on vaccines (), Virology (>), seroprevalence ()... Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -27,7 +27,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 # Table of contents #
 <ul>
-  <li><a href="#Airborne transmission">Airborne transmission</a></li>
+  <li><a href="#Airborne transmission">**NEW **Airborne transmission</a></li>
   <li><a href="#Apps for COVID tracking">Apps for COVID tracking</a></li>
   <li><a href="#Books chapters">Books chapters</a></li>
   <li><a href="#Clinical Trials and Pharmacological Treatments">Clinical Trials and Pharmacological Treatments</a></li>
@@ -42,7 +42,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
   <li><a href="#Research Coalitions and Funding Calls">Research Coalitions and Funding Calls</a></li>
   <li><a href="#Respirators, masks, and other Personal Protective Equipments (PPE)">Respirators, masks, and other Personal Protective Equipments (PPE)</a></li>
-  <li><a href="#School and other human-populated spaces reopening">Schools and other human-populated spaces reopenings</a></li>
+  <li><a href="#School and other human-populated spaces reopening">**NEW Schools and other human-populated spaces reopenings</a></li>
   <li><a href="#Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)" >Scientific Communications and Literature (Pre-prints & Peer-Reviewed Papers)</a></li>
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
