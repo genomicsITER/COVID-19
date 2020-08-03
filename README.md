@@ -1604,7 +1604,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Screening for SARS-CoV-2 infections with colorimetric RT-LAMP and LAMP sequencing](https://www.medrxiv.org/content/10.1101/2020.05.05.20092288v1)
 
-[Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection](https://www.medrxiv.org/content/10.1101/2020.06.23.20137455v1)
+[Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection](https://www.ijidonline.com/article/S1201-9712(20)30603-2/fulltext)
 
 [Sequential informed pooling approach to detect SARS-CoV2 infection](https://www.medrxiv.org/content/10.1101/2020.04.24.20077966v1)
 
