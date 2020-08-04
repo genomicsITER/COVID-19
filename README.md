@@ -2220,6 +2220,8 @@ Autonomous Regions and Cities in Spain:
 
 [Humoral Response Dynamics Following Infection with SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.07.16.20155663v2)
 
+[Immune complement and coagulation dysfunction in adverse outcomes of SARS-CoV-2 infection](https://www.nature.com/articles/s41591-020-1021-2)
+
 [Immune evasion via SARS-CoV-2 ORF8 protein?](https://www.nature.com/articles/s41577-020-0360-z)
 
 [Longitudinal analyses reveal immunological misfiring in severe COVID-19](https://www.nature.com/articles/s41586-020-2588-y)
