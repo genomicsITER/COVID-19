@@ -168,6 +168,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [Transmission of SARS-CoV-2: implications for infection prevention precautions](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)
 
+[We Need to Talk About Ventilation](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
 
 <p align="right">
   <a href="#covid-19" title="Up">
