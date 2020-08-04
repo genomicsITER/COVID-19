@@ -3267,3 +3267,91 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Acknowledgements"></a>
+## Acknowledgements ##
+> Section to highlight the contributors of many links within this repository.
+> Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
+<ul>
+  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D" title="Follow to @SciArt3 on Twitter">@SciArt3</a></li>
+  <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL) <a href="https://twitter.com/cpgonzal" title="Follow to @cpgonzal on Twitter">@cpgonzal</a></li>
+  <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga" title="Follow to @joluroga on Twitter">@joluroga</a></i>
+  <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook" title="Follow to @MColebrook on Twitter">@MColebrook</a></li>
+  <li>Mar&iacute;a López P&eacute;rez (FIMERALL-SEGAI, ULL)</li>
+  <li>Carlos Flores Infante (FIISC, ITER) <a href="https://twitter.com/LabCflores" title="Follow to @LabCflores on Twitter">@LabCflores</a></li>
+  <li>Contributing PR to this repository, <a href="https://github.com/miguelcorrea" title="Follow to Miguel Correa on GitHub">Miguel Correa (@evocellnet, EMBL-EBI)</a></li>
+</ul>
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Contact us"></a>
+## Contact us ##
+> Want to contact us? We highly encourage people to contribute to this COVID-19 repository (and acknowledged in the section above). Please, send me a Direct Message on Twitter (see below).
+
+ <p align="left">
+  <a href="https://www.iter.es/areas/area-genomica/" title="Contact us at the Genomics Division of the Institute of Technology and Renewable Energy (ITER), Tenerife, Canary Islands, Spain">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/ITER_logo.png" width="30%" /> 
+  </a>
+</p>
+
+Last update: 19:20 GMT - July 4, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Update logs"></a>
+## Update logs ##
+
+> August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
+
+> July 4, 2020 updates: the largest update since the creation of this repository:ç (>300 new records!): scientific literature hubs (3), data hubs (2), sequencing (5), genomics (2), new section of pooling (2), reports (2), media sources (8), mathematical models (2), PCR stuff (3), new section of apps for COVID-19 tracking (10), new section on vaccines (1), restructured section on Virology (>250), seroprevalence (5)... Enjoy the reading! ;=)
+
+> May 16, 2020 updates: a new major update with 64 new entries as follows: a new section, Clinical stuff, including the first COVID-19 autopsies (10), Data sources (10), Diagnostics (6), Epidemiology (5), Genomics (9), Maths (1), Respirators and other PPE (1), Media (2), PCR and related stuff (4), Preprints and Published literature (2), Seroprevalence (7), and Viral mechanisms (7). Enjoy the reading! ;=)
+
+> May 2, 2020 updates: a new major update with 86 new entries and a new section on Book chapters, as follows: Book chapters (5), Clinical (1), Data sources (1), Diagnostics (16), Epidemiology (12), Genomics (9), Journal COVID-19 hubs (5), Maths (1), Respirators and other PPE (1), Projects and Calls (2), Media (1), PCR and related stuff (11), Preprints and Published literature (1), Seroprevalence (9), Viral mechanisms (10), and Education (2). Enjoy the reading! ;=)
+
+> April 26, 2020 updates: new Epidemiology, Diagnostics, and Seroprevalence sections; 2 entries in Media section; 10 new entries in Virology section; 7 entries in the renamed 'Genomics and Phylodynamics' section; many (13) new entries in the PCR and related stuff (attention to new protocols and experiments for detecting the virus in sputum, use of 'dry-swabs', and saliva samples); more on funding opportunities; and some new data sources (3). Most of the entries now alphabetically sorted.
+
+> April 21, 2020 updates: CRISPR–Cas12-based detection of SARS-CoV-2.
+
+> April 20, 2020 updates: an alternative Illumina protocol for SARS sequencing (for Ct up to 38) in the Sequences & Sequencing section; new PCR fast detection method using a portable PCR thermocycler and comparative of PCR methods.
+
+> April 19, 2020 updates: 67 new selected preprints and published papers in the Viral mechanisms section courtesy of Prof. A. Valenzuela (ULL).
+
+> April 17-18, 2020 updates: new wiki structure in progress.
+
+> April 16, 2020 updates: several entries in the Scientific Literature (Preprints & Published); and two new items in data sources.
+
+> April 15, 2020 updates: added Databricks data collection; new CoV Genome Tracker; COVID-19 in Icelandic population; new records in the Education section; new articles about use and disinfection or respirators; more on virus mechanisms; new papers on COVID-19 detection techniques.
+
+> April 14, 2020 updates: more on False Negatives in qPCR, the impact of face mask against COVID-19, JAMA review of pharmacological treatments for COVID-19 in the Preprints section; added some Journals Watch pages; dashboard of the Spanish MoMo report about mortality, new dashboard for WHO, and new dashboard with graphical information for COVID-19 data in the Canary Islands by Grafcan-GOBCAN, in the Data Sources section; modeling of the SARS-CoV-2 disease map in the Viral mechanisms section; many new inputs in different sections (>20); new pages "Code of Conduct" and "Contributing to this repository" created.
+
+> April 13, 2020 updates: few new articles in Scientific Literature (Pre-prints & Peer-Reviewed Papers) section and MIDAS COVID-19 repository in the Data Sources section. As the repository increases its size, we are moving into a Wiki format (soon here!). Pull request by Miguel Correa added to the main branch of this repository.
+
+> April 12, 2020 updates: new articles regarding COVID-19 detection, a comprehensive draft list of clinical trials by country from WHO (updated April 11), dermatological effects of COVID-19, a new report from University of Göttingen, and many more.
+
+> April 11, 2020 updates: new rapid PCR methods to detect COVID-19; warning about the use of non-specific PCR primers and False Negatives; more on the disinfection of respirators.
+
+> April 10, 2020 updates: new logos; new papers in Scientific Literature; new subsection "Maths and Epidemiological Models", where the impact of social distancing and face mask use are presented.
+
+> April 9, 2020 updates: new entries in the scientific literature section (PCR false negatives and COVID-19 affecting newborn babies, among others); a new entry in the genomics section; new subsection dedicated to PCR and related topics within the Scientific Literature section; new articles related to respiratory protective equipment and ways to disinfect them; new section about sequencing and sequences.
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
+
