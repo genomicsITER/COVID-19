@@ -1698,6 +1698,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [After Reopening Schools, Israel Orders Them To Shut If COVID-19 Cases Are Discovered](https://www.npr.org/sections/coronavirus-live-updates/2020/06/03/868507524/israel-orders-schools-to-close-when-covid-19-cases-are-discovered)
 
+[Association Between Statewide School Closure and COVID-19 Incidence and Mortality in the US](https://jamanetwork.com/journals/jama/fullarticle/2769034)
+
 [Coronavirus Disease Outbreak in Call Center, South Korea](https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article)
 
 [COVID-19 screening strategies that permit the safe re-opening of college campuses](https://www.medrxiv.org/content/10.1101/2020.07.06.20147702v1)
@@ -1712,9 +1714,11 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
 
-[The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1057/
+[The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1057/)
 
 [UNESCO Education: From disruption to recovery](https://en.unesco.org/covid19/educationresponse)
+
+[Was school closure effective in mitigating coronavirus disease 2019 (COVID-19)? Time series analysis using Bayesian inference](https://www.ijidonline.com/article/S1201-9712(20)30598-1/fulltext)
 
 [Weekly Coronavirus Disease 2019 (COVID-19) Surveillance Report Summary of COVID-19 surveillance systems Year: 2020 Week: 26](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/897481/Weekly_COVID19_Surveillance_Report_w26_UPDATED.pdf)
 
