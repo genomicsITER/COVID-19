@@ -2203,6 +2203,8 @@ Autonomous Regions and Cities in Spain:
 
 [Disappearance of antibodies to SARS-CoV-2 in a Covid-19 patient after recovery](https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30411-0/fulltext)
 
+[Different pattern of pre-existing SARS-COV-2 specific T cell immunity in SARS-recovered and uninfected individuals](https://www.biorxiv.org/content/10.1101/2020.05.26.115832v1)
+
 [Dissecting antibody-mediated protection against SARS-CoV-2](https://www.nature.com/articles/s41577-020-0359-5)
 
 [Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants](https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1)
@@ -2225,6 +2227,10 @@ Autonomous Regions and Cities in Spain:
 
 [Performance Characteristics of the Abbott Architect SARS-CoV-2 IgG Assay and Seroprevalence Testing in Idaho](https://www.medrxiv.org/content/10.1101/2020.04.27.20082362v1)
 
+[Phenotype of SARS-CoV-2-specific T-cells in COVID-19 patients with acute respiratory distress syndrome](https://www.medrxiv.org/content/10.1101/2020.04.11.20062349v2)
+
+[Pre-existing immunity to SARS-CoV-2: the knowns and unknowns](https://www.nature.com/articles/s41577-020-0389-z)
+
 [Potent neutralizing antibodies against SARS-CoV-2 identified by high-throughput single-cell sequencing of convalescent patients’ B cells](https://www.cell.com/cell/fulltext/S0092-8674(20)30620-6)
 
 [Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors](https://www.medrxiv.org/content/10.1101/2020.04.17.20061440v1)
@@ -2233,11 +2239,15 @@ Autonomous Regions and Cities in Spain:
 
 [Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19](https://www.biorxiv.org/content/10.1101/2020.06.29.174888v1)
 
+[SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19](https://www.nature.com/articles/s41586-020-2598-9)
+
 [SARS‐CoV‐2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpmc.100)
 
 [SARS-CoV-2 seroprevalence in COVID-19 hotspots](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31482-3/fulltext)
 
 [Seroprevalence of antibodies against SARS-CoV-2 among health care workers in a large Spanish reference hospital](https://www.medrxiv.org/content/10.1101/2020.04.27.20082289v1)
+
+[Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals](https://www.cell.com/cell/fulltext/S0092-8674(20)30610-3)
 
 [Test performance evaluation of SARS-CoV-2 serological assays](https://www.medrxiv.org/content/10.1101/2020.04.25.20074856v1)
 
