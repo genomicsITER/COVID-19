@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> August 3, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (), scientific literature hubs (), data boards (), sequencing (), genomics (), new section on schools (and other human-populated spaces) reopenings (), reports (), media sources (), mathematical models (), PCR stuff (), apps for COVID-19 tracking (), section on vaccines (), Virology (>), seroprevalence ()... Enjoy the reading! ;=)
+> August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -47,7 +47,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <ul>
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
     <li><a href="#PCR related articles">PCR related articles</a></li>
-    <li><a href="#Pooling">Pooling</a></li>
+    <li><a href="#Pooling and Group Testing">Pooling and Group Testing</a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
@@ -1509,8 +1509,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [DIRECT RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWABS WITHOUT AN RNA EXTRACTION STEP](https://www.biorxiv.org/content/10.1101/2020.03.20.001008v2)
 
-[Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
-
 [Efficient high throughput SARS-CoV-2 testing to detect asymptomatic carriers](https://www.medrxiv.org/content/10.1101/2020.04.14.20064618v1)
 
 [Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
@@ -1532,8 +1530,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Genotyping SARS-CoV-2 through an interactive web application](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30140-0/fulltext)
 
 [High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads](https://www.medrxiv.org/content/10.1101/2020.04.08.20055731v1)
-
-[Increased PCR screening capacity using a multi-replicate pooling scheme](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v1)
 
 [In silico analysis of RT-qPCR designs recommended by WHO for detection of SARS-CoV-2 and a commercial kit validated following UNE/EN ISO 17025:2005 and two reference laboratories](https://www.biorxiv.org/content/10.1101/2020.04.27.065383v1)
 
@@ -1597,8 +1593,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs](https://www.medrxiv.org/content/10.1101/2020.04.16.20067835v1)
 
-[Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)
-
 [SARS-CoV-2 detection with CRISPR diagnostics](https://www.biorxiv.org/content/10.1101/2020.04.10.023358v1)
 
 [SARS-CoV-2 Detection Using an Isothermal Amplification Reaction and a Rapid, Inexpensive Protocol for Sample Inactivation and Purification](https://www.medrxiv.org/content/10.1101/2020.04.23.20076877v1)[Smart Pooled sample Testing for COVID-19: A Possible Solution for Sparsity of Test Kits](https://www.medrxiv.org/content/10.1101/2020.04.21.20044594v1)
@@ -1606,8 +1600,6 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Screening for SARS-CoV-2 infections with colorimetric RT-LAMP and LAMP sequencing](https://www.medrxiv.org/content/10.1101/2020.05.05.20092288v1)
 
 [Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection](https://www.ijidonline.com/article/S1201-9712(20)30603-2/fulltext)
-
-[Sequential informed pooling approach to detect SARS-CoV2 infection](https://www.medrxiv.org/content/10.1101/2020.04.24.20077966v1)
 
 [Swabs Collected by Patients or Health Care Workers for SARS-CoV-2 Testing](https://www.nejm.org/doi/full/10.1056/NEJMc2016321)
 
@@ -1626,21 +1618,23 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 <hr>
 <!-- ------------------ SUBSECTION ------------------ -->
 
-<a name="Pooling"></a>
-## Pooling ##
+<a name="Pooling and Group Testing"></a>
+## Pooling and Group Testing ##
 
 > Subsection dedicated to pooling of samples to apply PCR (RT-qPCR) to groups of individuals.
 <br />
 
 [Assessment of sample pooling for clinical SARS-CoV-2 testing](https://www.biorxiv.org/content/10.1101/2020.05.26.118133v1)
 
+[Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
+
 [Evaluation of commercial qPCR kits for detection of SARS-CoV-2 in pooled samples](https://www.biorxiv.org/content/10.1101/2020.05.28.120667v1.full)
 
 [Evaluation of Pool-based Testing Approaches to Enable Population-wide Screening for COVID-19](https://arxiv.org/abs/2004.11851)
 
-[Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1)
+[Increased PCR screening capacity using a multi-replicate pooling scheme](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v1)
 
-[Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1.full)
+[Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1)
 
 [LAMP-Seq: Population-Scale COVID-19 Diagnostics Using Combinatorial Barcoding](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v2)
 
@@ -1666,7 +1660,11 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Sample Pooling as an efficient strategy for SARS-COV-2 RT-PCR screening: a multicenter study in Spain](https://www.medrxiv.org/content/10.1101/2020.07.04.20146027v1)
 
+[Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)
+
 [Sample pooling on triplets to speed up SARS-CoV-2 diagnosis using CDC FDA EUA RT-qPCR kit](https://www.medrxiv.org/content/10.1101/2020.06.29.20142836v1)
+
+[Sequential informed pooling approach to detect SARS-CoV2 infection](https://www.medrxiv.org/content/10.1101/2020.04.24.20077966v1)
 
 [Tapestry: A Single-Round Smart Pooling Technique for COVID-19 Testing](https://www.medrxiv.org/content/10.1101/2020.04.23.20077727v2)
 
@@ -1707,6 +1705,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Dozens of Australian schools shut down after coronavirus outbreaks](https://www.wsws.org/en/articles/2020/07/27/vsch-j27.html)
 
 [GOV.UK Guidance. Actions for schools during the coronavirus outbreak](https://www.gov.uk/government/publications/actions-for-schools-during-the-coronavirus-outbreak)
+
+[Indoor transmission of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.04.20053058v1)
 
 [On the effect of age on the transmission of SARS-CoV-2 in households, schools and the community](https://www.medrxiv.org/content/10.1101/2020.07.19.20157362v1)
 
