@@ -1477,6 +1477,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow](https://www.medrxiv.org/content/10.1101/2020.03.07.20032326v1)
 
+[Analytical validity of nanopore sequencing for rapid SARS-CoV-2 genome analysis](https://www.biorxiv.org/content/10.1101/2020.08.04.236893v1)
+
 [Artificial Intelligence-Assisted Loop Mediated Isothermal Amplification (ai-LAMP) for Rapid and Reliable Detection of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.07.08.20148999v2)
 
 [BEARmix: Basic Economical Amplification Reaction one-step RT-qPCR master mix](https://gitlab.com/tjian-darzacq-lab/bearmix)
@@ -1526,6 +1528,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.ijidonline.com/article/S1201-9712(20)30406-9/pdf)
 
 [Fast SARS-CoV-2 detection protocol based on RNA precipitation and RT-qPCR in nasopharyngeal swab samples](https://www.medrxiv.org/content/10.1101/2020.04.26.20081307v1)
+
+[FDA Posts New Template for At-Home and Over-the-Counter Diagnostic Tests for Use in Non-Lab Settings, Such as Homes, Offices or Schools](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-posts-new-template-home-and-over-counter-diagnostic-tests-use-non)
 
 [Genotyping SARS-CoV-2 through an interactive web application](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30140-0/fulltext)
 
@@ -1623,6 +1627,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 > Subsection dedicated to pooling of samples to apply PCR (RT-qPCR) to groups of individuals.
 <br />
+
+[A Note on Double Pooling Tests](https://arxiv.org/abs/2004.01684)
 
 [Assessment of sample pooling for clinical SARS-CoV-2 testing](https://www.biorxiv.org/content/10.1101/2020.05.26.118133v1)
 
