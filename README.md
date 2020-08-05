@@ -48,6 +48,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
     <li><a href="#PCR related articles">PCR related articles</a></li>
     <li><a href="#Pooling and Group Testing">Pooling and Group Testing</a></li>
+    <li><a href="#Saliva based tests">Saliva based tests</a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
@@ -1734,7 +1735,70 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 </p>
 
 
+<hr>
+<!-- ------------------ SUBSECTION ------------------ -->
 
+<a name="Saliva based testing"></a>
+## Saliva based testing ##
+
+> Subsection dedicated to testing of SARS-CoV-2 based on saliva samples.
+<br />
+
+[A community-deployable SARS-CoV-2 screening test using raw saliva with 45 minutes sample-to-results turnaround](https://www.medrxiv.org/content/10.1101/2020.07.16.20150250v1)
+
+[Assessment of multiplex digital droplet RT-PCR as an accurate diagnosis tool for SARS-CoV-2 detection in nasopharyngeal swabs and saliva samples](https://www.medrxiv.org/content/10.1101/2020.08.02.20166694v1)
+
+[Clinical evaluation of self-collected saliva by RT-qPCR, direct RT-qPCR, RT-LAMP, and a rapid antigen test to diagnose COVID-19](https://www.medrxiv.org/content/10.1101/2020.06.06.20124123v1)
+
+[Comparison of SARS-CoV-2 detection in nasopharyngeal swab and saliva](https://www.journalofinfection.com/article/S0163-4453(20)30349-2/fulltext)
+
+[COVID-19 serology at population scale: SARS-CoV-2-specific antibody responses in saliva](https://www.medrxiv.org/content/10.1101/2020.05.24.20112300v1)
+
+[Detection of antibodies to the SARS-CoV-2 spike glycoprotein in both serum and saliva enhances detection of infection](https://www.medrxiv.org/content/10.1101/2020.06.16.20133025v1)
+
+[Does sampling saliva increase detection of SARS-CoV-2 by RT-PCR? Comparing saliva with oro-nasopharyngeal swabs](https://www.medrxiv.org/content/10.1101/2020.07.26.20158618v1)
+
+[EasyCOV: LAMP based rapid detection of SARS-CoV-2 in saliva](https://www.medrxiv.org/content/10.1101/2020.05.30.20117291v1)
+
+[Evaluation of specimen types and saliva stabilization solutions for SARS-CoV-2 testing](https://www.medrxiv.org/content/10.1101/2020.06.16.20133041v1)
+
+[Evaluation of symptomatic patient saliva as a sample type for the Abbott ID NOW COVID-19 assay](https://www.medrxiv.org/content/10.1101/2020.06.01.20119198v1)
+
+[Field-deployable, rapid diagnostic testing of saliva samples for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.06.13.20129841v1)
+
+[Handyfuge-LAMP: low-cost and electricity-free centrifugation for isothermal SARS-CoV-2 detection in saliva]
+(https://www.medrxiv.org/content/10.1101/2020.06.30.20143255v1)
+
+[Immunochromatographic test for the detection of SARS-CoV-2 in saliva](https://www.medrxiv.org/content/10.1101/2020.05.20.20107631v1)
+
+[Preliminary optimisation of a simplified sample preparation method to permit direct detection of SARS-CoV-2 within saliva samples using reverse-transcription loop-mediated isothermal amplification (RT-LAMP)](https://www.medrxiv.org/content/10.1101/2020.07.16.20155168v4)
+
+[Quantification of SARS-CoV-2 viral copy number in saliva mouthwash samples using digital droplet PCR](https://www.medrxiv.org/content/10.1101/2020.06.13.20130237v2)
+
+[Rapid and extraction-free detection of SARS-CoV-2 from saliva with colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.05.07.20093542v1)
+
+[Saliva as a Candidate for COVID-19 Diagnostic Testing: A Meta-Analysis](https://www.medrxiv.org/content/10.1101/2020.05.26.20112565v1)
+
+[Saliva as a non-invasive sample for the detection of SARS-CoV-2: a systematic review](https://www.medrxiv.org/content/10.1101/2020.05.09.20096354v1)
+
+[Saliva is less sensitive than nasopharyngeal swabs for COVID-19 detection in the community setting](https://www.medrxiv.org/content/10.1101/2020.05.11.20092338v2)
+
+[Saliva offers a sensitive, specific and non-invasive alternative to upper respiratory swabs for SARS-CoV-2 diagnosis](https://www.medrxiv.org/content/10.1101/2020.07.09.20149534v1)
+
+[Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs](https://www.medrxiv.org/content/10.1101/2020.04.16.20067835v1)
+
+[SalivaDirect: Simple and sensitive molecular diagnostic test for SARS-CoV-2 surveillance](https://www.medrxiv.org/content/10.1101/2020.08.03.20167791v1)
+
+[Simply saliva: stability of SARS-CoV-2 detection negates the need for expensive collection devices](https://www.medrxiv.org/content/10.1101/2020.08.03.20165233v1)
+
+[Validation of a Self-administrable, Saliva-based RT-qPCR Test Detecting SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.06.05.20122721v1)
+
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
 
 
 <hr>
