@@ -1634,15 +1634,41 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Assessment of sample pooling for clinical SARS-CoV-2 testing](https://www.biorxiv.org/content/10.1101/2020.05.26.118133v1)
 
-[Efficient and Practical Sample Pooling High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v1)
-
 [Evaluation of commercial qPCR kits for detection of SARS-CoV-2 in pooled samples](https://www.biorxiv.org/content/10.1101/2020.05.28.120667v1.full)
+
+[Evaluation of COVID-19 RT-qPCR Test in Multi sample Pools](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa531/5828059)
+
+[Early detection of superspreaders by mass group pool testing can mitigate COVID-19 pandemic](https://www.medrxiv.org/content/10.1101/2020.04.22.20076166v1)
+
+[Efficient and Practical Sample Pooling for High-Throughput PCR Diagnosis of COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.06.20052159v2)
+
+[Efficient prevalence estimation and infected sample identification with group testing for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.05.01.20086801v1)
+
+[Efficient sample pooling strategies for COVID-19 data gathering](https://www.medrxiv.org/content/10.1101/2020.04.05.20054445v1)
+
+[Evaluation of COVID-19 RT-qPCR Test in Multi sample Pools](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa531/5828059)
+
+[Evaluation of Group Testing for SARS-CoV-2 RNA](https://www.medrxiv.org/content/10.1101/2020.03.27.20043968v1)
 
 [Evaluation of Pool-based Testing Approaches to Enable Population-wide Screening for COVID-19](https://arxiv.org/abs/2004.11851)
 
-[Increased PCR screening capacity using a multi-replicate pooling scheme](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v1)
+[Evaluation of Sample Pooling for Screening of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.06.10.20123398v1)
+
+[False-Negative Mitigation in Group Testing for COVID-19 Screening](https://www.medrxiv.org/content/10.1101/2020.07.31.20154070v1)
 
 [Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1)
+
+[Group testing against Covid-19](http://eprints.lse.ac.uk/104228/)
+
+[Group testing for SARS-CoV-2 allows for up to 10-fold efficiency increase across realistic scenarios and testing strategies](https://www.medrxiv.org/content/10.1101/2020.04.30.20085290v2)
+
+[Group testing performance evaluation for SARS-CoV-2 massive scale screening and testing](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-020-01048-1)
+
+[Increased PCR screening capacity using a multi-replicate pooling scheme](https://www.medrxiv.org/content/10.1101/2020.04.16.20067603v2)
+
+[Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1.full)
+
+[Increasing Virus Test Capacity via Recursive Pool Testing with an Application to SARS-CoV-2 Testing](https://www.medrxiv.org/content/10.1101/2020.07.02.20144956v1)
 
 [LAMP-Seq: Population-Scale COVID-19 Diagnostics Using Combinatorial Barcoding](https://www.biorxiv.org/content/10.1101/2020.04.06.025635v2)
 
@@ -1650,13 +1676,25 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Methodology for estimating point prevalence of SARS-CoV-2 infection by pooled RT-PCR testing](https://www.ecdc.europa.eu/sites/default/files/documents/Methodology-estimating-point-prevalence%20-SARS-CoV-2-infection-pooled-RT-PCR-testing.pdf)
 
+[Multi-Stage Group Testing Improves Efficiency of Large-Scale COVID-19 Screening](https://www.sciencedirect.com/science/article/pii/S1386653220301244)
+
 [Nanotrap® particles improve detection of SARS-CoV-2 for pooled sample methods, extraction-free saliva methods, and extraction-free transport medium methods](https://www.biorxiv.org/content/10.1101/2020.06.25.172510v2)
 
 [Noisy Pooled PCR for Virus Testing](https://www.biorxiv.org/content/10.1101/2020.04.06.026765v1.full)
 
-[Optimal Pool Size for COVID-19 Group Testing](https://www.medrxiv.org/content/10.1101/2020.04.26.20076265v1)
+[Optimal Pool Size for COVID-19 Group Testing](https://www.medrxiv.org/content/10.1101/2020.04.26.20076265v2)
+
+[Optimally Pooled Viral Testing](https://www.medrxiv.org/content/10.1101/2020.07.05.20145805v2)
+
+[Optimal group based testing strategy for detecting infected individuals: comparison of algorithms](https://www.medrxiv.org/content/10.1101/2020.06.29.20142323v1)
 
 [Optimal sample pooling: an efficient tool against SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.07.03.20145953v1)
+
+[Optimal Size of COVID-19 Testing Pools](https://www.medrxiv.org/content/10.1101/2020.07.20.20158436v1)
+
+[Optimal size of sample pooling for RNA pool testing: an avant-garde for scaling up SARS CoV 2 testing](https://www.medrxiv.org/content/10.1101/2020.06.11.20128793v1)
+
+[Pooled testing with replication: a mass testing strategy for the COVID-19 pandemics](https://www.medrxiv.org/content/10.1101/2020.04.27.20076422v1)
 
 [Pooling nasopharyngeal swab specimens to increase testing capacity for SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.05.22.110932v1.full)
 
@@ -1666,17 +1704,28 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Recommendations for sample pooling on the Cepheid GeneXpert® system using the Cepheid Xpert® Xpress SARS-CoV-2 assay](https://www.biorxiv.org/content/10.1101/2020.05.14.097287v1)
 
-[Sample Pooling as an efficient strategy for SARS-COV-2 RT-PCR screening: a multicenter study in Spain](https://www.medrxiv.org/content/10.1101/2020.07.04.20146027v1)
+[Remarks on pooling Coronavirus tests](https://www.medrxiv.org/content/10.1101/2020.06.08.20125781v1)
 
-[Sample Pooling as a Strategy to Detect Community Transmission of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2764364)
+[Sample Pooling as an efficient strategy for SARS-COV-2 RT-PCR screening: a multicenter study in Spain](https://www.medrxiv.org/content/10.1101/2020.07.04.20146027v1)
 
 [Sample pooling on triplets to speed up SARS-CoV-2 diagnosis using CDC FDA EUA RT-qPCR kit](https://www.medrxiv.org/content/10.1101/2020.06.29.20142836v1)
 
+[SCALE19: A scalable and cost-efficient method for testing Covid-19 based on hierarchical group testing](https://www.medrxiv.org/content/10.1101/2020.06.01.20119172v1)
+
 [Sequential informed pooling approach to detect SARS-CoV2 infection](https://www.medrxiv.org/content/10.1101/2020.04.24.20077966v1)
+
+[Smart Pooling: AI-powered COVID-19 testing](https://www.medrxiv.org/content/10.1101/2020.07.13.20152983v1)
+
+[Statistical methods for batch screening of input populations by stage and group in COVID-19 nucleic acid testing](https://www.medrxiv.org/content/10.1101/2020.04.02.20050914v2)
 
 [Tapestry: A Single-Round Smart Pooling Technique for COVID-19 Testing](https://www.medrxiv.org/content/10.1101/2020.04.23.20077727v2)
 
+[The brief comparison of the operational efficiency of pool-testing strategies for COVID-19 mass testing in PCR laboratories](https://www.medrxiv.org/content/10.1101/2020.07.14.20151415v1)
+
 [The Mathematics of Mass Testing for COVID-19](https://sinews.siam.org/Details-Page/the-mathematics-of-mass-testing-for-covid-19)
+
+[Throat wash as a source of SARS-CoV-2 RNA to monitor community spread of COVID-19](https://www.medrxiv.org/content/10.1101/2020.07.29.20163998v1)
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
