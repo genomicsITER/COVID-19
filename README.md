@@ -1766,8 +1766,7 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Field-deployable, rapid diagnostic testing of saliva samples for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.06.13.20129841v1)
 
-[Handyfuge-LAMP: low-cost and electricity-free centrifugation for isothermal SARS-CoV-2 detection in saliva]
-(https://www.medrxiv.org/content/10.1101/2020.06.30.20143255v1)
+[Handyfuge-LAMP: low-cost and electricity-free centrifugation for isothermal SARS-CoV-2 detection in saliva](https://www.medrxiv.org/content/10.1101/2020.06.30.20143255v1)
 
 [Immunochromatographic test for the detection of SARS-CoV-2 in saliva](https://www.medrxiv.org/content/10.1101/2020.05.20.20107631v1)
 
