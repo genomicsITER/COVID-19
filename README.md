@@ -48,7 +48,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
     <li><a href="#Maths and Epidemiological Models">Maths and Epidemiological Models </a></li>
     <li><a href="#PCR related articles">PCR related articles</a></li>
     <li><a href="#Pooling and Group Testing">Pooling and Group Testing</a></li>
-    <li><a href="#Saliva based tests">Saliva based tests</a></li>
+    <li><a href="#Saliva based testing">Saliva based testing</a></li>
   </ul>
   <li><a href="#Sciencific Data and Resources" >Sciencific Data and Resources</a></li>
   <ul><li><a href="#Autonomous Regions and Cities in Spain" >Autonomous Regions and Cities in Spain</a></li></ul>
