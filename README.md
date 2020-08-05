@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
+> August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on saliva based testing (24); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -3436,7 +3436,7 @@ Last update: 15:00 GMT - August 4, 2020     |     By JMLS <a href="https://twitt
 <a name="Update logs"></a>
 ## Update logs ##
 
-> August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
+> August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on saliva based testing (24); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
 
 > July 4, 2020 updates: the largest update since the creation of this repository:ç (>300 new records!): scientific literature hubs (3), data hubs (2), sequencing (5), genomics (2), new section of pooling (2), reports (2), media sources (8), mathematical models (2), PCR stuff (3), new section of apps for COVID-19 tracking (10), new section on vaccines (1), restructured section on Virology (>250), seroprevalence (5)... Enjoy the reading! ;=)
 
