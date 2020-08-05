@@ -1403,6 +1403,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Flattening the curve before it flattens us: hospital critical care capacity limits and mortality from novel coronavirus (SARS-CoV2) cases in US counties - 3 and 6 week projections from April 2, 2020](https://behcolumbia.files.wordpress.com/2020/04/flattening-the-curve-before-it-flattens-us-20200405b.pdf)
 
+[Google Cloud AI and Harvard Global Health Institute Collaborate on new COVID-19 forecasting model](https://cloudblog-withgoogle-com.cdn.ampproject.org/c/s/cloudblog.withgoogle.com/products/ai-machine-learning/google-cloud-is-releasing-the-covid-19-public-forecasts/amp/)
+
 [How you can help with COVID-19 modelling](https://www.nature.com/articles/s42254-020-0175-7)
 
 [Mask use, hand hygiene, and seasonal influenza-like illness among young adults: A randomized intervention trial](https://academic.oup.com/jid/article/201/4/491/861190)
@@ -1701,6 +1703,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [A School Reopens, and the Coronavirus Creeps In](https://www.nytimes.com/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
 
 [After Reopening Schools, Israel Orders Them To Shut If COVID-19 Cases Are Discovered](https://www.npr.org/sections/coronavirus-live-updates/2020/06/03/868507524/israel-orders-schools-to-close-when-covid-19-cases-are-discovered)
+
+[American Academy of Pediatrics. COVID-19 Planning Considerations: Guidance for School Re-entry](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/clinical-guidance/covid-19-planning-considerations-return-to-in-person-education-in-schools/)
 
 [Association Between Statewide School Closure and COVID-19 Incidence and Mortality in the US](https://jamanetwork.com/journals/jama/fullarticle/2769034)
 
