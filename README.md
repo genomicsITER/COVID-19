@@ -533,7 +533,23 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 <a name="Emerging Diseases Challenges"></a>
 ## Emerging Diseases Challenges ##
 
-Under construction...
+[PRESENTACIÓN DEL INFORME RETOS ENFERMEDADES INFECCIOSAS - CIENCIA EN EL PARLAMENTO DE CANARIAS, título "Respuestas a las evidencias solicitadas sobre los retos que nos plantean las enfermedades infecciosas". Published on Apr 12, 2020; por @SciArt3D, Lab Inmunología Celular y Viral, ULL, para el Parlamento sobre el Reto, Amenazas y Oportunidades de desarrollo que suponen las Enfermedades Infecciones, como las últimamente frecuentes por Virus Emergentes](https://issuu.com/sciart3dfablabull/docs/informe-evidencias_enfinfecciosas_4sept2018_-avale)
+
+<p align="center">
+  <a href="https://issuu.com/sciart3dfablabull/docs/informe-evidencias_enfinfecciosas_4sept2018_-avale" title="See this resource">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Respuestas_Enfermedades_Emergentes_Informe-1.png" width="30%" />
+  </a>
+</p>
+
+
+[PRESENTACIÓN DEL INFORME RETOS ENF. INFECCIOSAS - COLOQUIO CIENCIA EN EL PARLAMENTO ULL (11-X-2019). Published on Apr 13, 2020; por @SciArt3D, Lab Inmunología Celular y Viral, ULL, Mesa Coloquio sobre las amenazas, retos y oportunidades asociadas a las grandes pandemias por enfermedades emergentes. Focalizando en virus emergentes en el s. XXI por globalización, turismo de masas (Islas Canarias y sector turístico como vector y en riesgo como sector económico), comercio internacional con países líder como China (vector de propagación y partner obligado de cooperación)](https://issuu.com/sciart3dfablabull/docs/presentaci_n_informe_retos_enf_infecc_-_coloquio_c)
+
+<p align="center">
+  <a href="https://issuu.com/sciart3dfablabull/docs/presentaci_n_informe_retos_enf_infecc_-_coloquio_c" title="See this resource">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Respuestas_Enfermedades_Emergentes_Informe-2.png" width="50%" />
+  </a>
+</p>
+
 
 <p align="right">
   <a href="#covid-19" title="Up">
