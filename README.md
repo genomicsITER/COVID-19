@@ -34,10 +34,11 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Clinics">Clinics</a></li>
   <li><a href="#Diagnostics">Diagnostics</a></li>
   <li><a href="#Educational resources">Educational resources</a></li>
+  <li><a href="#Emerging Diseases Challenges">** NEW  Emerging Diseases Challenges</a></li>  
   <li><a href="#Epidemiology">Epidemiology</a></li>  
   <li><a href="#Genomics and Phylodynamics of SARS-CoV-2">Genomics and Phylodynamics of SARS-CoV-2</a></li>
   <li><a href="#Guidelines, Society's Clinical and Professional Statements, and Reports">Guidelines, Society's Clinical and Professional Statements, and Reports</a></li>
-  <li><a href="#Government COVID 19 Contingency Plans for Schools Reopening">Government COVID 19 Contingency Plans for Schools Reopening</a></li>
+  <li><a href="#Government COVID 19 Contingency Plans for Schools Reopening">** NEW  Government COVID 19 Contingency Plans for Schools Reopening</a></li>
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Protocols">Protocols</a></li>
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
@@ -526,6 +527,21 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 </p>
 
 
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+<a name="Emerging Diseases Challenges"></a>
+## Emerging Diseases Challenges ##
+
+Under construction...
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
+
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
@@ -854,6 +870,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 <a name="Government COVID 19 Contingency Plans for Schools Reopening"></a>
 ## Government COVID 19 Contingency Plans for Schools Reopening ##
+> Section linking the official government contingency plans for the reopenings of non-universitary schools per region in Spain in 2020-2021
+
 
 > MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
 
