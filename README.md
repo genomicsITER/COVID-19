@@ -37,6 +37,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Epidemiology">Epidemiology</a></li>  
   <li><a href="#Genomics and Phylodynamics of SARS-CoV-2">Genomics and Phylodynamics of SARS-CoV-2</a></li>
   <li><a href="#Guidelines, Society's Clinical and Professional Statements, and Reports">Guidelines, Society's Clinical and Professional Statements, and Reports</a></li>
+  <li><a href="https://github.com/genomicsITER/COVID-19/wiki/Government-COVID-19-Contingency-Plans-for-Schools-Reopening">Government COVID 19 Contingency Plans for Schools Reopening</a></li>
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Protocols">Protocols</a></li>
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
@@ -844,6 +845,181 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
     <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
   </a>
 </p>
+
+
+
+<hr>
+<!-- ------------------ SECTION ------------------ -->
+
+
+<a name="Government COVID 19 Contingency Plans for Schools Reopening"></a>
+## Government COVID 19 Contingency Plans for Schools Reopening ##
+
+> MINISTERIO DE EDUCACIÓN Y FORMACIÓN PROFESIONAL
+
+[Medidas COVID-19](http://www.educacionyfp.gob.es/destacados/covid19.html)
+
+<hr>
+
+> ANDALUCIA
+
+[Portal web de la Consejería de Educación y Deporte](https://www.juntadeandalucia.es/educacion/portals/web/ced)
+
+[Decálogo para una vuelta segura a la actividad educativa presencial y respuestas a todas las consultas, dudas y cuestiones que las direcciones de los centros, y los docentes en general, han planteado hasta la fecha](https://www.juntadeandalucia.es/educacion/portals/web/ced/novedades/-/contenidos/detalle/decalogo-para-la-vuelta-a)
+
+[Instrucción 10/2020, de 15 de junio, sobre las medidas educativas a adoptar en el incio del curso 2020/2021 en los centros docentes andaluces que imparten enseñanzas de régimen general](https://www.juntadeandalucia.es/educacion/portals/web/ced/novedades/-/contenidos/detalle/instruccion-10-2020-de-15-de-junio-sobre-las-medidas-a-adoptar-en-el-inicio-del-curso-2020-2021-en-los-centro-docentes)
+
+<hr>
+
+> ARAGÓN
+
+[Portal web del Departamento de Educación, Cultura y Deporte](https://educa.aragon.es)
+
+[Procedimiento de actuación y otras informaciones frente a casos de infección por el nuevo coronavirus en Aragón (COVID-19)](https://www.aragon.es/-/procedimiento-de-actuacion-frente-a-casos-de-infeccion-por-el-nuevo-coronavirus-en-aragon)
+
+<hr>
+
+> PRINCIPADO DE ASTURIAS
+
+[Portal web de la Consejería de Educación](https://www.educastur.es/)
+
+[Resolución reanudación presencial de las clases en el curso escolar 2020-2021. Plan de Contingencia](https://www.educastur.es/-/resolucion-reanudacion-presencial-de-las-clases-en-el-curso-escolar-2020-2021-plan-de-contingencia)
+
+<hr>
+
+> ILLES BALEARS
+
+[Portal web de la Consejería de Educación, Universidad e Investigación](https://www.caib.es/govern/organigrama/area.do?lang=es&coduo=7)
+
+[Orientacions per a l'elaboració del pla de contingència](https://www.caib.es/govern/sac/fitxa.do?codi=4283996&coduo=36&lang=es)
+
+<hr>
+
+> CANARIAS
+
+[Portal web de la Consejería de Educación, Universidades, Cultura y Deportes](https://www.gobiernodecanarias.org/educacion/web/centros/gestion_centros/organizacion-funcionamiento/instrucciones/instrucciones-organizacion-funcionamiento/index.html)
+
+[Protocolo de prevención y organización para el desarrollo de la actividad educativa presencial en los centros educativos no universitarios de Canarias. Curso académico 2020-2021](https://www.gobiernodecanarias.org/cmsweb/export/sites/educacion/web/_galerias/descargas/centros/protocolo-covid-19-actividad-presencial/protocolo-covid-19-centros-educativos-20200723.pdf)
+
+<hr>
+
+> CANTABRIA
+
+[Portal web de la Consejería de Educación, Formación Profesional y Turismo](https://www.educantabria.es/)
+
+[Protocolos de prevención COVID-19](https://www.educantabria.es/1234-general-informacion/39722320-protocolos-de-prevencion-covid-19.html)
+
+<hr>
+
+> CASTILLA Y LEON
+
+[Portal web de Educación](https://www.educa.jcyl.es/es)
+
+[Protocolo de prevención y organización del regreso a la actividad lectiva en los centros educativos de Castilla y León para el curso escolar 2020/2021](https://www.educa.jcyl.es/es/institucional/crisis-coronavirus/protocolo-prevencion-organizacion-regreso-actividad-lectiva)
+
+[Protocolo de prevención y organización de los Servicios Complementarios y Actividades Extraescolares en los centros educativos de Castilla y León para el curso escolar 2020/2021](https://www.educa.jcyl.es/es/institucional/crisis-coronavirus/protocolo-prevencion-organizacion-servicios-complementarios)
+
+<hr>
+
+> CASTILLA-LA MANCHA
+
+[Portal web de Educación](http://www.educa.jccm.es/es/coronavirus)
+
+[Resolución de 23/07/2020, de la Consejería de Educación, Cultura y Deportes, por la que se dictan instrucciones sobre medidas educativas para el curso 2020-2021 en la comunidad autónoma de Castilla-La Mancha.](https://docm.jccm.es/portaldocm/detalleDocumento.do?idDisposicion=1595512063629920948)
+
+[INSTRUCCIÓN SOBRE LAS MEDIDAS DE PREVENCIÓN, HIGIENE Y PROMOCIÓN DE LA SALUD FRENTE AL COVID-19 PARA LOS CENTROS EDUCATIVOS DE CASTILLA LA MANCHA PARA EL PLAN DE INICIO DEL CURSO 2020-2021 ](https://anpecastillalamancha.es/openFile.php?link=notices/att/7/instrucciones-para-la-elaboraci%C3%B3n-de-los-planes-d_t1592833549_7_1.pdf)
+
+[Prevención de Riesgos Laborales](http://www.educa.jccm.es/profesorado/es/prevencion-riesgos-laborales/)
+
+<hr>
+
+> CATALUÑA
+
+[Portal web de la Consejería de Educación y Formación](https://web.gencat.cat/es/temes/educacio/)
+
+[Plan de actuación para los centros educativos para el curso 2020-2021](https://govern.cat/govern/docs/2020/07/03/15/51/965e6446-517c-48af-9cbf-6de670ab3c7a.pdf)
+
+<hr>
+
+> COMUNITAT VALENCIANA
+
+[Portal web de la Conselleria de Educación, Cultura y Deporte](http://www.ceice.gva.es/es/covid-19)
+
+[Protocolo de protección y prevención frente a la transmisión y contagio del SARS-CoV-2 para centros educativos que impartan enseñanzas no universitarias en el curso 2020-2021](http://www.ceice.gva.es/documents/161634256/172109626/Protocol_CAS.pdf/e6add099-06a5-4e0f-be89-d5b403aeabae)
+
+<hr>
+
+> EXTREMADURA
+
+[Potal web de la Consejería de Educación y Empleo](https://www.educarex.es)
+
+[Guía general para la organización y desarrollo de la actividad educativa para el curso 2020/2021 en todos los centros sostenidos con fondos públicos de la Comunidad Autonoma de Extremadura](https://www.educarex.es/pub/cont/com/0054/documentos/Instrucciones/2020/SINTESIS_GUI%CC%81A_GENERAL_PARA_ORGANIZACIO%CC%81N_Y_DESARROLLO_DE_LA_ACTIVIDAD_EDUCATIVA_CURSO_2020_21.pdf)
+
+<hr>
+
+> GALICIA
+
+[Portal web de la Consellería de Educación, Universidade e Formación Profesional](https://www.edu.xunta.gal/portal/es)
+
+[Medidas educativas que se deben adoptar en el curso académico 2020/2021, en los centros docentes de la Comunidad Autónoma de Galicia en los que se imparten las enseñanzas de EI, EP, ESO y bachillerato](https://www.edu.xunta.gal/portal/es/node/31637)
+
+[Protocolo de adaptación al contexto de la covid 19 en los centros de Enseñanza no Universitaria de Galicia para el curso 2020-2021](https://www.edu.xunta.gal/portal/es/node/31579)
+
+[Medidas a adoptar en todos los centros de enseñanza en relación con la pandemia COVID-19](https://www.edu.xunta.gal/portal/es/node/30884)
+
+<hr>
+
+> COMUNIDAD DE MADRID
+
+[Portal web de la Consejería de Educación e Investigación](https://www.comunidad.madrid/centros/consejeria-educacion-e-investigacion)
+
+[Instrucciones de comienzo de curso y como consecuencia de la declaración del estado de alarma por COVID-19](https://www.comunidad.madrid/servicios/educacion/ambito-general-comienzo-curso-admision-alumnos-consejos-escolares)
+
+<hr>
+
+> REGION DE MURCIA
+
+[Portal web de la Consejería de Educación](https://www.carm.es/web/pagina?IDCONTENIDO=41&IDTIPO=140&RASTRO=c$m)
+
+[Instrucciones de comienzo de curso 2020-2021](https://www.carm.es/web/pagina?IDCONTENIDO=64251&IDTIPO=100&RASTRO=c1655$m)
+
+<hr>
+
+> COMUNIDAD FORAL DE NAVARRA
+
+[Portal web del Departamento de Educación](https://www.educacion.navarra.es/web/dpto)
+
+[Plan de contingencia curso 2020-2021 posibles escenarios ante la evolución de la COVID-19](https://www.educacion.navarra.es/web/plan-de-contingencia)
+
+<hr>
+
+> PAIS VASCO
+
+[Portal web del Departamento de Educación](https://www.euskadi.eus/gobierno-vasco/departamento-educacion/)
+
+[Organización de centros docentes no universitarios. Organización del curso en centros públicos. Protocolo General de actuación en los centros educativos frente al coronavirus](https://www.euskadi.eus/organizacion-de-centros-docentes-no-universitarios-organizacion-del-curso-en-centros-publicos/web01-a2hikast/es/)
+
+<hr>
+
+> LA RIOJA
+
+[Portal web de la Consejería de Educación y Cultura](https://www.larioja.org/educacion/es?locale=es_ES)
+
+[Plan de Contingencia General para el inicio del curso 2020/2021 en la Comunidad Autónoma de La Rioja](https://www.larioja.org/educacion/es/noticias-portada/plan-contingencia-general-inicio-curso-2020-2021-comunidad)
+
+<hr>
+
+> CIUDADES AUTÓNOMAS DE CEUTA Y MELILLA
+
+[GUÍA DE MEDIDAS DE PREVENCIÓN E HIGIENE FRENTE A COVID19 PARA LA REAPERTURA PARCIAL DE CENTROS EDUCATIVOS EN CEUTA Y MELILLA EL CURSO 2019-2020](http://www.educacionyfp.gob.es/destacados/covid19.html)
+
+
+<p align="right">
+  <a href="#covid-19" title="Up">
+    <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/home-icon.png" style="float: right; margin: 10px; padding: 2px;" />
+  </a>
+</p>
+
 
 
 <hr>
