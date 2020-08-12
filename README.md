@@ -37,7 +37,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
   <li><a href="#Epidemiology">Epidemiology</a></li>  
   <li><a href="#Genomics and Phylodynamics of SARS-CoV-2">Genomics and Phylodynamics of SARS-CoV-2</a></li>
   <li><a href="#Guidelines, Society's Clinical and Professional Statements, and Reports">Guidelines, Society's Clinical and Professional Statements, and Reports</a></li>
-  <li><a href="https://github.com/genomicsITER/COVID-19/wiki/Government-COVID-19-Contingency-Plans-for-Schools-Reopening">Government COVID 19 Contingency Plans for Schools Reopening</a></li>
+  <li><a href="#Government COVID 19 Contingency Plans for Schools Reopening">Government COVID 19 Contingency Plans for Schools Reopening</a></li>
   <li><a href="#Media sources">Media sources</a></li>
   <li><a href="#Protocols">Protocols</a></li>
   <li><a href="#Rapid Tests">Rapid Tests</a></li>
