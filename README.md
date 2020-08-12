@@ -119,6 +119,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [A Letter about the Airborne Transmission of SARS-CoV-2 Based on the Current Evidence](https://aaqr.org/articles/aaqr-20-04-covid-0158)
 
+[Aerosol and surface contamination of SARS-CoV-2 observed in quarantine and isolation care](https://www.nature.com/articles/s41598-020-69286-3)
+
 [Airborne Transmission of SARS-CoV-2 Theoretical Considerations and Available Evidence](https://jamanetwork.com/journals/jama/fullarticle/2768396)
 
 [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/10.1056/NEJMc2004973)
@@ -151,6 +153,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 
 [If the coronavirus is really airborne, we might be fighting it the wrong way](https://www.technologyreview.com/2020/07/11/1005087/coronavirus-airborne-fighting-wrong-way/)
 
+[Indoor transmission of SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.04.04.20053058v1)
+
 [Intense fitness classes can lead to rapid spread of COVID-19, report shows](https://www.livescience.com/covid-19-fitness-dance-classes-south-korea.html)
 
 [Japan's supercomputer suggests changes to travel, work amid airborne virus threat](https://japantoday.com/category/national/japan-supercomputer-suggests-changes-to-travel-work-amid-airborne-virus-threat)
@@ -168,6 +172,8 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 [Severe COVID-19 in the young and healthy: monogenic inborn errors of immunity?](https://www.nature.com/articles/s41577-020-0373-7)
 
 [Transmission of SARS-CoV-2: implications for infection prevention precautions](https://www.who.int/publications/i/item/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)
+
+[Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.medrxiv.org/content/10.1101/2020.08.03.20167395v1)
 
 [We Need to Talk About Ventilation](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/)
 
@@ -582,6 +588,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [How did SARS-CoV-19 spread in India from Italy, Iran and China? Genetic surveillance of early cases and virus demography](https://www.biorxiv.org/content/10.1101/2020.04.26.062406v1)
 
+[How the pandemic might play out in 2021 and beyond](https://www.nature.com/articles/d41586-020-02278-5)
+
 [Identifying airborne transmission as the dominant route for the spread of COVID-19](https://www.pnas.org/content/117/26/14857)
 
 [INTRODUCTIONS ET CIRCULATION INITIALE DU SARS-COV-2 EN FRANCE](https://www.pasteur.fr/fr/espace-presse/documents-presse/introductions-circulation-initiale-du-sars-cov-2-france)
@@ -603,6 +611,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis](https://www.medrxiv.org/content/10.1101/2020.05.20.20108126v1)
 
 [Strategies to reduce the risk of SARS-CoV-2 re-introduction from international travellers](https://www.medrxiv.org/content/10.1101/2020.07.24.20161281v2)
+
+[Successful Elimination of Covid-19 Transmission in New Zealand](https://www.nejm.org/doi/full/10.1056/NEJMc2025203)  |  [New Zealand orders lockdown after four new COVID-19 cases emerge](https://nypost.com/2020/08/11/new-zealand-orders-lockdown-after-four-new-covid-19-cases-emerge/)
 
 [Sustained suppression](https://www.nature.com/articles/s41551-020-0567-0)
 
@@ -844,6 +854,10 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 [Así es la lucha entre el sistema inmune y el coronavirus. El País, España](https://elpais.com/elpais/2020/04/20/ciencia/1587379836_984471.html)
 
+[Canarias identifica el mejor test para diagnosticar el Covid-19 del mercado](https://www.eldia.es/sociedad/2020/08/07/canarias-identifica-mejor-test-diagnosticar/1099787.html)
+
+[Canarias probará la secuenciación genética como método diagnóstico](https://www.eldia.es/sociedad/2020/08/11/canarias-probara-secuenciacion-genetica-metodo/1100560.html)
+
 [Cientos de científicos piden a la OMS que reconozca la transmisión aérea del coronavirus](https://elpais.com/ciencia/2020-07-06/cientos-de-cientificos-piden-a-la-oms-que-reconozca-la-transmision-aerea-del-coronavirus.html)
 
 [Coronavirus contact-tracing apps: can they slow the spread of COVID-19?](https://www.nature.com/articles/d41586-020-01514-2)
@@ -875,6 +889,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [Llega la herramienta de rastreo de contagios por Covid-19 de Apple y Google: tiene el respaldo de veinte países](https://www.abc.es/tecnologia/informatica/soluciones/abci-llega-herramienta-rastro-contagios-covid-19-apple-y-google-tiene-respaldo-veinte-paises-202005201901_noticia.html)
 
 [Mount Sinai to Begin the Transfer of COVID-19 Antibodies into Critically Ill Patients](https://inside.mountsinai.org/blog/mount-sinai-to-begin-the-transfer-of-covid-19-antibodies-into-critically-ill-patients/)
+
+[New Zealand On Alert After 4 Cases Of COVID-19 Emerge From Unknown Source](https://www.npr.org/sections/coronavirus-live-updates/2020/08/11/901304243/new-zealand-on-alert-after-4-cases-of-covid-19-emerge-from-an-unknown-source)
 
 [Nobel laureates and science groups demand NIH review decision to kill coronavirus gran](https://www.sciencemag.org/news/2020/05/preposterous-77-nobel-laureates-blast-nih-decision-cancel-coronavirus-grant-demand)
 
@@ -1058,6 +1074,8 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 [European Comission Coronavirus research and innovation. Research and innovation projects and initiatives to tackle the spread of coronavirus and preparedness for other outbreaks](https://ec.europa.eu/info/research-and-innovation/research-area/health-research-and-innovation/coronavirus-research_en)
 
 [Fast Funding for COVID-19 Science](https://fastgrants.org/)
+
+[New research projects on Coronavirus](https://ec.europa.eu/info/files/new-research-projects-coronavirus_en)
 
 [Solicitud urgente de Expresiones de Interés para la financiacin extraordinaria de proyectos de investigacin sobre el SARS-CoV-2 y la enfermedad COVID-19, Ministerio de Ciencia e Innovacin, España](https://www.isciii.es/QueHacemos/Financiacion/Paginas/SolicitudExpresionesInteresCoVid19.aspx#new_tab?utm_source=rss&utm_medium=rss&utm_campaign=solicitud-urgente-de-expresiones-de-interes-para-la-financiacion-extraordinaria-de-proyectos-de-investigacion-sobre-el-sars-cov-2-y-la-enfermedad-covid19)
 
@@ -1526,6 +1544,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [FALSE-NEGATIVE RESULTS OF INITIAL RT-PCR ASSAYS FOR COVID-19: A SYSTEMATIC REVIEW](https://www.medrxiv.org/content/10.1101/2020.04.16.20066787v1)
 
+[False Negative Tests for SARS-CoV-2 Infection — Challenges and Implications](https://www.nejm.org/doi/full/10.1056/NEJMp2015897)
+
 [Fast and accurate diagnostics from highly multiplexed sequencing assays](https://www.medrxiv.org/content/10.1101/2020.05.13.20100131v1)
 
 [Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples](https://www.ijidonline.com/article/S1201-9712(20)30406-9/pdf)
@@ -1582,9 +1602,13 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Rapid Molecular Detection of SARS-CoV-2 (COVID-19) Virus RNA Using Colorimetric LAMP](https://www.medrxiv.org/content/10.1101/2020.02.26.20028373v1)
 
+[Rapid, reliable, and cheap point-of-care bulk testing for SARS-CoV-2 by combining hybridization capture with improved colorimetric LAMP (Cap-iLAMP)](https://www.medrxiv.org/content/10.1101/2020.08.04.20168617v1)
+
 [Real-time colorimetric LAMP methodology for quantitative nucleic acids detection at the point-of-care](https://www.biorxiv.org/content/10.1101/2020.07.22.215251v1)
 
 [Reconstructed diagnostic sensitivity and specificity of the RT-PCR test for COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20078949v1)
+
+[Repeat COVID-19 Molecular Testing: Correlation with Recovery of Infectious Virus, Molecular Assay Cycle Thresholds, and Analytical Sensitivity](https://www.medrxiv.org/content/10.1101/2020.08.05.20168963v1)
 
 [Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS–CoV-2/COVID-19](https://mbio.asm.org/content/11/2/e00722-20)
 
@@ -1660,6 +1684,8 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 [Increasing testing throughput and case detection with a pooled-sample Bayesian approach in the context of COVID-19](https://www.biorxiv.org/content/10.1101/2020.04.03.024216v1)
 
 [Group testing against Covid-19](http://eprints.lse.ac.uk/104228/)
+
+[Group Testing for Estimation](https://onlinelibrary.wiley.com/doi/10.1002/9781118445112.stat08231)
 
 [Group testing for SARS-CoV-2 allows for up to 10-fold efficiency increase across realistic scenarios and testing strategies](https://www.medrxiv.org/content/10.1101/2020.04.30.20085290v2)
 
@@ -1820,7 +1846,11 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [Association Between Statewide School Closure and COVID-19 Incidence and Mortality in the US](https://jamanetwork.com/journals/jama/fullarticle/2769034)
 
+[Comparison of viral levels in individuals with or without symptoms at time of COVID-19 testing among 32,480 residents and staff of nursing homes and assisted living facilities in Massachusetts](https://www.medrxiv.org/content/10.1101/2020.07.20.20157792v1)
+
 [Coronavirus Disease Outbreak in Call Center, South Korea](https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article)
+
+[Covid-19: German high school tests students twice a week](https://amp.france24.com/en/20200530-covid-19-german-high-school-tests-students-twice-a-week?)
 
 [COVID-19 screening strategies that permit the safe re-opening of college campuses](https://www.medrxiv.org/content/10.1101/2020.07.06.20147702v1)
 
@@ -1832,11 +1862,17 @@ The Story of SARS, MERS, and Now COVID-19](https://academic.oup.com/ajcp/article
 
 [On the effect of age on the transmission of SARS-CoV-2 in households, schools and the community](https://www.medrxiv.org/content/10.1101/2020.07.19.20157362v1)
 
+[SARS-CoV-2 and the Role of Orofecal Transmission: Systematic Review](https://www.medrxiv.org/content/10.1101/2020.08.04.20168054v1)
+
 [SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm)
+
+[Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans](https://science.sciencemag.org/content/early/2020/08/04/science.abd3871.full)
 
 [School closure and management practices during coronavirus outbreaks including COVID-19: a rapid systematic review](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30095-X/fulltext)
 
 [The risk of COVID-19 transmission in train passengers: an epidemiological and modelling study](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1057/)
+
+[The role of children in the spread of COVID-19: Using household data from Bnei Brak, Israel, to estimate the relative susceptibility and infectivity of children](https://www.medrxiv.org/content/10.1101/2020.06.03.20121145v1)
 
 [UNESCO Education: From disruption to recovery](https://en.unesco.org/covid19/educationresponse)
 
@@ -2350,6 +2386,8 @@ Autonomous Regions and Cities in Spain:
 
 [Immune evasion via SARS-CoV-2 ORF8 protein?](https://www.nature.com/articles/s41577-020-0360-z)
 
+[Immunogenicity and Safety of a SARS-CoV-2 Inactivated Vaccine in Healthy Adults Aged 18-59 years: Report of the Randomized, Double-blind, and Placebo-controlled Phase 2 Clinical Trial](https://www.medrxiv.org/content/10.1101/2020.07.31.20161216v1)
+
 [Longitudinal analyses reveal immunological misfiring in severe COVID-19](https://www.nature.com/articles/s41586-020-2588-y)
 
 [Long-Term Persistence of IgG Antibodies in SARS-CoV Infected Healthcare Workers](https://www.medrxiv.org/content/10.1101/2020.02.12.20021386v1)
@@ -2439,6 +2477,8 @@ Autonomous Regions and Cities in Spain:
     </a> 
 </p>
 
+[Complete genomic sequence of human coronavirus OC43: molecular clock analysis suggests a relatively recent zoonotic coronavirus transmission event](https://pubmed.ncbi.nlm.nih.gov/15650185/)
+
 [COVID-19 ARTIC v3 Illumina library construction and sequencing protocol](https://www.protocols.io/view/covid-19-artic-v3-illumina-library-construction-an-beuzjex6)
 
 [COVID-19 Cell Atlas](https://www.covid19cellatlas.org/)
@@ -2448,6 +2488,8 @@ Autonomous Regions and Cities in Spain:
 [Emergence of multiple variants of SARS-CoV-2 with signature structural changes](https://www.biorxiv.org/content/10.1101/2020.04.26.062471v1)
 
 [Enrichment workflow for detecting coronavirus using Illumina NGS systems](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/ngs-enrichment-coronavirus-app-note-1270-2020-002.pdf)
+
+[High-throughput SARS-CoV-2 and host genome sequencing from single nasopharyngeal swabs](https://www.medrxiv.org/content/10.1101/2020.07.27.20163147v2)
 
 [How fast does the SARS-Cov-2 virus really mutate in heterogeneous populations?](https://www.medrxiv.org/content/10.1101/2020.04.23.20076075v1)
 
@@ -2468,14 +2510,17 @@ Autonomous Regions and Cities in Spain:
 
 [Partner independent fusion gene detection by multiplexed CRISPR-Cas9 enrichment and long read nanopore sequencing](https://www.nature.com/articles/s41467-020-16641-7)
 
+[Rapid and Inexpensive Whole-Genome Sequencing of SARS-CoV-2 using 1200 bp Tiled Amplicons and Oxford Nanopore Rapid Barcoding](https://academic.oup.com/biomethods/advance-article/doi/10.1093/biomethods/bpaa014/5873518)
+
 [Rapid SARS-CoV-2 whole-genome sequencing and analysis for informed public health decision-making in the Netherlands](https://www.nature.com/articles/s41591-020-0997-y)
 
 [Quality control of low-frequency variants in SARS-CoV-2 genomes](https://www.biorxiv.org/content/10.1101/2020.04.26.062422v1)
 
 [SARS coronavirus 2 in Viral Zone / Covid-19 genome expression](https://viralzone.expasy.org/9076)
 
-
 [Sequence characterization and molecular modeling of clinically relevant variants of the SARS-CoV-2 main protease](https://www.biorxiv.org/content/10.1101/2020.05.15.097493v1)
+
+[Swab-Seq: A high-throughput platform for massively scaled up SARS-CoV-2 testing](https://www.medrxiv.org/content/10.1101/2020.08.04.20167874v1)
 
 [The global population of SARS-CoV-2 is composed of six major subtypes](https://www.biorxiv.org/content/10.1101/2020.04.14.040782v1)
 
@@ -3427,7 +3472,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
   </a>
 </p>
 
-Last update: 15:00 GMT - August 4, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
+Last update: 12:00 GMT - August 12, 2020     |     By JMLS <a href="https://twitter.com/resocios" title="Follow to @resocios on Twitter" >@resocios <img src="https://github.com/genomicsITER/COVID-19/blob/master/images/Twitter_Social_Icon_Circle_Color.png" width="32px" /></a>
 
 <hr>
 <!-- ------------------ SECTION ------------------ -->
