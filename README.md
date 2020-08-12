@@ -19,7 +19,7 @@ A public repository of scientific and media resources of SARS-CoV-2 related COVI
 <hr>
 <!-- ------------------ SECTION ------------------ -->
 
-> August 12, 2020 updates: a new update with 25 new resources: airborne transmission (3); saliva based testing (1); schools (and other human-populated spaces) reopenings (5); epidemiology (3); media sources (3); pooling and group testing (1); PCR related methods (3); research coalitions and funding calls (1); seroprevalence (1); sequencing (4)... Enjoy the reading! ;=)
+> August 12, 2020 updates: a new update with a bunch of  new resources: airborne transmission (3); saliva based testing (1); schools (and other human-populated spaces) reopenings (5); epidemiology (3); media sources (3); pooling and group testing (1); PCR related methods (3); research coalitions and funding calls (1); seroprevalence (1); sequencing (4)... Enjoy the reading! ;=)
 
 > As the repository has largely increased its size, it is also available in <a href="https://github.com/genomicsITER/COVID-19/wiki">WIKI format here</a> for your convenience.
 
@@ -3482,7 +3482,7 @@ Last update: 12:30 GMT - August 12, 2020     |     By JMLS <a href="https://twit
 <a name="Update logs"></a>
 ## Update logs ##
 
-> August 12, 2020 updates: a new update with 25 new resources: airborne transmission (3); saliva based testing (1); schools (and other human-populated spaces) reopenings (5); epidemiology (3); media sources (3); pooling and group testing (1); PCR related methods (3); research coalitions and funding calls (1); seroprevalence (1); sequencing (4)... Enjoy the reading! ;=)
+> August 12, 2020 updates: a new update with a bunch of  new resources: airborne transmission (3); saliva based testing (1); schools (and other human-populated spaces) reopenings (5); epidemiology (3); media sources (3); pooling and group testing (1); PCR related methods (3); research coalitions and funding calls (1); seroprevalence (1); sequencing (4)... Enjoy the reading! ;=)
 
 > August 4, 2020 updates: a new massive update since the creation of this repository: (>200 new records!): new section on airborne transmission (27); new section on saliva based testing (24); new section on schools (and other human-populated spaces) reopenings (18); clinics (5); data boards (10); educational resources (1); epidemiology (10); guidelines and reports (4); mathematical models (2); media sources (4); pooling and group testing (3); PCR related methods (9); research coalitions and funding calls (1); respirators, masks, and other Personal Protective Equipments (PPE) section (11); seroprevalence (14); sequencing (1); virology (83)... Enjoy the reading! ;=)
 
