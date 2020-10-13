@@ -233,7 +233,7 @@ Diseases, Ninth Edition (Elsevier, 2020)](https://www.elsevier.com/__data/assets
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=darunavir&cond=COVID">Darunavir clinical trials</a></li>
 
-<li><a href="https://clinicaltrials.gov/ct2/results?term=hydrychloroquine&cond=COVID">Hydrychloroquine clinical trials</a></li>
+<li><a href="https://clinicaltrials.gov/ct2/results?term=hydroxychloroquine&cond=COVID">Hydroxychloroquine clinical trials</a></li>
 
 <li><a href="https://clinicaltrials.gov/ct2/results?term=interferon&cond=COVID">Interferon clinical trials</a></li>
 
