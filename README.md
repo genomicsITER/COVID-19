@@ -3658,7 +3658,7 @@ cells](https://www.biorxiv.org/content/10.1101/2020.04.19.049254v1)
 > Section to highlight the contributors of many links within this repository.
 > Want to share your relevant links? Place a Direct Message to @resocios in Twitter.
 <ul>
-  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D" title="Follow to @SciArt3D on Twitter">@SciArt3</a></li>
+  <li>Agust&iacute;n Valenzuela Fern&aacute;ndez (ULL) <a href="https://twitter.com/SciArt3D" title="Follow to @SciArt3D on Twitter">@SciArt3D</a></li>
   <li>Carlos Javier P&eacute;rez Gonz&aacute;lez (ULL) <a href="https://twitter.com/cpgonzal" title="Follow to @cpgonzal on Twitter">@cpgonzal</a></li>
   <li>Jos&eacute; Luis Roda (ULL) <a href="https://twitter.com/joluroga" title="Follow to @joluroga on Twitter">@joluroga</a></i>
   <li>Marcos Colebrook Santamar&iacute;a (ULL) <a href="https://twitter.com/MColebrook" title="Follow to @MColebrook on Twitter">@MColebrook</a></li>
